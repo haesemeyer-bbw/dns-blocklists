@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 07 Feb 2025 15:31 UTC
-# Version: 2025.0207.1531.25
+# Last modified: 08 Feb 2025 15:22 UTC
+# Version: 2025.0208.1522.20
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 2028
+# Number of entries: 2015
 #
 local=/000a.de/
 local=/000space.com/
@@ -205,7 +205,6 @@ local=/affiliatblogger.com/
 local=/ag.gp/
 local=/ag0rcgwjv5.com/
 local=/ageeksblog.com/
-local=/agrofrost.click/
 local=/ahlamontada.com/
 local=/ahlamountada.com/
 local=/aioblogs.com/
@@ -224,7 +223,6 @@ local=/alltdesign.com/
 local=/almoheet-travel.com/
 local=/als-geschenk.de/
 local=/altervista.org/
-local=/alzette.click/
 local=/am-geilsten.de/
 local=/am-strand.de/
 local=/amarillozoo.com/
@@ -253,14 +251,12 @@ local=/arcadepages.com/
 local=/arcor-ip.net/
 local=/arien.cl/
 local=/arrangiert.de/
-local=/artibirdil.click/
 local=/articlesblogger.com/
 local=/arwebo.com/
 local=/asablo.jp/
 local=/asia.cm/
 local=/asia.gp/
 local=/asiaal.shop/
-local=/asyoute.shop/
 local=/at.cr/
 local=/at.st/
 local=/atsnx.com/
@@ -850,7 +846,6 @@ local=/fanwestdoll.best/
 local=/fare-blog.com/
 local=/fast-page.org/
 local=/fasthoster.de/
-local=/favoriteus.shop/
 local=/fblogs.com/
 local=/fbzsa.com/
 local=/fc2.com/
@@ -1037,7 +1032,6 @@ local=/hautetfort.com/
 local=/helioho.st/
 local=/heliohost.us/
 local=/hellospace.org/
-local=/helpway.shop/
 local=/hexe.in/
 local=/hiblogger.net/
 local=/hilfe24h.de/
@@ -1085,7 +1079,6 @@ local=/i.gp/
 local=/iamarrows.com/
 local=/ibiz.cc/
 local=/iblogger.org/
-local=/ichike.shop/
 local=/id.gp/
 local=/idblogmaker.com/
 local=/idblogz.com/
@@ -1199,7 +1192,6 @@ local=/kr.gp/
 local=/kulichki.net/
 local=/kulichki.ru/
 local=/kurzschliessen.de/
-local=/kuyomu.shop/
 local=/kylieblog.com/
 local=/kz.gp/
 local=/l.gp/
@@ -1210,7 +1202,6 @@ local=/landmen.shop/
 local=/laowaiblog.com/
 local=/launchaco.com/
 local=/law.blog/
-local=/layanan-dana.co/
 local=/ldblog.jp/
 local=/leaguelineup.com/
 local=/blog.lemonde.fr/
@@ -1404,7 +1395,6 @@ local=/officialcity.shop/
 local=/officialsitebuilder.com/
 local=/okdfhb.art/
 local=/okis.ru/
-local=/okumina.life/
 local=/omas.in/
 local=/on.gp/
 local=/on.lc/
@@ -1429,7 +1419,6 @@ local=/onzeblog.com/
 local=/oooninja.com/
 local=/openinglook.shop/
 local=/opisial.com/
-local=/orangeuk.shop/
 local=/orderedlinks.shop/
 local=/24.org.es/
 local=/orgfree.com/
@@ -2018,14 +2007,12 @@ local=/yourjavascript.com/
 local=/yousher.com/
 local=/yovip.net/
 local=/yuku.com/
-local=/yuriho.shop/
 local=/z.gp/
 local=/za.gp/
 local=/za.net/
 local=/awi.za.com/
 local=/ishg.za.com/
 local=/zamsblog.com/
-local=/zavod.xy/
 local=/zavod.xyz/
 local=/zeblog.com/
 local=/zensurfrei.com/

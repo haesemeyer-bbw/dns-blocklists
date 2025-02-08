@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1738942260 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1739028120 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 07 Feb 2025 15:31 UTC
-; Version: 2025.0207.1531.25
+; Last modified: 08 Feb 2025 15:22 UTC
+; Version: 2025.0208.1522.20
 ; Syntax: RPZ
-; Number of entries: 4056
+; Number of entries: 4030
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -223,12 +223,6 @@ tie.cl CNAME .
 *.tie.cl CNAME .
 webnode.cl CNAME .
 *.webnode.cl CNAME .
-agrofrost.click CNAME .
-*.agrofrost.click CNAME .
-alzette.click CNAME .
-*.alzette.click CNAME .
-artibirdil.click CNAME .
-*.artibirdil.click CNAME .
 hstgr.cloud CNAME .
 *.hstgr.cloud CNAME .
 wapka.club CNAME .
@@ -261,8 +255,6 @@ blogspot.com.co CNAME .
 *.blogspot.com.co CNAME .
 webnode.com.co CNAME .
 *.webnode.com.co CNAME .
-layanan-dana.co CNAME .
-*.layanan-dana.co CNAME .
 shop.co CNAME .
 *.shop.co CNAME .
 synergize.co CNAME .
@@ -2945,8 +2937,6 @@ itama.life CNAME .
 *.itama.life CNAME .
 lhr.life CNAME .
 *.lhr.life CNAME .
-okumina.life CNAME .
-*.okumina.life CNAME .
 ingress-haven.ewp.live CNAME .
 *.ingress-haven.ewp.live CNAME .
 blogas.lt CNAME .
@@ -3651,8 +3641,6 @@ annualhuman.shop CNAME .
 *.annualhuman.shop CNAME .
 asiaal.shop CNAME .
 *.asiaal.shop CNAME .
-asyoute.shop CNAME .
-*.asyoute.shop CNAME .
 boundpeter.shop CNAME .
 *.boundpeter.shop CNAME .
 brazilbill.shop CNAME .
@@ -3673,8 +3661,6 @@ dogsgarden.shop CNAME .
 *.dogsgarden.shop CNAME .
 drugpoint.shop CNAME .
 *.drugpoint.shop CNAME .
-favoriteus.shop CNAME .
-*.favoriteus.shop CNAME .
 findarea.shop CNAME .
 *.findarea.shop CNAME .
 fishmeet.shop CNAME .
@@ -3693,12 +3679,8 @@ greekstatus.shop CNAME .
 *.greekstatus.shop CNAME .
 harise.shop CNAME .
 *.harise.shop CNAME .
-helpway.shop CNAME .
-*.helpway.shop CNAME .
 hostmeans.shop CNAME .
 *.hostmeans.shop CNAME .
-ichike.shop CNAME .
-*.ichike.shop CNAME .
 ispfew.shop CNAME .
 *.ispfew.shop CNAME .
 ivinterest.shop CNAME .
@@ -3717,8 +3699,6 @@ kitame.shop CNAME .
 *.kitame.shop CNAME .
 kizai.shop CNAME .
 *.kizai.shop CNAME .
-kuyomu.shop CNAME .
-*.kuyomu.shop CNAME .
 landmen.shop CNAME .
 *.landmen.shop CNAME .
 loanstatus.shop CNAME .
@@ -3743,8 +3723,6 @@ onlineweb.shop CNAME .
 *.onlineweb.shop CNAME .
 openinglook.shop CNAME .
 *.openinglook.shop CNAME .
-orangeuk.shop CNAME .
-*.orangeuk.shop CNAME .
 orderedlinks.shop CNAME .
 *.orderedlinks.shop CNAME .
 phonesport.shop CNAME .
@@ -3801,8 +3779,6 @@ yescontact.shop CNAME .
 *.yescontact.shop CNAME .
 yofuke.shop CNAME .
 *.yofuke.shop CNAME .
-yuriho.shop CNAME .
-*.yuriho.shop CNAME .
 blogspot.si CNAME .
 *.blogspot.si CNAME .
 avalon1.site CNAME .
@@ -4049,8 +4025,6 @@ tilda.ws CNAME .
 *.tilda.ws CNAME .
 website-home.ws CNAME .
 *.website-home.ws CNAME .
-zavod.xy CNAME .
-*.zavod.xy CNAME .
 appsoft.xyz CNAME .
 *.appsoft.xyz CNAME .
 cominbaxz.xyz CNAME .
