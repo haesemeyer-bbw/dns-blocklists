@@ -6,10 +6,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 09 Feb 2025 03:21 UTC
-! Version: 2025.0209.0321.19
+! Last modified: 09 Feb 2025 15:24 UTC
+! Version: 2025.0209.1524.08
 ! Syntax: AdBlock
-! Number of entries: 3737
+! Number of entries: 3738
 !
 ||003153.xyz^
 ||ns.00dani.me^
@@ -2610,6 +2610,7 @@
 ||www-web.r-2.top^
 ||resolver.r0cket.net^
 ||r1bnc.com^
+||resolve2.r9x.cc^
 ||ra4wvpn.com^
 ||dns.rabbitdns.org^
 ||family.rabbitdns.org^

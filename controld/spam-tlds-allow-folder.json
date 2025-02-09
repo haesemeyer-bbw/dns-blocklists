@@ -85,6 +85,13 @@
       }
     },
     {
+      "PK": "ags.lol",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "aire.ml",
       "action": {
         "do": 1,
@@ -1654,6 +1661,13 @@
     },
     {
       "PK": "mastodon.world",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "mathi.moe",
       "action": {
         "do": 1,
         "status": 1
