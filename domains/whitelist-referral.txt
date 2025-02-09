@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 07 Feb 2025 23:09 UTC
-# Version: 2025.0207.2309.20
+# Last modified: 08 Feb 2025 23:30 UTC
+# Version: 2025.0208.2330.31
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 810
+# Number of entries: 799
 #
 l.1mp.ru
 t.1und1.de
@@ -149,7 +149,6 @@ static-eu.cleverpush.com
 seu.cleverreach.com
 seu1.cleverreach.com
 seu2.cleverreach.com
-189734.seu2.cleverreach.com
 click-trk.com
 clickcease.com
 clickdimensions.com
@@ -253,18 +252,18 @@ api.elasticemail.com
 hs.eloqua.com
 list-unsubscribe.eservice.emarsys.net
 redirector.eservice.emarsys.net
-suite-dashboard.gservice.emarsys.net
+suite.emarsys.net
 suite10.emarsys.net
 suite11.emarsys.net
 suite16.emarsys.net
 suite17.emarsys.net
+suite24.emarsys.net
 suite27.emarsys.net
 suite29.emarsys.net
-suite32.emarsys.net
 suite33.emarsys.net
-suite34.emarsys.net
 suite38.emarsys.net
 suite40.emarsys.net
+suite40-cf.emarsys.net
 suite44.emarsys.net
 suite45.emarsys.net
 suite54.emarsys.net
@@ -286,11 +285,9 @@ evyy.net
 m.exactag.com
 tp-emea.exactag.com
 s10.login.exacttarget.com
-s12.login.exacttarget.com
 s1.exacttarget.com
 inbound.s1.exacttarget.com
 inbound-reply.s1.exacttarget.com
-mc.s1.exacttarget.com
 s10.exacttarget.com
 bounce.s10.exacttarget.com
 click.s10.exacttarget.com
@@ -332,7 +329,6 @@ members.s4.exacttarget.com
 pub.s4.exacttarget.com
 virt.s4.exacttarget.com
 click.virt.s4.exacttarget.com
-s5.exacttarget.com
 s50.exacttarget.com
 bounce.s50.exacttarget.com
 image.s50.exacttarget.com
@@ -362,6 +358,7 @@ members.s7.exacttarget.com
 pub.s7.exacttarget.com
 virt.s7.exacttarget.com
 click.virt.s7.exacttarget.com
+s8.exacttarget.com
 cl.exct.net
 click.e.usa.experian.com
 cdn.exponea.com
@@ -369,6 +366,7 @@ cdn.eu1.exponea.com
 cdn.ftspecialist.exponea.com
 cdn.network.exponea.com
 pan-cdn.exponea.com
+ri-cdn.exponea.com
 cdn.uk.exponea.com
 cdn.us1.exponea.com
 l.facebook.com
@@ -561,49 +559,44 @@ click.email.microsoftonline.com
 www.click.email.microsoftonline.com
 image.email.microsoftonline.com
 www.image.email.microsoftonline.com
-mkto-ab010169.com
 mkto-ab040115.com
 mkto-ab040147.com
 mkto-ab060134.com
-mkto-ab060144.com
-mkto-ab110171.com
 mkto-ab130125.com
 mkto-ab150224.com
-mkto-ab180008.com
 mkto-ab220178.com
 mkto-ab220193.com
+mkto-ab240112.com
 mkto-ab250105.com
-mkto-ab280126.com
 mkto-ab300154.com
 mkto-ab310115.com
 mkto-ab330197.com
 mkto-ab340022.com
 mkto-ab340124.com
+mkto-ab390087.com
 mkto-ab420081.com
 mkto-ab440025.com
 mkto-ab470148.com
-mkto-ab480047.com
-mkto-ab500015.com
 mkto-ab530057.com
 mkto-ab540059.com
 mkto-ab540186.com
 mkto-ab550140.com
 mkto-ab560068.com
-mkto-ab570013.com
 mkto-ab570110.com
 mkto-ab580004.com
-mkto-ab630144.com
+mkto-ab590004.com
 mkto-ab640193.com
 mkto-ab650097.com
 mkto-ab660121.com
+mkto-ab690019.com
+mkto-ab690062.com
 mkto-ab690180.com
-mkto-abj0022.com
 mkto-abm0229.com
+mkto-cs0007.com
 mkto-d0170.com
 mkto-g0180.com
 mkto-lon030291.com
 mkto-lon040152.com
-mkto-lon050200.com
 mkto-lon090082.com
 mkto-nld1040060.com
 mkto-nld1040186.com
@@ -611,12 +604,12 @@ mkto-sj010104.com
 mkto-sj030214.com
 mkto-sj040136.com
 mkto-sj040252.com
+mkto-sj070218.com
 mkto-sj090132.com
-mkto-sj100029.com
-mkto-sj160006.com
-mkto-sj170094.com
+mkto-sj160210.com
 mkto-sj180011.com
 mkto-sj190104.com
+mkto-sj190237.com
 mkto-sj200192.com
 mkto-sj230006.com
 mkto-sj240021.com
@@ -624,9 +617,8 @@ mkto-sj270080.com
 mkto-sj320047.com
 mkto-sj330006.com
 mkto-sj360142.com
-mkto-sj370181.com
-mkto-test.com
-sjqe.mkto-test.com
+mkto-sj380048.com
+mkto-sjh0224.com
 mktoweb.com
 click.mlsend.com
 t.mmtrkr.com
@@ -693,7 +685,6 @@ pntrac.com
 pntrack.com
 postaffiliatepro.com
 ndirect.ppro.de
-geo01.dns.presslabs.net
 geo02.dns.presslabs.net
 geo1.presslabs.net
 prf.hn
@@ -717,7 +708,6 @@ rewardtk.com
 adorama.rfvk.net
 click.royalcaribbeanmarketing.com
 rdr9bzpab.cc.rs6.net
-rftyzi5ab.cc.rs6.net
 rgllca6ab.cc.rs6.net
 rh5utc9ab.cc.rs6.net
 r20.rs6.net
@@ -740,7 +730,6 @@ shareasale-analytics.com
 shop-links.co
 track.shoparize.com
 tag.shopping-feed.com
-t.sidekickopen04.com
 t.sidekickopen07.com
 app.e.sigsauer.com
 go.skimresources.com
