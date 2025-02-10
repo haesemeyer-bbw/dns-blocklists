@@ -527,7 +527,7 @@ A blocklist for blocking Top Most Abused Top Level Domains, merged from [@Yokoff
 | AdBlock<br>(Aggressive)<br><br>Allowlist<br><br> | [GH](lnkgh_a/spam-tlds-adblock-aggressive.txt) [GL](lnkgl_a/spam-tlds-adblock-aggressive.txt) [CB](lnkjd_a/spam-tlds-adblock-aggressive.txt)<br><br>[GH](lnkgh_a/spam-tlds-adblock-allow.txt) [GL](lnkgl_a/spam-tlds-adblock-allow.txt) [CB](lnkjd_a/spam-tlds-adblock-allow.txt) | Pi-hole, AdBlock, TechnitiumDNS |
 | RPZ | [GH](lnkgh_r/spam-tlds-rpz.txt) [GL](lnkgl_r/spam-tlds-rpz.txt) [CB](lnkjd_r/spam-tlds-rpz.txt) | Response Policy Zone, Bind, Knot, PowerDNS, Unbound<br>Contains only spam TLDs that do not have any exclusions. |
 | RPZ<br>(Aggressive) | [GH](lnkgh_r/spam-tlds-rpz-aggressive.txt) [GL](lnkgl_r/spam-tlds-rpz-aggressive.txt) [CB](lnkjd_r/spam-tlds-rpz-aggressive.txt) | Response Policy Zone, Bind, Knot, PowerDNS, Unbound<br>Contains all spam TLDs, corresponds to the AdGuard and uBlock Origin version without exclusions. |
-| ControlD | [TLDs](https://github.com/hagezi/dns-blocklists/blob/main/controld/spam-tlds-folder.json) [IDNs](https://github.com/hagezi/dns-blocklists/blob/main/controld/spam-idns-folder.json) [Allow](https://github.com/hagezi/dns-blocklists/blob/main/controld/spam-tlds-allow-folder.json) | ControlD folder |
+| ControlD | [GH](https://github.com/hagezi/dns-blocklists/blob/main/controld/spam-tlds-combined-folder.json) | ControlD folder |
 
 ---
 

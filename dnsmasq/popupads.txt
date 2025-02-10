@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 09 Feb 2025 11:43 UTC
-# Version: 2025.0209.1143.50
+# Last modified: 10 Feb 2025 11:47 UTC
+# Version: 2025.0210.1147.16
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 84374
+# Number of entries: 84372
 #
 local=/0.beer/
 local=/0.club/
@@ -16369,7 +16369,6 @@ local=/careerguidelive.com/
 local=/careerhelp.ca/
 local=/careerjournalonline.com/
 local=/careerliteracy.info/
-local=/careersadorable.com/
 local=/careersattempt.com/
 local=/careersletbacks.com/
 local=/careerunderstatement.com/
@@ -28804,6 +28803,7 @@ local=/euskode.com/
 local=/eustatsunative.com/
 local=/eusvnhgypltw.life/
 local=/eusy.dev/
+local=/eutechwave.cc/
 local=/euvtoaw.com/
 local=/euz.net/
 local=/ev789.org/
@@ -29666,7 +29666,6 @@ local=/famousremainedshaft.com/
 local=/famousrightlyvegetation.com/
 local=/fampeshail.net/
 local=/famtansugoa.net/
-local=/famtoaphoobo.com/
 local=/famtvplus.com/
 local=/fan-sport-ua.online/
 local=/fan-sport-ua.space/
@@ -36083,6 +36082,7 @@ local=/hatlesswhsle.com/
 local=/hatopiaparty.shop/
 local=/hatredappointsinging.com/
 local=/hats-47b.com/
+local=/hatsamevill.org/
 local=/hatseverywherepunk.com/
 local=/hatsmindsinfatuated.com/
 local=/hatsnorthern.com/
@@ -41588,7 +41588,6 @@ local=/jinxcentigradeadvised.com/
 local=/jiohomes.in/
 local=/jiokhvnqchnt.com/
 local=/jiordgxkpglzm.com/
-local=/jipheethiz.net/
 local=/jipo.io/
 local=/jipperbehoot.shop/
 local=/jiqiv.com/
@@ -48295,6 +48294,7 @@ local=/meewiwechoopty.net/
 local=/meezauch.net/
 local=/meezouletouh.net/
 local=/mefestivalbout.com/
+local=/mefound.com/
 local=/meftoocaiftoo.net/
 local=/mega-porno.mobi/
 local=/mega-site.in/
@@ -49465,6 +49465,7 @@ local=/go.mobiflys.com/
 local=/mobifobi.com/
 local=/mobiholics.net/
 local=/mobil-haz.com/
+local=/mobile-clean.top/
 local=/mobileabbey.com/
 local=/mobileadvertise.de/
 local=/mobileappgame.top/
@@ -68830,6 +68831,7 @@ local=/soajaihebu.net/
 local=/soakcompassplatoon.com/
 local=/soalonie.com/
 local=/soalouve.com/
+local=/soamaibeshoap.com/
 local=/soaneefooy.net/
 local=/soanoany.com/
 local=/soap2dayhdds.com/
@@ -74827,7 +74829,6 @@ local=/tongzhon.com/
 local=/tonicgas.com/
 local=/tonightpotentstiffen.com/
 local=/toningsystem.com/
-local=/toninjaska.com/
 local=/toniputrino.com/
 local=/toniqfresh.com/
 local=/tonistarc.com/
@@ -74994,7 +74995,6 @@ local=/topsrcs.com/
 local=/topswp.com/
 local=/toptoys.store/
 local=/toptrendyinc.com/
-local=/toptrindexapsb.com/
 local=/toptruckin.com/
 local=/topvids.online/
 local=/topvids.org/
@@ -78664,7 +78664,6 @@ local=/vettmont.com/
 local=/vetvrable.com/
 local=/veva.photo/
 local=/vevoa.online/
-local=/vexacion.com/
 local=/vexchange.group/
 local=/vexchange.live/
 local=/vexedbrotherhoodhem.com/
@@ -80435,7 +80434,6 @@ local=/webcooding.com/
 local=/webcool69.com/
 local=/webcube-dsp.jp/
 local=/webcybermax.com/
-local=/webdatatrace.com/
 local=/webdesignagency.tech/
 local=/webdesignersinkeene.com/
 local=/webdoit.net/
@@ -81611,6 +81609,7 @@ local=/woafoame.net/
 local=/woaglulipsud.net/
 local=/woahoapegry.net/
 local=/woakounistenipt.net/
+local=/woamoogloow.net/
 local=/woapheer.com/
 local=/woapsogu.net/
 local=/woareejoaley.net/
@@ -83154,7 +83153,6 @@ local=/yl-sooippd.vip/
 local=/ylaihheune.top/
 local=/ylana-sven.com/
 local=/ylasthepoityelthenl.xyz/
-local=/ylcziaipyztvv.com/
 local=/worker.yldint.com/
 local=/yldmgrimg.net/
 local=/ylidashi.space/
