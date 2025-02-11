@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 10 Feb 2025 15:28 UTC
-# Version: 2025.0210.1528.17
+# Last modified: 11 Feb 2025 12:05 UTC
+# Version: 2025.0211.1205.44
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1471
+# Number of entries: 1480
 #
 local=/0000000000000000000000.com/
 local=/0rg.us/
@@ -196,7 +196,10 @@ local=/cleansite.info/
 local=/cleansite.us/
 local=/clienturl.net/
 local=/cloudns.asia/
+local=/cloudns.be/
+local=/cloudns.biz/
 local=/cloudns.cc/
+local=/cloudns.ch/
 local=/cloudns.cl/
 local=/cloudns.cx/
 local=/cloudns.in/
@@ -728,6 +731,7 @@ local=/ionexusa.com/
 local=/iot64.de/
 local=/iownyour.biz/
 local=/iownyour.org/
+local=/ip-ddns.com/
 local=/ip-dynamic.com/
 local=/ipq.co/
 local=/iprowave.com/
@@ -884,6 +888,7 @@ local=/lflinkup.net/
 local=/lflinkup.org/
 local=/likes-pie.com/
 local=/likescandy.com/
+local=/line.pm/
 local=/linkin.tw/
 local=/linkpc.net/
 local=/linux-site.net/
@@ -1188,6 +1193,7 @@ local=/rpz.su/
 local=/rr.nu/
 local=/rtam.net/
 local=/rum.si/
+local=/run.place/
 local=/rundis.com/
 local=/ruok.org/
 local=/russkoeumea.com/
@@ -1303,6 +1309,7 @@ local=/srv64.de/
 local=/srvdns.de/
 local=/ssitech.bg/
 local=/ssl443.org/
+local=/sslip.io/
 local=/ssmailer.com/
 local=/star.is/
 local=/stemmetje.com/
@@ -1442,11 +1449,13 @@ local=/winnity.ro/
 local=/wmhelp.com/
 local=/wolmerica.com/
 local=/womenclothingtoday.com/
+local=/work.gd/
 local=/workisboring.com/
 local=/worse-than.tv/
 local=/writesthisblog.com/
 local=/www1.biz/
 local=/wwwhost.biz/
+local=/wwwhost.us/
 local=/x24hr.com/
 local=/x443.pw/
 local=/xddns.de/

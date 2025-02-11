@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 10 Feb 2025 15:28 UTC
-# Version: 2025.0210.1528.17
+# Last modified: 11 Feb 2025 12:05 UTC
+# Version: 2025.0211.1205.44
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1471
+# Number of entries: 1480
 #
 *.0000000000000000000000.com
 *.0rg.us
@@ -196,7 +196,10 @@
 *.cleansite.us
 *.clienturl.net
 *.cloudns.asia
+*.cloudns.be
+*.cloudns.biz
 *.cloudns.cc
+*.cloudns.ch
 *.cloudns.cl
 *.cloudns.cx
 *.cloudns.in
@@ -728,6 +731,7 @@
 *.iot64.de
 *.iownyour.biz
 *.iownyour.org
+*.ip-ddns.com
 *.ip-dynamic.com
 *.ipq.co
 *.iprowave.com
@@ -884,6 +888,7 @@
 *.lflinkup.org
 *.likes-pie.com
 *.likescandy.com
+*.line.pm
 *.linkin.tw
 *.linkpc.net
 *.linux-site.net
@@ -1188,6 +1193,7 @@
 *.rr.nu
 *.rtam.net
 *.rum.si
+*.run.place
 *.rundis.com
 *.ruok.org
 *.russkoeumea.com
@@ -1303,6 +1309,7 @@
 *.srvdns.de
 *.ssitech.bg
 *.ssl443.org
+*.sslip.io
 *.ssmailer.com
 *.star.is
 *.stemmetje.com
@@ -1442,11 +1449,13 @@
 *.wmhelp.com
 *.wolmerica.com
 *.womenclothingtoday.com
+*.work.gd
 *.workisboring.com
 *.worse-than.tv
 *.writesthisblog.com
 *.www1.biz
 *.wwwhost.biz
+*.wwwhost.us
 *.x24hr.com
 *.x443.pw
 *.xddns.de
