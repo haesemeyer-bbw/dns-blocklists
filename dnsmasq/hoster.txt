@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 08 Feb 2025 15:22 UTC
-# Version: 2025.0208.1522.20
+# Last modified: 11 Feb 2025 03:19 UTC
+# Version: 2025.0211.0319.25
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 2015
+# Number of entries: 2013
 #
 local=/000a.de/
 local=/000space.com/
@@ -1950,7 +1950,6 @@ local=/wpsuo.com/
 local=/writes.de/
 local=/wssblogs.com/
 local=/wtcsites.com/
-local=/wtrad.top/
 local=/www4.me/
 local=/wwwwelcome.shop/
 local=/wy5532.com/
@@ -2013,7 +2012,6 @@ local=/za.net/
 local=/awi.za.com/
 local=/ishg.za.com/
 local=/zamsblog.com/
-local=/zavod.xyz/
 local=/zeblog.com/
 local=/zensurfrei.com/
 local=/ziblogs.com/

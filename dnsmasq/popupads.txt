@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 10 Feb 2025 11:47 UTC
-# Version: 2025.0210.1147.16
+# Last modified: 10 Feb 2025 23:42 UTC
+# Version: 2025.0210.2342.23
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 84372
+# Number of entries: 84371
 #
 local=/0.beer/
 local=/0.club/
@@ -23390,6 +23390,7 @@ local=/debitslopenoncommittal.com/
 local=/deblur.me/
 local=/deboers.ca/
 local=/debrecenonfood.com/
+local=/debridleech.com/
 local=/debrisstern.com/
 local=/debtdispleaseboss.com/
 local=/debtlegacyclock.ca/
@@ -29841,6 +29842,7 @@ local=/fastlakes.com/
 local=/fastlnd.com/
 local=/fastnativead.com/
 local=/fastnetworkflow.com/
+local=/fastorfar.com/
 local=/fastproxy.app/
 local=/fastred.biz/
 local=/fatacnogsagp.com/
@@ -37535,6 +37537,7 @@ local=/hopetwinkles.org/
 local=/hopewellhose.site/
 local=/hopeyoga.live/
 local=/hopghpfa.com/
+local=/hopgp.com/
 local=/hophashaugre.net/
 local=/hopilos.com/
 local=/hopimimeoed.com/
@@ -41296,7 +41299,6 @@ local=/jebelali-palm.com/
 local=/jebrtjqtoi.com/
 local=/jebytours.com/
 local=/jecherchelabonneadresse.fr/
-local=/jecoglegru.com/
 local=/jecromaha.info/
 local=/jeczxxq.com/
 local=/jednacrnagora.me/
@@ -46517,7 +46519,6 @@ local=/lupinelanding.com/
 local=/luptiglukoag.net/
 local=/lupus-nephritis-trials.com/
 local=/lupusnephritistrials.com/
-local=/lupvaqvfeka.com/
 local=/lurdoocu.com/
 local=/lurgafty.net/
 local=/lurgaimt.net/
@@ -67948,7 +67949,6 @@ local=/site-defender.online/
 local=/site-maps.cc/
 local=/sitebot.cc/
 local=/siteforyou1d.com/
-local=/sitegoto.com/
 local=/sitelinktrack.com/
 local=/sitelogbook.com/
 local=/siteniekle.net/
@@ -75595,6 +75595,7 @@ local=/trblocked.com/
 local=/trbx-l1.online/
 local=/trc85.com/
 local=/trccmpnlnk.com/
+local=/trckkkk.com/
 local=/trcklks.com/
 local=/trcksrvrs.com/
 local=/trckswrm.com/
@@ -77480,7 +77481,6 @@ local=/updrax.com/
 local=/updservice.site/
 local=/upeyganpointer.com/
 local=/upfruitparty.com/
-local=/upgastlyr.com/
 local=/upgliscorom.com/
 local=/upgoawqlghwh.com/
 local=/upgrade.vet/
@@ -84104,7 +84104,6 @@ local=/zncbitr.com/
 local=/znigh8ud.com/
 local=/zntsprojekt.com/
 local=/znvlfef.com/
-local=/znvmlmsqfseioy.com/
 local=/zoabeemoaw.com/
 local=/zoachoar.net/
 local=/zoachops.com/

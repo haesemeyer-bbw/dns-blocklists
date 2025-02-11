@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 10 Feb 2025 15:11 UTC
-# Version: 2025.0210.1511.27
+# Last modified: 11 Feb 2025 03:01 UTC
+# Version: 2025.0211.0301.55
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 71431
+# Number of entries: 71433
 #
 local=/0-bdmbet.com/
 local=/0-betsixty.com/
@@ -35935,6 +35935,8 @@ local=/ggbet-kasyno.pl/
 local=/ggbet-kazino.info/
 local=/ggbet-on.com/
 local=/ggbet-online.club/
+local=/ggbet-online.co/
+local=/ggbet-online.email/
 local=/ggbet-online.net/
 local=/ggbet-online.org/
 local=/ggbet-online.pl/

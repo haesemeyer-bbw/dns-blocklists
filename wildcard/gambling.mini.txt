@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 10 Feb 2025 15:11 UTC
-# Version: 2025.0210.1511.27
+# Last modified: 11 Feb 2025 03:01 UTC
+# Version: 2025.0211.0301.55
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 71431
+# Number of entries: 71433
 #
 *.0-bdmbet.com
 *.0-betsixty.com
@@ -35935,6 +35935,8 @@
 *.ggbet-kazino.info
 *.ggbet-on.com
 *.ggbet-online.club
+*.ggbet-online.co
+*.ggbet-online.email
 *.ggbet-online.net
 *.ggbet-online.org
 *.ggbet-online.pl

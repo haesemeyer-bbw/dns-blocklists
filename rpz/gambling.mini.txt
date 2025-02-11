@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1739200260 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1739242860 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 10 Feb 2025 15:11 UTC
-; Version: 2025.0210.1511.27
+; Last modified: 11 Feb 2025 03:01 UTC
+; Version: 2025.0211.0301.55
 ; Syntax: RPZ
-; Number of entries: 142862
+; Number of entries: 142866
 ;
 1xbet.ac CNAME .
 *.1xbet.ac CNAME .
@@ -18749,6 +18749,8 @@ gclub-casino.co CNAME .
 *.gclub-casino.co CNAME .
 generraassitogel.co CNAME .
 *.generraassitogel.co CNAME .
+ggbet-online.co CNAME .
+*.ggbet-online.co CNAME .
 ggbets.co CNAME .
 *.ggbets.co CNAME .
 gizbocasino.co CNAME .
@@ -82721,6 +82723,8 @@ ashoo-casino.email CNAME .
 *.ashoo-casino.email CNAME .
 casino-fresh.email CNAME .
 *.casino-fresh.email CNAME .
+ggbet-online.email CNAME .
+*.ggbet-online.email CNAME .
 marvelcasino.email CNAME .
 *.marvelcasino.email CNAME .
 miso88.email CNAME .

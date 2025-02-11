@@ -4,8 +4,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 10 Feb 2025 11:53 UTC
-# Version: 2025.0210.1153.08
+# Last modified: 10 Feb 2025 23:48 UTC
+# Version: 2025.0210.2348.10
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 10581
 #
@@ -5911,6 +5911,7 @@ local=/medilifescience.com/
 local=/medimaxkontakt.de/
 local=/medimaxstore.de/
 local=/medina24.de/
+local=/medrezeptfrei.com/
 local=/meds-store-24h.com/
 local=/meds-tabs.com/
 local=/medshopcpl.com/
@@ -6733,7 +6734,6 @@ local=/olemusik-shop.de/
 local=/olfanew.com/
 local=/olivespielzeug.com/
 local=/oliviachic.com/
-local=/olukai-france.fr/
 local=/olympicsvipshop.com/
 local=/olympis.de/
 local=/ome2.vip/
