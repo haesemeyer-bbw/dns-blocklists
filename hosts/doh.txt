@@ -5,8 +5,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 11 Feb 2025 15:24 UTC
-# Version: 2025.0211.1524.46
+# Last modified: 12 Feb 2025 15:32 UTC
+# Version: 2025.0212.1532.23
 # Syntax: Hosts (including possible subdomains)
 # Number of entries: 1635
 #
@@ -625,6 +625,7 @@
 0.0.0.0 osefcorp.duckdns.org
 0.0.0.0 punono.duckdns.org
 0.0.0.0 tuandns.duckdns.org
+0.0.0.0 tungdnsne.duckdns.org
 0.0.0.0 dukun.de
 0.0.0.0 dns.dyn1.de
 0.0.0.0 ueni.dyndns.org
@@ -1287,7 +1288,6 @@
 0.0.0.0 las-vegas.privacy-dns.pw
 0.0.0.0 luxembourg.privacy-dns.pw
 0.0.0.0 romania.privacy-dns.pw
-0.0.0.0 dns.privado.ovh
 0.0.0.0 orpi.privado.ovh
 0.0.0.0 de.dns.privex.io
 0.0.0.0 nl.dns.privex.io

@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 11 Feb 2025 11:49 UTC
-# Version: 2025.0211.1149.40
+# Last modified: 12 Feb 2025 11:53 UTC
+# Version: 2025.0212.1153.36
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10581
+# Number of entries: 10580
 #
 local=/01crypto.com/
 local=/1-stud.net/
@@ -550,7 +550,6 @@ local=/aromaleben.com/
 local=/aron-handel.de/
 local=/aroni-handel.de/
 local=/around-handel.de/
-local=/arowinvest.pro/
 local=/aroxcapital.com/
 local=/arptrade.com/
 local=/arredamenti-italia.de/
@@ -1809,7 +1808,6 @@ local=/discountonline.clearancesales2023.com/
 local=/clearancesurfsale.com/
 local=/clearchoice-investments.com/
 local=/clematore.shop/
-local=/clementrchrd.com/
 local=/cleo-capital.com/
 local=/clerofy.pics/
 local=/cles-du-patrimoine.fr/
@@ -2475,7 +2473,6 @@ local=/dopplergunstig.com/
 local=/doption24.de/
 local=/doramampn.com/
 local=/doriancolin.com/
-local=/doriansaga.com/
 local=/dormanshop.com/
 local=/dortmund-warenhaus.de/
 local=/dosenberry.de/
@@ -2841,7 +2838,6 @@ local=/englishrabbitde.shop/
 local=/engweebike.de/
 local=/eniam.com/
 local=/enibas-handel.de/
-local=/enjify.com/
 local=/enjoyladyfad.com/
 local=/enormous.shop/
 local=/enpakide.shop/
@@ -3274,6 +3270,7 @@ local=/fine-cycle.com/
 local=/fine-germa-furniture.com/
 local=/fine2buy.com/
 local=/fineobermeyer.com/
+local=/fineonlinesale.com/
 local=/finestmotion.com/
 local=/finestsurf.com/
 local=/finestussport.com/
@@ -4950,7 +4947,6 @@ local=/jordan1suomi.com/
 local=/jordans-shoes.com/
 local=/jorgebiosca.com/
 local=/joseherreras.com/
-local=/josettevia.shop/
 local=/jouwdroom.com/
 local=/joyaperuventa.com/
 local=/joyaromania.com/
@@ -6995,6 +6991,7 @@ local=/outletfish.com/
 local=/outletheaters.com/
 local=/outlethikingtentde.com/
 local=/outlethudy.com/
+local=/outletisabel.com/
 local=/outletjoma.com/
 local=/outletladywear.com/
 local=/outletlatest.com/
@@ -7962,6 +7959,7 @@ local=/sakaziq.com/
 local=/sakerwerkzeuge.de/
 local=/sakimo.net/
 local=/sale-hawaii.com/
+local=/sale-homedecor.com/
 local=/sale-jewellery.com/
 local=/sale-pils.com/
 local=/salebackpacks.com/
@@ -8365,6 +8363,7 @@ local=/shops-eminem.com/
 local=/shopsbreast.com/
 local=/shopskisnowboard.com/
 local=/shopsmountain.com/
+local=/shopsnowski.com/
 local=/shoptoolcases.com/
 local=/shoptoolszone.com/
 local=/shopvertex.site/
@@ -8701,7 +8700,6 @@ local=/stanley-cups.at/
 local=/eur.stanly-eshop.com/
 local=/stanlysbottle.com/
 local=/star-apotheke.org/
-local=/starapotheke.com/
 local=/starel.xyz/
 local=/starevents.top/
 local=/starkfahrrad.com/
@@ -8755,6 +8753,7 @@ local=/stoneislandjapan.com/
 local=/stoneislandlietuva.com/
 local=/stoneislandsuisse.com/
 local=/stoneislandsuomi.org/
+local=/store-airplane.com/
 local=/store-awnings.com/
 local=/store-bonds.com/
 local=/store-boots.com/

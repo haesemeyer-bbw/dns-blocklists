@@ -5,8 +5,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 11 Feb 2025 15:24 UTC
-# Version: 2025.0211.1524.46
+# Last modified: 12 Feb 2025 15:32 UTC
+# Version: 2025.0212.1532.23
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 1471
 #
@@ -510,6 +510,7 @@ local=/krtekvpn.duckdns.org/
 local=/osefcorp.duckdns.org/
 local=/punono.duckdns.org/
 local=/tuandns.duckdns.org/
+local=/tungdnsne.duckdns.org/
 local=/dukun.de/
 local=/dns.dyn1.de/
 local=/ueni.dyndns.org/
@@ -1145,7 +1146,6 @@ local=/hungary.privacy-dns.pw/
 local=/las-vegas.privacy-dns.pw/
 local=/luxembourg.privacy-dns.pw/
 local=/romania.privacy-dns.pw/
-local=/dns.privado.ovh/
 local=/orpi.privado.ovh/
 local=/de.dns.privex.io/
 local=/nl.dns.privex.io/

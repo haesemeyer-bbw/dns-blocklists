@@ -6,8 +6,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 11 Feb 2025 15:25 UTC
-! Version: 2025.0211.1525.59
+! Last modified: 12 Feb 2025 15:33 UTC
+! Version: 2025.0212.1533.36
 ! Syntax: AdBlock
 ! Number of entries: 3737
 !
@@ -1003,6 +1003,7 @@
 ||osefcorp.duckdns.org^
 ||punono.duckdns.org^
 ||tuandns.duckdns.org^
+||tungdnsne.duckdns.org^
 ||vpschito.duckdns.org^
 ||dukun.de^
 ||dutchproxy.nl^
@@ -2394,7 +2395,6 @@
 ||romania.privacy-dns.pw^
 ||privacyprotector.eu^
 ||privado.io^
-||dns.privado.ovh^
 ||orpi.privado.ovh^
 ||privadovpn.com^
 ||privateinternetaccess.com^
