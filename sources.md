@@ -40,6 +40,7 @@ https://easylist-downloads.adblockplus.org/ruadlist.txt
 https://filters.adavoid.org/ultimate-ad-filter.txt
 https://filters.adavoid.org/ultimate-privacy-filter.txt
 https://gamingcommission.be/en/gaming-commission/illegal-games-of-chance/list-of-illegal-gambling-sites
+https://github.com/Cisco-Talos/IOCs
 https://github.com/criminalip/Daily-Mal-Phishing/archive/refs/heads/main.zip
 https://github.com/drsdavidsoft/additional-hosts/raw/master/domains/blacklist/adservers-and-trackers.txt
 https://github.com/drsdavidsoft/additional-hosts/raw/master/domains/blacklist/unwanted-iranian.txt

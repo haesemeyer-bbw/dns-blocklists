@@ -5,10 +5,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 12 Feb 2025 15:22 UTC
-! Version: 2025.0212.1522.50
+! Last modified: 13 Feb 2025 03:09 UTC
+! Version: 2025.0213.0309.17
 ! Syntax: AdBlock
-! Number of entries: 194267
+! Number of entries: 194275
 !
 ||0-bdmbet.com^
 ||0-bet.com^
@@ -84206,6 +84206,7 @@
 ||bettingexpress.com^
 ||bettingguru.in^
 ||bettinghouseslots.com^
+||bettinglabel.se^
 ||bettinglion.africa^
 ||bettingodds.com^
 ||bettingoffer.xyz^
@@ -92220,7 +92221,6 @@
 ||casino-swiper.gr^
 ||casino-sykaaa.fun^
 ||casino-system.se^
-||casino-telegram.online^
 ||casino-th.co^
 ||casino-times.com^
 ||casino-tischspiele.com^
@@ -95391,6 +95391,7 @@
 ||casinomythos.com^
 ||casinon.com^
 ||casinon.in^
+||casinon-med-bankid.se^
 ||casinon-med-zimpler.se^
 ||casinon-sverige.nu^
 ||casinon-utan-bankid.se^
@@ -97486,6 +97487,7 @@
 ||casumocasinonodeposit.click^
 ||casushicasino.com^
 ||casushicasinonodeposit.click^
+||caswineurope.com^
 ||cat-casino.cfd^
 ||cat-casino.co^
 ||cat-casino.icu^
@@ -148320,6 +148322,8 @@
 ||ny66.vip^
 ||ny666.vip^
 ||ny7676.com^
+||nya-bettingsidor.se^
+||nya-casino365.se^
 ||nyacasino.com^
 ||nyacasinon2020.se^
 ||nyacasinon24.se^
@@ -189632,6 +189636,9 @@
 ||xn--betway888-ub1ql12c.com^
 ||xn--biwei88-ow3mp24b.com^
 ||xn--bob-j59d107t.com^
+||xn--bsta-casino-bonus-qqb.se^
+||xn--bsta-online-casino-ltb.se^
+||xn--bsta-online-casinon-gwb.se^
 ||xn--bstacasinobonusar-qqb.nu^
 ||xn--bstantcasino-gcbe.nu^
 ||xn--bstcasino-v2a.eu^
@@ -189640,6 +189647,7 @@
 ||xn--bvs40lfob.com^
 ||xn--bw-7f7ez3r.com^
 ||xn--bw88-j75jo4z.com^
+||xn--casino-utan-omsttningskrav-uhc.se^
 ||xn--casinoerpnettet-plb.eu^
 ||xn--casinomedbstutdelning-f2b.com^
 ||xn--casinonrd-r8a.dk^

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1739373180 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1739415540 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 12 Feb 2025 15:13 UTC
-; Version: 2025.0212.1513.32
+; Last modified: 13 Feb 2025 02:59 UTC
+; Version: 2025.0213.0259.55
 ; Syntax: RPZ
-; Number of entries: 139468
+; Number of entries: 139482
 ;
 1xbet.ac CNAME .
 *.1xbet.ac CNAME .
@@ -98011,8 +98011,6 @@ casino-slot-poker.online CNAME .
 *.casino-slot-poker.online CNAME .
 casino-space.online CNAME .
 *.casino-space.online CNAME .
-casino-telegram.online CNAME .
-*.casino-telegram.online CNAME .
 casino-wullkan.online CNAME .
 *.casino-wullkan.online CNAME .
 casino-x-game.online CNAME .
@@ -109769,6 +109767,8 @@ betstrike.se CNAME .
 *.betstrike.se CNAME .
 betsurf.se CNAME .
 *.betsurf.se CNAME .
+bettinglabel.se CNAME .
+*.bettinglabel.se CNAME .
 bettingstugan.se CNAME .
 *.bettingstugan.se CNAME .
 bettingworld.se CNAME .
@@ -109823,6 +109823,8 @@ casinojakt.se CNAME .
 *.casinojakt.se CNAME .
 casinokojan.se CNAME .
 *.casinokojan.se CNAME .
+casinon-med-bankid.se CNAME .
+*.casinon-med-bankid.se CNAME .
 casinon-med-zimpler.se CNAME .
 *.casinon-med-zimpler.se CNAME .
 casinon-utan-bankid.se CNAME .
@@ -109945,6 +109947,10 @@ noaccountbet.se CNAME .
 *.noaccountbet.se CNAME .
 noaccountcasino.se CNAME .
 *.noaccountcasino.se CNAME .
+nya-bettingsidor.se CNAME .
+*.nya-bettingsidor.se CNAME .
+nya-casino365.se CNAME .
+*.nya-casino365.se CNAME .
 onlinecasinolistan.se CNAME .
 *.onlinecasinolistan.se CNAME .
 pachacasino.se CNAME .
@@ -110029,6 +110035,14 @@ vpncasinon.se CNAME .
 *.vpncasinon.se CNAME .
 winziecasino.se CNAME .
 *.winziecasino.se CNAME .
+xn--bsta-casino-bonus-qqb.se CNAME .
+*.xn--bsta-casino-bonus-qqb.se CNAME .
+xn--bsta-online-casino-ltb.se CNAME .
+*.xn--bsta-online-casino-ltb.se CNAME .
+xn--bsta-online-casinon-gwb.se CNAME .
+*.xn--bsta-online-casinon-gwb.se CNAME .
+xn--casino-utan-omsttningskrav-uhc.se CNAME .
+*.xn--casino-utan-omsttningskrav-uhc.se CNAME .
 xn--casinordet-75a.se CNAME .
 *.xn--casinordet-75a.se CNAME .
 xn--casinovn-6za.se CNAME .

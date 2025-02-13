@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 12 Feb 2025 11:47 UTC
-# Version: 2025.0212.1147.43
+# Last modified: 12 Feb 2025 23:42 UTC
+# Version: 2025.0212.2342.23
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 85143
+# Number of entries: 85136
 #
 local=/0.beer/
 local=/0.club/
@@ -18167,7 +18167,6 @@ local=/chiselpull.com/
 local=/chit-systems.com/
 local=/chitbar.com/
 local=/chitchaudsoax.net/
-local=/chitchooms.net/
 local=/chithirailink.com/
 local=/chitika.net/
 local=/chitrakshev.in/
@@ -44358,7 +44357,6 @@ local=/kvaaa.com/
 local=/kvalitetnavoda.com/
 local=/kvcg.yt/
 local=/kvdmuxy.com/
-local=/kvecc.com/
 local=/kveii.com/
 local=/kvemm.com/
 local=/kvest.info/
@@ -45531,7 +45529,6 @@ local=/lezvu.com/
 local=/lf8q.online/
 local=/lfakutozqax.com/
 local=/lfaopvfpusu.com/
-local=/lfbfkkkqiza.com/
 local=/lfeaqcozlbki.com/
 local=/lfialphonsedaudet.net/
 local=/lflcbcb.com/
@@ -68296,7 +68293,6 @@ local=/sillyscrew.com/
 local=/silon.biz/
 local=/siloselevators.com/
 local=/silphidbilati.com/
-local=/silsautsacmo.com/
 local=/silver-pen.pro/
 local=/silveraddition.pro/
 local=/silverblends.com/
@@ -77933,7 +77929,6 @@ local=/unpackjanuary.com/
 local=/unpackshortly.com/
 local=/unpackthousandmineral.com/
 local=/unpanchamon.com/
-local=/unpetilila.com/
 local=/unphanpyom.com/
 local=/unphionetor.com/
 local=/unpleasantconcrete.com/
@@ -80164,7 +80159,6 @@ local=/voltspump.com/
 local=/volumedpageboy.com/
 local=/volumesundue.com/
 local=/voluminous-competition.com/
-local=/voluminoussoup.pro/
 local=/voluntarilydale.com/
 local=/voluntarilylease.com/
 local=/volunteerbrash.com/
@@ -83980,7 +83974,6 @@ local=/yongyongmalden.com/
 local=/yonhelioliskor.com/
 local=/yoniwigs.com/
 local=/yonmewon.com/
-local=/yonomastara.com/
 local=/yonsandileer.com/
 local=/yonspheala.com/
 local=/yooflafa.com/

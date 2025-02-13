@@ -4,8 +4,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 12 Feb 2025 11:53 UTC
-# Version: 2025.0212.1153.36
+# Last modified: 12 Feb 2025 23:48 UTC
+# Version: 2025.0212.2348.10
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 10580
 #
@@ -8657,7 +8657,6 @@ local=/sportscardssales.com/
 local=/sportschuheshop.com/
 local=/sportsfabrik.net/
 local=/sportsgolfsale.com/
-local=/sportsstore-us.com/
 local=/sportswearpaired.com/
 local=/spotdiamonds.com/
 local=/spotyfx.com/
@@ -8700,6 +8699,7 @@ local=/stanley-cups.at/
 local=/eur.stanly-eshop.com/
 local=/stanlysbottle.com/
 local=/star-apotheke.org/
+local=/starapotheke.com/
 local=/starel.xyz/
 local=/starevents.top/
 local=/starkfahrrad.com/

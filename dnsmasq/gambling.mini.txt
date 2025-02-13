@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 12 Feb 2025 15:13 UTC
-# Version: 2025.0212.1513.32
+# Last modified: 13 Feb 2025 02:59 UTC
+# Version: 2025.0213.0259.55
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 69734
+# Number of entries: 69741
 #
 local=/0-bdmbet.com/
 local=/0-betsixty.com/
@@ -19282,6 +19282,7 @@ local=/bettingcasinonodeposit.click/
 local=/bettingexpert.com/
 local=/bettingexpress.com/
 local=/bettingguru.in/
+local=/bettinglabel.se/
 local=/bettinglion.africa/
 local=/bettingodds.com/
 local=/bettingoffer.xyz/
@@ -23022,7 +23023,6 @@ local=/casino-supercat.space/
 local=/casino-surfer.com/
 local=/casino-swiper.gr/
 local=/casino-sykaaa.fun/
-local=/casino-telegram.online/
 local=/casino-th.co/
 local=/casino-times.com/
 local=/casino-tischspiele.com/
@@ -25298,6 +25298,7 @@ local=/casinomystake.top/
 local=/casinomystery.com/
 local=/casinon.com/
 local=/casinon.in/
+local=/casinon-med-bankid.se/
 local=/casinon-med-zimpler.se/
 local=/casinon-utan-bankid.se/
 local=/casinon-utan-konto.se/
@@ -49396,6 +49397,8 @@ local=/nvnpoker.com/
 local=/nxb8.com/
 local=/nxcasino.com/
 local=/nxterkuat.us/
+local=/nya-bettingsidor.se/
+local=/nya-casino365.se/
 local=/nyaimansion.one/
 local=/nyaislot88.com/
 local=/nyakocasino.com/
@@ -68827,6 +68830,10 @@ local=/xn--88-6v2dsut08pekl.com/
 local=/xn--9krq4gitrtsynvb.com/
 local=/xn--9krs5qgl1aizd.com/
 local=/xn--bob-j59d107t.com/
+local=/xn--bsta-casino-bonus-qqb.se/
+local=/xn--bsta-online-casino-ltb.se/
+local=/xn--bsta-online-casinon-gwb.se/
+local=/xn--casino-utan-omsttningskrav-uhc.se/
 local=/xn--casinonrd-r8a.dk/
 local=/xn--casinonrden-mgb.dk/
 local=/xn--casinonrderne-hnb.dk/
