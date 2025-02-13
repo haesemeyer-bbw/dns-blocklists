@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 12 Feb 2025 15:32 UTC
-# Version: 2025.0212.1532.23
+# Last modified: 13 Feb 2025 16:00 UTC
+# Version: 2025.0213.1600.08
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1471
+# Number of entries: 1472
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -1299,6 +1299,7 @@ local=/squidmall.vip/
 local=/sriedmueadguard.casa/
 local=/adguard.sscw.win/
 local=/doh.ntu.ssooss.win/
+local=/ag.ssrahul96.xyz/
 local=/dns.sstomp.nl/
 local=/dns.startupstack.tech/
 local=/dns.stevenz.net/
