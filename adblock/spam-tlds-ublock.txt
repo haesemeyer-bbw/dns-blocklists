@@ -11,10 +11,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 10 Feb 2025 07:22 UTC
-! Version: 2025.0210.0722.04
+! Last modified: 14 Feb 2025 16:10 UTC
+! Version: 2025.0214.1610.36
 ! Syntax: uBlock
-! Number of latin TLDs: 220 - non-latin TLDs: 151
+! Number of latin TLDs: 219 - non-latin TLDs: 151
 !
 ||actor^$doc
 ||africa^$doc,domain=~nation.africa
@@ -45,7 +45,6 @@
 ||buzz^$doc,domain=~sideb.buzz
 ||cam^$doc
 ||capital^$doc,domain=~scalable.capital
-||care^$doc
 ||careers^$doc,domain=~commonspirit.careers
 ||casa^$doc,domain=~nabu.casa
 ||cash^$doc
@@ -57,7 +56,7 @@
 ||church^$doc,domain=~life.church|~online.church
 ||city^$doc,domain=~bypass.city|~ops.city
 ||claims^$doc
-||click^$doc,domain=~buybox.click|~popcat.click|~popdog.click|~ravelin.click|~xcine.click
+||click^$doc,domain=~buybox.click|~popcat.click|~popdog.click|~qr-code.click|~ravelin.click|~xcine.click
 ||clothing^$doc
 ||club^$doc,domain=~baby-beamup.club|~clovius.club|~digipres.club|~hd-olimpo.club|~mbcherohub.club|~pdfmagazines.club|~skin.club|~thelemmy.club
 ||computer^$doc,domain=~libre.computer|~neat.computer|~silly.computer
@@ -206,7 +205,7 @@
 ||tattoo^$doc
 ||tax^$doc
 ||taxi^$doc
-||tk^$doc,domain=~adistance.tk|~bonzibuddy.tk|~bstweaker.tk|~budterence.tk|~c-r-t.tk|~google.tk|~goshujin.tk|~gotofap.tk|~graph.tk|~kabi.tk|~sironi.tk|~tokelau-info.tk|~xn--qubec-csa.tk|~zete.tk
+||tk^$doc,domain=~adistance.tk|~bonzibuddy.tk|~bstweaker.tk|~budterence.tk|~c-r-t.tk|~google.tk|~goshujin.tk|~graph.tk|~kabi.tk|~sironi.tk|~tokelau-info.tk|~xn--qubec-csa.tk|~zete.tk
 ||today^$doc,domain=~archive.today|~futurology.today|~lemmy.today|~oldweb.today
 ||tokyo^$doc
 ||top^$doc,domain=~1stream.top|~ambr.top|~arjun.top|~caitlin.top|~chillx.top|~corriente.top|~doubledouble.top|~edgeless.top|~mastodon.top|~mianbeian.top|~nfmirrorcdn.top|~pegelinux.top|~pressplay.top|~reminder.top|~saltwood.top|~shucks.top|~strims.top|~suiten.top|~techblog.top|~thedesk.top|~vsdb.top

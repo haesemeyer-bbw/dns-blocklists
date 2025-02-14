@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1739462460 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1739550840 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 13 Feb 2025 16:01 UTC
-; Version: 2025.0213.1601.22
+; Last modified: 14 Feb 2025 16:34 UTC
+; Version: 2025.0214.1634.49
 ; Syntax: RPZ
-; Number of entries: 7476
+; Number of entries: 7466
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -930,8 +930,6 @@ bypassip.com CNAME .
 *.bypassip.com CNAME .
 bypasskey.com CNAME .
 *.bypasskey.com CNAME .
-bypasstunnel.com CNAME .
-*.bypasstunnel.com CNAME .
 api.bytelixir.com CNAME .
 *.api.bytelixir.com CNAME .
 bytzvpn.com CNAME .
@@ -2442,14 +2440,8 @@ browse.startpage.com CNAME .
 *.browse.startpage.com CNAME .
 eu-browse.startpage.com CNAME .
 *.eu-browse.startpage.com CNAME .
-eu1-browse.startpage.com CNAME .
-*.eu1-browse.startpage.com CNAME .
 eu2-browse.startpage.com CNAME .
 *.eu2-browse.startpage.com CNAME .
-proxy1.startpage.com CNAME .
-*.proxy1.startpage.com CNAME .
-proxy2.startpage.com CNAME .
-*.proxy2.startpage.com CNAME .
 proxy3.startpage.com CNAME .
 *.proxy3.startpage.com CNAME .
 s4-us2.startpage.com CNAME .
@@ -5558,8 +5550,6 @@ uswebproxy.net CNAME .
 *.uswebproxy.net CNAME .
 videounblocker.net CNAME .
 *.videounblocker.net CNAME .
-viewyoutube.net CNAME .
-*.viewyoutube.net CNAME .
 vload.net CNAME .
 *.vload.net CNAME .
 vpn.net CNAME .

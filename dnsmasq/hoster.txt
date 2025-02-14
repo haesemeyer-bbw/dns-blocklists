@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 13 Feb 2025 15:58 UTC
-# Version: 2025.0213.1558.54
+# Last modified: 14 Feb 2025 07:37 UTC
+# Version: 2025.0214.0737.28
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 2137
+# Number of entries: 2154
 #
 local=/000a.de/
 local=/000space.com/
@@ -482,9 +482,13 @@ local=/blogspot.am/
 local=/blogspot.ba/
 local=/blogspot.be/
 local=/blogspot.bg/
+local=/blogspot.bio/
 local=/blogspot.ca/
+local=/blogspot.cf/
 local=/blogspot.ch/
 local=/blogspot.cl/
+local=/blogspot.cm/
+local=/blogspot.co/
 local=/blogspot.com/
 local=/blogspot.cz/
 local=/blogspot.de/
@@ -507,11 +511,16 @@ local=/blogspot.lt/
 local=/blogspot.lu/
 local=/blogspot.md/
 local=/blogspot.mk/
+local=/blogspot.mr/
 local=/blogspot.mx/
 local=/blogspot.my/
+local=/blogspot.net/
 local=/blogspot.nl/
 local=/blogspot.no/
+local=/blogspot.om/
+local=/blogspot.org/
 local=/blogspot.pe/
+local=/blogspot.pl/
 local=/blogspot.pt/
 local=/blogspot.qa/
 local=/blogspot.ro/
@@ -522,8 +531,11 @@ local=/blogspot.sg/
 local=/blogspot.si/
 local=/blogspot.sk/
 local=/blogspot.sn/
+local=/blogspot.td/
+local=/blogspot.tk/
 local=/blogspot.tw/
 local=/blogspot.ug/
+local=/blogspot.vn/
 local=/blogspothub.com/
 local=/blogstation.jp/
 local=/blogster.com/
@@ -644,6 +656,7 @@ local=/blog.co.uk/
 local=/blogspot.co.at/
 local=/blogspot.co.id/
 local=/blogspot.co.il/
+local=/blogspot.co.in/
 local=/blogspot.co.ke/
 local=/blogspot.co.nz/
 local=/blogspot.co.uk/
@@ -656,17 +669,21 @@ local=/codeanyapp.com/
 local=/collectblogs.com/
 local=/com.nu/
 local=/adr.com.ua/
+local=/blogspot.com.aero/
 local=/blogspot.com.ar/
 local=/blogspot.com.au/
 local=/blogspot.com.br/
 local=/blogspot.com.by/
+local=/blogspot.com.cn/
 local=/blogspot.com.co/
+local=/blogspot.com.com/
 local=/blogspot.com.cy/
 local=/blogspot.com.ee/
 local=/blogspot.com.eg/
 local=/blogspot.com.es/
 local=/blogspot.com.in/
 local=/blogspot.com.mt/
+local=/blogspot.com.my/
 local=/blogspot.com.ng/
 local=/blogspot.com.tr/
 local=/blogspot.com.uy/
@@ -1789,7 +1806,6 @@ local=/techionblog.com/
 local=/teenradio.shop/
 local=/tehno-politen.ru/
 local=/tek-blogs.com/
-local=/telecable.es/
 local=/telekom.at/
 local=/telepacific.net/
 local=/telrock.org/
@@ -1981,6 +1997,7 @@ local=/webblogg.se/
 local=/webbuzzfeed.com/
 local=/webcindario.com/
 local=/webdesign96.com/
+local=/webflow.io/
 local=/webfreehosting.net/
 local=/webgarden.com/
 local=/webgarden.es/

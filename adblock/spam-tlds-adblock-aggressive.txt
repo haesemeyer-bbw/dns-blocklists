@@ -10,10 +10,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 10 Feb 2025 07:22 UTC
-! Version: 2025.0210.0722.04
+! Last modified: 14 Feb 2025 16:10 UTC
+! Version: 2025.0214.1610.36
 ! Syntax: AdBlock
-! Number of latin TLDs: 220 - punycode TLDs: 151
+! Number of latin TLDs: 219 - punycode TLDs: 151
 !
 ||actor^
 ||africa^
@@ -44,7 +44,6 @@
 ||buzz^
 ||cam^
 ||capital^
-||care^
 ||careers^
 ||casa^
 ||cash^

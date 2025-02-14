@@ -3410,7 +3410,21 @@
       }
     },
     {
+      "PK": "blogspot.bio",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "blogspot.ca",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "blogspot.cf",
       "action": {
         "do": 0,
         "status": 1
@@ -3425,6 +3439,20 @@
     },
     {
       "PK": "blogspot.cl",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "blogspot.cm",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "blogspot.co",
       "action": {
         "do": 0,
         "status": 1
@@ -3452,6 +3480,13 @@
       }
     },
     {
+      "PK": "blogspot.co.in",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "blogspot.co.ke",
       "action": {
         "do": 0,
@@ -3460,6 +3495,13 @@
     },
     {
       "PK": "blogspot.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "blogspot.com.aero",
       "action": {
         "do": 0,
         "status": 1
@@ -3494,7 +3536,21 @@
       }
     },
     {
+      "PK": "blogspot.com.cn",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "blogspot.com.co",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "blogspot.com.com",
       "action": {
         "do": 0,
         "status": 1
@@ -3537,6 +3593,13 @@
     },
     {
       "PK": "blogspot.com.mt",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "blogspot.com.my",
       "action": {
         "do": 0,
         "status": 1
@@ -3739,6 +3802,13 @@
       }
     },
     {
+      "PK": "blogspot.mr",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "blogspot.mx",
       "action": {
         "do": 0,
@@ -3747,6 +3817,13 @@
     },
     {
       "PK": "blogspot.my",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "blogspot.net",
       "action": {
         "do": 0,
         "status": 1
@@ -3767,7 +3844,28 @@
       }
     },
     {
+      "PK": "blogspot.om",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "blogspot.org",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "blogspot.pe",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "blogspot.pl",
       "action": {
         "do": 0,
         "status": 1
@@ -3844,6 +3942,20 @@
       }
     },
     {
+      "PK": "blogspot.td",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "blogspot.tk",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "blogspot.tw",
       "action": {
         "do": 0,
@@ -3852,6 +3964,13 @@
     },
     {
       "PK": "blogspot.ug",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "blogspot.vn",
       "action": {
         "do": 0,
         "status": 1
@@ -12363,13 +12482,6 @@
       }
     },
     {
-      "PK": "telecable.es",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "telekom.at",
       "action": {
         "do": 0,
@@ -13708,6 +13820,13 @@
     },
     {
       "PK": "webdesign96.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "webflow.io",
       "action": {
         "do": 0,
         "status": 1

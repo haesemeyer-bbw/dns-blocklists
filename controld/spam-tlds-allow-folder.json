@@ -1086,13 +1086,6 @@
       }
     },
     {
-      "PK": "gotofap.tk",
-      "action": {
-        "do": 1,
-        "status": 1
-      }
-    },
-    {
       "PK": "gov-img.site",
       "action": {
         "do": 1,
@@ -2249,6 +2242,13 @@
     },
     {
       "PK": "proven.lol",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "qr-code.click",
       "action": {
         "do": 1,
         "status": 1

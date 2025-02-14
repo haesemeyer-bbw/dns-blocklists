@@ -211,13 +211,6 @@
       }
     },
     {
-      "PK": "*.care",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "*.careers",
       "action": {
         "do": 0,

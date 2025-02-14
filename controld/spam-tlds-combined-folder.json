@@ -616,13 +616,6 @@
       }
     },
     {
-      "PK": "*.care",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "*.careers",
       "action": {
         "do": 0,
@@ -1674,13 +1667,6 @@
     },
     {
       "PK": "goshujin.tk",
-      "action": {
-        "do": 1,
-        "status": 1
-      }
-    },
-    {
-      "PK": "gotofap.tk",
       "action": {
         "do": 1,
         "status": 1
@@ -3321,6 +3307,13 @@
       "PK": "*.pub",
       "action": {
         "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "qr-code.click",
+      "action": {
+        "do": 1,
         "status": 1
       }
     },

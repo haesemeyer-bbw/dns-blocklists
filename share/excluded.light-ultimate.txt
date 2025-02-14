@@ -272,7 +272,6 @@ fronius-se-iot-dm-1-telemetry.azure-devices.net
 fronius-se-iot-telemetry.azure-devices.net
 nlo-stl-web.azureedge.net
 olmprodpowerlift-cdn.azureedge.net
-jobs.b-ite.com
 loc.map.baidu.com
 t10.baidu.com
 t11.baidu.com
@@ -412,6 +411,7 @@ filebroker-cdn.lazada.com.my.9d2b5122.cdnhwcchh18.com
 filebroker-cdn.lazada.com.ph.9d2b5122.cdnhwcchh18.com
 filebroker-cdn.lazada.sg.9d2b5122.cdnhwcchh18.com
 filebroker-cdn.lazada.co.th.9d2b5122.cdnhwcchh18.com
+filebroker-cdn.lazada.vn.9d2b5122.cdnhwcchh18.com
 platform.cdninstagram.com
 cdntips.net
 cedexis.com
@@ -462,6 +462,7 @@ analytics-eu20.hr.cloud.sap
 analytics-eu20-preview.hr.cloud.sap
 analytics-eu30-preview.hr.cloud.sap
 analytics-us10.hr.cloud.sap
+analytics-us20.hr.cloud.sap
 sway.cloud.microsoft
 clarity.dexcom.com.cdn.cloudflare.net
 d15k2d11r6t6rl.cloudfront.net
@@ -491,6 +492,7 @@ vod.cnnindonesia.com
 cnstrc.com
 accesstrade.co.id
 click.accesstrade.co.id
+script.accesstrade.co.id
 appx.transient.amazon.co.uk
 ati-a1.946d001b783803c1.xhst.bbci.co.uk
 bobcard.co.in
@@ -516,10 +518,10 @@ endpoint.mms.shopee.co.id
 endpoint.mms.shopee.co.th
 sanalytics.skinny.co.nz
 collector1.sooplive.co.kr
-eip.telegraph.co.uk
 cf.eip.telegraph.co.uk
 check2.tsb.co.uk
 ns11.whois.co.kr
+xtra.co.nz
 pvtag.yahoo.co.jp
 komachi.yomiuri.co.jp
 codeanyapp.com
@@ -554,6 +556,7 @@ tms.nab.com.au
 secure.nch.com.au
 adc.api.nine.com.au
 statics.olx.com.tr
+tracking.pos.com.my
 cdn.privacytools.com.br
 cvf.shopee.com.my
 endpoint.mms.shopee.com.br
@@ -596,7 +599,6 @@ c.delivery.consentmanager.net
 d.delivery.consentmanager.net
 www.consentmanager.net
 consoletarget.com
-contaboserver.net
 eu2.contabostorage.com
 content-loader.com
 contentpass.net
@@ -704,6 +706,7 @@ bolt.dropbox.com
 ds2play.com
 tracking.dtdc.com
 dtgapi.com
+trkr.duckdns.org
 embed.dugout.com
 js.duhnet.tv
 dxpapi.com
@@ -764,6 +767,7 @@ heads-akp.spotify.com.edgesuite.net
 heads4-ak.spotify.com.edgesuite.net
 heads4-akp.spotify.com.edgesuite.net
 epidm.edgesuite.net
+chnu.edu.ua
 efrontier.com
 ehub.cz
 ekomi.com
@@ -847,6 +851,7 @@ consent.faz.net
 instagram.fcdg1-1.fna.fbcdn.net
 instagram.felp1-1.fna.fbcdn.net
 scontent-nrt1-1.xx.fbcdn.net
+fc-lc.com
 feature.fm
 tracking.feedpress.com
 feedsportal.com
@@ -957,7 +962,9 @@ exa-analytics.github.io
 exeter-data-analytics.github.io
 extension-keeper.github.io
 eyx092.github.io
+ff-rewards-redeem-codes-org.github.io
 fractal-analytics-platform.github.io
+freefirefff.github.io
 helmholtz-analytics.github.io
 hri-methods-metrics.github.io
 iclr-blog-track.github.io
@@ -976,6 +983,7 @@ owlcarousel2.github.io
 pl-decisions-tracker.github.io
 posthog.github.io
 process-analytics.github.io
+pubg-tournament-official.github.io
 repo-analytics.github.io
 sentry71.github.io
 speedcurve-metrics.github.io
@@ -983,6 +991,7 @@ tessera-metrics.github.io
 track-check-repeat.github.io
 urban-analytics.github.io
 urban-analytics-technology-platform.github.io
+v0tingsystem.github.io
 web-components-usage-metrics.github.io
 weblion777.github.io
 wipo-analytics.github.io
@@ -1022,6 +1031,7 @@ imasdk.googleapis.com
 jnn-pa.googleapis.com
 optimizationguide-pa.googleapis.com
 semanticlocation-pa.googleapis.com
+config.gorgias.chat
 gotraffic.net
 cdn.gotraffic.net
 analitik.edevlet.gov.tr
@@ -1436,7 +1446,6 @@ collector.lightstep.com
 cs.liiift.io
 torimochi.line-apps.com
 itad.linetv.tw
-link.space
 ponf.linkedin.com
 linkifier.com
 linksnappy.com
@@ -1452,6 +1461,8 @@ presence.teams.live.com
 cdn.livechatinc.com
 secure.livechatinc.com
 livede55.com
+liveperson.com
+www.liveperson.com
 livesupporti.com
 livetex.ru
 llnw.net
@@ -1510,7 +1521,6 @@ markitcdn.com
 matomo.org
 www.matomo.org
 uid.mavencoalition.io
-maxfinishseveral.com
 mctrades.org
 measurement-lab.org
 meatspin.biz
@@ -1707,7 +1717,6 @@ graph.oculus.com
 oecherdeal.de
 www.oecherdeal.de
 eulerian.officiel-des-vacances.com
-files.offshore.cat
 ogp.me
 okx.com
 olymptrade.com
@@ -1963,11 +1972,11 @@ telemetry.palworldgame.com
 img.particlenews.com
 partypoker.com
 www.partypoker.com
+track.passportshipping.com
 pathfactory.com
 www.pathfactory.com
 payeer.com
 t.paypal.com
-epl.paypal-communication.com
 static.pazaruvaj.com
 fingerprint.pb.ua
 pcapredict.com
@@ -2063,6 +2072,7 @@ pornpics.com
 pornrabbit.com
 www.pornrabbit.com
 postclickmarketing.com
+tracking.postnord.com
 app.powerwatch.io
 go.powunity.com
 ppcprotect.com
@@ -2145,6 +2155,8 @@ ablink.account.quizlet.com
 qulishi.com
 m.qulishi.com
 trk.t.qvcemail.com
+qxwz.com
+www.qxwz.com
 r42tag.com
 tdn.r42tag.com
 radar.io
@@ -2232,6 +2244,7 @@ api.rudderstack.com
 www.rudderstack.com
 run.place
 rusmedserv.com
+tracker.rutor.is
 s1search.co
 s3blog.org
 sajari.com
@@ -2321,7 +2334,6 @@ seeyoufarm.com
 seksohub.com
 sellpoint.net
 sematext.com
-sctrack.sendcloud.net
 track.sendcloud.org
 seniorpeoplemeet.com
 tag.search.sensefuel.live
@@ -2427,6 +2439,7 @@ damoh.spiegel.de
 auth.split.io
 cdn.split.io
 sdk.split.io
+post.spmailtechnol.com
 api-2-0.spot.im
 seo.spot.im
 heads-fa.spotify.com
@@ -2493,6 +2506,7 @@ tabooporn.tv
 track.talabat.com
 audid-api.taobao.com
 guangguang.cloudvideocdn.taobao.com
+weeklyad.target.com
 tarteaucitron.io
 tawk.to
 www.tawk.to
@@ -2605,6 +2619,7 @@ aff.trypipedrive.com
 trytechnical.com
 tsbluebox.com
 ttgtmedia.com
+tuenti.com
 platform.tumblr.com
 srvcs.tumblr.com
 tunefindforfans.com
@@ -2618,7 +2633,6 @@ static.www.turnto.com
 tuyacn.com
 sentry.tuyacn.com
 pix2.services.tvn.pl
-tvpass.org
 a2.tvspielfilm.de
 cmp.tvspielfilm.de
 tw.cx
@@ -2635,6 +2649,7 @@ typekit.net
 data.ubi.com
 tracking.ubisoft.com
 ublock.org
+ucoz.com
 ui-portal.de
 ultimedia.com
 www.ultimedia.com

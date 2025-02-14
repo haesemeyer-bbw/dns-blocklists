@@ -15,13 +15,6 @@
       }
     },
     {
-      "PK": "ad-instantpage-i18n.tiktokv.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "ad-instantpage-sg.tiktokv.com",
       "action": {
         "do": 0,
@@ -71,13 +64,6 @@
       }
     },
     {
-      "PK": "ads-imapi.tiktok.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "ads-sg.tiktok.com",
       "action": {
         "do": 0,
@@ -114,13 +100,6 @@
     },
     {
       "PK": "ads-ttp2.us.tiktok.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "ads-useast2a.tiktok.com",
       "action": {
         "do": 0,
         "status": 1
@@ -303,6 +282,20 @@
     },
     {
       "PK": "frontier.byteoversea.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "frontier.tiktokv.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "frontier.tiktokv.us",
       "action": {
         "do": 0,
         "status": 1

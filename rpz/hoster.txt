@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1739462280 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1739518620 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 13 Feb 2025 15:58 UTC
-; Version: 2025.0213.1558.54
+; Last modified: 14 Feb 2025 07:37 UTC
+; Version: 2025.0214.0737.28
 ; Syntax: RPZ
-; Number of entries: 4274
+; Number of entries: 4308
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -25,6 +25,8 @@ blogspot.ae CNAME .
 *.blogspot.ae CNAME .
 yj.ae CNAME .
 *.yj.ae CNAME .
+blogspot.com.aero CNAME .
+*.blogspot.com.aero CNAME .
 dr.ag CNAME .
 *.dr.ag CNAME .
 freehost.ag CNAME .
@@ -137,6 +139,8 @@ blogspot.bg CNAME .
 *.blogspot.bg CNAME .
 free.bg CNAME .
 *.free.bg CNAME .
+blogspot.bio CNAME .
+*.blogspot.bio CNAME .
 1x.biz CNAME .
 *.1x.biz CNAME .
 atspace.biz CNAME .
@@ -217,6 +221,8 @@ tld.cc CNAME .
 *.tld.cc CNAME .
 wox.cc CNAME .
 *.wox.cc CNAME .
+blogspot.cf CNAME .
+*.blogspot.cf CNAME .
 vxiec.cfd CNAME .
 *.vxiec.cfd CNAME .
 blogspot.ch CNAME .
@@ -243,6 +249,8 @@ wapka.club CNAME .
 *.wapka.club CNAME .
 asia.cm CNAME .
 *.asia.cm CNAME .
+blogspot.cm CNAME .
+*.blogspot.cm CNAME .
 de.cm CNAME .
 *.de.cm CNAME .
 eu.cm CNAME .
@@ -255,6 +263,8 @@ ru.cm CNAME .
 *.ru.cm CNAME .
 akgoj.cn CNAME .
 *.akgoj.cn CNAME .
+blogspot.com.cn CNAME .
+*.blogspot.com.cn CNAME .
 duanwenzi.cn CNAME .
 *.duanwenzi.cn CNAME .
 tqhmu.cn CNAME .
@@ -267,6 +277,8 @@ zjxjmp.cn CNAME .
 *.zjxjmp.cn CNAME .
 2fh.co CNAME .
 *.2fh.co CNAME .
+blogspot.co CNAME .
+*.blogspot.co CNAME .
 carrd.co CNAME .
 *.carrd.co CNAME .
 blogspot.com.co CNAME .
@@ -827,6 +839,8 @@ codeanyapp.com CNAME .
 *.codeanyapp.com CNAME .
 collectblogs.com CNAME .
 *.collectblogs.com CNAME .
+blogspot.com.com CNAME .
+*.blogspot.com.com CNAME .
 comeze.com CNAME .
 *.comeze.com CNAME .
 comule.com CNAME .
@@ -2293,8 +2307,6 @@ blogspot.com.es CNAME .
 *.24.org.es CNAME .
 paginawebgratis.es CNAME .
 *.paginawebgratis.es CNAME .
-telecable.es CNAME .
-*.telecable.es CNAME .
 blogs.uv.es CNAME .
 *.blogs.uv.es CNAME .
 webgarden.es CNAME .
@@ -2673,6 +2685,8 @@ avalon-invest.in CNAME .
 *.avalon-invest.in CNAME .
 blogspot.in CNAME .
 *.blogspot.in CNAME .
+blogspot.co.in CNAME .
+*.blogspot.co.in CNAME .
 blogspot.com.in CNAME .
 *.blogspot.com.in CNAME .
 esel.in CNAME .
@@ -2733,6 +2747,8 @@ dcr.sehlat.io CNAME .
 *.dcr.sehlat.io CNAME .
 soup.io CNAME .
 *.soup.io CNAME .
+webflow.io CNAME .
+*.webflow.io CNAME .
 avablog.ir CNAME .
 *.avablog.ir CNAME .
 blog.ir CNAME .
@@ -3071,6 +3087,8 @@ clan.mn CNAME .
 *.clan.mn CNAME .
 muf.mobi CNAME .
 *.muf.mobi CNAME .
+blogspot.mr CNAME .
+*.blogspot.mr CNAME .
 blogspot.com.mt CNAME .
 *.blogspot.com.mt CNAME .
 24.mu CNAME .
@@ -3087,6 +3105,8 @@ webnode.mx CNAME .
 *.webnode.mx CNAME .
 blogspot.my CNAME .
 *.blogspot.my CNAME .
+blogspot.com.my CNAME .
+*.blogspot.com.my CNAME .
 0fees.net CNAME .
 *.0fees.net CNAME .
 one4u.0lx.net CNAME .
@@ -3141,6 +3161,8 @@ blogger-news.net CNAME .
 *.blogger-news.net CNAME .
 blogmaster.net CNAME .
 *.blogmaster.net CNAME .
+blogspot.net CNAME .
+*.blogspot.net CNAME .
 boards.net CNAME .
 *.boards.net CNAME .
 bplaced.net CNAME .
@@ -3395,6 +3417,8 @@ virtue.nu CNAME .
 *.virtue.nu CNAME .
 blogspot.co.nz CNAME .
 *.blogspot.co.nz CNAME .
+blogspot.om CNAME .
+*.blogspot.om CNAME .
 1sthost.org CNAME .
 *.1sthost.org CNAME .
 22web.org CNAME .
@@ -3413,6 +3437,8 @@ bloges.org CNAME .
 *.bloges.org CNAME .
 blogg.org CNAME .
 *.blogg.org CNAME .
+blogspot.org CNAME .
+*.blogspot.org CNAME .
 booru.org CNAME .
 *.booru.org CNAME .
 builtfree.org CNAME .
@@ -3565,6 +3591,8 @@ blog.pl CNAME .
 *.blog.pl CNAME .
 blogan.pl CNAME .
 *.blogan.pl CNAME .
+blogspot.pl CNAME .
+*.blogspot.pl CNAME .
 c.pl CNAME .
 *.c.pl CNAME .
 cba.pl CNAME .
@@ -4065,12 +4093,16 @@ online.tc CNAME .
 *.online.tc CNAME .
 top.tc CNAME .
 *.top.tc CNAME .
+blogspot.td CNAME .
+*.blogspot.td CNAME .
 gta.team CNAME .
 *.gta.team CNAME .
 beget.tech CNAME .
 *.beget.tech CNAME .
 xsl.tel CNAME .
 *.xsl.tel CNAME .
+blogspot.tk CNAME .
+*.blogspot.tk CNAME .
 dot.tk CNAME .
 *.dot.tk CNAME .
 24.tl CNAME .
@@ -4251,6 +4283,8 @@ gg123.vip CNAME .
 *.gg123.vip CNAME .
 xgo791266c.vip CNAME .
 *.xgo791266c.vip CNAME .
+blogspot.vn CNAME .
+*.blogspot.vn CNAME .
 webnode.vn CNAME .
 *.webnode.vn CNAME .
 m.vu CNAME .
