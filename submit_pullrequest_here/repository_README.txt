@@ -90,7 +90,7 @@ Hand brush - Cleans the Internet and protects your privacy! Blocks Ads, Tracking
 | Domains<br>Subdomains | [GH](lnkgh_d/light.txt) [GL](lnkgl_d/light.txt) [CB](lnkjd_d/light.txt) | Blocky (older than v0.23), Diversion (older than v5), OpenSnitch, PersonalBlocklist, pfBlockerNG |
 | Hosts | [GH](lnkgh_h/light.txt) [GL](lnkgl_h/light.txt) [CB](lnkjd_h/light.txt) | AdAway, uMatrix, DNS66, GasMask, NetGuard |
 | Hosts<br>Compressed | [GH](lnkgh_h/light-compressed.txt) [GL](lnkgl_h/light-compressed.txt) [CB](lnkjd_h/light-compressed.txt) | Hostfile, Linux, Windows |
-| Adblock | [GH](lnkgh_a/light.txt) [GL](lnkgl_a/light.txt) [CB](lnkjd_a/light.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock Origin, AdBlock, Adblock Plus, Opera, Vivaldi, Brave, AdNauseam, Little Snitch Mini |
+| Adblock | [GH](lnkgh_a/light.txt) [GL](lnkgl_a/light.txt) [CB](lnkjd_a/light.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock Origin, AdBlock, Brave (only in aggressive mode), AdNauseam, Little Snitch Mini |
 | DNSMasq | [GH](lnkgh_m/light.txt) [GL](lnkgl_m/light.txt) [CB](lnkjd_m/light.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
 | Wildcard<br>Asterisk | [GH](lnkgh_w/light.txt) [GL](lnkgl_w/light.txt) [CB](lnkjd_w/light.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, OPNsense, YogaDNS |
 | Wildcard<br>Domains | [GH](lnkgh_w/light-onlydomains.txt) [GL](lnkgl_w/light-onlydomains.txt) [CB](lnkjd_w/light-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |
@@ -115,7 +115,7 @@ Broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tr
 | Domains<br>Subdomains | [GH](lnkgh_d/multi.txt) [GL](lnkgl_d/multi.txt) [CB](lnkjd_d/multi.txt) | Blocky (older than v0.23), Diversion (older than v5), OpenSnitch, PersonalBlocklist, pfBlockerNG |
 | Hosts | [GH](lnkgh_h/multi.txt) [GL](lnkgl_h/multi.txt) [CB](lnkjd_h/multi.txt) | AdAway, uMatrix, DNS66, GasMask, NetGuard |
 | Hosts<br>Compressed | [GH](lnkgh_h/multi-compressed.txt) [GL](lnkgl_h/multi-compressed.txt) [CB](lnkjd_h/multi-compressed.txt) | Hostfile, Linux, Windows |
-| Adblock | [GH](lnkgh_a/multi.txt) [GL](lnkgl_a/multi.txt) [CB](lnkjd_a/multi.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock Origin, AdBlock, Adblock Plus, Opera, Vivaldi, Brave, AdNauseam, Little Snitch Mini |
+| Adblock | [GH](lnkgh_a/multi.txt) [GL](lnkgl_a/multi.txt) [CB](lnkjd_a/multi.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock Origin, AdBlock, Brave (only in aggressive mode), AdNauseam, Little Snitch Mini |
 | DNSMasq | [GH](lnkgh_m/multi.txt) [GL](lnkgl_m/multi.txt) [CB](lnkjd_m/multi.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
 | Wildcard<br>Asterisk | [GH](lnkgh_w/multi.txt) [GL](lnkgl_w/multi.txt) [CB](lnkjd_w/multi.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, OPNsense, YogaDNS |
 | Wildcard<br>Domains | [GH](lnkgh_w/multi-onlydomains.txt) [GL](lnkgl_w/multi-onlydomains.txt) [CB](lnkjd_w/multi-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |
@@ -136,7 +136,7 @@ Big broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate
 | Domains<br>Subdomains | [GH](lnkgh_d/pro.txt) [GL](lnkgl_d/pro.txt) [CB](lnkjd_d/pro.txt) | Blocky (older than v0.23), Diversion (older than v5), OpenSnitch, PersonalBlocklist, pfBlockerNG |
 | Hosts | [GH](lnkgh_h/pro.txt) [GL](lnkgl_h/pro.txt) [CB](lnkjd_h/pro.txt) | AdAway, uMatrix, DNS66, GasMask, NetGuard |
 | Hosts<br>Compressed | [GH](lnkgh_h/pro-compressed.txt) [GL](lnkgl_h/pro-compressed.txt) [CB](lnkjd_h/pro-compressed.txt) | Hostfile, Linux, Windows |
-| Adblock | [GH](lnkgh_a/pro.txt) [GL](lnkgl_a/pro.txt) [CB](lnkjd_a/pro.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock Origin, AdBlock, Adblock Plus, Opera, Vivaldi, Brave, AdNauseam, Little Snitch Mini |
+| Adblock | [GH](lnkgh_a/pro.txt) [GL](lnkgl_a/pro.txt) [CB](lnkjd_a/pro.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock Origin, AdBlock, Brave (only in aggressive mode), AdNauseam, Little Snitch Mini |
 | DNSMasq | [GH](lnkgh_m/pro.txt) [GL](lnkgl_m/pro.txt) [CB](lnkjd_m/pro.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
 | Wildcard<br>Asterisk | [GH](lnkgh_w/pro.txt) [GL](lnkgl_w/pro.txt) [CB](lnkjd_w/pro.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, OPNsense, YogaDNS |
 | Wildcard<br>Domains | [GH](lnkgh_w/pro-onlydomains.txt) [GL](lnkgl_w/pro-onlydomains.txt) [CB](lnkjd_w/pro-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |
@@ -150,7 +150,7 @@ Size-optimised version for DNS/Browser adblockers. This list only contains domai
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
-| Adblock | [GH](lnkgh_a/pro.mini.txt) [GL](lnkgl_a/pro.mini.txt) [CB](lnkjd_a/pro.mini.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock Origin, AdBlock, Adblock Plus, Opera, Vivaldi, Brave, AdNauseam, Little Snitch Mini |
+| Adblock | [GH](lnkgh_a/pro.mini.txt) [GL](lnkgl_a/pro.mini.txt) [CB](lnkjd_a/pro.mini.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock Origin, AdBlock, Brave (only in aggressive mode), AdNauseam, Little Snitch Mini |
 | DNSMasq | [GH](lnkgh_m/pro.mini.txt) [GL](lnkgl_m/pro.mini.txt) [CB](lnkjd_m/pro.mini.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
 | Wildcard<br>Asterisk | [GH](lnkgh_w/pro.mini.txt) [GL](lnkgl_w/pro.mini.txt) [CB](lnkjd_w/pro.mini.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, OPNsense, YogaDNS |
 | Wildcard<br>Domains | [GH](lnkgh_w/pro.mini-onlydomains.txt) [GL](lnkgl_w/pro.mini-onlydomains.txt) [CB](lnkjd_w/pro.mini-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |
@@ -175,7 +175,7 @@ Sweeper - Aggressive cleans the Internet and protects your privacy! Blocks Ads, 
 | Domains<br>Subdomains | [GH](lnkgh_d/pro.plus.txt) [GL](lnkgl_d/pro.plus.txt) [CB](lnkjd_d/pro.plus.txt) | Blocky (older than v0.23), Diversion (older than v5), OpenSnitch, PersonalBlocklist, pfBlockerNG |
 | Hosts | [GH](lnkgh_h/pro.plus.txt) [GL](lnkgl_h/pro.plus.txt) [CB](lnkjd_h/pro.plus.txt) | AdAway, uMatrix, DNS66, GasMask, NetGuard |
 | Hosts<br>Compressed | [GH](lnkgh_h/pro.plus-compressed.txt) [GL](lnkgl_h/pro.plus-compressed.txt) [CB](lnkjd_h/pro.plus-compressed.txt) | Hostfile, Linux, Windows |
-| Adblock | [GH](lnkgh_a/pro.plus.txt) [GL](lnkgl_a/pro.plus.txt) [CB](lnkjd_a/pro.plus.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock Origin, AdBlock, Adblock Plus, Opera, Vivaldi, Brave, AdNauseam |
+| Adblock | [GH](lnkgh_a/pro.plus.txt) [GL](lnkgl_a/pro.plus.txt) [CB](lnkjd_a/pro.plus.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock Origin, AdBlock, Brave (only in aggressive mode), AdNauseam |
 | DNSMasq | [GH](lnkgh_m/pro.plus.txt) [GL](lnkgl_m/pro.plus.txt) [CB](lnkjd_m/pro.plus.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
 | Wildcard<br>Asterisk | [GH](lnkgh_w/pro.plus.txt) [GL](lnkgl_w/pro.plus.txt) [CB](lnkjd_w/pro.plus.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, OPNsense, YogaDNS |
 | Wildcard<br>Domains | [GH](lnkgh_w/pro.plus-onlydomains.txt) [GL](lnkgl_w/pro.plus-onlydomains.txt) [CB](lnkjd_w/pro.plus-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |
@@ -189,7 +189,7 @@ Size-optimised version for DNS/Browser adblockers. This list only contains domai
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
-| Adblock | [GH](lnkgh_a/pro.plus.mini.txt) [GL](lnkgl_a/pro.plus.mini.txt) [CB](lnkjd_a/pro.plus.mini.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock Origin, AdBlock, Adblock Plus, Opera, Vivaldi, Brave, AdNauseam, Little Snitch Mini |
+| Adblock | [GH](lnkgh_a/pro.plus.mini.txt) [GL](lnkgl_a/pro.plus.mini.txt) [CB](lnkjd_a/pro.plus.mini.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock Origin, AdBlock, Brave (only in aggressive mode), AdNauseam, Little Snitch Mini |
 | DNSMasq | [GH](lnkgh_m/pro.plus.mini.txt) [GL](lnkgl_m/pro.plus.mini.txt) [CB](lnkjd_m/pro.plus.mini.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
 | Wildcard<br>Asterisk | [GH](lnkgh_w/pro.plus.mini.txt) [GL](lnkgl_w/pro.plus.mini.txt) [CB](lnkjd_w/pro.plus.mini.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, OPNsense, YogaDNS |
 | Wildcard<br>Domains | [GH](lnkgh_w/pro.plus.mini-onlydomains.txt) [GL](lnkgl_w/pro.plus.mini-onlydomains.txt) [CB](lnkjd_w/pro.plus.mini-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |
@@ -223,7 +223,7 @@ Ultimate Sweeper - Strictly cleans the Internet and protects your privacy! Block
 | Domains<br>Subdomains | [GH](lnkgh_d/ultimate.txt) [GL](lnkgl_d/ultimate.txt) [CB](lnkjd_d/ultimate.txt) | Blocky (older than v0.23), Diversion (older than v5), OpenSnitch, PersonalBlocklist, pfBlockerNG |
 | Hosts | [GH](lnkgh_h/ultimate.txt) [GL](lnkgl_h/ultimate.txt) [CB](lnkjd_h/ultimate.txt) | AdAway, uMatrix, DNS66, GasMask, NetGuard |
 | Hosts<br>Compressed | [GH](lnkgh_h/ultimate-compressed.txt) [GL](lnkgl_h/ultimate-compressed.txt) [CB](lnkjd_h/ultimate-compressed.txt) | Hostfile, Linux, Windows |
-| Adblock | [GH](lnkgh_a/ultimate.txt) [GL](lnkgl_a/ultimate.txt) [CB](lnkjd_a/ultimate.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock Origin, AdBlock, Adblock Plus, Opera, Vivaldi, Brave, AdNauseam |
+| Adblock | [GH](lnkgh_a/ultimate.txt) [GL](lnkgl_a/ultimate.txt) [CB](lnkjd_a/ultimate.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock Origin, AdBlock, Brave (only in aggressive mode), AdNauseam |
 | DNSMasq | [GH](lnkgh_m/ultimate.txt) [GL](lnkgl_m/ultimate.txt) [CB](lnkjd_m/ultimate.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
 | Wildcard<br>Asterisk | [GH](lnkgh_w/ultimate.txt) [GL](lnkgl_w/ultimate.txt) [CB](lnkjd_w/ultimate.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, OPNsense, YogaDNS |
 | Wildcard<br>Domains | [GH](lnkgh_w/ultimate-onlydomains.txt) [GL](lnkgl_w/ultimate-onlydomains.txt) [CB](lnkjd_w/ultimate-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |
@@ -237,7 +237,7 @@ Size-optimised version for DNS/Browser adblockers. This list only contains domai
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
-| Adblock | [GH](lnkgh_a/ultimate.mini.txt) [GL](lnkgl_a/ultimate.mini.txt) [CB](lnkjd_a/ultimate.mini.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock Origin, AdBlock, Adblock Plus, Opera, Vivaldi, Brave, AdNauseam, Little Snitch Mini |
+| Adblock | [GH](lnkgh_a/ultimate.mini.txt) [GL](lnkgl_a/ultimate.mini.txt) [CB](lnkjd_a/ultimate.mini.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock Origin, AdBlock, Brave (only in aggressive mode), AdNauseam, Little Snitch Mini |
 | DNSMasq | [GH](lnkgh_m/ultimate.mini.txt) [GL](lnkgl_m/ultimate.mini.txt) [CB](lnkjd_m/ultimate.mini.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
 | Wildcard<br>Asterisk | [GH](lnkgh_w/ultimate.mini.txt) [GL](lnkgl_w/ultimate.mini.txt) [CB](lnkjd_w/ultimate.mini.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, OPNsense, YogaDNS |
 | Wildcard<br>Domains | [GH](lnkgh_w/ultimate.mini-onlydomains.txt) [GL](lnkgl_w/ultimate.mini-onlydomains.txt) [CB](lnkjd_w/ultimate.mini-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |
@@ -259,7 +259,7 @@ A blocklist for blocking fake stores, -streaming, rip-offs, cost traps and co.
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
-| Adblock | [GH](lnkgh_a/fake.txt) [GL](lnkgl_a/fake.txt) [CB](lnkjd_a/fake.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock Origin, AdBlock, Adblock Plus, Opera, Vivaldi, Brave, AdNauseam, Little Snitch Mini |
+| Adblock | [GH](lnkgh_a/fake.txt) [GL](lnkgl_a/fake.txt) [CB](lnkjd_a/fake.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock Origin, AdBlock, Brave (only in aggressive mode), AdNauseam, Little Snitch Mini |
 | DNSMasq | [GH](lnkgh_m/fake.txt) [GL](lnkgl_m/fake.txt) [CB](lnkjd_m/fake.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
 | Wildcard<br>Asterisk | [GH](lnkgh_w/fake.txt) [GL](lnkgl_w/fake.txt) [CB](lnkjd_w/fake.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, OPNsense, YogaDNS |
 | Wildcard<br>Domains | [GH](lnkgh_w/fake-onlydomains.txt) [GL](lnkgl_w/fake-onlydomains.txt) [CB](lnkjd_w/fake-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |
@@ -284,7 +284,7 @@ A blocklist for annoying and malicious pop-up ads.
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
-| Adblock | [GH](lnkgh_a/popupads.txt) [GL](lnkgl_a/popupads.txt) [CB](lnkjd_a/popupads.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock Origin, AdBlock, Adblock Plus, Opera, Vivaldi, Brave, AdNauseam, Little Snitch Mini |
+| Adblock | [GH](lnkgh_a/popupads.txt) [GL](lnkgl_a/popupads.txt) [CB](lnkjd_a/popupads.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock Origin, AdBlock, Brave (only in aggressive mode), AdNauseam, Little Snitch Mini |
 | DNSMasq | [GH](lnkgh_m/popupads.txt) [GL](lnkgl_m/popupads.txt) [CB](lnkjd_m/popupads.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
 | Wildcard<br>Asterisk | [GH](lnkgh_w/popupads.txt) [GL](lnkgl_w/popupads.txt) [CB](lnkjd_w/popupads.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, OPNsense, YogaDNS |
 | Wildcard<br>Domains | [GH](lnkgh_w/popupads-onlydomains.txt) [GL](lnkgl_w/popupads-onlydomains.txt) [CB](lnkjd_w/popupads-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |
@@ -309,7 +309,7 @@ A blocklist for blocking malware, cryptojacking, scam, spam and phishing. Blocks
 | Domains<br>Subdomains | [GH](lnkgh_d/tif.txt) [GL](lnkgl_d/tif.txt) [CB](lnkjd_d/tif.txt) | Blocky (older than v0.23), Diversion (older than v5), OpenSnitch, PersonalBlocklist, pfBlockerNG |
 | Hosts | [GH](lnkgh_h/tif.txt) [GL](lnkgl_h/tif.txt) [CB](lnkjd_h/tif.txt) | AdAway, uMatrix, DNS66, GasMask, NetGuard |
 | Hosts<br>Compressed | [GH](lnkgh_h/tif-compressed.txt) [GL](lnkgl_h/tif-compressed.txt) [CB](lnkjd_h/tif-compressed.txt) | Hostfile, Linux, Windows |
-| Adblock | [GH](lnkgh_a/tif.txt) [GL](lnkgl_a/tif.txt) [CB](lnkjd_a/tif.txt) | Pi-hole, ~~AdGuard~~ (too big!), AdGuard Home, eBlocker, uBlock Origin, AdBlock, Adblock Plus, Opera, Vivaldi, Brave, AdNauseam |
+| Adblock | [GH](lnkgh_a/tif.txt) [GL](lnkgl_a/tif.txt) [CB](lnkjd_a/tif.txt) | Pi-hole, ~~AdGuard~~ (too big!), AdGuard Home, eBlocker, uBlock Origin, AdBlock, Brave (only in aggressive mode), AdNauseam |
 | DNSMasq | [GH](lnkgh_m/tif.txt) [GL](lnkgl_m/tif.txt) [CB](lnkjd_m/tif.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
 | Wildcard<br>Asterisk | [GH](lnkgh_w/tif.txt) [GL](lnkgl_w/tif.txt) [CB](lnkjd_w/tif.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, OPNsense, YogaDNS |
 | Wildcard<br>Domains | [GH](lnkgh_w/tif-onlydomains.txt) [GL](lnkgl_w/tif-onlydomains.txt) [CB](lnkjd_w/tif-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |
@@ -329,7 +329,7 @@ A medium version of the Threat Intelligence Feeds list. Designed for Adblockers 
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
-| Adblock | [GH](lnkgh_a/tif.medium.txt) [GL](lnkgl_a/tif.medium.txt) [CB](lnkjd_a/tif.medium.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock Origin, AdBlock, Adblock Plus, Opera, Vivaldi, Brave, AdNauseam, Little Snitch Mini |
+| Adblock | [GH](lnkgh_a/tif.medium.txt) [GL](lnkgl_a/tif.medium.txt) [CB](lnkjd_a/tif.medium.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock Origin, AdBlock, Brave (only in aggressive mode), AdNauseam, Little Snitch Mini |
 | DNSMasq | [GH](lnkgh_m/tif.medium.txt) [GL](lnkgl_m/tif.medium.txt) [CB](lnkjd_m/tif.medium.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
 | Wildcard<br>Asterisk | [GH](lnkgh_w/tif.medium.txt) [GL](lnkgl_w/tif.medium.txt) [CB](lnkjd_w/tif.medium.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, OPNsense, YogaDNS |
 | Wildcard<br>Domains | [GH](lnkgh_w/tif.medium-onlydomains.txt) [GL](lnkgl_w/tif.medium-onlydomains.txt) [CB](lnkjd_w/tif.medium-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |
@@ -349,7 +349,7 @@ A size-optimised version of the Threat Intelligence Feeds Medium list. Designed 
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
-| Adblock | [GH](lnkgh_a/tif.mini.txt) [GL](lnkgl_a/tif.mini.txt) [CB](lnkjd_a/tif.mini.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock Origin, AdBlock, Adblock Plus, Opera, Vivaldi, Brave, AdNauseam, Little Snitch Mini |
+| Adblock | [GH](lnkgh_a/tif.mini.txt) [GL](lnkgl_a/tif.mini.txt) [CB](lnkjd_a/tif.mini.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock Origin, AdBlock, Brave (only in aggressive mode), AdNauseam, Little Snitch Mini |
 | DNSMasq | [GH](lnkgh_m/tif.mini.txt) [GL](lnkgl_m/tif.mini.txt) [CB](lnkjd_m/tif.mini.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
 | Wildcard<br>Asterisk | [GH](lnkgh_w/tif.mini.txt) [GL](lnkgl_w/tif.mini.txt) [CB](lnkjd_w/tif.mini.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, OPNsense, YogaDNS |
 | Wildcard<br>Domains | [GH](lnkgh_w/tif.mini-onlydomains.txt) [GL](lnkgl_w/tif.mini-onlydomains.txt) [CB](lnkjd_w/tif.mini-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |
@@ -397,7 +397,7 @@ Prevent methods to bypass your DNS.
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
-| Adblock | [GH](lnkgh_a/doh-vpn-proxy-bypass.txt) [GL](lnkgl_a/doh-vpn-proxy-bypass.txt) [CB](lnkjd_a/doh-vpn-proxy-bypass.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock Origin, AdBlock, Adblock Plus, Opera, Vivaldi, Brave, AdNauseam, Little Snitch Mini |
+| Adblock | [GH](lnkgh_a/doh-vpn-proxy-bypass.txt) [GL](lnkgl_a/doh-vpn-proxy-bypass.txt) [CB](lnkjd_a/doh-vpn-proxy-bypass.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock Origin, AdBlock, Brave (only in aggressive mode), AdNauseam, Little Snitch Mini |
 | DNSMasq | [GH](lnkgh_m/doh-vpn-proxy-bypass.txt) [GL](lnkgl_m/doh-vpn-proxy-bypass.txt) [CB](lnkjd_m/doh-vpn-proxy-bypass.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
 | Wildcard<br>Asterisk | [GH](lnkgh_w/doh-vpn-proxy-bypass.txt) [GL](lnkgl_w/doh-vpn-proxy-bypass.txt) [CB](lnkjd_w/doh-vpn-proxy-bypass.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, OPNsense, YogaDNS |
 | Wildcard<br>Domains | [GH](lnkgh_w/doh-vpn-proxy-bypass-onlydomains.txt) [GL](lnkgl_w/doh-vpn-proxy-bypass-onlydomains.txt) [CB](lnkjd_w/doh-vpn-proxy-bypass-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |
@@ -418,7 +418,7 @@ Prevent methods to bypass your DNS.
 | Domains<br>Subdomains | [GH](lnkgh_d/doh.txt) [GL](lnkgl_d/doh.txt) [CB](lnkjd_d/doh.txt) | Blocky (older than v0.23), Diversion (older than v5), OpenSnitch, PersonalBlocklist, pfBlockerNG |
 | Hosts | [GH](lnkgh_h/doh.txt) [GL](lnkgl_h/doh.txt) [CB](lnkjd_h/doh.txt) | AdAway, uMatrix, DNS66, GasMask, NetGuard |
 | Hosts<br>Compressed | [GH](lnkgh_h/doh-compressed.txt) [GL](lnkgl_h/doh-compressed.txt) [CB](lnkjd_h/doh-compressed.txt) | Hostfile, Linux, Windows |
-| Adblock | [GH](lnkgh_a/doh.txt) [GL](lnkgl_a/doh.txt) [CB](lnkjd_a/doh.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock Origin, AdBlock, Adblock Plus, Opera, Vivaldi, Brave, AdNauseam, Little Snitch Mini |
+| Adblock | [GH](lnkgh_a/doh.txt) [GL](lnkgl_a/doh.txt) [CB](lnkjd_a/doh.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock Origin, AdBlock, Brave (only in aggressive mode), AdNauseam, Little Snitch Mini |
 | DNSMasq | [GH](lnkgh_m/doh.txt) [GL](lnkgl_m/doh.txt) [CB](lnkjd_m/doh.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
 | Wildcard<br>Asterisk | [GH](lnkgh_w/doh.txt) [GL](lnkgl_w/doh.txt) [CB](lnkjd_w/doh.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, OPNsense, YogaDNS |
 | Wildcard<br>Domains | [GH](lnkgh_w/doh-onlydomains.txt) [GL](lnkgl_w/doh-onlydomains.txt) [CB](lnkjd_w/doh-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |
@@ -448,7 +448,7 @@ A blocklist for blocking search engines that do not support Safesearch.
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
-| Adblock | [GH](lnkgh_a/nosafesearch.txt) [GL](lnkgl_a/nosafesearch.txt) [CB](lnkjd_a/nosafesearch.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock Origin, AdBlock, Adblock Plus, Opera, Vivaldi, Brave, AdNauseam, Little Snitch Mini |
+| Adblock | [GH](lnkgh_a/nosafesearch.txt) [GL](lnkgl_a/nosafesearch.txt) [CB](lnkjd_a/nosafesearch.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock Origin, AdBlock, Brave (only in aggressive mode), AdNauseam, Little Snitch Mini |
 | DNSMasq | [GH](lnkgh_m/nosafesearch.txt) [GL](lnkgl_m/nosafesearch.txt) [CB](lnkjd_m/nosafesearch.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
 | Wildcard<br>Asterisk | [GH](lnkgh_w/nosafesearch.txt) [GL](lnkgl_w/nosafesearch.txt) [CB](lnkjd_w/nosafesearch.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, OPNsense, YogaDNS |
 | Wildcard<br>Domains | [GH](lnkgh_w/nosafesearch-onlydomains.txt) [GL](lnkgl_w/nosafesearch-onlydomains.txt) [CB](lnkjd_w/nosafesearch-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |
@@ -470,7 +470,7 @@ A blocklist for blocking dynamic DNS services to protect against malicious use i
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
-| Adblock | [GH](lnkgh_a/dyndns.txt) [GL](lnkgl_a/dyndns.txt) [CB](lnkjd_a/dyndns.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock Origin, AdBlock, Adblock Plus, Opera, Vivaldi, Brave, AdNauseam, Little Snitch Mini |
+| Adblock | [GH](lnkgh_a/dyndns.txt) [GL](lnkgl_a/dyndns.txt) [CB](lnkjd_a/dyndns.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock Origin, AdBlock, Brave (only in aggressive mode), AdNauseam, Little Snitch Mini |
 | DNSMasq | [GH](lnkgh_m/dyndns.txt) [GL](lnkgl_m/dyndns.txt) [CB](lnkjd_m/dyndns.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
 | Wildcard<br>Asterisk | [GH](lnkgh_w/dyndns.txt) [GL](lnkgl_w/dyndns.txt) [CB](lnkjd_w/dyndns.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, OPNsense, YogaDNS |
 | Wildcard<br>Domains | [GH](lnkgh_w/dyndns-onlydomains.txt) [GL](lnkgl_w/dyndns-onlydomains.txt) [CB](lnkjd_w/dyndns-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |
@@ -492,7 +492,7 @@ A blocklist for blocking known hosters that also host badware via user content t
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
-| Adblock | [GH](lnkgh_a/hoster.txt) [GL](lnkgl_a/hoster.txt) [CB](lnkjd_a/hoster.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock Origin, AdBlock, Adblock Plus, Opera, Vivaldi, Brave, AdNauseam, Little Snitch Mini |
+| Adblock | [GH](lnkgh_a/hoster.txt) [GL](lnkgl_a/hoster.txt) [CB](lnkjd_a/hoster.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock Origin, AdBlock, Brave (only in aggressive mode), AdNauseam, Little Snitch Mini |
 | DNSMasq | [GH](lnkgh_m/hoster.txt) [GL](lnkgl_m/hoster.txt) [CB](lnkjd_m/hoster.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
 | Wildcard<br>Asterisk | [GH](lnkgh_w/hoster.txt) [GL](lnkgl_w/hoster.txt) [CB](lnkjd_w/hoster.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, OPNsense, YogaDNS |
 | Wildcard<br>Domains | [GH](lnkgh_w/hoster-onlydomains.txt) [GL](lnkgl_w/hoster-onlydomains.txt) [CB](lnkjd_w/hoster-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |
@@ -545,7 +545,7 @@ Blocks websites and services that are mainly used for the illegal distribution o
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
-| Adblock | [GH](lnkgh_a/anti.piracy.txt) [GL](lnkgl_a/anti.piracy.txt) [CB](lnkjd_a/anti.piracy.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock Origin, AdBlock, Adblock Plus, Opera, Vivaldi, Brave, AdNauseam, Little Snitch Mini |
+| Adblock | [GH](lnkgh_a/anti.piracy.txt) [GL](lnkgl_a/anti.piracy.txt) [CB](lnkjd_a/anti.piracy.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock Origin, AdBlock, Brave (only in aggressive mode), AdNauseam, Little Snitch Mini |
 | DNSMasq | [GH](lnkgh_m/anti.piracy.txt) [GL](lnkgl_m/anti.piracy.txt) [CB](lnkjd_m/anti.piracy.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
 | Wildcard<br>Asterisk | [GH](lnkgh_w/anti.piracy.txt) [GL](lnkgl_w/anti.piracy.txt) [CB](lnkjd_w/anti.piracy.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, OPNsense, YogaDNS |
 | Wildcard<br>Domains | [GH](lnkgh_w/anti.piracy-onlydomains.txt) [GL](lnkgl_w/anti.piracy-onlydomains.txt) [CB](lnkjd_w/anti.piracy-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |
@@ -567,7 +567,7 @@ Blocks gambling content.
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
-| Adblock | [GH](lnkgh_a/gambling.txt) [GL](lnkgl_a/gambling.txt) [CB](lnkjd_a/gambling.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock Origin, AdBlock, Adblock Plus, Opera, Vivaldi, Brave, AdNauseam |
+| Adblock | [GH](lnkgh_a/gambling.txt) [GL](lnkgl_a/gambling.txt) [CB](lnkjd_a/gambling.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock Origin, AdBlock, Brave (only in aggressive mode), AdNauseam |
 | DNSMasq | [GH](lnkgh_m/gambling.txt) [GL](lnkgl_m/gambling.txt) [CB](lnkjd_m/gambling.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
 | Wildcard<br>Asterisk | [GH](lnkgh_w/gambling.txt) [GL](lnkgl_w/gambling.txt) [CB](lnkjd_w/gambling.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, OPNsense, YogaDNS |
 | Wildcard<br>Domains | [GH](lnkgh_w/gambling-onlydomains.txt) [GL](lnkgl_w/gambling-onlydomains.txt) [CB](lnkjd_w/gambling-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |
@@ -587,7 +587,7 @@ A medium version of the Gambling list. Designed for Adblockers that have problem
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
-| Adblock | [GH](lnkgh_a/gambling.medium.txt) [GL](lnkgl_a/gambling.medium.txt) [CB](lnkjd_a/gambling.medium.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock Origin, AdBlock, Adblock Plus, Opera, Vivaldi, Brave, AdNauseam, Little Snitch Mini |
+| Adblock | [GH](lnkgh_a/gambling.medium.txt) [GL](lnkgl_a/gambling.medium.txt) [CB](lnkjd_a/gambling.medium.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock Origin, AdBlock, Brave (only in aggressive mode), AdNauseam, Little Snitch Mini |
 | DNSMasq | [GH](lnkgh_m/gambling.medium.txt) [GL](lnkgl_m/gambling.medium.txt) [CB](lnkjd_m/gambling.medium.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
 | Wildcard<br>Asterisk | [GH](lnkgh_w/gambling.medium.txt) [GL](lnkgl_w/gambling.medium.txt) [CB](lnkjd_w/gambling.medium.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, OPNsense, YogaDNS |
 | Wildcard<br>Domains | [GH](lnkgh_w/gambling.medium-onlydomains.txt) [GL](lnkgl_w/gambling.medium-onlydomains.txt) [CB](lnkjd_w/gambling.medium-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |
@@ -607,7 +607,7 @@ A size-optimised version of the Gambling Medium list. This list only contains do
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
-| Adblock | [GH](lnkgh_a/gambling.mini.txt) [GL](lnkgl_a/gambling.mini.txt) [CB](lnkjd_a/gambling.mini.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock Origin, AdBlock, Adblock Plus, Opera, Vivaldi, Brave, AdNauseam, Little Snitch Mini |
+| Adblock | [GH](lnkgh_a/gambling.mini.txt) [GL](lnkgl_a/gambling.mini.txt) [CB](lnkjd_a/gambling.mini.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock Origin, AdBlock, Brave (only in aggressive mode), AdNauseam, Little Snitch Mini |
 | DNSMasq | [GH](lnkgh_m/gambling.mini.txt) [GL](lnkgl_m/gambling.mini.txt) [CB](lnkjd_m/gambling.mini.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
 | Wildcard<br>Asterisk | [GH](lnkgh_w/gambling.mini.txt) [GL](lnkgl_w/gambling.mini.txt) [CB](lnkjd_w/gambling.mini.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, OPNsense, YogaDNS |
 | Wildcard<br>Domains | [GH](lnkgh_w/gambling.mini-onlydomains.txt) [GL](lnkgl_w/gambling.mini-onlydomains.txt) [CB](lnkjd_w/gambling.mini-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |
