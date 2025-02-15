@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1739518620 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1739633640 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 14 Feb 2025 07:37 UTC
-; Version: 2025.0214.0737.28
+; Last modified: 15 Feb 2025 15:34 UTC
+; Version: 2025.0215.1534.48
 ; Syntax: RPZ
-; Number of entries: 4308
+; Number of entries: 4254
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -25,8 +25,6 @@ blogspot.ae CNAME .
 *.blogspot.ae CNAME .
 yj.ae CNAME .
 *.yj.ae CNAME .
-blogspot.com.aero CNAME .
-*.blogspot.com.aero CNAME .
 dr.ag CNAME .
 *.dr.ag CNAME .
 freehost.ag CNAME .
@@ -119,20 +117,12 @@ tuna.be CNAME .
 *.tuna.be CNAME .
 webnode.be CNAME .
 *.webnode.be CNAME .
-arayublog.best CNAME .
-*.arayublog.best CNAME .
-befreetofly.best CNAME .
-*.befreetofly.best CNAME .
 fanwestdoll.best CNAME .
 *.fanwestdoll.best CNAME .
 hormoud.best CNAME .
 *.hormoud.best CNAME .
 mkexperiment.best CNAME .
 *.mkexperiment.best CNAME .
-mygoosa.best CNAME .
-*.mygoosa.best CNAME .
-victorcilia.best CNAME .
-*.victorcilia.best CNAME .
 blog.bg CNAME .
 *.blog.bg CNAME .
 blogspot.bg CNAME .
@@ -385,6 +375,8 @@ blog.163.com CNAME .
 *.blog.163.com CNAME .
 16clouds.com CNAME .
 *.16clouds.com CNAME .
+16mb.com CNAME .
+*.16mb.com CNAME .
 1accesshost.com CNAME .
 *.1accesshost.com CNAME .
 1apps.com CNAME .
@@ -1819,8 +1811,6 @@ wifeo.com CNAME .
 *.wifeo.com CNAME .
 win-blog.com CNAME .
 *.win-blog.com CNAME .
-wix.com CNAME .
-*.wix.com CNAME .
 wixsite.com CNAME .
 *.wixsite.com CNAME .
 wizzardsblog.com CNAME .
@@ -2685,8 +2675,6 @@ avalon-invest.in CNAME .
 *.avalon-invest.in CNAME .
 blogspot.in CNAME .
 *.blogspot.in CNAME .
-blogspot.co.in CNAME .
-*.blogspot.co.in CNAME .
 blogspot.com.in CNAME .
 *.blogspot.com.in CNAME .
 esel.in CNAME .
@@ -2887,8 +2875,6 @@ nl.kg CNAME .
 *.nl.kg CNAME .
 pt.kg CNAME .
 *.pt.kg CNAME .
-focal.us.kg CNAME .
-*.focal.us.kg CNAME .
 de.ki CNAME .
 *.de.ki CNAME .
 eu.ki CNAME .
@@ -3087,8 +3073,6 @@ clan.mn CNAME .
 *.clan.mn CNAME .
 muf.mobi CNAME .
 *.muf.mobi CNAME .
-blogspot.mr CNAME .
-*.blogspot.mr CNAME .
 blogspot.com.mt CNAME .
 *.blogspot.com.mt CNAME .
 24.mu CNAME .
@@ -3417,8 +3401,6 @@ virtue.nu CNAME .
 *.virtue.nu CNAME .
 blogspot.co.nz CNAME .
 *.blogspot.co.nz CNAME .
-blogspot.om CNAME .
-*.blogspot.om CNAME .
 1sthost.org CNAME .
 *.1sthost.org CNAME .
 22web.org CNAME .
@@ -3637,8 +3619,6 @@ y0.pl CNAME .
 *.y0.pl CNAME .
 avalon-invest.pro CNAME .
 *.avalon-invest.pro CNAME .
-bitgets-g.pro CNAME .
-*.bitgets-g.pro CNAME .
 site.pro CNAME .
 *.site.pro CNAME .
 biz.ps CNAME .
@@ -3771,8 +3751,6 @@ airself.shop CNAME .
 *.airself.shop CNAME .
 akkido.shop CNAME .
 *.akkido.shop CNAME .
-alphaperson.shop CNAME .
-*.alphaperson.shop CNAME .
 annualhuman.shop CNAME .
 *.annualhuman.shop CNAME .
 asiaal.shop CNAME .
@@ -3837,8 +3815,6 @@ dogsgarden.shop CNAME .
 *.dogsgarden.shop CNAME .
 domepaosell.shop CNAME .
 *.domepaosell.shop CNAME .
-dotcatalog.shop CNAME .
-*.dotcatalog.shop CNAME .
 downfall.shop CNAME .
 *.downfall.shop CNAME .
 drugpoint.shop CNAME .
@@ -3865,8 +3841,6 @@ finassalonboutique.shop CNAME .
 *.finassalonboutique.shop CNAME .
 findarea.shop CNAME .
 *.findarea.shop CNAME .
-finlandfax.shop CNAME .
-*.finlandfax.shop CNAME .
 fishmeet.shop CNAME .
 *.fishmeet.shop CNAME .
 fitegirlsboutique.shop CNAME .
@@ -3881,8 +3855,6 @@ gamblerschoiceclothing.shop CNAME .
 *.gamblerschoiceclothing.shop CNAME .
 georgiatwo.shop CNAME .
 *.georgiatwo.shop CNAME .
-germanvisit.shop CNAME .
-*.germanvisit.shop CNAME .
 godscience.shop CNAME .
 *.godscience.shop CNAME .
 goodcosts.shop CNAME .
@@ -3897,20 +3869,14 @@ harise.shop CNAME .
 *.harise.shop CNAME .
 hostmeans.shop CNAME .
 *.hostmeans.shop CNAME .
-hyoge.shop CNAME .
-*.hyoge.shop CNAME .
 ispfew.shop CNAME .
 *.ispfew.shop CNAME .
 ivinterest.shop CNAME .
 *.ivinterest.shop CNAME .
-jma-eshop.shop CNAME .
-*.jma-eshop.shop CNAME .
 jobsms.shop CNAME .
 *.jobsms.shop CNAME .
 jrago.shop CNAME .
 *.jrago.shop CNAME .
-kadoke.shop CNAME .
-*.kadoke.shop CNAME .
 kagure.shop CNAME .
 *.kagure.shop CNAME .
 kamiha.shop CNAME .
@@ -3927,18 +3893,12 @@ landmen.shop CNAME .
 *.landmen.shop CNAME .
 loanstatus.shop CNAME .
 *.loanstatus.shop CNAME .
-lovegarden.shop CNAME .
-*.lovegarden.shop CNAME .
 makine.shop CNAME .
 *.makine.shop CNAME .
 mapsweight.shop CNAME .
 *.mapsweight.shop CNAME .
 marrieduse.shop CNAME .
 *.marrieduse.shop CNAME .
-miuraa.shop CNAME .
-*.miuraa.shop CNAME .
-murata.shop CNAME .
-*.murata.shop CNAME .
 namecut.shop CNAME .
 *.namecut.shop CNAME .
 netbrowser.shop CNAME .
@@ -3949,8 +3909,6 @@ nyccenter.shop CNAME .
 *.nyccenter.shop CNAME .
 officialcity.shop CNAME .
 *.officialcity.shop CNAME .
-ok-store.shop CNAME .
-*.ok-store.shop CNAME .
 onlineweb.shop CNAME .
 *.onlineweb.shop CNAME .
 openinglook.shop CNAME .
@@ -3961,8 +3919,6 @@ phonesport.shop CNAME .
 *.phonesport.shop CNAME .
 pokemo.shop CNAME .
 *.pokemo.shop CNAME .
-popunit.shop CNAME .
-*.popunit.shop CNAME .
 refurbished-us.shop CNAME .
 *.refurbished-us.shop CNAME .
 remoteband.shop CNAME .
@@ -3973,8 +3929,6 @@ rubberphone.shop CNAME .
 *.rubberphone.shop CNAME .
 samurei.shop CNAME .
 *.samurei.shop CNAME .
-sankya.shop CNAME .
-*.sankya.shop CNAME .
 sapabayeshops.shop CNAME .
 *.sapabayeshops.shop CNAME .
 schooltype.shop CNAME .
@@ -3983,8 +3937,6 @@ seeingip.shop CNAME .
 *.seeingip.shop CNAME .
 shotyellow.shop CNAME .
 *.shotyellow.shop CNAME .
-silverlike.shop CNAME .
-*.silverlike.shop CNAME .
 skireason.shop CNAME .
 *.skireason.shop CNAME .
 soundstate.shop CNAME .
@@ -3997,8 +3949,6 @@ teenradio.shop CNAME .
 *.teenradio.shop CNAME .
 timeactive.shop CNAME .
 *.timeactive.shop CNAME .
-tohoke.shop CNAME .
-*.tohoke.shop CNAME .
 toisi.shop CNAME .
 *.toisi.shop CNAME .
 tokusi.shop CNAME .
@@ -4093,16 +4043,12 @@ online.tc CNAME .
 *.online.tc CNAME .
 top.tc CNAME .
 *.top.tc CNAME .
-blogspot.td CNAME .
-*.blogspot.td CNAME .
 gta.team CNAME .
 *.gta.team CNAME .
 beget.tech CNAME .
 *.beget.tech CNAME .
 xsl.tel CNAME .
 *.xsl.tel CNAME .
-blogspot.tk CNAME .
-*.blogspot.tk CNAME .
 dot.tk CNAME .
 *.dot.tk CNAME .
 24.tl CNAME .

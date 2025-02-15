@@ -1,5 +1,9 @@
 # Domains to be added only to the ultimate list.
 
+# https://github.com/hagezi/dns-blocklists/issues/5205
+pro.ip-api.com
+ip-api.com
+
 # https://github.com/hagezi/dns-blocklists/issues/4900
 applicationinsights.io
 loganalytics.io

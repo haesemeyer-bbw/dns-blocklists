@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1739550840 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1739633820 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 14 Feb 2025 16:34 UTC
-; Version: 2025.0214.1634.49
+; Last modified: 15 Feb 2025 15:37 UTC
+; Version: 2025.0215.1537.15
 ; Syntax: RPZ
-; Number of entries: 7466
+; Number of entries: 7480
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -92,6 +92,8 @@ wirevpn.app CNAME .
 *.wirevpn.app CNAME .
 dns.redhosting.com.ar CNAME .
 *.dns.redhosting.com.ar CNAME .
+hugeph.art CNAME .
+*.hugeph.art CNAME .
 dns.wang.art CNAME .
 *.dns.wang.art CNAME .
 dns.sarak.as CNAME .
@@ -306,6 +308,8 @@ dns.interhub.cc CNAME .
 *.dns.interhub.cc CNAME .
 maxfong.cc CNAME .
 *.maxfong.cc CNAME .
+mfho.cc CNAME .
+*.mfho.cc CNAME .
 openvpn.cc CNAME .
 *.openvpn.cc CNAME .
 proxify.cc CNAME .
@@ -604,6 +608,8 @@ dns.13evl.com CNAME .
 *.2fastsurfer.com CNAME .
 2proxyweb.com CNAME .
 *.2proxyweb.com CNAME .
+2r34.com CNAME .
+*.2r34.com CNAME .
 4everproxy.com CNAME .
 *.4everproxy.com CNAME .
 4youproxyweb.com CNAME .
@@ -3632,8 +3638,6 @@ wez.fr CNAME .
 *.wez.fr CNAME .
 adb-home.xaoimoon.fr CNAME .
 *.adb-home.xaoimoon.fr CNAME .
-adfiltro.fun CNAME .
-*.adfiltro.fun CNAME .
 cloudbenders.fun CNAME .
 *.cloudbenders.fun CNAME .
 cynntex.fun CNAME .
@@ -5626,6 +5630,8 @@ dns.unerror.network CNAME .
 *.dns.unerror.network CNAME .
 proxy.wynd.network CNAME .
 *.proxy.wynd.network CNAME .
+amirabbasmousavi.news CNAME .
+*.amirabbasmousavi.news CNAME .
 ammmae150.news CNAME .
 *.ammmae150.news CNAME .
 bestaitool.news CNAME .
@@ -6306,6 +6312,8 @@ unblocksite.pro CNAME .
 *.unblocksite.pro CNAME .
 doh.xcom.pro CNAME .
 *.doh.xcom.pro CNAME .
+yasosy.pro CNAME .
+*.yasosy.pro CNAME .
 mabuktogel.properties CNAME .
 *.mabuktogel.properties CNAME .
 abe01.dnscry.pt CNAME .
@@ -7190,6 +7198,8 @@ yuvelirtut.website CNAME .
 *.yuvelirtut.website CNAME .
 zakaria.website CNAME .
 *.zakaria.website CNAME .
+www-proxy.bettercallghaith.wiki CNAME .
+*.www-proxy.bettercallghaith.wiki CNAME .
 presidentalhistory.wiki CNAME .
 *.presidentalhistory.wiki CNAME .
 urology.wiki CNAME .
@@ -7248,6 +7258,8 @@ xite.ws CNAME .
 *.xite.ws CNAME .
 bypassed.wtf CNAME .
 *.bypassed.wtf CNAME .
+creatine.wtf CNAME .
+*.creatine.wtf CNAME .
 eazy.wtf CNAME .
 *.eazy.wtf CNAME .
 proxy.facil.wtf CNAME .
@@ -7280,6 +7292,8 @@ dns.886886886.xyz CNAME .
 *.dns.886886886.xyz CNAME .
 dns.888654.xyz CNAME .
 *.dns.888654.xyz CNAME .
+aaronzweb.xyz CNAME .
+*.aaronzweb.xyz CNAME .
 doh.abraservice.xyz CNAME .
 *.doh.abraservice.xyz CNAME .
 dns.albony.xyz CNAME .

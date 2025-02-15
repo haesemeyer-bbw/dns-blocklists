@@ -4,11 +4,12 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 16 Jan 2025 23:44 UTC
-# Version: 2025.0116.2344.21
+# Last modified: 15 Feb 2025 08:42 UTC
+# Version: 2025.0215.0842.06
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 87
+# Number of entries: 97
 #
+local=/asia-ad-mkt-vivofs.vivoglobal.com/
 local=/asia-adlog.vivoglobal.com/
 local=/asia-adsjssdk.vivoglobal.com/
 local=/asia-analyzer-appstore.vivoglobal.com/
@@ -27,6 +28,7 @@ local=/asia-pnrt-stsdk.vivoglobal.com/
 local=/asia-prt-stsdk.vivoglobal.com/
 local=/asia-st-sl.vivoglobal.com/
 local=/asia-stsdk.vivoglobal.com/
+local=/asia-vcode-od.vivoglobal.com/
 local=/asia-vcode-or.vivoglobal.com/
 local=/asia-vpushonrt-stsdk.vivoglobal.com/
 local=/asia-vpushort-stsdk.vivoglobal.com/
@@ -55,8 +57,10 @@ local=/in-ctdbprt-stsdk.vivoglobal.com/
 local=/in-errup.vivoglobal.com/
 local=/in-ex-adlog.vivoglobal.com/
 local=/in-monitor-stsdk.vivoglobal.com/
+local=/in-news-abroad-backstage-interface.vivoglobal.com/
 local=/in-onrt-stsdk.vivoglobal.com/
 local=/in-ort-stsdk.vivoglobal.com/
+local=/in-os-config-appstore.vivoglobal.com/
 local=/in-pnrt-stsdk.vivoglobal.com/
 local=/in-vpushonrt-stsdk.vivoglobal.com/
 local=/in-vpushort-stsdk.vivoglobal.com/
@@ -95,4 +99,10 @@ local=/ru-pnrt-stsdk.vivoglobal.com/
 local=/ru-prt-stsdk.vivoglobal.com/
 local=/ru-stsdk.vivoglobal.com/
 local=/stsdk.vivoglobal.com/
+local=/tr-domaincfg.vivoglobal.com/
+local=/tr-romsp-unifyconfig.vivoglobal.com/
+local=/tr-st-sl.vivoglobal.com/
+local=/tr-timesync.vivoglobal.com/
+local=/tr-vcode-api.vivoglobal.com/
+local=/tr-vcode-od.vivoglobal.com/
 local=/err.up.vivoglobal.com/

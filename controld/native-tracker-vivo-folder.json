@@ -15,6 +15,13 @@
       }
     },
     {
+      "PK": "asia-ad-mkt-vivofs.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "asia-adsjssdk.vivoglobal.com",
       "action": {
         "do": 0,
@@ -128,6 +135,13 @@
     },
     {
       "PK": "asia-st-sl.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "asia-vcode-od.vivoglobal.com",
       "action": {
         "do": 0,
         "status": 1
@@ -337,6 +351,13 @@
       }
     },
     {
+      "PK": "in-news-abroad-backstage-interface.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "in-onrt-stsdk.vivoglobal.com",
       "action": {
         "do": 0,
@@ -345,6 +366,13 @@
     },
     {
       "PK": "in-ort-stsdk.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "in-os-config-appstore.vivoglobal.com",
       "action": {
         "do": 0,
         "status": 1
@@ -611,6 +639,48 @@
     },
     {
       "PK": "stsdk.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "tr-domaincfg.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "tr-romsp-unifyconfig.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "tr-st-sl.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "tr-timesync.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "tr-vcode-api.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "tr-vcode-od.vivoglobal.com",
       "action": {
         "do": 0,
         "status": 1
