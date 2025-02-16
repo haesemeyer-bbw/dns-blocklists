@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1739633460 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1739677260 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 15 Feb 2025 15:31 UTC
-; Version: 2025.0215.1531.59
+; Last modified: 16 Feb 2025 03:41 UTC
+; Version: 2025.0216.0341.12
 ; Syntax: RPZ
-; Number of entries: 19632
+; Number of entries: 19666
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -2261,6 +2261,8 @@ a2zcrack.com CNAME .
 *.a2zcrack.com CNAME .
 a8bt.com CNAME .
 *.a8bt.com CNAME .
+abandon5000.com CNAME .
+*.abandon5000.com CNAME .
 abandonhouse.com CNAME .
 *.abandonhouse.com CNAME .
 abcflixbd.com CNAME .
@@ -2409,6 +2411,8 @@ animebw.com CNAME .
 *.animebw.com CNAME .
 animeclipse.com CNAME .
 *.animeclipse.com CNAME .
+animedao.com CNAME .
+*.animedao.com CNAME .
 animeflv1.com CNAME .
 *.animeflv1.com CNAME .
 animeflvnet.com CNAME .
@@ -2423,6 +2427,8 @@ animelab.com CNAME .
 *.animelab.com CNAME .
 animelon.com CNAME .
 *.animelon.com CNAME .
+animemolecules.com CNAME .
+*.animemolecules.com CNAME .
 animemoviespot.com CNAME .
 *.animemoviespot.com CNAME .
 animencodes.com CNAME .
@@ -2497,6 +2503,8 @@ apkmb.com CNAME .
 *.apkmb.com CNAME .
 apkmirrorfull.com CNAME .
 *.apkmirrorfull.com CNAME .
+apkmod9.com CNAME .
+*.apkmod9.com CNAME .
 apkmodct.com CNAME .
 *.apkmodct.com CNAME .
 apkmodea.com CNAME .
@@ -2603,6 +2611,8 @@ astakiller.com CNAME .
 *.astakiller.com CNAME .
 astalavista.com CNAME .
 *.astalavista.com CNAME .
+astra-soft.com CNAME .
+*.astra-soft.com CNAME .
 astroddl.com CNAME .
 *.astroddl.com CNAME .
 astroeggs.com CNAME .
@@ -2625,6 +2635,8 @@ audio-track.com CNAME .
 *.audio-track.com CNAME .
 audiobb.com CNAME .
 *.audiobb.com CNAME .
+audiobookol.com CNAME .
+*.audiobookol.com CNAME .
 audiop2p.com CNAME .
 *.audiop2p.com CNAME .
 audiotracer.com CNAME .
@@ -2705,6 +2717,8 @@ bdixbd.com CNAME .
 *.bdixbd.com CNAME .
 bdixftp.com CNAME .
 *.bdixftp.com CNAME .
+bdixlive.com CNAME .
+*.bdixlive.com CNAME .
 bdixmedia.com CNAME .
 *.bdixmedia.com CNAME .
 bdixsports.com CNAME .
@@ -3035,6 +3049,8 @@ tracker.bt4g.com CNAME .
 *.tracker.bt4g.com CNAME .
 bt4gprx.com CNAME .
 *.bt4gprx.com CNAME .
+bt5000.com CNAME .
+*.bt5000.com CNAME .
 btafile.com CNAME .
 *.btafile.com CNAME .
 btbot.com CNAME .
@@ -9299,6 +9315,8 @@ yeyemo.info CNAME .
 *.yeyemo.info CNAME .
 zonestreaming.info CNAME .
 *.zonestreaming.info CNAME .
+tracker.baka.ink CNAME .
+*.tracker.baka.ink CNAME .
 cb01.ink CNAME .
 *.cb01.ink CNAME .
 eurostreaming.ink CNAME .
@@ -10437,6 +10455,8 @@ xmovies8.lol CNAME .
 *.123moviesfree.love CNAME .
 altadefinizione.love CNAME .
 *.altadefinizione.love CNAME .
+altadefinizione01.love CNAME .
+*.altadefinizione01.love CNAME .
 btsearch.love CNAME .
 *.btsearch.love CNAME .
 cb01.love CNAME .
@@ -11375,6 +11395,8 @@ animeflv.net CNAME .
 *.animeflv.net CNAME .
 animereborn.net CNAME .
 *.animereborn.net CNAME .
+animesfree.net CNAME .
+*.animesfree.net CNAME .
 aninow.net CNAME .
 *.aninow.net CNAME .
 anisource.net CNAME .
@@ -11487,6 +11509,8 @@ bitspyder.net CNAME .
 *.bitspyder.net CNAME .
 bitturk.net CNAME .
 *.bitturk.net CNAME .
+bitvn.net CNAME .
+*.bitvn.net CNAME .
 bj-share.net CNAME .
 *.bj-share.net CNAME .
 blackcats-games.net CNAME .
@@ -16023,6 +16047,8 @@ appmeter.ru CNAME .
 *.appmeter.ru CNAME .
 arenda123.ru CNAME .
 *.arenda123.ru CNAME .
+artkonkurs.ru CNAME .
+*.artkonkurs.ru CNAME .
 astrr.ru CNAME .
 *.astrr.ru CNAME .
 audiobit.ru CNAME .
@@ -17175,6 +17201,8 @@ warez-fusion.6x.to CNAME .
 *.warez-fusion.6x.to CNAME .
 wzone.6x.to CNAME .
 *.wzone.6x.to CNAME .
+9anime.to CNAME .
+*.9anime.to CNAME .
 afdah.to CNAME .
 *.afdah.to CNAME .
 anilinkz.to CNAME .
@@ -17875,12 +17903,16 @@ btx.anifilm.tv CNAME .
 *.btx.anifilm.tv CNAME .
 animebytes.tv CNAME .
 *.animebytes.tv CNAME .
+animefreak.tv CNAME .
+*.animefreak.tv CNAME .
 animeid.tv CNAME .
 *.animeid.tv CNAME .
 animekisa.tv CNAME .
 *.animekisa.tv CNAME .
 animerush.tv CNAME .
 *.animerush.tv CNAME .
+animeshow.tv CNAME .
+*.animeshow.tv CNAME .
 animetake.tv CNAME .
 *.animetake.tv CNAME .
 animevibe.tv CNAME .
@@ -18755,6 +18787,8 @@ apkmody.vip CNAME .
 *.apkmody.vip CNAME .
 app-valley.vip CNAME .
 *.app-valley.vip CNAME .
+babytorrent.vip CNAME .
+*.babytorrent.vip CNAME .
 bmovies.vip CNAME .
 *.bmovies.vip CNAME .
 booter.vip CNAME .

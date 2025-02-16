@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 15 Feb 2025 15:37 UTC
-# Version: 2025.0215.1537.15
+# Last modified: 16 Feb 2025 03:46 UTC
+# Version: 2025.0216.0346.27
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3740
+# Number of entries: 3741
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -223,6 +223,7 @@ local=/anonine.com/
 local=/anonproxy.eu/
 local=/anonproxy.org/
 local=/anonvpn.io/
+local=/anonwebproxy.com/
 local=/anonymitynetwork.com/
 local=/anonymize.com/
 local=/anonymizer.com/
