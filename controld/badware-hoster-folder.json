@@ -5636,6 +5636,13 @@
       }
     },
     {
+      "PK": "easyfreehosting.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "eazylaunch.com",
       "action": {
         "do": 0,
@@ -11027,6 +11034,13 @@
     },
     {
       "PK": "q.gp",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "qipim.ru",
       "action": {
         "do": 0,
         "status": 1

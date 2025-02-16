@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 16 Feb 2025 03:41 UTC
-# Version: 2025.0216.0341.12
+# Last modified: 16 Feb 2025 15:33 UTC
+# Version: 2025.0216.1533.57
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9833
+# Number of entries: 9846
 #
 local=/0123456789nonexistent.com/
 local=/0123movie.net/
@@ -1600,6 +1600,7 @@ local=/casacinema.com/
 local=/casacinema.de/
 local=/casacinema.eu/
 local=/casacinema.fm/
+local=/casacinema.fun/
 local=/casacinema.fyi/
 local=/casacinema.info/
 local=/casacinema.it/
@@ -1754,6 +1755,7 @@ local=/ccmixter.org/
 local=/ccracks.com/
 local=/cda-hd.cc/
 local=/cdcovers.cc/
+local=/cddownloadeasy.org/
 local=/cddownloadfree.org/
 local=/cddownloadfull.org/
 local=/cdkeysgames.com/
@@ -1833,6 +1835,7 @@ local=/cineblog01.global/
 local=/cineblog01.gold/
 local=/cineblog01.haus/
 local=/cineblog01.in/
+local=/cineblog01.ink/
 local=/cineblog01.it/
 local=/cineblog01.land/
 local=/cineblog01.legal/
@@ -1852,6 +1855,7 @@ local=/cineblog01.run/
 local=/cineblog01.sale/
 local=/cineblog01.sh/
 local=/cineblog01.skin/
+local=/cineblog01.space/
 local=/cineblog01.taxi/
 local=/cineblog01.team/
 local=/cineblog01.today/
@@ -1952,6 +1956,7 @@ local=/cmovies.co/
 local=/cmovies.fm/
 local=/cmovies.is/
 local=/cmovies.mobi/
+local=/cmovies.one/
 local=/cmovies.so/
 local=/cmovies.space/
 local=/cmovies.us/
@@ -2178,6 +2183,7 @@ local=/crackserver.com/
 local=/cracksfiles.com/
 local=/crackslink.com/
 local=/cracksnow.com/
+local=/cracksoftwareguru.com/
 local=/crackspider.net/
 local=/crackstore.com/
 local=/crackstreams.com/
@@ -2376,6 +2382,7 @@ local=/ddosbreak.com/
 local=/ddosforhire.net/
 local=/ddostheworld.com/
 local=/ddownload.com/
+local=/tracker.ddunlimited.net/
 local=/ddwarez.com/
 local=/deadfrog.us/
 local=/tracker.deadorbit.nl/
@@ -2532,6 +2539,7 @@ local=/tracker.daydream.dmhy.best/
 local=/share.dmhy.org/
 local=/u2.dmhy.org/
 local=/dmitrynegoda.com/
+local=/dnbtracker.org/
 local=/dnetbd.com/
 local=/dnetdrive.com/
 local=/dnf24.com/
@@ -2745,6 +2753,7 @@ local=/ebook-hell.to/
 local=/ebook-land.cc/
 local=/ebook-planete.org/
 local=/ebook3000.biz/
+local=/ebook3000.com/
 local=/ebookbb.com/
 local=/ebookdirectory.com/
 local=/ebookee.biz/
@@ -2858,6 +2867,7 @@ local=/erotixxx.net/
 local=/retracker.nn.ertelecom.ru/
 local=/retracker.perm.ertelecom.ru/
 local=/elmellowebmaster.es.tl/
+local=/escalaenbernal.com/
 local=/eshiel.com/
 local=/hd.espnv2.online/
 local=/estrenoslatinos.com/
@@ -2927,6 +2937,7 @@ local=/eurostreaming.com/
 local=/eurostreaming.credit/
 local=/eurostreaming.day/
 local=/eurostreaming.de/
+local=/eurostreaming.dev/
 local=/eurostreaming.dog/
 local=/eurostreaming.eu/
 local=/eurostreaming.expert/
@@ -2978,6 +2989,7 @@ local=/eurostreaming.rodeo/
 local=/eurostreaming.run/
 local=/eurostreaming.sale/
 local=/eurostreaming.sbs/
+local=/eurostreaming.shop/
 local=/eurostreaming.show/
 local=/eurostreaming.site/
 local=/eurostreaming.social/
@@ -2986,6 +2998,7 @@ local=/eurostreaming.space/
 local=/eurostreaming.store/
 local=/eurostreaming.support/
 local=/eurostreaming.tattoo/
+local=/eurostreaming.taxi/
 local=/eurostreaming.team/
 local=/eurostreaming.tech/
 local=/eurostreaming.tel/

@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 14 Feb 2025 16:33 UTC
-# Version: 2025.0214.1633.37
+# Last modified: 16 Feb 2025 15:35 UTC
+# Version: 2025.0216.1535.35
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1394
+# Number of entries: 1399
 #
 local=/0000000000000000000000.com/
 local=/0rg.us/
@@ -179,6 +179,7 @@ local=/chickenkiller.com/
 local=/chrismac.org/
 local=/ciscofreak.com/
 local=/cjtooling.com/
+local=/clawmap.com/
 local=/cleansite.biz/
 local=/cleansite.info/
 local=/cleansite.us/
@@ -240,6 +241,7 @@ local=/dark-byte.net/
 local=/darksair.org/
 local=/darktech.org/
 local=/davidsagar.com/
+local=/dd-dns.de/
 local=/ddns.cam/
 local=/ddns.info/
 local=/ddns.me/
@@ -248,6 +250,7 @@ local=/ddns.ms/
 local=/ddns.name/
 local=/ddns.net/
 local=/ddns.us/
+local=/ddns5.com/
 local=/ddnsapp.com/
 local=/ddnsfree.com/
 local=/ddnsgeek.com/
@@ -328,6 +331,7 @@ local=/doomdns.org/
 local=/dougtreadwell.com/
 local=/doyleandprendergast.com/
 local=/dp76.com/
+local=/dray-dns.de/
 local=/drayddns.com/
 local=/dropfiles.net/
 local=/drunkensailor.org/
@@ -450,6 +454,7 @@ local=/epicmilk.com/
 local=/eptechguys.com/
 local=/esmtp.biz/
 local=/essentialventure.com/
+local=/essexregional.org/
 local=/est-a-la-maison.com/
 local=/est-a-la-masion.com/
 local=/est-le-patron.com/

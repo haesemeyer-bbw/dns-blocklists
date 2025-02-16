@@ -1,5 +1,11 @@
 # Domains to be added only to the ultimate list.
 
+# https://github.com/hagezi/dns-blocklists/issues/5211
+api4.ipify.org
+api64.ipify.org
+api6.ipify.org
+api.ipify.org
+
 # https://github.com/hagezi/dns-blocklists/issues/5205
 pro.ip-api.com
 ip-api.com

@@ -5,10 +5,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 15 Feb 2025 23:50 UTC
-! Version: 2025.0215.2350.00
+! Last modified: 16 Feb 2025 11:50 UTC
+! Version: 2025.0216.1150.22
 ! Syntax: AdBlock
-! Number of entries: 10630
+! Number of entries: 10672
 !
 ||01crypto.com^
 ||1-stud.net^
@@ -1626,6 +1626,7 @@
 ||shop54002.carlsplace.org^
 ||shop73002.carlsplace.org^
 ||carmara-handel.com^
+||carni-shop.com^
 ||carnso.de^
 ||carokissen.shop^
 ||carolinebeck.org^
@@ -1646,8 +1647,10 @@
 ||carvanamarkt.com^
 ||casaecorte24.de^
 ||hausler.casaify.top^
+||cascade-luzern.shop^
 ||caseyandcompade.shop^
 ||casitadeirene.com^
+||caskades.shop^
 ||cassieoutlet.com^
 ||castolonios.de^
 ||castromb.com^
@@ -1718,6 +1721,7 @@
 ||cgctv.com^
 ||cgeed.com^
 ||chabgyu.shop^
+||chacosdeutschland.de^
 ||chain-reaction.app^
 ||chain-rock.pro^
 ||champion-bulldoggen.com^
@@ -1736,6 +1740,7 @@
 ||championsuomi.com^
 ||championuae.net^
 ||championuksale.com^
+||chance-chef.de^
 ||chantal-modehuis.nl^
 ||setting.chantevil.cfd^
 ||spade.chantevil.cfd^
@@ -1779,6 +1784,7 @@
 ||chichome-finds.com^
 ||chichomestore.com^
 ||chickiddos.com^
+||chickidswear.com^
 ||chicladyshoes.com^
 ||chiclivingopt.com^
 ||chiclolo.com^
@@ -1814,6 +1820,7 @@
 ||play.cine-flix.co^
 ||cinqaseptde.shop^
 ||cint.pro^
+||cintra.group^
 ||citadel-france.com^
 ||citicryptopurse.com^
 ||citizensm.com^
@@ -1860,9 +1867,11 @@
 ||clearancesurfsale.com^
 ||clearchoice-investments.com^
 ||clematore.shop^
+||clementrchrd.com^
 ||cleo-capital.com^
 ||clerofy.pics^
 ||cles-du-patrimoine.fr^
+||clever-job.com^
 ||clic-fenetressarl.de^
 ||clicfenetres-sarl.de^
 ||clickworker.de^
@@ -1878,6 +1887,7 @@
 ||clotha-boutique.de^
 ||clothesessential.com^
 ||clothesff.com^
+||clothesmountain.com^
 ||clothespalm.com^
 ||clothing-ladies.com^
 ||clothingcream.com^
@@ -1897,6 +1907,7 @@
 ||bidabc.co.uk^
 ||brooks-south-africa.co.za^
 ||burton.co.at^
+||deuter.co.at^
 ||diesel.co.at^
 ||digitalinfo.co.kr^
 ||drscholls.co.za^
@@ -1929,6 +1940,7 @@
 ||coatofficial.com^
 ||cobraa.net^
 ||coccinellepolska.com^
+||coco-kick.cc^
 ||cocomillas.shop^
 ||codalo.de^
 ||codysocks.shop^
@@ -1956,6 +1968,7 @@
 ||colsportswear.com^
 ||columbi.de^
 ||columbia-suomi.com^
+||columbiashoesmalaysia.com^
 ||columbiashopdeutschland.de^
 ||airjordan.com.de^
 ||columbia.com.de^
@@ -2050,6 +2063,7 @@
 ||corralshoe.com^
 ||corralwestboot.com^
 ||corsaircontrol.pro^
+||cosco-container.com^
 ||cosmeticsyy.com^
 ||cosmopoint.de^
 ||cosplayshow.com^
@@ -2064,6 +2078,7 @@
 ||mars-e.counterstrike.care^
 ||countryparcel.com^
 ||coursados.com^
+||courtyardlive.com^
 ||coverfrot.com^
 ||coviviocapital.com^
 ||cowboybootsnew.com^
@@ -2107,6 +2122,7 @@
 ||cruitwave-hub.com^
 ||cryotoxtrade.com^
 ||crypt-trade.com^
+||crypteo.io^
 ||cryptex-online.de^
 ||crypto-bulot.com^
 ||crypto-eco.com^
@@ -2131,6 +2147,7 @@
 ||cryptos.solutions^
 ||cryptos-maker.com^
 ||cryptosmarket.com^
+||cryptotradeclub.ltd^
 ||cryptotrader.app^
 ||cryptotradetarget.com^
 ||crytomerge.com^
@@ -2152,6 +2169,7 @@
 ||cummari-tech.de^
 ||curesaleov.best^
 ||currext.com^
+||currys-ch.com^
 ||currys-ch.vip^
 ||curryscos.store^
 ||cutcy.com^
@@ -2226,6 +2244,7 @@
 ||dasrichtigeholz.com^
 ||daswirthshaus.com^
 ||datapprove-gmbh.com^
+||davanu.com^
 ||daveamor.us^
 ||daveintheshop.com^
 ||davidkimboyle.net^
@@ -2258,6 +2277,7 @@
 ||de-motorrad.com^
 ||de-talent-trail.works^
 ||de-toy.com^
+||de-trader.com^
 ||deadwoodwear.com^
 ||deal-plaza.com^
 ||dealathletics.com^
@@ -2286,6 +2306,7 @@
 ||defahrrad.com^
 ||defahrradzubehoer.com^
 ||defahrradzubehor.com^
+||defindopro.co^
 ||defisdartiste.com^
 ||deflexworkspace.works^
 ||degartenfreizeit.com^
@@ -2328,6 +2349,7 @@
 ||delson.de^
 ||delta-stock.com^
 ||deltabigai.net^
+||deltaltd.de^
 ||deltaprofit24.com^
 ||delwin-tech.de^
 ||delyanshop.com^
@@ -2374,6 +2396,7 @@
 ||desharkhelme.com^
 ||deshopforall.com^
 ||designalessi.com^
+||designerjoules.com^
 ||designhomeshop.com^
 ||designmensshoes.com^
 ||designsswimsuit.com^
@@ -2417,6 +2440,7 @@
 ||dhbs-consulting.com^
 ||dhvpersonal.de^
 ||diabohr-tech.de^
+||diamandi.shop^
 ||diamants-invest.com^
 ||diamix.de^
 ||diamondinvests.com^
@@ -2492,6 +2516,7 @@
 ||dmcdk.com^
 ||dmrbremsbelag.com^
 ||dmrdyedbro.com^
+||dmsmax.com^
 ||dmsversand.de^
 ||dno-handel23.de^
 ||dno-handel24.de^
@@ -2507,6 +2532,8 @@
 ||dolandcosmetics.com^
 ||dolceamara.com^
 ||dolcevitashoe.com^
+||dolcevitashoessouthafrica.com^
+||dom-home.com^
 ||domabes.com^
 ||domcapitalfx.com^
 ||domino-handel.de^
@@ -2517,6 +2544,7 @@
 ||doorhardwareus.com^
 ||doorsorwindows.com^
 ||doouglasparfum.com^
+||dopeeesti.com^
 ||dopesnowdeutschland.com^
 ||dopesnownederland.com^
 ||dopesnowosterreich.at^
@@ -2544,6 +2572,7 @@
 ||draw-it.at^
 ||drberg.eu^
 ||shop.drcherylkam.com^
+||drdiscount.shop^
 ||dream-cars-it.com^
 ||dreamcaffe.shop^
 ||dreamcigarettes.com^
@@ -2589,6 +2618,7 @@
 ||dryredwineshop.com^
 ||dryrosewine.com^
 ||drywall-kauf.de^
+||dshpartners.com^
 ||dsil-llc.com^
 ||dsnhomedecor.com^
 ||dt5888.com^
@@ -2600,6 +2630,7 @@
 ||dubaihoteluae.com^
 ||dubarrydeutschland.de^
 ||duftspraysale.com^
+||dugoutmugs.shop^
 ||dukes-duchess.de^
 ||dulontransport.com^
 ||dunklerkleidung.com^
@@ -2639,6 +2670,7 @@
 ||eafx.finance^
 ||eagleeyestaffings.com^
 ||eartischleuchten.com^
+||easies.de^
 ||easiood.com^
 ||east-trading.shop^
 ||eastcapitalmarkets.com^
@@ -2740,6 +2772,7 @@
 ||eigensinnig-wien.shop^
 ||eilmeldungs.com^
 ||ein-kaffee.de^
+||einayah.com^
 ||einfacherkredit.com^
 ||einfachknorke.de^
 ||einkaufsglueckde.de^
@@ -2767,6 +2800,7 @@
 ||electrics-appliance.com^
 ||electris.shop^
 ||electrodeal.shop^
+||electrodeal24.de^
 ||electronic-rc.com^
 ||electronictoyprada.de^
 ||electronikshops.com^
@@ -2833,15 +2867,18 @@
 ||elitwelpen.de^
 ||elizazara.com^
 ||eljobhuntde.com^
+||elkhartrvparts.shop^
 ||ellada-farmakeio.com^
 ||ellandroadcapital.com^
 ||ellela.de^
 ||ellerne.com^
+||ellicas.de^
 ||ellinika-farmakeio.com^
 ||ellisaluna-handel24.de^
 ||ellus-tech.de^
 ||eloisetonerr.com^
 ||eloquentik.de^
+||elos-patrimoine.com^
 ||eloshop.net^
 ||elsgroup.net^
 ||elternauftour.de^
@@ -2857,6 +2894,7 @@
 ||eminage.com^
 ||eminetfinancesystem.com^
 ||emmay.de^
+||emmebineon.it^
 ||emp-versand.de^
 ||empireoption.com^
 ||empleoglobal.top^
@@ -2907,6 +2945,7 @@
 ||envystylzde.shop^
 ||unser-eshop.shop.epages.de^
 ||eparadies.com^
+||epargne-avenir.com^
 ||epargne-b2.com^
 ||epargnefacile.com^
 ||epbitcoin.com^
@@ -2996,6 +3035,7 @@
 ||eugeneoutlet.com^
 ||euisabelmarant.de^
 ||eukram.com^
+||eukrypto.site^
 ||eumarketstores.com^
 ||eumartinitoko.de^
 ||eumeds.net^
@@ -3043,6 +3083,8 @@
 ||europharmsonline.com^
 ||europharmx.com^
 ||euroshopping.store^
+||eurosportaccde.shop^
+||eurostammholz.com^
 ||eurtrans.com^
 ||euskirossignol.de^
 ||eustiefel.de^
