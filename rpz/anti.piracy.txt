@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1739763120 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1739806740 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 17 Feb 2025 03:32 UTC
-; Version: 2025.0217.0332.38
+; Last modified: 17 Feb 2025 15:39 UTC
+; Version: 2025.0217.1539.30
 ; Syntax: RPZ
-; Number of entries: 19730
+; Number of entries: 19750
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -1911,6 +1911,8 @@ jpmangas.co CNAME .
 *.jpmangas.co CNAME .
 juraganfilm.co CNAME .
 *.juraganfilm.co CNAME .
+katcr.co CNAME .
+*.katcr.co CNAME .
 kickassto.co CNAME .
 *.kickassto.co CNAME .
 kinoz.co CNAME .
@@ -1919,6 +1921,8 @@ kuiken.co CNAME .
 *.kuiken.co CNAME .
 letsupload.co CNAME .
 *.letsupload.co CNAME .
+limetorrents.co CNAME .
+*.limetorrents.co CNAME .
 mactorrent.co CNAME .
 *.mactorrent.co CNAME .
 megaddl.co CNAME .
@@ -4603,6 +4607,8 @@ javlibrary.com CNAME .
 *.javlibrary.com CNAME .
 jetanimes.com CNAME .
 *.jetanimes.com CNAME .
+jhalmuri.com CNAME .
+*.jhalmuri.com CNAME .
 jimmyr.com CNAME .
 *.jimmyr.com CNAME .
 jmbsoft.com CNAME .
@@ -4647,6 +4653,8 @@ karsannet.com CNAME .
 *.karsannet.com CNAME .
 kastatus.com CNAME .
 *.kastatus.com CNAME .
+katastrofa.com CNAME .
+*.katastrofa.com CNAME .
 katfile.com CNAME .
 *.katfile.com CNAME .
 katunblock.com CNAME .
@@ -4723,6 +4731,8 @@ bt.ktkj.com CNAME .
 *.bt.ktkj.com CNAME .
 ktorrents.com CNAME .
 *.ktorrents.com CNAME .
+bt.ktrackers.com CNAME .
+*.bt.ktrackers.com CNAME .
 kualda.com CNAME .
 *.kualda.com CNAME .
 kubalibre.com CNAME .
@@ -4791,6 +4801,8 @@ lien-torrent.com CNAME .
 *.lien-torrent.com CNAME .
 lifetimeboot.com CNAME .
 *.lifetimeboot.com CNAME .
+limetor.com CNAME .
+*.limetor.com CNAME .
 linkbucks.com CNAME .
 *.linkbucks.com CNAME .
 linux23.com CNAME .
@@ -4823,6 +4835,8 @@ lizaonlinebd.com CNAME .
 *.lizaonlinebd.com CNAME .
 lk21hd.com CNAME .
 *.lk21hd.com CNAME .
+lk21id.com CNAME .
+*.lk21id.com CNAME .
 lk21tv.com CNAME .
 *.lk21tv.com CNAME .
 loadbaba.com CNAME .
@@ -13305,6 +13319,8 @@ shizzle.hammetjus.nl CNAME .
 *.shizzle.hammetjus.nl CNAME .
 katmoviehd.nl CNAME .
 *.katmoviehd.nl CNAME .
+keygens.nl CNAME .
+*.keygens.nl CNAME .
 prestige.minimafia.nl CNAME .
 *.prestige.minimafia.nl CNAME .
 private.minimafia.nl CNAME .
@@ -13547,6 +13563,8 @@ limetorrents.online CNAME .
 *.limetorrents.online CNAME .
 live-koora.online CNAME .
 *.live-koora.online CNAME .
+live-sport.online CNAME .
+*.live-sport.online CNAME .
 livekooora.online CNAME .
 *.livekooora.online CNAME .
 masterflix.online CNAME .
@@ -17477,6 +17495,8 @@ letsupload.to CNAME .
 *.letsupload.to CNAME .
 levidia.to CNAME .
 *.levidia.to CNAME .
+limetorrents.to CNAME .
+*.limetorrents.to CNAME .
 load.to CNAME .
 *.load.to CNAME .
 lookmovie2.to CNAME .

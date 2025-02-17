@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 16 Feb 2025 13:21 UTC
-# Version: 2025.0216.1321.05
+# Last modified: 17 Feb 2025 15:43 UTC
+# Version: 2025.0217.1543.36
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1499
+# Number of entries: 1497
 #
 *.003153.xyz
 *.ns.00dani.me
@@ -519,7 +519,6 @@
 *.agh.dshubham.xyz
 *.home27.duckdns.org
 *.jurre-home.duckdns.org
-*.krtekvpn.duckdns.org
 *.osefcorp.duckdns.org
 *.punono.duckdns.org
 *.tuandns.duckdns.org
@@ -876,7 +875,6 @@
 *.maxfong.cc
 *.dns.maybe.icu
 *.dns.mbrjun.cn
-*.mc-sft.cn
 *.adguard.meddy94.de
 *.dns.meeo.win
 *.testguard.meexx.de

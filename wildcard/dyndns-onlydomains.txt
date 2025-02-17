@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 17 Feb 2025 03:34 UTC
-# Version: 2025.0217.0334.16
+# Last modified: 17 Feb 2025 15:41 UTC
+# Version: 2025.0217.1541.10
 # Syntax: Domains (without subdomains)
-# Number of entries: 1400
+# Number of entries: 1401
 #
 0000000000000000000000.com
 0rg.us
@@ -874,6 +874,7 @@ madhacker.biz
 mao.fi
 marieblazek.com
 maurinfor.com
+mcsoft.org
 mcwrite.net
 ddns.me.uk
 dynamicdns.me.uk

@@ -1,5 +1,9 @@
 # Unblocking for relaxed lists only
 
+# https://github.com/hagezi/dns-blocklists/issues/5223
+smetrics.miles-and-more.com
+miles-and-more.com.data.adobedc.net
+
 # https://github.com/hagezi/dns-blocklists/issues/4948
 ws.batch.com
 

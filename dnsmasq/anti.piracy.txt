@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 17 Feb 2025 03:32 UTC
-# Version: 2025.0217.0332.38
+# Last modified: 17 Feb 2025 15:39 UTC
+# Version: 2025.0217.1539.30
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9865
+# Number of entries: 9875
 #
 local=/0123456789nonexistent.com/
 local=/0123movie.net/
@@ -4677,6 +4677,7 @@ local=/jetanime.cc/
 local=/jetanimes.com/
 local=/jetload.net/
 local=/jhakkas.live/
+local=/jhalmuri.com/
 local=/jhalmuri.xyz/
 local=/tracker.jiesen.life/
 local=/jimmyr.com/
@@ -4757,6 +4758,8 @@ local=/kat.li/
 local=/kat.ph/
 local=/kat.rip/
 local=/kat.to/
+local=/katastrofa.com/
+local=/katcr.co/
 local=/katcr.to/
 local=/katfile.com/
 local=/kati3kat.tube/
@@ -4790,6 +4793,7 @@ local=/keygen.us/
 local=/keygenbat.com/
 local=/keygenguru.com/
 local=/keygenninja.com/
+local=/keygens.nl/
 local=/keygens.pro/
 local=/keyscity.net/
 local=/keysfull.com/
@@ -4958,6 +4962,7 @@ local=/home.kray.pw/
 local=/kraytracker.com/
 local=/bt.ktkj.com/
 local=/ktorrents.com/
+local=/bt.ktrackers.com/
 local=/kualda.com/
 local=/kubalibre.com/
 local=/kubanmedia.org/
@@ -5070,6 +5075,7 @@ local=/ligaxxi.xyz/
 local=/ligg.org/
 local=/lightdl.xyz/
 local=/tracker.lilithraws.org/
+local=/limetor.com/
 local=/limetor.pro/
 local=/limetorrent.cc/
 local=/limetorrent.ws/
@@ -5078,11 +5084,13 @@ local=/limetorrents.asia/
 local=/limetorrents.at/
 local=/limetorrents.buzz/
 local=/limetorrents.cc/
+local=/limetorrents.co/
 local=/limetorrents.info/
 local=/limetorrents.lol/
 local=/limetorrents.online/
 local=/limetorrents.pro/
 local=/limetorrents.so/
+local=/limetorrents.to/
 local=/limetorrents.xyz/
 local=/limetorrents.zone/
 local=/limetorrentx.cc/
@@ -5113,6 +5121,7 @@ local=/live-kooora-tv.net/
 local=/live-koora.online/
 local=/kora.live-koora.live/
 local=/live-nfl.stream/
+local=/live-sport.online/
 local=/live-sport-tv.it/
 local=/live-stream.tv/
 local=/live7.pro/
@@ -5139,6 +5148,7 @@ local=/lizardstresser.su/
 local=/lk21.cloud/
 local=/lk21.org/
 local=/lk21hd.com/
+local=/lk21id.com/
 local=/lk21official.info/
 local=/lk21official.vip/
 local=/tv2.lk21official.pro/

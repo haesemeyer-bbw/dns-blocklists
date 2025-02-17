@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1739763420 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1739807040 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 17 Feb 2025 03:37 UTC
-; Version: 2025.0217.0337.55
+; Last modified: 17 Feb 2025 15:44 UTC
+; Version: 2025.0217.1544.49
 ; Syntax: RPZ
-; Number of entries: 7544
+; Number of entries: 7546
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -502,8 +502,6 @@ dns.hujiayucc.cn CNAME .
 *.dns.hujiayucc.cn CNAME .
 dns.mbrjun.cn CNAME .
 *.dns.mbrjun.cn CNAME .
-mc-sft.cn CNAME .
-*.mc-sft.cn CNAME .
 dns.muxinghe.cn CNAME .
 *.dns.muxinghe.cn CNAME .
 dns.mzrme.cn CNAME .
@@ -1646,6 +1644,8 @@ jetbean.com CNAME .
 *.jetbean.com CNAME .
 jetproxy.com CNAME .
 *.jetproxy.com CNAME .
+jetssh.com CNAME .
+*.jetssh.com CNAME .
 jfalling.com CNAME .
 *.jfalling.com CNAME .
 vpn.jogjacloud.com CNAME .
@@ -3960,6 +3960,10 @@ kilabit.info CNAME .
 *.kilabit.info CNAME .
 legalweb.info CNAME .
 *.legalweb.info CNAME .
+literally.info CNAME .
+*.literally.info CNAME .
+lurk.info CNAME .
+*.lurk.info CNAME .
 mailproxy.info CNAME .
 *.mailproxy.info CNAME .
 maxvpn.info CNAME .
@@ -5906,8 +5910,6 @@ home27.duckdns.org CNAME .
 *.home27.duckdns.org CNAME .
 jurre-home.duckdns.org CNAME .
 *.jurre-home.duckdns.org CNAME .
-krtekvpn.duckdns.org CNAME .
-*.krtekvpn.duckdns.org CNAME .
 osefcorp.duckdns.org CNAME .
 *.osefcorp.duckdns.org CNAME .
 punono.duckdns.org CNAME .
