@@ -4,11 +4,12 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 14 Feb 2025 17:11 UTC
-# Version: 2025.0214.1711.43
+# Last modified: 17 Feb 2025 18:53 UTC
+# Version: 2025.0217.1853.44
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 692
+# Number of entries: 695
 #
+0.0.0.0 c-bingapis-com.dual-a-0034.a-msedge.net
 0.0.0.0 measure.office.com.akamaized.net
 0.0.0.0 fp.measure.office.com.akamaized.net
 0.0.0.0 upload2.fp.measure.office.com.akamaized.net
@@ -133,6 +134,7 @@
 0.0.0.0 g.bing.com
 0.0.0.0 r.g.bing.com
 0.0.0.0 raka.bing.com
+0.0.0.0 c.bingapis.com
 0.0.0.0 insights.cloud.microsoft
 0.0.0.0 analysis.insights.cloud.microsoft
 0.0.0.0 measure.office.net.edgesuite.net
@@ -252,6 +254,7 @@
 0.0.0.0 adsdk.microsoft.com
 0.0.0.0 advertising.microsoft.com
 0.0.0.0 community.advertising.microsoft.com
+0.0.0.0 fp.advertising.microsoft.com
 0.0.0.0 sts.advertising.microsoft.com
 0.0.0.0 analyticspixel.microsoft.com
 0.0.0.0 applicationinsights.microsoft.com

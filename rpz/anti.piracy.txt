@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1739806740 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1739849760 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 17 Feb 2025 15:39 UTC
-; Version: 2025.0217.1539.30
+; Last modified: 18 Feb 2025 03:36 UTC
+; Version: 2025.0218.0336.10
 ; Syntax: RPZ
-; Number of entries: 19750
+; Number of entries: 19782
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -5461,12 +5461,16 @@ oklivetv.com CNAME .
 *.oklivetv.com CNAME .
 oldgamesdownload.com CNAME .
 *.oldgamesdownload.com CNAME .
+oldgamesfinder.com CNAME .
+*.oldgamesfinder.com CNAME .
 oleoo.com CNAME .
 *.oleoo.com CNAME .
 olevod.com CNAME .
 *.olevod.com CNAME .
 ologyyvidss.com CNAME .
 *.ologyyvidss.com CNAME .
+omegastresser.com CNAME .
+*.omegastresser.com CNAME .
 omgtorrent.com CNAME .
 *.omgtorrent.com CNAME .
 onegaistudios.com CNAME .
@@ -9689,6 +9693,8 @@ movieroom.is CNAME .
 *.movieroom.is CNAME .
 moviesjoy.is CNAME .
 *.moviesjoy.is CNAME .
+moviewatcher.is CNAME .
+*.moviewatcher.is CNAME .
 mp3juices.is CNAME .
 *.mp3juices.is CNAME .
 myflixer.is CNAME .
@@ -9699,6 +9705,8 @@ noxx.is CNAME .
 *.noxx.is CNAME .
 nzb.is CNAME .
 *.nzb.is CNAME .
+onionplay.is CNAME .
+*.onionplay.is CNAME .
 putlocker.is CNAME .
 *.putlocker.is CNAME .
 putlockerr.is CNAME .
@@ -10807,6 +10815,8 @@ movies25.me CNAME .
 *.movies25.me CNAME .
 moviesnipipay.me CNAME .
 *.moviesnipipay.me CNAME .
+mp3skull.me CNAME .
+*.mp3skull.me CNAME .
 nelion.me CNAME .
 *.nelion.me CNAME .
 netcine.me CNAME .
@@ -10837,6 +10847,8 @@ online-fix.me CNAME .
 *.online-fix.me CNAME .
 openloadfreetv.me CNAME .
 *.openloadfreetv.me CNAME .
+tracker.oppaiti.me CNAME .
+*.tracker.oppaiti.me CNAME .
 oxtorrent.me CNAME .
 *.oxtorrent.me CNAME .
 passthepopcorn.me CNAME .
@@ -12465,6 +12477,8 @@ openloadmovies.net CNAME .
 *.openloadmovies.net CNAME .
 openpiratbay.net CNAME .
 *.openpiratbay.net CNAME .
+opentrackers.net CNAME .
+*.opentrackers.net CNAME .
 orbdesign.net CNAME .
 *.orbdesign.net CNAME .
 orej.net CNAME .
@@ -13571,10 +13585,14 @@ masterflix.online CNAME .
 *.masterflix.online CNAME .
 livetv.mirpur.online CNAME .
 *.livetv.mirpur.online CNAME .
+movieajip.online CNAME .
+*.movieajip.online CNAME .
 movierr.online CNAME .
 *.movierr.online CNAME .
 mp3fast.online CNAME .
 *.mp3fast.online CNAME .
+multicanaishd.online CNAME .
+*.multicanaishd.online CNAME .
 netfreex.online CNAME .
 *.netfreex.online CNAME .
 ocine.online CNAME .
@@ -14477,6 +14495,8 @@ mobilism.org CNAME .
 *.mobilism.org CNAME .
 modapp.org CNAME .
 *.modapp.org CNAME .
+mononoke-bt.org CNAME .
+*.mononoke-bt.org CNAME .
 moriyashrine.org CNAME .
 *.moriyashrine.org CNAME .
 movdl.org CNAME .
@@ -14497,6 +14517,8 @@ moviestreamhd.org CNAME .
 *.moviestreamhd.org CNAME .
 moviesyify.org CNAME .
 *.moviesyify.org CNAME .
+movieszone.org CNAME .
+*.movieszone.org CNAME .
 movietown.org CNAME .
 *.movietown.org CNAME .
 mp3-juice.org CNAME .
@@ -14521,6 +14543,8 @@ turtle55.myftp.org CNAME .
 *.turtle55.myftp.org CNAME .
 myspleen.org CNAME .
 *.myspleen.org CNAME .
+tracker.nanoha.org CNAME .
+*.tracker.nanoha.org CNAME .
 nattawat.org CNAME .
 *.nattawat.org CNAME .
 naturalbd.org CNAME .
@@ -16787,12 +16811,16 @@ moviego.site CNAME .
 *.moviego.site CNAME .
 movierr.site CNAME .
 *.movierr.site CNAME .
+mp3flac.site CNAME .
+*.mp3flac.site CNAME .
 mp3juicemusic.site CNAME .
 *.mp3juicemusic.site CNAME .
 mp3juices.site CNAME .
 *.mp3juices.site CNAME .
 mp3skull.site CNAME .
 *.mp3skull.site CNAME .
+pirateproxy.site CNAME .
+*.pirateproxy.site CNAME .
 popcornflix.site CNAME .
 *.popcornflix.site CNAME .
 putlocker-new.site CNAME .
@@ -17523,6 +17551,8 @@ movie2k.to CNAME .
 *.movie2k.to CNAME .
 movie4k.to CNAME .
 *.movie4k.to CNAME .
+moviegaga.to CNAME .
+*.moviegaga.to CNAME .
 movies132.to CNAME .
 *.movies132.to CNAME .
 movies7.to CNAME .
@@ -19747,6 +19777,8 @@ kinogoo.zone CNAME .
 *.kinogoo.zone CNAME .
 limetorrents.zone CNAME .
 *.limetorrents.zone CNAME .
+s926723.ha016.t.mydomain.zone CNAME .
+*.s926723.ha016.t.mydomain.zone CNAME .
 myflixer.zone CNAME .
 *.myflixer.zone CNAME .
 nulled.zone CNAME .

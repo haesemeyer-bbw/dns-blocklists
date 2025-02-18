@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 17 Feb 2025 15:39 UTC
-# Version: 2025.0217.1539.30
+# Last modified: 18 Feb 2025 03:36 UTC
+# Version: 2025.0218.0336.10
 # Syntax: Domains (without subdomains)
-# Number of entries: 9875
+# Number of entries: 9891
 #
 0123456789nonexistent.com
 0123movie.net
@@ -5524,6 +5524,7 @@ monkeystream.net
 monlive.info
 zephir.monocul.us
 ns1.monolithindustries.com
+mononoke-bt.org
 monoschinos.com
 monstream.co
 moonburrow.club
@@ -5559,6 +5560,7 @@ movie4k.tv
 movie4u.cc
 movie4u.live
 movie4u.org
+movieajip.online
 moviebazar.net
 moviebb.net
 moviebeamz.com
@@ -5571,6 +5573,7 @@ moviee.tv
 moviefiles.org
 movieforfree.co
 moviefreak.xyz
+moviegaga.to
 moviegamesmore.net
 movieglide.com
 moviego.net
@@ -5652,6 +5655,7 @@ moviesus.net
 movieswatch.xyz
 movieswbb.com
 moviesyify.org
+movieszone.org
 movietly.com
 movietorrent.co
 movietown.org
@@ -5661,6 +5665,7 @@ movieunlimited.net
 movieuwutv.top
 moviewapi.in
 moviewatcher.eu
+moviewatcher.is
 movieworld.to
 moviexk.biz
 moviezaddiction.click
@@ -5683,6 +5688,7 @@ mp3000.net
 mp3box.to
 mp3db.pro
 mp3fast.online
+mp3flac.site
 mp3fusion.net
 mp3guild.com
 mp3indexer.com
@@ -5702,6 +5708,7 @@ mp3menu.net
 torrent.mp3quran.net
 mp3rally.com
 mp3scene.info
+mp3skull.me
 mp3skull.site
 mp3skulls.info
 mp3skulls.to
@@ -5743,6 +5750,7 @@ multicanais.in
 multicanais.live
 multicanais.nz
 multicanais.today
+multicanaishd.online
 mults.info
 murmurs.com
 musgle.com
@@ -5780,6 +5788,7 @@ mycricketlive.live
 mycujoo.tv
 mycybernest.com
 forums.mydigitallife.net
+s926723.ha016.t.mydomain.zone
 myduckisdead.org
 myfeed2all.eu
 myflixer.ac
@@ -5848,6 +5857,7 @@ ipv6.babico.name.tr
 tracker.babico.name.tr
 nanniesofgreenhills.com
 www.tracker.nano-net.ro
+tracker.nanoha.org
 tracker.nanyangpt.com
 natorrent.com
 nattawat.org
@@ -6183,6 +6193,7 @@ olamovies.autos
 olamovies.hair
 old-games.ru
 oldgamesdownload.com
+oldgamesfinder.com
 oleoo.com
 olevod.com
 olevod.eu
@@ -6192,6 +6203,7 @@ ololo.ws
 tracker.ololosh.space
 tracker-de.ololosh.space
 olympicstreams.tv
+omegastresser.com
 omgtorrent.com
 omgtorrent.cz
 omgtorrent.me
@@ -6211,6 +6223,7 @@ onepiece-streaming.co
 onhax.me
 onhaxnet.com
 onionplay.co
+onionplay.is
 onionplay.net
 onionplay.network
 onionplay.org
@@ -6259,11 +6272,13 @@ opentracker.cc
 opentracker.io
 opentracker.xyz
 tracker.opentracker.se
+opentrackers.net
 opentrackers.org
 opentrackr.org
 openwebtorrent.com
 tracker.openzim.org
 opgemmje.com
+tracker.oppaiti.me
 optimovision.tv
 tracker.optus.nu
 orasai.com
@@ -6523,6 +6538,7 @@ pirateproxy.live
 pirateproxy.name
 pirateproxy.net
 pirateproxy.quest
+pirateproxy.site
 pirateproxy.space
 pirateproxy.tf
 pirateproxy.top
