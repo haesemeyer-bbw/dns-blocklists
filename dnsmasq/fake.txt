@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 18 Feb 2025 23:50 UTC
-# Version: 2025.0218.2350.20
+# Last modified: 19 Feb 2025 11:51 UTC
+# Version: 2025.0219.1151.42
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10862
+# Number of entries: 10873
 #
 local=/01crypto.com/
 local=/1-stud.net/
@@ -10601,6 +10601,7 @@ local=/winterheizung.de/
 local=/winterholt.com/
 local=/winterkraft.de/
 local=/wir-sind-goldhandel.de/
+local=/wirlines.com/
 local=/wisatareligi.com/
 local=/wisebanc.com/
 local=/wisecapitalx.com/
@@ -10634,6 +10635,7 @@ local=/womenbikesale.com/
 local=/womencircus.com/
 local=/womenfarmsale.com/
 local=/womenshop-plus.com/
+local=/womensjewelry.store/
 local=/womensoffer.com/
 local=/wondertoybox.com/
 local=/woodbell.de/
@@ -10668,6 +10670,7 @@ local=/wpwuppispellets.com/
 local=/wr-marktforschung.net/
 local=/wrestle-site.com/
 local=/wristbandpin.com/
+local=/wrlovesk.life/
 local=/ws-brennholz-gbr.shop/
 local=/wt-versand.de/
 local=/wunderbarmeldung.com/
@@ -10684,10 +10687,12 @@ local=/xartens.de/
 local=/xaviercabrita.shop/
 local=/xcfamily.cc/
 local=/xcoinbroker.com/
+local=/xcryptotrading.com/
 local=/xeodis.com/
 local=/xeond.com/
 local=/xera.pro/
 local=/xerofootwearuk.com/
+local=/xeroschweiz.com/
 local=/xeroshoesaustralia.com/
 local=/xeroshoesnz.com/
 local=/xewens.de/
@@ -10741,11 +10746,13 @@ local=/xspiegel.de/
 local=/xstradepro.com/
 local=/xtb-partner.com/
 local=/xtrader365.com/
+local=/xtxtshop.com/
 local=/xunxuanx.top/
 local=/xwiftlogistics.com/
 local=/xxl-store.com/
 local=/xyiyi.com/
 local=/de.xynapay.com/
+local=/yafistore.com/
 local=/yahalom.de/
 local=/yakshart.com/
 local=/yali24.de/
@@ -10784,6 +10791,7 @@ local=/yourpureness.shop/
 local=/yoursportoutfit.com/
 local=/youtradefx.com/
 local=/youzuu.de/
+local=/ysczjssl.com/
 local=/ytcycling.com/
 local=/yuan-paygroup.com/
 local=/yuanpaygroup.org/
@@ -10831,6 +10839,7 @@ local=/zhrtasarimf.shop/
 local=/zicklerbrennholz.de/
 local=/zidnjlamp.com/
 local=/zigaretten-bestellen.net/
+local=/zigber.com/
 local=/zinniafolkartsde.shop/
 local=/zinpp.com/
 local=/ziplighters.com/
@@ -10861,11 +10870,13 @@ local=/zrockz-gmbh.de/
 local=/zubehorfahrrad.com/
 local=/zubehorgeschaft.com/
 local=/zubehorstiefel.com/
+local=/zukunftkredit.com/
 local=/zularo.de/
 local=/zum-alten-perkeo.de/
 local=/zumaro.de/
 local=/zunmanned.com/
 local=/zuperiu.de/
+local=/zvfashions.com/
 local=/zweirad4you.com/
 local=/zwischenportal.com/
 local=/zybux.shop/

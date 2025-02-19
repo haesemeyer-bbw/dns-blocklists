@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1739936100 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1739979120 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 19 Feb 2025 03:35 UTC
-; Version: 2025.0219.0335.10
+; Last modified: 19 Feb 2025 15:32 UTC
+; Version: 2025.0219.1532.12
 ; Syntax: RPZ
-; Number of entries: 19882
+; Number of entries: 19888
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -13243,6 +13243,8 @@ worldsrc.net CNAME .
 *.worldsrc.net CNAME .
 worldwrestlingtorrents.net CNAME .
 *.worldwrestlingtorrents.net CNAME .
+x-torrent.net CNAME .
+*.x-torrent.net CNAME .
 xatab-repack.net CNAME .
 *.xatab-repack.net CNAME .
 xboot.net CNAME .
@@ -13297,6 +13299,8 @@ tracker.zokio.net CNAME .
 *.tracker.zokio.net CNAME .
 zone-stream.net CNAME .
 *.zone-stream.net CNAME .
+zone-torrent.net CNAME .
+*.zone-torrent.net CNAME .
 zoomonlinebd.net CNAME .
 *.zoomonlinebd.net CNAME .
 altadefinizione.network CNAME .
@@ -16717,6 +16721,8 @@ vipboxtv.se CNAME .
 *.vipboxtv.se CNAME .
 xpau.se CNAME .
 *.xpau.se CNAME .
+ymovies.se CNAME .
+*.ymovies.se CNAME .
 zamunda.se CNAME .
 *.zamunda.se CNAME .
 tracker.darkness.services CNAME .
