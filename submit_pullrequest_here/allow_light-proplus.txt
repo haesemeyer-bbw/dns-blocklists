@@ -1,5 +1,29 @@
 # Unblocking for relaxed, balanced and aggressive (pro++) lists only
 
+# https://github.com/hagezi/dns-blocklists/issues/5252
+v10c.events.data.microsoft.com
+*-v10c.events.data.microsoft.com
+au-v10c.events.data.microsoft.com
+eu-v10c.events.data.microsoft.com
+jp-v10c.events.data.microsoft.com
+us-v10c.events.data.microsoft.com
+v10.events.data.microsoft.com
+*-v10.events.data.microsoft.com
+au-v10.events.data.microsoft.com
+eu-v10.events.data.microsoft.com
+jp-v10.events.data.microsoft.com
+us-v10.events.data.microsoft.com
+v20.events.data.microsoft.com
+*-v20.events.data.microsoft.com
+au-v20.events.data.microsoft.com
+eu-v20.events.data.microsoft.com
+in-v20.events.data.microsoft.com
+jp-v20.events.data.microsoft.com
+uk-v20.events.data.microsoft.com
+us4-v20.events.data.microsoft.com
+us5-v20.events.data.microsoft.com
+us-v20.events.data.microsoft.com
+
 # https://github.com/hagezi/dns-blocklists/issues/3573
 heartbeats.prd.data.s.joyn.de
 # https://github.com/AdguardTeam/AdguardFilters/issues/183277
