@@ -322,6 +322,8 @@ https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.tx
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/refs/heads/master/filters/filters-2025.txt
+https://raw.githubusercontent.com/ukrainianfilters/lists/refs/heads/main/ads/ads.txt
+https://raw.githubusercontent.com/ukrainianfilters/lists/refs/heads/main/privacy/privacy.txt
 https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_lite.txt
 https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_plus.txt
 https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_privacy.txt

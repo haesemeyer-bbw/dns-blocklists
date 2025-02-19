@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 18 Feb 2025 03:41 UTC
-# Version: 2025.0218.0341.29
+# Last modified: 19 Feb 2025 03:40 UTC
+# Version: 2025.0219.0340.26
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3775
+# Number of entries: 3791
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -2493,16 +2493,19 @@ local=/proxy.org/
 local=/proxy.red/
 local=/proxy.rocks/
 local=/proxy.sh/
+local=/proxy.sx/
 local=/proxy.yt/
 local=/proxy-123.com/
 local=/proxy-2014.com/
 local=/proxy-2015.info/
 local=/proxy-bypass.com/
 local=/proxy-german.de/
+local=/proxy-internet.info/
 local=/proxy-n-vpn.com/
 local=/proxy-search.com/
 local=/proxy-seller.com/
 local=/proxy-site.net/
+local=/proxy-works.com/
 local=/proxy-youtube.com/
 local=/proxy-youtube.net/
 local=/proxy2014.net/
@@ -2526,6 +2529,7 @@ local=/proxycloyd.com/
 local=/proxydrop.com/
 local=/proxydude.red/
 local=/proxydude.xyz/
+local=/proxyduke.lol/
 local=/proxyelite.info/
 local=/proxyen.com/
 local=/proxyer.net/
@@ -2909,6 +2913,7 @@ local=/adguard.sparshbajaj.me/
 local=/doh-01.spectrum.com/
 local=/doh-02.spectrum.com/
 local=/speedify.com/
+local=/speedproxy.online/
 local=/speedshare.app/
 local=/speedssh.com/
 local=/speedyth.com/
@@ -2996,6 +3001,7 @@ local=/supervpn.best/
 local=/supervpn.im/
 local=/supervpn.net/
 local=/suredns.nl/
+local=/surf-for-free.com/
 local=/surf100.com/
 local=/surfall.net/
 local=/surfbouncer.com/
@@ -3081,6 +3087,7 @@ local=/thefreevpn.com/
 local=/login.thegalleryofart.info/
 local=/dns.thegoodsource.net/
 local=/themeaningofallmeaningsforallofthemeaningsmeanings.lol/
+local=/thenuke.org/
 local=/theproxies.net/
 local=/theproxy.bz/
 local=/theproxy.cc/
@@ -3190,6 +3197,7 @@ local=/traffmonetizer.com/
 local=/resolv1.trash.net/
 local=/resolv2.trash.net/
 local=/resolv3.trash.net/
+local=/travelvpn.info/
 local=/ns.trcnet.fi/
 local=/consumervpn.trendmicro.com/
 local=/geovpn.trendmicro.com/
@@ -3212,6 +3220,7 @@ local=/tubeunblock.net/
 local=/tujenasnaszato.xyz/
 local=/tunnelbear.com/
 local=/turbohide.org/
+local=/turbossh.com/
 local=/turbotrackvpn.com/
 local=/turbovpn.co/
 local=/turbovpn.com/
@@ -3438,6 +3447,7 @@ local=/nindy-is.so-gorgeo.us.kg/
 local=/nora-is.so-gorgeo.us.kg/
 local=/nova-is.so-gorgeo.us.kg/
 local=/sitha-is.so-gorgeo.us.kg/
+local=/tetty-is.so-gorgeo.us.kg/
 local=/yussy-is.so-gorgeo.us.kg/
 local=/webproxy.us.com/
 local=/us-proxy.org/
@@ -3478,6 +3488,8 @@ local=/videocollage.us/
 local=/videomy.online/
 local=/videonew.online/
 local=/videoproxy.site/
+local=/videounblock.com/
+local=/videounblocked.com/
 local=/videounblocker.net/
 local=/vidproxy.com/
 local=/vikingvpn.com/
@@ -3523,8 +3535,10 @@ local=/vpnbook.com/
 local=/vpnbrowse.com/
 local=/vpncentral.com/
 local=/vpnclientapp.com/
+local=/vpndaily.com/
 local=/vpndeluxe.com/
 local=/vpndock.com/
+local=/vpndog.com/
 local=/vpneasy.info/
 local=/proxy.vpner.com/
 local=/vpnfan.com/
@@ -3588,6 +3602,7 @@ local=/vpnwebsite.com/
 local=/vpnwelt.com/
 local=/antispam.vpsvpn.com/
 local=/go.vrpyourself.online/
+local=/vtcuong.site/
 local=/vyprvpn.com/
 local=/dns.w3ctag.org/
 local=/dns.wahr.top/
@@ -3619,6 +3634,7 @@ local=/webproxy.best/
 local=/webproxy.club/
 local=/webproxy.com/
 local=/webproxy.online/
+local=/webproxy.to/
 local=/webproxy.us/
 local=/webproxyagent.com/
 local=/webproxyfree.net/

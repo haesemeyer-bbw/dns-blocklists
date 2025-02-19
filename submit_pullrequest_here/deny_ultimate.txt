@@ -1,5 +1,8 @@
 # Domains to be added only to the ultimate list.
 
+# https://www.perplexity.ai/search/new?q=openinstall.io
+openinstall.io
+
 # https://github.com/hagezi/dns-blocklists/issues/5211
 api4.ipify.org
 api64.ipify.org

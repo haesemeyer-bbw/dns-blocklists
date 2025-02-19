@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1739850060 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1739936400 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 18 Feb 2025 03:41 UTC
-; Version: 2025.0218.0341.29
+; Last modified: 19 Feb 2025 03:40 UTC
+; Version: 2025.0219.0340.26
 ; Syntax: RPZ
-; Number of entries: 7550
+; Number of entries: 7582
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -2130,6 +2130,8 @@ proxy-search.com CNAME .
 *.proxy-search.com CNAME .
 proxy-seller.com CNAME .
 *.proxy-seller.com CNAME .
+proxy-works.com CNAME .
+*.proxy-works.com CNAME .
 proxy-youtube.com CNAME .
 *.proxy-youtube.com CNAME .
 proxy2link.com CNAME .
@@ -2504,6 +2506,8 @@ superproxy123.com CNAME .
 *.superproxy123.com CNAME .
 superunlimited.com CNAME .
 *.superunlimited.com CNAME .
+surf-for-free.com CNAME .
+*.surf-for-free.com CNAME .
 surf100.com CNAME .
 *.surf100.com CNAME .
 surfbouncer.com CNAME .
@@ -2658,6 +2662,8 @@ tubeprox.com CNAME .
 *.tubeprox.com CNAME .
 tunnelbear.com CNAME .
 *.tunnelbear.com CNAME .
+turbossh.com CNAME .
+*.turbossh.com CNAME .
 turbotrackvpn.com CNAME .
 *.turbotrackvpn.com CNAME .
 turbovpn.com CNAME .
@@ -2820,6 +2826,10 @@ veripn.com CNAME .
 *.veripn.com CNAME .
 viatun.com CNAME .
 *.viatun.com CNAME .
+videounblock.com CNAME .
+*.videounblock.com CNAME .
+videounblocked.com CNAME .
+*.videounblocked.com CNAME .
 vidproxy.com CNAME .
 *.vidproxy.com CNAME .
 vikingvpn.com CNAME .
@@ -2864,10 +2874,14 @@ vpncentral.com CNAME .
 *.vpncentral.com CNAME .
 vpnclientapp.com CNAME .
 *.vpnclientapp.com CNAME .
+vpndaily.com CNAME .
+*.vpndaily.com CNAME .
 vpndeluxe.com CNAME .
 *.vpndeluxe.com CNAME .
 vpndock.com CNAME .
 *.vpndock.com CNAME .
+vpndog.com CNAME .
+*.vpndog.com CNAME .
 proxy.vpner.com CNAME .
 *.proxy.vpner.com CNAME .
 vpnfan.com CNAME .
@@ -4020,6 +4034,8 @@ proxite.info CNAME .
 *.proxite.info CNAME .
 proxy-2015.info CNAME .
 *.proxy-2015.info CNAME .
+proxy-internet.info CNAME .
+*.proxy-internet.info CNAME .
 proxybrowse.info CNAME .
 *.proxybrowse.info CNAME .
 proxyelite.info CNAME .
@@ -4052,6 +4068,8 @@ topsecure.info CNAME .
 *.topsecure.info CNAME .
 tradeadspace.info CNAME .
 *.tradeadspace.info CNAME .
+travelvpn.info CNAME .
+*.travelvpn.info CNAME .
 tvone.info CNAME .
 *.tvone.info CNAME .
 ublocker.info CNAME .
@@ -4328,6 +4346,8 @@ nova-is.so-gorgeo.us.kg CNAME .
 *.nova-is.so-gorgeo.us.kg CNAME .
 sitha-is.so-gorgeo.us.kg CNAME .
 *.sitha-is.so-gorgeo.us.kg CNAME .
+tetty-is.so-gorgeo.us.kg CNAME .
+*.tetty-is.so-gorgeo.us.kg CNAME .
 yussy-is.so-gorgeo.us.kg CNAME .
 *.yussy-is.so-gorgeo.us.kg CNAME .
 dns.eliv.kr CNAME .
@@ -4418,6 +4438,8 @@ nathanielgavin.lol CNAME .
 *.nathanielgavin.lol CNAME .
 proxy.lol CNAME .
 *.proxy.lol CNAME .
+proxyduke.lol CNAME .
+*.proxyduke.lol CNAME .
 themeaningofallmeaningsforallofthemeaningsmeanings.lol CNAME .
 *.themeaningofallmeaningsforallofthemeaningsmeanings.lol CNAME .
 theproxy.lol CNAME .
@@ -5810,6 +5832,8 @@ rnblyatclub.online CNAME .
 *.rnblyatclub.online CNAME .
 roundrockisd.online CNAME .
 *.roundrockisd.online CNAME .
+speedproxy.online CNAME .
+*.speedproxy.online CNAME .
 t92.online CNAME .
 *.t92.online CNAME .
 unblocked2.online CNAME .
@@ -6164,6 +6188,8 @@ uk.teradns.org CNAME .
 *.uk.teradns.org CNAME .
 dns.thebuckners.org CNAME .
 *.dns.thebuckners.org CNAME .
+thenuke.org CNAME .
+*.thenuke.org CNAME .
 theproxy2.org CNAME .
 *.theproxy2.org CNAME .
 theproxya.org CNAME .
@@ -6796,6 +6822,8 @@ videoproxy.site CNAME .
 *.videoproxy.site CNAME .
 vpnproxy.site CNAME .
 *.vpnproxy.site CNAME .
+vtcuong.site CNAME .
+*.vtcuong.site CNAME .
 dns.levonet.sk CNAME .
 *.dns.levonet.sk CNAME .
 surfshark.sk CNAME .
@@ -6862,6 +6890,8 @@ unblocked.surf CNAME .
 *.unblocked.surf CNAME .
 crypto.sx CNAME .
 *.crypto.sx CNAME .
+proxy.sx CNAME .
+*.proxy.sx CNAME .
 3jjxxl.tech CNAME .
 *.3jjxxl.tech CNAME .
 dns.cybertonic.tech CNAME .
@@ -6916,6 +6946,8 @@ dns.koala.us.to CNAME .
 *.dns.koala.us.to CNAME .
 vpnplus.to CNAME .
 *.vpnplus.to CNAME .
+webproxy.to CNAME .
+*.webproxy.to CNAME .
 readandmath.today CNAME .
 *.readandmath.today CNAME .
 adfreedns.top CNAME .

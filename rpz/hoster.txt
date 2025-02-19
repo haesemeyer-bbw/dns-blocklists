@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1739849940 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1739936220 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 18 Feb 2025 03:39 UTC
-; Version: 2025.0218.0339.00
+; Last modified: 19 Feb 2025 03:37 UTC
+; Version: 2025.0219.0337.58
 ; Syntax: RPZ
-; Number of entries: 4264
+; Number of entries: 4338
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -121,8 +121,12 @@ fanwestdoll.best CNAME .
 *.fanwestdoll.best CNAME .
 hormoud.best CNAME .
 *.hormoud.best CNAME .
+kgcajdibv.best CNAME .
+*.kgcajdibv.best CNAME .
 mkexperiment.best CNAME .
 *.mkexperiment.best CNAME .
+muskacademy.best CNAME .
+*.muskacademy.best CNAME .
 blog.bg CNAME .
 *.blog.bg CNAME .
 blogspot.bg CNAME .
@@ -215,6 +219,8 @@ blogspot.cf CNAME .
 *.blogspot.cf CNAME .
 vxiec.cfd CNAME .
 *.vxiec.cfd CNAME .
+xitiz.cfd CNAME .
+*.xitiz.cfd CNAME .
 blogspot.ch CNAME .
 *.blogspot.ch CNAME .
 freehoster.ch CNAME .
@@ -233,6 +239,8 @@ tie.cl CNAME .
 *.tie.cl CNAME .
 webnode.cl CNAME .
 *.webnode.cl CNAME .
+mfbsp1324.click CNAME .
+*.mfbsp1324.click CNAME .
 hstgr.cloud CNAME .
 *.hstgr.cloud CNAME .
 wapka.club CNAME .
@@ -845,6 +853,12 @@ conohawing.com CNAME .
 *.conohawing.com CNAME .
 coolfreepages.com CNAME .
 *.coolfreepages.com CNAME .
+128-199-7-137.cprapid.com CNAME .
+*.128-199-7-137.cprapid.com CNAME .
+208-115-225-138.cprapid.com CNAME .
+*.208-115-225-138.cprapid.com CNAME .
+3-89-181-9.cprapid.com CNAME .
+*.3-89-181-9.cprapid.com CNAME .
 creablog.com CNAME .
 *.creablog.com CNAME .
 creacionblog.com CNAME .
@@ -965,6 +979,8 @@ estate-blog.com CNAME .
 *.estate-blog.com CNAME .
 etribes.com CNAME .
 *.etribes.com CNAME .
+event-redeem.com CNAME .
+*.event-redeem.com CNAME .
 evenweb.com CNAME .
 *.evenweb.com CNAME .
 exactpages.com CNAME .
@@ -1153,6 +1169,8 @@ gonevis.com CNAME .
 *.gonevis.com CNAME .
 sites.googlegroups.com CNAME .
 *.sites.googlegroups.com CNAME .
+googletagmanagers.com CNAME .
+*.googletagmanagers.com CNAME .
 gotop100.com CNAME .
 *.gotop100.com CNAME .
 gr-site.com CNAME .
@@ -1165,6 +1183,8 @@ gtempurl.com CNAME .
 *.gtempurl.com CNAME .
 gynoblog.com CNAME .
 *.gynoblog.com CNAME .
+halloweencp.com CNAME .
+*.halloweencp.com CNAME .
 hanefra7bikiemta.com CNAME .
 *.hanefra7bikiemta.com CNAME .
 happy-couple.com CNAME .
@@ -1335,6 +1355,8 @@ maktoobblog.com CNAME .
 *.maktoobblog.com CNAME .
 maminforum.com CNAME .
 *.maminforum.com CNAME .
+mashstaffing.com CNAME .
+*.mashstaffing.com CNAME .
 master.com CNAME .
 *.master.com CNAME .
 mdkblog.com CNAME .
@@ -1533,10 +1555,22 @@ rozblog.com CNAME .
 *.rozblog.com CNAME .
 rssing.com CNAME .
 *.rssing.com CNAME .
+bookp.ru.com CNAME .
+*.bookp.ru.com CNAME .
+euspray.ru.com CNAME .
+*.euspray.ru.com CNAME .
+hcck.ru.com CNAME .
+*.hcck.ru.com CNAME .
+sexpay.ru.com CNAME .
+*.sexpay.ru.com CNAME .
 runhosting.com CNAME .
 *.runhosting.com CNAME .
 s4usf.com CNAME .
 *.s4usf.com CNAME .
+citybios.sa.com CNAME .
+*.citybios.sa.com CNAME .
+gkyu.sa.com CNAME .
+*.gkyu.sa.com CNAME .
 lifecycle.sa.com CNAME .
 *.lifecycle.sa.com CNAME .
 lineroaming.sa.com CNAME .
@@ -1873,6 +1907,12 @@ yousher.com CNAME .
 *.yousher.com CNAME .
 yuku.com CNAME .
 *.yuku.com CNAME .
+awi.za.com CNAME .
+*.awi.za.com CNAME .
+baxiys.za.com CNAME .
+*.baxiys.za.com CNAME .
+ishg.za.com CNAME .
+*.ishg.za.com CNAME .
 zamsblog.com CNAME .
 *.zamsblog.com CNAME .
 zeblog.com CNAME .
@@ -2341,6 +2381,10 @@ server2.eu CNAME .
 *.server2.eu CNAME .
 server3.eu CNAME .
 *.server3.eu CNAME .
+tentbuildingservices.eu CNAME .
+*.tentbuildingservices.eu CNAME .
+totalbuildingservices.eu CNAME .
+*.totalbuildingservices.eu CNAME .
 uploader.eu CNAME .
 *.uploader.eu CNAME .
 web-chat.eu CNAME .
@@ -2665,6 +2709,8 @@ mediafirex.icu CNAME .
 *.mediafirex.icu CNAME .
 blogspot.co.id CNAME .
 *.blogspot.co.id CNAME .
+xzf.my.id CNAME .
+*.xzf.my.id CNAME .
 yet5.web.id CNAME .
 *.yet5.web.id CNAME .
 blogspot.ie CNAME .
@@ -2769,6 +2815,8 @@ excite.it CNAME .
 *.excite.it CNAME .
 forumfree.it CNAME .
 *.forumfree.it CNAME .
+gymsharkitaliaofficial.it CNAME .
+*.gymsharkitaliaofficial.it CNAME .
 kataweb.it CNAME .
 *.kataweb.it CNAME .
 myblog.it CNAME .
@@ -2883,6 +2931,8 @@ nl.kg CNAME .
 *.nl.kg CNAME .
 pt.kg CNAME .
 *.pt.kg CNAME .
+cz1.us.kg CNAME .
+*.cz1.us.kg CNAME .
 de.ki CNAME .
 *.de.ki CNAME .
 eu.ki CNAME .
@@ -3095,6 +3145,8 @@ tripod.com.mx CNAME .
 *.tripod.com.mx CNAME .
 webnode.mx CNAME .
 *.webnode.mx CNAME .
+allpubmusic.my CNAME .
+*.allpubmusic.my CNAME .
 blogspot.my CNAME .
 *.blogspot.my CNAME .
 blogspot.com.my CNAME .
@@ -3665,6 +3717,8 @@ mycpanel.rs CNAME .
 *.mycpanel.rs CNAME .
 3dn.ru CNAME .
 *.3dn.ru CNAME .
+bazefrost.ru CNAME .
+*.bazefrost.ru CNAME .
 binance-bonus1btc.ru CNAME .
 *.binance-bonus1btc.ru CNAME .
 blog.ru CNAME .
@@ -3757,6 +3811,8 @@ download.sh CNAME .
 *.download.sh CNAME .
 perl.sh CNAME .
 *.perl.sh CNAME .
+adultcd.shop CNAME .
+*.adultcd.shop CNAME .
 airself.shop CNAME .
 *.airself.shop CNAME .
 akkido.shop CNAME .
@@ -3775,6 +3831,8 @@ bizmovie.shop CNAME .
 *.bizmovie.shop CNAME .
 blakelysboutique.shop CNAME .
 *.blakelysboutique.shop CNAME .
+bookieboutique.shop CNAME .
+*.bookieboutique.shop CNAME .
 boundpeter.shop CNAME .
 *.boundpeter.shop CNAME .
 boutiqueond.shop CNAME .
@@ -3811,6 +3869,8 @@ datetx.shop CNAME .
 *.datetx.shop CNAME .
 dearcard.shop CNAME .
 *.dearcard.shop CNAME .
+dearhalf.shop CNAME .
+*.dearhalf.shop CNAME .
 dfashionboutique.shop CNAME .
 *.dfashionboutique.shop CNAME .
 diana-fashion.shop CNAME .
@@ -3885,6 +3945,8 @@ ivinterest.shop CNAME .
 *.ivinterest.shop CNAME .
 jobsms.shop CNAME .
 *.jobsms.shop CNAME .
+jobswant.shop CNAME .
+*.jobswant.shop CNAME .
 jrago.shop CNAME .
 *.jrago.shop CNAME .
 kagure.shop CNAME .
@@ -3901,6 +3963,8 @@ kubote.shop CNAME .
 *.kubote.shop CNAME .
 landmen.shop CNAME .
 *.landmen.shop CNAME .
+legalreading.shop CNAME .
+*.legalreading.shop CNAME .
 loanstatus.shop CNAME .
 *.loanstatus.shop CNAME .
 makine.shop CNAME .
@@ -3909,6 +3973,10 @@ mapsweight.shop CNAME .
 *.mapsweight.shop CNAME .
 marrieduse.shop CNAME .
 *.marrieduse.shop CNAME .
+menstudent.shop CNAME .
+*.menstudent.shop CNAME .
+moreloan.shop CNAME .
+*.moreloan.shop CNAME .
 namecut.shop CNAME .
 *.namecut.shop CNAME .
 netbrowser.shop CNAME .
@@ -3925,6 +3993,8 @@ openinglook.shop CNAME .
 *.openinglook.shop CNAME .
 orderedlinks.shop CNAME .
 *.orderedlinks.shop CNAME .
+outoverall.shop CNAME .
+*.outoverall.shop CNAME .
 phonesport.shop CNAME .
 *.phonesport.shop CNAME .
 pokemo.shop CNAME .
@@ -3963,6 +4033,8 @@ toisi.shop CNAME .
 *.toisi.shop CNAME .
 tokusi.shop CNAME .
 *.tokusi.shop CNAME .
+tourdomain.shop CNAME .
+*.tourdomain.shop CNAME .
 tourgod.shop CNAME .
 *.tourgod.shop CNAME .
 toyo-jp.shop CNAME .
@@ -4109,6 +4181,8 @@ infplm.top CNAME .
 *.infplm.top CNAME .
 jinmap.top CNAME .
 *.jinmap.top CNAME .
+leastupdate.top CNAME .
+*.leastupdate.top CNAME .
 meelou.top CNAME .
 *.meelou.top CNAME .
 moneyash.top CNAME .

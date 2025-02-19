@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 18 Feb 2025 03:40 UTC
-# Version: 2025.0218.0340.16
+# Last modified: 19 Feb 2025 03:39 UTC
+# Version: 2025.0219.0339.13
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1498
+# Number of entries: 1500
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -1431,6 +1431,7 @@ local=/nindy-is.so-gorgeo.us.kg/
 local=/nora-is.so-gorgeo.us.kg/
 local=/nova-is.so-gorgeo.us.kg/
 local=/sitha-is.so-gorgeo.us.kg/
+local=/tetty-is.so-gorgeo.us.kg/
 local=/yussy-is.so-gorgeo.us.kg/
 local=/adfree.usableprivacy.net/
 local=/dns.vaioswolke.xyz/
@@ -1443,6 +1444,7 @@ local=/dns.vishalk.com/
 local=/dns.vod11.xyz/
 local=/dns.vojtat.cz/
 local=/vorlif.org/
+local=/vtcuong.site/
 local=/dns.w3ctag.org/
 local=/dns.wahr.top/
 local=/aqua.is.my.waifu.cz/

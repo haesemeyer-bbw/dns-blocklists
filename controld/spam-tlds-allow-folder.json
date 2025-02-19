@@ -1135,6 +1135,13 @@
       }
     },
     {
+      "PK": "hacktricks.wiki",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "hal.science",
       "action": {
         "do": 1,
