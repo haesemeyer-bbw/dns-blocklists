@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 19 Feb 2025 23:43 UTC
-# Version: 2025.0219.2343.45
+# Last modified: 20 Feb 2025 11:48 UTC
+# Version: 2025.0220.1148.20
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 87338
+# Number of entries: 87335
 #
 local=/0.beer/
 local=/0.club/
@@ -5332,7 +5332,6 @@ local=/a23-trk.xyz/
 local=/a233106.com/
 local=/a2c653c4d145fa5f96a.com/
 local=/a2dconsultants.com/
-local=/a2gw.com/
 local=/a2nn5eri7ce.com/
 local=/a2tw6yoodsag.com/
 local=/a2z-online.us/
@@ -33120,7 +33119,6 @@ local=/ftrnw.org/
 local=/ftscottcamps.com/
 local=/ftslrfl.com/
 local=/ftte.fun/
-local=/ftte.xyz/
 local=/ftv-publicite.fr/
 local=/ftvcapital.at/
 local=/ftvcapital.la/
@@ -69358,7 +69356,6 @@ local=/sherstevens.com/
 local=/shertuwipsumt.net/
 local=/sherwoodcarwash.ca/
 local=/sherylladuke.com/
-local=/sheschemetraitor.com/
 local=/sheshet.org/
 local=/sheshmanisoftwares.in/
 local=/shestour.net/

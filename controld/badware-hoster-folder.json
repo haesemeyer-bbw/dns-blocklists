@@ -792,13 +792,6 @@
       }
     },
     {
-      "PK": "2ya.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "310.at",
       "action": {
         "do": 0,
@@ -9704,13 +9697,6 @@
     },
     {
       "PK": "multiply.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "multiscreensite.com",
       "action": {
         "do": 0,
         "status": 1

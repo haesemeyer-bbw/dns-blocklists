@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 19 Feb 2025 03:37 UTC
-# Version: 2025.0219.0337.58
+# Last modified: 20 Feb 2025 15:38 UTC
+# Version: 2025.0220.1538.21
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 2169
+# Number of entries: 2167
 #
 local=/000a.de/
 local=/000space.com/
@@ -119,7 +119,6 @@ local=/2kool4u.net/
 local=/2nt.com/
 local=/2u.hu/
 local=/2u-2.com/
-local=/2ya.com/
 local=/310.at/
 local=/350.com/
 local=/351.at/
@@ -1396,7 +1395,6 @@ local=/mtradi.top/
 local=/muf.mobi/
 local=/multiblog.com/
 local=/multiply.com/
-local=/multiscreensite.com/
 local=/musik.cx/
 local=/musik.lc/
 local=/muskacademy.best/

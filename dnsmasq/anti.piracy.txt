@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 19 Feb 2025 15:32 UTC
-# Version: 2025.0219.1532.12
+# Last modified: 20 Feb 2025 15:35 UTC
+# Version: 2025.0220.1535.32
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9944
+# Number of entries: 9952
 #
 local=/0123456789nonexistent.com/
 local=/0123movie.net/
@@ -889,6 +889,7 @@ local=/apksunny.com/
 local=/apktg.com/
 local=/apktodo.io/
 local=/apktoly.net/
+local=/apkvision.org/
 local=/apkwind.com/
 local=/apkwonk.com/
 local=/apkzone.net/
@@ -988,6 +989,7 @@ local=/atlaspro.tv/
 local=/atom-stresser.com/
 local=/atopgames.com/
 local=/atorrents.com/
+local=/atrasisclash.net/
 local=/attack-on-titan.online/
 local=/attacker.tv/
 local=/attractiveservices.com/
@@ -1930,6 +1932,8 @@ local=/shi-fa.cjb.net/
 local=/toriyamaworld.cjb.net/
 local=/warezdreamz.cjb.net/
 local=/cjoint.net/
+local=/clashofclansmods.com/
+local=/clashofmagic.io/
 local=/api.clasificadosrapidos.com/
 local=/classiccinemaonline.com/
 local=/classiccinemazone.com/
@@ -5822,6 +5826,7 @@ local=/hawklord.myftp.org/
 local=/turtle55.myftp.org/
 local=/myglotze.net/
 local=/mygully.com/
+local=/myinsta.app/
 local=/mykellerfuture.com/
 local=/mykino.to/
 local=/mymoviebazar.com/
@@ -6120,6 +6125,9 @@ local=/nullforums.net/
 local=/nulljungle.com/
 local=/nullphp.net/
 local=/nullphpscript.com/
+local=/nulls.gg/
+local=/nulls-clash.com/
+local=/nullsclash.net/
 local=/nullscriptfullz.com/
 local=/nunflix.live/
 local=/nunflix.org/
