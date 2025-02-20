@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1739978220 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1740021360 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 19 Feb 2025 15:17 UTC
-; Version: 2025.0219.1517.26
+; Last modified: 20 Feb 2025 03:16 UTC
+; Version: 2025.0220.0316.03
 ; Syntax: RPZ
-; Number of entries: 131778
+; Number of entries: 131786
 ;
 1xbet.ac CNAME .
 *.1xbet.ac CNAME .
@@ -103535,6 +103535,8 @@ atg.se CNAME .
 *.atg.se CNAME .
 bastacasinobonus.se CNAME .
 *.bastacasinobonus.se CNAME .
+battrebetting.se CNAME .
+*.battrebetting.se CNAME .
 beredd.se CNAME .
 *.beredd.se CNAME .
 best-casino.se CNAME .
@@ -103625,6 +103627,8 @@ casinopro.se CNAME .
 *.casinopro.se CNAME .
 casinopunkten.se CNAME .
 *.casinopunkten.se CNAME .
+casinos-utan-svensk-licens.se CNAME .
+*.casinos-utan-svensk-licens.se CNAME .
 casinosafe.se CNAME .
 *.casinosafe.se CNAME .
 casinostars.se CNAME .
@@ -103759,6 +103763,8 @@ popcasino.se CNAME .
 *.popcasino.se CNAME .
 prankcasino.se CNAME .
 *.prankcasino.se CNAME .
+rollino-casino.se CNAME .
+*.rollino-casino.se CNAME .
 roxycasino.se CNAME .
 *.roxycasino.se CNAME .
 betway.brandstudio.schibsted.se CNAME .
@@ -103781,6 +103787,8 @@ storspelare.se CNAME .
 *.storspelare.se CNAME .
 sveacasino.se CNAME .
 *.sveacasino.se CNAME .
+svensk-casinos.se CNAME .
+*.svensk-casinos.se CNAME .
 svenskacasino.se CNAME .
 *.svenskacasino.se CNAME .
 svenskacasinosajter.se CNAME .

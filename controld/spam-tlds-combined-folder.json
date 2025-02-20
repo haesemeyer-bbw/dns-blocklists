@@ -3262,6 +3262,13 @@
       }
     },
     {
+      "PK": "privacy-test-pages.site",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "priv.center",
       "action": {
         "do": 1,

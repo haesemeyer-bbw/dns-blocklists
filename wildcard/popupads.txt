@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 19 Feb 2025 11:45 UTC
-# Version: 2025.0219.1145.46
+# Last modified: 19 Feb 2025 23:43 UTC
+# Version: 2025.0219.2343.45
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 87340
+# Number of entries: 87338
 #
 *.0.beer
 *.0.club
@@ -44137,7 +44137,6 @@
 *.kc3usw.com
 *.kc3yvn.net
 *.kc6gdtkoo.com
-*.kcadxjoxkggcui.com
 *.kcaodbdtyobr.com
 *.kcbebpslutvqvbi.com
 *.kccfkgqjiuiiasiilflcf.com
@@ -86443,7 +86442,6 @@
 *.yunig.top
 *.yunnanpai.com
 *.yunshipei.com
-*.yuntodifrz.com
 *.yupfiles.net
 *.yuppyads.com
 *.yuqyihkyk.com

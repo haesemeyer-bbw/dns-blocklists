@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 19 Feb 2025 13:48 UTC
-# Version: 2025.0219.1348.02
+# Last modified: 20 Feb 2025 01:42 UTC
+# Version: 2025.0220.0142.58
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 154272
+# Number of entries: 154373
 #
 0-02.net
 www.0-02.net
@@ -4124,6 +4124,7 @@ cdn.3lift.com
 dmp.3lift.com
 pdmp.papi-public.ap-southeast-1.dmp.3lift.com
 pdmp.dcapi.dmp.3lift.com
+pdmp.papi-public.eu-central-1.dmp.3lift.com
 pdmp.papi-public.us-east-1.dmp.3lift.com
 pdmp.papi-public.us-west-1.dmp.3lift.com
 dmpsync.3lift.com
@@ -8627,12 +8628,14 @@ engine.adlogists.com
 www.adlogists.com
 adlook.me
 adlook.net
+adlook.tech
 ads.adlook.me
 cdn.adlook.me
 lb-prod.adlook.me
 stat.adlook.me
 www.adlook.me
 www.adlook.net
+www.adlook.tech
 adloop.co
 www.adloop.co
 adloox.com
@@ -14058,6 +14061,8 @@ hydra.alibaba.com
 offer.alibaba.com
 stat.alibaba.com
 umlazada.alibaba.com
+adashx.ut.alibaba.com
+h-adashx.ut.alibaba.com
 tracelog.www.alibaba.com
 analytics.alibaba-inc.com
 metric.alibaba-inc.com
@@ -28455,8 +28460,6 @@ beginningstock.com
 www.beginningstock.com
 beginoppressivegreet.com
 www.beginoppressivegreet.com
-beginsleonine.com
-www.beginsleonine.com
 begracetindery.com
 www.begracetindery.com
 beguessbents.com
@@ -32381,6 +32384,8 @@ britepool.com
 www.britepool.com
 brithungown.com
 www.brithungown.com
+british-shorthair.es
+www.british-shorthair.es
 tagman.britishairways.com
 britishbeheldtask.com
 www.britishbeheldtask.com
@@ -33485,6 +33490,7 @@ www.bylawrite.com
 bymahuxv.xyz
 www.bymahuxv.xyz
 bymetapodchan.com
+www.bymetapodchan.com
 bynamebosh.com
 bynix.xyz
 a.bynix.xyz
@@ -39000,8 +39006,6 @@ wr.catad5959.com
 www.catad5959.com
 catalogcake.com
 www.catalogcake.com
-catalpatomorn.com
-www.catalpatomorn.com
 catapult.ac
 www.catapult.ac
 catapultx.com
@@ -39051,6 +39055,7 @@ catsunrunjam.com
 www.catsunrunjam.com
 catsys.jp
 cattailpectinselected.com
+www.cattailpectinselected.com
 cattishfearfulbygone.com
 www.cattishfearfulbygone.com
 cattishhistoryexplode.com
@@ -42680,6 +42685,7 @@ d2o8i1jpfoso49.cloudfront.net
 d2oa97wrxvxm7y.cloudfront.net
 d2oarllo6tn86.cloudfront.net
 d2ob4whwpjvvpa.cloudfront.net
+d2oc8r72icrxft.cloudfront.net
 d2od2b2huvmzuj.cloudfront.net
 d2oh4tlt9mrke9.cloudfront.net
 d2ohmkyg5w2c18.cloudfront.net
@@ -42786,6 +42792,7 @@ d2xct5bvixoxmj.cloudfront.net
 d2xng9e6gymuzr.cloudfront.net
 d2xxq4ijfwetlm.cloudfront.net
 d2xxqqn3tj9nf3.cloudfront.net
+d2y1lr6nqzfgkq.cloudfront.net
 d2y8ttytgze7qt.cloudfront.net
 d2yeczd6cyyd0z.cloudfront.net
 d2yh8t8mdj4l9x.cloudfront.net
@@ -44272,6 +44279,7 @@ imadrep.co.kr
 adv.imadrep.co.kr
 simg.imadrep.co.kr
 imbalislp.co.za
+imbueautoworx.co.za
 cmp.impress.co.jp
 beacon.watch.impress.co.jp
 analytics.in-tend.co.uk
@@ -45456,6 +45464,7 @@ applepc.com.my
 analytics.apps.com.tr
 asesoriasconfood.com.co
 associacaopeixeboi.com.br
+asu.com.vn
 adproxy.autohome.com.cn
 al.autohome.com.cn
 activity.app.autohome.com.cn
@@ -46486,8 +46495,6 @@ complimentingredientnightfall.com
 www.complimentingredientnightfall.com
 complimentworth.com
 www.complimentworth.com
-complyjudgementessay.com
-www.complyjudgementessay.com
 compolegimmer.com
 www.compolegimmer.com
 posthog.prod.cluster.compose.ai
@@ -49552,6 +49559,8 @@ www.cucaftultog.net
 users.cuci.nl
 cuckooretire.com
 www.cuckooretire.com
+cudavagommier.com
+www.cudavagommier.com
 cuddlethehyena.com
 www.cuddlethehyena.com
 cuddlycake.com
@@ -51676,6 +51685,7 @@ www.deliman.net
 deliquencydeliquencyeyesight.com
 www.deliquencydeliquencyeyesight.com
 deliriamorula.shop
+www.deliriamorula.shop
 deliriumalbumretreat.com
 www.deliriumalbumretreat.com
 aiq-in.delish.com
@@ -53617,6 +53627,8 @@ desireddelayaspirin.com
 www.desireddelayaspirin.com
 desiregig.com
 www.desiregig.com
+desiupload.in
+www.desiupload.in
 analytics.desjardins.com
 trk.solution.desjardins.com
 desk-dictionary.com
@@ -53935,8 +53947,6 @@ dharnaslaked.top
 www.dharnaslaked.top
 dhemixu.com
 www.dhemixu.com
-dheplop.org
-www.dheplop.org
 d1.dhgate.com
 ltecrf.dhgate.com
 data.dhk-kozijnen.nl
@@ -54504,6 +54514,8 @@ discomantles.com
 www.discomantles.com
 events.prd.api.discomax.com
 telegraph.prd.api.discomax.com
+disconnectfrequentinvalid.com
+www.disconnectfrequentinvalid.com
 disconnectthirstyron.com
 www.disconnectthirstyron.com
 discontenteddiagnosefascinating.com
@@ -62609,6 +62621,7 @@ wpk-hb3c-lbg-2.ude.effirst.com
 wpk-sdkv.effirst.com
 www.effirst.com
 effluveputting.com
+www.effluveputting.com
 effulgenttempest.com
 www.effulgenttempest.com
 smetric.efgonlineplus.de
@@ -66768,8 +66781,6 @@ feriassaimiri.com
 www.feriassaimiri.com
 ks.ferlytc.com
 fermiumoregoni.top
-fernandacoracini.com
-www.fernandacoracini.com
 analytics.fernuni-hagen.de
 feronyv.com
 www.feronyv.com
@@ -66791,6 +66802,8 @@ www.fertilizerpairsuperserver.com
 fertilizerpokerelations.com
 www.fertilizerpokerelations.com
 matomo.feser-graf.de
+fesnaed.com
+www.fesnaed.com
 fesportal.com
 www.fesportal.com
 festivalcasketfrench.com
@@ -70608,10 +70621,12 @@ galvanize26.fun
 www.galvanize26.fun
 gam3ah.com
 www.gam3ah.com
+gamaibids.com
 bid.gamaibids.com
 trk.gamaibids.com
 eu.trk.gamaibids.com
 us.trk.gamaibids.com
+www.gamaibids.com
 gambar123.com
 www.gambar123.com
 gamblerush.com
@@ -70695,6 +70710,8 @@ piwik.gamepind.com
 analytics.gamepix.com
 games.analytics.gamepix.com
 openx.gamereactor.dk
+gamerplay67.space
+www.gamerplay67.space
 click.gamersky.com
 ja.gamersky.com
 ja1.gamersky.com
@@ -71641,6 +71658,8 @@ gessdashb6.fun
 www.gessdashb6.fun
 gessiptoab.net
 www.gessiptoab.net
+gestatejiggly.com
+www.gestatejiggly.com
 statistiques.gestionexterne.com
 get-cracked.com
 www.get-cracked.com
@@ -78512,6 +78531,8 @@ eventtracking.hubapi.com
 eventtracking-eu1.hubapi.com
 hubbyobjectedhugo.com
 www.hubbyobjectedhugo.com
+hubfiles.ws
+www.hubfiles.ws
 hubhc.com
 crmapi16.hubhc.com
 crmapi2.hubhc.com
@@ -80697,6 +80718,30 @@ impostororchestraherbal.com
 www.impostororchestraherbal.com
 impractical-award.com
 www.impractical-award.com
+imprdom.com
+sgp-node1.imprdom.com
+sgp-node2.imprdom.com
+sgp-node3.imprdom.com
+use-node10.imprdom.com
+use-node11.imprdom.com
+use-node12.imprdom.com
+use-node13.imprdom.com
+use-node14.imprdom.com
+use-node15.imprdom.com
+use-node16.imprdom.com
+use-node17.imprdom.com
+use-node18.imprdom.com
+use-node19.imprdom.com
+use-node2.imprdom.com
+use-node20.imprdom.com
+use-node3.imprdom.com
+use-node4.imprdom.com
+use-node5.imprdom.com
+use-node6.imprdom.com
+use-node7.imprdom.com
+use-node8.imprdom.com
+use-node9.imprdom.com
+www.imprdom.com
 impresionesweb.com
 www.impresionesweb.com
 impresivedate.com
@@ -85283,6 +85328,8 @@ www.irvingfields.net
 irxcm.com
 irxybq.com
 www.irxybq.com
+irymountain.org
+www.irymountain.org
 is.com
 rac.is.fi
 vg.is.fi
@@ -85760,6 +85807,7 @@ iykig.cn
 www.iykig.cn
 iykl.xyz
 www.iykl.xyz
+gwbudgetali.iymedia.me
 iystrbftlwif.icu
 www.iystrbftlwif.icu
 iyyuvkd.com
@@ -85994,6 +86042,8 @@ jargonwillinglybetrayal.com
 www.jargonwillinglybetrayal.com
 jarvispopsu.com
 www.jarvispopsu.com
+jasmoneriprap.com
+www.jasmoneriprap.com
 jasonknightsf.com
 www.jasonknightsf.com
 jatfugios.com
@@ -86104,6 +86154,8 @@ www.jbwiujl.com
 jbzj.com
 www.jbzj.com
 logging-service-main-prd.k8-svc.jc-gs.com
+jcedu.org
+www.jcedu.org
 jcinmaa.top
 www.jcinmaa.top
 jclimia.top
@@ -88112,8 +88164,6 @@ matomo.kbs.de
 kbumnvc.com
 www.kbumnvc.com
 e.kc-education.com
-kcadxjoxkggcui.com
-www.kcadxjoxkggcui.com
 e459.kcci.com
 c.e459.kcci.com
 ywrcqa.kcentv.com
@@ -88470,6 +88520,8 @@ www.khbutla.cc
 khcn-han-muc-tin-dung-ca-nhan.com
 www.khcn-han-muc-tin-dung-ca-nhan.com
 analytics.khealth.com
+khedastrilium.com
+www.khedastrilium.com
 khhkfcf.com
 www.khhkfcf.com
 khngkkcwtlnu.com
@@ -89419,6 +89471,8 @@ krut.link
 www.krut.link
 beacon.krxd.net
 cdn.krxd.net
+ks.cn
+www.ks.cn
 slb-p2p.vcloud.ks-live.com
 log-sdk.ksapisrv.com
 web-trace.ksapisrv.com
@@ -92623,6 +92677,8 @@ log-report.com
 www.log-report.com
 logaholic.com
 www.logaholic.com
+loganmedia.mobi
+www.loganmedia.mobi
 logbor.com
 u.logbor.com
 www.logbor.com
@@ -93079,6 +93135,7 @@ www.lowsmoochumom.com
 lowsteelixor.com
 www.lowsteelixor.com
 lowtirtougaa.com
+www.lowtirtougaa.com
 lowvolatilitysolutions.com
 www.lowvolatilitysolutions.com
 loxitdat.com
@@ -93153,7 +93210,12 @@ lqgenuq-j.life
 www.lqgenuq-j.life
 lqlwjr.icu
 www.lqlwjr.icu
+lqm.io
+cdn.lqm.io
+h.lqm.io
 tracking.lqm.io
+vcdn.lqm.io
+www.lqm.io
 lqmnwoq.cc
 www.lqmnwoq.cc
 lqsuuke.cc
@@ -97244,6 +97306,7 @@ miniast.com
 coco.miniast.com
 log.miniast.com
 sim.miniast.com
+www.miniast.com
 miniature-injury.pro
 www.miniature-injury.pro
 apollo.miniclip.com
@@ -99107,7 +99170,6 @@ www.mockscissorssatisfaction.com
 smetrics.army.mod.uk
 matomo.defencegateway.mod.uk
 metric.mod.io
-widgets.shop.moda.it
 track.data.modanisa.com
 signals.modanisa.com
 modato.ru
@@ -101343,6 +101405,8 @@ www.mysticmatebiting.com
 analytics.mystream.com
 countly-api.mysugr.com
 countly.tools.mysugr.com
+mysura.it
+www.mysura.it
 myswitchads.com
 delivery.us.myswitchads.com
 www.myswitchads.com
@@ -103632,6 +103696,8 @@ nnfbxz.icu
 www.nnfbxz.icu
 nnightherefl.info
 www.nnightherefl.info
+apihorizon.nnmtools.com
+cdnhorizon.nnmtools.com
 nnn.ru
 www.nnn.ru
 nnowa.com
@@ -105625,8 +105691,6 @@ www.oijkse.com
 oijsncvhg.com
 www.oijsncvhg.com
 recommendations.asunnot.oikotie.fi
-oilcoatannect.com
-www.oilcoatannect.com
 ss.oilily.com
 oilwellsublot.top
 www.oilwellsublot.top
@@ -106598,7 +106662,18 @@ tegnaus.dcapi.tagger.opecloud.com
 var.dcapi.tagger.opecloud.com
 eu.tagger.opecloud.com
 eu-central-1.eu.tagger.opecloud.com
+papi-public.eu-central-1.eu.tagger.opecloud.com
 eu-central-1.tagger.opecloud.com
+papi-public.eu-central-1.tagger.opecloud.com
+adalliance.papi-public.eu-central-1.tagger.opecloud.com
+adweb.papi-public.eu-central-1.tagger.opecloud.com
+asmi.papi-public.eu-central-1.tagger.opecloud.com
+gedi.papi-public.eu-central-1.tagger.opecloud.com
+lefigaro.papi-public.eu-central-1.tagger.opecloud.com
+nextms.papi-public.eu-central-1.tagger.opecloud.com
+raspl.papi-public.eu-central-1.tagger.opecloud.com
+rmb.papi-public.eu-central-1.tagger.opecloud.com
+var.papi-public.eu-central-1.tagger.opecloud.com
 gedi.tagger.opecloud.com
 italiaonline.tagger.opecloud.com
 lefigaro.tagger.opecloud.com
@@ -107791,6 +107866,7 @@ analytics.ausheartnetwork.org.au
 metrics.cats.org.uk
 service.charitiesaidfoundation.org.uk
 analytics.cifas.org.uk
+dasp.org.pk
 analytics.escience.org.cn
 analytics.fft.org.uk
 analytics.humanappeal.org.uk
@@ -109884,6 +109960,8 @@ pavetrade.com
 www.pavetrade.com
 pavisordjerib.com
 www.pavisordjerib.com
+pavoboxapp.com
+www.pavoboxapp.com
 pavoshare.com
 www.pavoshare.com
 pavymoieter.com
@@ -111493,6 +111571,8 @@ piranho.com
 piranho.de
 www.piranho.com
 www.piranho.de
+piratedrive.com
+www.piratedrive.com
 piratepc.net
 www.piratepc.net
 piratepx.com
@@ -113161,6 +113241,8 @@ poshhateful.com
 www.poshhateful.com
 poshsplitdr.com
 www.poshsplitdr.com
+posicionamientonatural.es
+www.posicionamientonatural.es
 positeasysembl.org
 www.positeasysembl.org
 analytics.position.green
@@ -118524,6 +118606,7 @@ track.realtimeboard.com
 realtimely.io
 api.realtimely.io
 ua.realtimely.io
+pbc.realtor.com
 pbcs.realtor.com
 smetrics.realtor.com
 realtracker.com
@@ -130953,6 +131036,8 @@ ssrv7.com
 www.ssrv7.com
 ssvnshop.com
 www.ssvnshop.com
+ssydquy.top
+www.ssydquy.top
 ssylieb.top
 www.ssylieb.top
 swa.st.com
@@ -131518,6 +131603,8 @@ www.static-dscn.net
 static-srv.com
 go.static-srv.com
 www.static-srv.com
+staticcc.com
+www.staticcc.com
 staticfile.net
 staticfile.org
 cdn.staticfile.net
@@ -135522,8 +135609,6 @@ tendermeets.com
 www.tendermeets.com
 tendertest.com
 www.tendertest.com
-tendonrerent.com
-www.tendonrerent.com
 tendonsjogger.top
 www.tendonsjogger.top
 matomo.tenet3.com
@@ -135607,6 +135692,8 @@ teraphessed.guru
 www.teraphessed.guru
 terasharelink.com
 www.terasharelink.com
+teraverseapp.com
+www.teraverseapp.com
 terbit2.com
 www.terbit2.com
 tercabilis.info
@@ -136161,6 +136248,8 @@ www.theo.digital
 e664.theoaklandpress.com
 theod-qsr.com
 www.theod-qsr.com
+theolkaska.com
+www.theolkaska.com
 theolwelt.com
 theonecdn.com
 www.theonecdn.com
@@ -136961,6 +137050,8 @@ log.tinnhac.com
 log.tinnhanhchungkhoan.vn
 tinsus.com
 www.tinsus.com
+tintedvideo.com
+www.tintedvideo.com
 tintinvay.com
 www.tintinvay.com
 tintprestigecrumble.com
@@ -141629,6 +141720,8 @@ ultsearch.com
 www.ultsearch.com
 ulwfys.xyz
 www.ulwfys.xyz
+ulwsfvkfwrjyw.xyz
+www.ulwsfvkfwrjyw.xyz
 ulyvjty4rd.com
 www.ulyvjty4rd.com
 umami.dev
@@ -142615,6 +142708,7 @@ updateenow.com
 www.updateenow.com
 updatefluency.com
 www.updatefluency.com
+stats.updategfiles.com
 updatemobilee.com
 www.updatemobilee.com
 updatephone.club
@@ -142865,6 +142959,7 @@ metric.preview.urbantz.com
 matomo.urbox.vn
 urchin.com
 www.urchin.com
+collect.ureca-lab.com
 ureckeeds.com
 www.ureckeeds.com
 analytics.cc.uregina.ca
@@ -144356,6 +144451,8 @@ vfgtg.com
 a.vfgtg.com
 vflorp.xyz
 www.vflorp.xyz
+vfocus.net
+www.vfocus.net
 vfphbh.xyz
 www.vfphbh.xyz
 analytics.vfr-verlag.de
@@ -146936,6 +147033,7 @@ www.want-s0me-push.net
 want-some-psh.com
 want-some-psh.net
 www.want-some-psh.com
+www.want-some-psh.net
 want-some-push.net
 www.want-some-push.net
 want7feed.com
@@ -150034,6 +150132,7 @@ wts.one
 www.wts.one
 wts2.one
 www.wts2.one
+cdn.wtshare.com
 ywrcqa.wtsp.com
 wttuuyd.cn
 www.wttuuyd.cn
@@ -150209,8 +150308,6 @@ wxseedslpi.com
 www.wxseedslpi.com
 wxymag.xyz
 www.wxymag.xyz
-wyaoormajveqk.top
-www.wyaoormajveqk.top
 wyeczfx.com
 www.wyeczfx.com
 wyfec.cn
@@ -152274,6 +152371,8 @@ analytics-ingest-ue1.yinzcam.com
 analytics-kc-nfl.yinzcam.com
 analytics-min-nfl.yinzcam.com
 analytics-phi-nfl.yinzcam.com
+yiopse.com
+www.yiopse.com
 yiqifa.com
 p.yiqifa.com
 www.yiqifa.com
@@ -152858,8 +152957,6 @@ yunsennet.com
 www.yunsennet.com
 yunshipei.com
 www.yunshipei.com
-yuntodifrz.com
-www.yuntodifrz.com
 statistic-overseas.yunxinfw.com
 yunzuowen.com
 www.yunzuowen.com
@@ -153268,6 +153365,8 @@ webmetrics.zebra.com
 analytics.zebrux.com
 countly.zecarte.fr
 metrics.zeczec.com
+zedatthewonderfulst.org
+www.zedatthewonderfulst.org
 m.zedcdn.me
 zeddjv.xyz
 www.zeddjv.xyz
@@ -154255,6 +154354,8 @@ metrics.hunters.zynga.com
 log-collector.svctr.zynga.com
 zyns.com
 www.zyns.com
+zyrelolbbqyww.top
+www.zyrelolbbqyww.top
 zyrji.com
 www.zyrji.com
 zyrnbh.xyz

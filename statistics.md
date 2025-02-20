@@ -70,7 +70,7 @@
   5 |      98% |   0% |      2% | Native Tracker Amazon (Devices, Shopping, Video)
   6 |     100% |   0% |      0% | Native Tracker Huawei (Devices)
   7 |     100% |   0% |      0% | Native Tracker LG webOS
-  8 |      94% |   0% |      6% | Native Tracker Microsoft (Windows, Office, MSN)
+  8 |      92% |   0% |      8% | Native Tracker Microsoft (Windows, Office, MSN)
   9 |      86% |  12% |      2% | Denylist Base
  10 |     100% |   0% |      0% | Basic Extension
  11 |      92% |   8% |      0% | Denylist Community non-Aggressive

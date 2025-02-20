@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 19 Feb 2025 15:17 UTC
-# Version: 2025.0219.1517.26
+# Last modified: 20 Feb 2025 03:16 UTC
+# Version: 2025.0220.0316.03
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 65889
+# Number of entries: 65893
 #
 local=/0-bdmbet.com/
 local=/0-betsixty.com/
@@ -17062,6 +17062,7 @@ local=/batmansuper.com/
 local=/batmantotozl.org/
 local=/batmantotozz.org/
 local=/battistrada.com/
+local=/battrebetting.se/
 local=/batuintan.com/
 local=/bau88.com/
 local=/baumbet.ro/
@@ -25154,6 +25155,7 @@ local=/casinos-slots.xyz/
 local=/casinos-switzerland.com/
 local=/casinos-togethe.live/
 local=/casinos-utan-svensk-licens.com/
+local=/casinos-utan-svensk-licens.se/
 local=/casinos-vavada-online.website/
 local=/casinos-vergleich.de/
 local=/casinos-vip.org/
@@ -53841,6 +53843,7 @@ local=/rollino.casino/
 local=/rollino.co/
 local=/rollino.pro/
 local=/rollino.vip/
+local=/rollino-casino.se/
 local=/rollino1.co/
 local=/rollinocasinonodeposit.click/
 local=/rollxcasino.com/
@@ -59035,6 +59038,7 @@ local=/sven-play.com/
 local=/svenbet.com/
 local=/svenbetcasinonodeposit.click/
 local=/svenplaycasinonodeposit.click/
+local=/svensk-casinos.se/
 local=/svenska-casino.co/
 local=/svenskacasino.online/
 local=/svenskacasino.se/

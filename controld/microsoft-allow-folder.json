@@ -78,6 +78,27 @@
       }
     },
     {
+      "PK": "au-v10c.events.data.microsoft.com",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "au-v10.events.data.microsoft.com",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "au-v20.events.data.microsoft.com",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "bat.bing.com",
       "action": {
         "do": 1,
@@ -162,6 +183,27 @@
       }
     },
     {
+      "PK": "eu-v10c.events.data.microsoft.com",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "eu-v10.events.data.microsoft.com",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "eu-v20.events.data.microsoft.com",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "in.appcenter.ms",
       "action": {
         "do": 1,
@@ -190,6 +232,13 @@
       }
     },
     {
+      "PK": "in-v20.events.data.microsoft.com",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "jp.events.data.trafficmanager.net",
       "action": {
         "do": 1,
@@ -198,6 +247,27 @@
     },
     {
       "PK": "jp-mobile.events.data.microsoft.com",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "jp-v10c.events.data.microsoft.com",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "jp-v10.events.data.microsoft.com",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "jp-v20.events.data.microsoft.com",
       "action": {
         "do": 1,
         "status": 1
@@ -330,6 +400,27 @@
       }
     },
     {
+      "PK": "uk-v20.events.data.microsoft.com",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "us4-v20.events.data.microsoft.com",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "us5-v20.events.data.microsoft.com",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "us.events.data.trafficmanager.net",
       "action": {
         "do": 1,
@@ -338,6 +429,34 @@
     },
     {
       "PK": "us-mobile.events.data.microsoft.com",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "us-v10c.events.data.microsoft.com",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "us-v10.events.data.microsoft.com",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "us-v20.events.data.microsoft.com",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "v10c.events.data.microsoft.com",
       "action": {
         "do": 1,
         "status": 1
