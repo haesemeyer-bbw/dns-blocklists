@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 20 Feb 2025 23:51 UTC
-# Version: 2025.0220.2351.27
+# Last modified: 21 Feb 2025 12:02 UTC
+# Version: 2025.0221.1202.19
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10887
+# Number of entries: 10892
 #
 local=/01crypto.com/
 local=/1-stud.net/
@@ -5566,6 +5566,7 @@ local=/latifamorgantyorkies.com/
 local=/laufrad-outlet24.de/
 local=/laufrader.de/
 local=/laufschule-janson.de/
+local=/laumaholding.com/
 local=/laurabungo.com/
 local=/lauregorriz.com/
 local=/laurencesabalza.com/
@@ -6160,6 +6161,7 @@ local=/mercimunich.de/
 local=/mercury-handel24.de/
 local=/merge-properties.com/
 local=/mergesportnew.com/
+local=/meriaformation.com/
 local=/meridianfinance.pro/
 local=/merkatoltd.com/
 local=/merlin-apotheke.com/
@@ -9695,6 +9697,7 @@ local=/toolzonedeal.com/
 local=/toolzonepro.com/
 local=/top-apotheke.net/
 local=/top-ausstattung.de/
+local=/top-business-deals.com/
 local=/top-housegoods.com/
 local=/top-notchchicgeneral.com/
 local=/top-notchgear.com/
@@ -9834,6 +9837,7 @@ local=/travenu.de/
 local=/travisscottofficial.com/
 local=/traxxas-de.com/
 local=/trd6.cc/
+local=/connexion.trdapplication.com/
 local=/treaderoutlet.com/
 local=/treasurebike.com/
 local=/treatstoreweb.com/
@@ -10314,6 +10318,7 @@ local=/vionicmexico.com/
 local=/vionicosterreich.at/
 local=/vionicschuhe.de/
 local=/vip-bag.shop/
+local=/vipaccount.net/
 local=/vipbinary.com/
 local=/vipbusyaa.xyz/
 local=/vipsupport-eu.com/

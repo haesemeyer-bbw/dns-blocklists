@@ -56,7 +56,7 @@
  20 |      92% |   8% |      0% | Balanced Extension
  21 |      84% |   8% |      8% | AdGuard MultiParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads and Trackers)
  22 |      95% |   3% |      2% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
- 23 |      92% |   3% |      5% | Advanced Extension
+ 23 |      90% |   5% |      5% | Advanced Extension
  24 |      74% |  24% |      2% | Denylist Community Threat Intelligence Feeds
  25 |      65% |  22% |     13% | Denylist Community Advanced
 ```
@@ -83,7 +83,7 @@
  18 |      92% |   8% |      0% | Balanced Extension
  19 |      86% |   8% |      6% | AdGuard MultiParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads and Trackers)
  20 |      96% |   3% |      1% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
- 21 |      92% |   3% |      5% | Advanced Extension
+ 21 |      90% |   5% |      5% | Advanced Extension
  22 |      74% |  24% |      2% | Denylist Community Threat Intelligence Feeds
  23 |      68% |  22% |     10% | Denylist Community Advanced
  24 |      80% |  13% |      7% | EasyList MultiParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
@@ -115,7 +115,7 @@
  18 |      92% |   8% |      0% | Balanced Extension
  19 |      86% |   8% |      6% | AdGuard MultiParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads and Trackers)
  20 |      96% |   3% |      1% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
- 21 |      94% |   3% |      3% | Advanced Extension
+ 21 |      92% |   5% |      3% | Advanced Extension
  22 |      74% |  24% |      2% | Denylist Community Threat Intelligence Feeds
  23 |      68% |  22% |     10% | Denylist Community Advanced
  24 |      80% |  13% |      7% | EasyList MultiParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)

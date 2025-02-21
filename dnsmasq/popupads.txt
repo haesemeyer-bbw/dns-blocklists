@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 20 Feb 2025 23:45 UTC
-# Version: 2025.0220.2345.35
+# Last modified: 21 Feb 2025 11:55 UTC
+# Version: 2025.0221.1155.52
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 87335
+# Number of entries: 87324
 #
 local=/0.beer/
 local=/0.club/
@@ -11738,7 +11738,6 @@ local=/azvvkesamhu.com/
 local=/azwhitemountainsliving.com/
 local=/azwrreapl.com/
 local=/azwvmeapboqh.com/
-local=/azxdkucizr.com/
 local=/azxhlzxmrqc.com/
 local=/azxoptapkoss.com/
 local=/azygotesonless.com/
@@ -26491,7 +26490,6 @@ local=/downloading-addon.com/
 local=/downloading-extension.com/
 local=/downloadmobile.pro/
 local=/downloadmoobilee.info/
-local=/downloadoffice2010.org/
 local=/downloadsecretchimney.com/
 local=/downloadstepfathercoffeehouse.com/
 local=/downloadthesefile.com/
@@ -33258,7 +33256,6 @@ local=/funnight.in/
 local=/funny-commercial.com/
 local=/funny-page.net/
 local=/funny-pranks.com/
-local=/funnyairplane.com/
 local=/mefah.funnydownloader.com/
 local=/funnyflirt.net/
 local=/funnynudity.net/
@@ -44855,7 +44852,6 @@ local=/knothubby.com/
 local=/knottyactive.pro/
 local=/knottym.com/
 local=/knottynook.us/
-local=/knottysticks.com/
 local=/knotworkshop.com/
 local=/knowd.com/
 local=/knowfloor.com/
@@ -49360,7 +49356,6 @@ local=/matsnmore.in/
 local=/matsoglacoo.net/
 local=/matspall.com/
 local=/matsport-overland.com/
-local=/matswhyask.cam/
 local=/matt-rain.com/
 local=/mattcar.xyz/
 local=/mattcarroll.xyz/
@@ -62899,7 +62894,6 @@ local=/putrescentbluffdefensive.com/
 local=/putrescentheadstoneyoungest.com/
 local=/putrescentpremonitionspoon.com/
 local=/putrescentsacred.com/
-local=/putridchart.pro/
 local=/putrr16.com/
 local=/putrr7.com/
 local=/putswarmdistrict.com/
@@ -64871,8 +64865,7 @@ local=/rejstrikzastav.com/
 local=/rejuvanate.com/
 local=/rekipion.com/
 local=/rekitadvisory.com/
-local=/xml.reklama.network/
-local=/xmlv4.reklama.network/
+local=/reklama.network/
 local=/rtb.reklambid.com/
 local=/reklamko.pro/
 local=/pxl.reklamselfie.com/
@@ -69100,7 +69093,6 @@ local=/shackirrigate.com/
 local=/shadeapologies.com/
 local=/shadenonetheless.com/
 local=/shaderadioactivepoisonous.com/
-local=/shadesentimentssquint.com/
 local=/shadesincreasingcontents.com/
 local=/shadessurmesure.fr/
 local=/shadimates.com/
@@ -78229,7 +78221,6 @@ local=/trianglekolkata.com/
 local=/tribalfusion.com/
 local=/tribali.info/
 local=/tribeix.com/
-local=/tribespiraldresser.com/
 local=/tribm.com/
 local=/tributeattentions.com/
 local=/tributeparticle.com/
@@ -82253,7 +82244,6 @@ local=/voteproxy.ca/
 local=/votevahedi.com/
 local=/vothongeey.net/
 local=/vothouph.com/
-local=/votingbemixt.website/
 local=/votinginvolvingeyesight.com/
 local=/votrerpc.com/
 local=/vouchinclusion.com/
@@ -86669,7 +86659,6 @@ local=/zatloudredr.com/
 local=/zatnoh.com/
 local=/zatorsky.com/
 local=/zauctuj.online/
-local=/zaudouwa.xyz/
 local=/zaugaunachuchiw.net/
 local=/zauglaiza.com/
 local=/zaujooro.com/
