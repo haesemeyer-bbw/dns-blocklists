@@ -4,8 +4,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 20 Feb 2025 11:48 UTC
-# Version: 2025.0220.1148.20
+# Last modified: 20 Feb 2025 23:45 UTC
+# Version: 2025.0220.2345.35
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 87335
 #
@@ -5961,6 +5961,9 @@ local=/acidmercy.com/
 local=/acidpigs.com/
 local=/acidprejudice.com/
 local=/acidprolific.com/
+local=/acik-cekilis.com/
+local=/acikcekilishizmetiburada.com/
+local=/acikfirsatzamani.com/
 local=/ackcdn.net/
 local=/ackerleyfarms.com/
 local=/acknowledgecalculated.com/
@@ -9990,7 +9993,6 @@ local=/arkharmonious.com/
 local=/arkivalmemories.com/
 local=/arkongreen.ca/
 local=/arksfoundation.org/
-local=/arkunexpectedtrousers.com/
 local=/arkx.agency/
 local=/arlampenta.com/
 local=/arleavannya.com/
@@ -24597,6 +24599,7 @@ local=/denyingdry.com/
 local=/denyinginabilitywhence.com/
 local=/denypishing.shop/
 local=/denyrivers.com/
+local=/denz-grs.com/
 local=/denza.pro/
 local=/deobhognewsexpress.live/
 local=/deostr.com/
@@ -29731,7 +29734,6 @@ local=/eventinsur.ca/
 local=/eventio.space/
 local=/eventphotopro.com/
 local=/eventphotopro.org/
-local=/eventsbands.com/
 local=/eventsbykae.net/
 local=/eventsbysarakyleen.com/
 local=/eventsliteracysterile.com/
@@ -47731,7 +47733,6 @@ local=/loveradar.life/
 local=/loverevenue.com/
 local=/loverfellow.com/
 local=/loverpreparationexpectations.com/
-local=/loversarrivaladventurer.com/
 local=/loversgrim.com/
 local=/loverspg.online/
 local=/loverssloppy.com/
@@ -52719,7 +52720,6 @@ local=/nailarmy.com/
 local=/naileryhawaii.com/
 local=/nailincurinvention.com/
 local=/nailkin.com/
-local=/nailsandothesa.org/
 local=/nailsheedlesswarn.com/
 local=/nailsolution.in/
 local=/nailspony.com/
