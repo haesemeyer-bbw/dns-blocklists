@@ -136,6 +136,10 @@ geller-pa.googleapis.com
 auditrecording-pa.googleapis.com
 # https://github.com/hagezi/dns-blocklists/issues/2900#issuecomment-2589526384
 footprints-pa.googleapis.com
+# https://github.com/hagezi/dns-blocklists/issues/2900#issuecomment-2673171170
+searchlabspartnerservice-pa.googleapis.com
+myphonenumbers-pa.googleapis.com
+performanceparameters.googleapis.co
 
 # Already blocked via the base domains in the build DB
 playmoviesdfe-pa.googleapis.com
