@@ -139,7 +139,7 @@ footprints-pa.googleapis.com
 # https://github.com/hagezi/dns-blocklists/issues/2900#issuecomment-2673171170
 searchlabspartnerservice-pa.googleapis.com
 myphonenumbers-pa.googleapis.com
-performanceparameters.googleapis.co
+performanceparameters.googleapis.com
 
 # Already blocked via the base domains in the build DB
 playmoviesdfe-pa.googleapis.com
