@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1740151620 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1740182040 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 21 Feb 2025 15:27 UTC
-; Version: 2025.0221.1527.22
+; Last modified: 21 Feb 2025 23:54 UTC
+; Version: 2025.0221.2354.53
 ; Syntax: RPZ
-; Number of entries: 129872
+; Number of entries: 129874
 ;
 1xbet.ac CNAME .
 *.1xbet.ac CNAME .
@@ -28415,6 +28415,8 @@ arrwin.com CNAME .
 *.arrwin.com CNAME .
 art-casino.com CNAME .
 *.art-casino.com CNAME .
+artemisbet70.com CNAME .
+*.artemisbet70.com CNAME .
 articlecasino.com CNAME .
 *.articlecasino.com CNAME .
 articleknowledgebase.com CNAME .
@@ -95753,8 +95755,6 @@ ewinner.pl CNAME .
 *.ewinner.pl CNAME .
 fleetcor.pl CNAME .
 *.fleetcor.pl CNAME .
-forexopinia.pl CNAME .
-*.forexopinia.pl CNAME .
 fuksiarz.pl CNAME .
 *.fuksiarz.pl CNAME .
 ggbet-casino.pl CNAME .
@@ -119211,6 +119211,8 @@ newvegascasino.top CNAME .
 *.newvegascasino.top CNAME .
 nextcasino.top CNAME .
 *.nextcasino.top CNAME .
+nhacaiuytin.top CNAME .
+*.nhacaiuytin.top CNAME .
 nikecasino.top CNAME .
 *.nikecasino.top CNAME .
 ninecasino.top CNAME .

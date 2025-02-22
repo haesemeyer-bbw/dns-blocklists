@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 21 Feb 2025 15:46 UTC
-# Version: 2025.0221.1546.01
+# Last modified: 21 Feb 2025 23:37 UTC
+# Version: 2025.0221.2337.19
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1670
+# Number of entries: 1668
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -812,9 +812,7 @@
 0.0.0.0 dns.iamanuragh.in
 0.0.0.0 dns.iamninja.ru
 0.0.0.0 mask.icloud.com
-0.0.0.0 www.mask.icloud.com
 0.0.0.0 mask-api.icloud.com
-0.0.0.0 www.mask-api.icloud.com
 0.0.0.0 mask-boot.icloud.com
 0.0.0.0 mask-canary.icloud.com
 0.0.0.0 mask-h2.icloud.com

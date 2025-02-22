@@ -694,6 +694,13 @@
       }
     },
     {
+      "PK": "search.projectsegfau.lt",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "search.rabbit-company.com",
       "action": {
         "do": 0,
@@ -877,6 +884,13 @@
     },
     {
       "PK": "searx.com.au",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "searx.cthd.icu",
       "action": {
         "do": 0,
         "status": 1

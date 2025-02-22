@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 21 Feb 2025 11:55 UTC
-# Version: 2025.0221.1155.52
+# Last modified: 21 Feb 2025 23:24 UTC
+# Version: 2025.0221.2324.10
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 87324
+# Number of entries: 87321
 #
 local=/0.beer/
 local=/0.club/
@@ -5961,9 +5961,6 @@ local=/acidmercy.com/
 local=/acidpigs.com/
 local=/acidprejudice.com/
 local=/acidprolific.com/
-local=/acik-cekilis.com/
-local=/acikcekilishizmetiburada.com/
-local=/acikfirsatzamani.com/
 local=/ackcdn.net/
 local=/ackerleyfarms.com/
 local=/acknowledgecalculated.com/
@@ -7854,7 +7851,6 @@ local=/akkltamalm.com/
 local=/akleffitness.com/
 local=/aklefitness.com/
 local=/aklefwellness.com/
-local=/aklorswikk.com/
 local=/akluidaho.org/
 local=/akmh070.vip/
 local=/akmxts.com/
@@ -24598,7 +24594,6 @@ local=/denyingdry.com/
 local=/denyinginabilitywhence.com/
 local=/denypishing.shop/
 local=/denyrivers.com/
-local=/denz-grs.com/
 local=/denza.pro/
 local=/deobhognewsexpress.live/
 local=/deostr.com/
@@ -32905,7 +32900,6 @@ local=/freshstore.store/
 local=/freshwholesalehub.in/
 local=/fresserdobbins.com/
 local=/frestlinker.com/
-local=/frettedmalta.top/
 local=/freunde-sportliga.com/
 local=/frevizor.ru/
 local=/freyaimagine.com/
@@ -34013,6 +34007,7 @@ local=/geethoap.com/
 local=/geethoujeew.net/
 local=/geetooshaiptooz.net/
 local=/geewedurisou.net/
+local=/geewooheene.net/
 local=/geewookoow.net/
 local=/geezoo.net/
 local=/gefcoslovakia.com/
@@ -42050,6 +42045,7 @@ local=/itzekromom.com/
 local=/itzripkkdkfny.com/
 local=/itztek.com/
 local=/iuafpmbeyqcv.com/
+local=/cdn.iubenda.com/
 local=/iucc.yt/
 local=/iucpr.org/
 local=/iucr2026.org/
@@ -55200,7 +55196,6 @@ local=/obduratesettingbeetle.com/
 local=/obediencechainednoun.com/
 local=/obedientapologyinefficient.com/
 local=/obedientrock.com/
-local=/obedirectukly.info/
 local=/obeliepicarp.com/
 local=/oberoi-mall.online/
 local=/oberoiforestville.com/
@@ -56598,6 +56593,7 @@ local=/openexodus.io/
 local=/opengalaxyapps.monster/
 local=/opengamingsolutions.com/
 local=/opengateapplications.com/
+local=/openhd.lol/
 local=/openhoseinsurance.com/
 local=/openhoueinsurance.com/
 local=/openhouseinsrance.com/
@@ -58264,7 +58260,6 @@ local=/partpedestal.com/
 local=/partquestionable.com/
 local=/partridgehostcrumb.com/
 local=/partsbury.com/
-local=/partsfroveil.com/
 local=/partsgarrafa.shop/
 local=/parttimelucidly.com/
 local=/parttimeobdurate.com/
@@ -62455,6 +62450,7 @@ local=/ptubookroapturd.net/
 local=/ptudsiwoumpa.com/
 local=/ptugnins.net/
 local=/ptugnoaw.net/
+local=/ptugojaurd.net/
 local=/ptukasti.com/
 local=/ptukedaisoalreb.net/
 local=/ptuksagidsie.net/
@@ -72404,6 +72400,7 @@ local=/staidlycaffoy.com/
 local=/staidraire.com/
 local=/staihaimp.net/
 local=/stailreeftung.net/
+local=/staimsoom.net/
 local=/staingeefoay.net/
 local=/stainlesssteelgate.com/
 local=/stainsat.net/

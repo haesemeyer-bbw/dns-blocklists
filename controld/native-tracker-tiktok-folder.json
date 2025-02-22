@@ -64,6 +64,13 @@
       }
     },
     {
+      "PK": "ads-imapi.tiktok.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "ads-sg.tiktok.com",
       "action": {
         "do": 0,

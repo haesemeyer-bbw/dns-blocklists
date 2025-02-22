@@ -4,10 +4,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 17 Feb 2025 23:30 UTC
-! Version: 2025.0217.2330.19
+! Last modified: 21 Feb 2025 23:09 UTC
+! Version: 2025.0221.2309.58
 ! Syntax: AdBlock
-! Number of entries: 616
+! Number of entries: 654
 !
 @@||l.1mp.ru^
 @@||t.1und1.de^
@@ -65,7 +65,6 @@
 @@||aax-eu.amazon.in^
 @@||aax-eu.amazon.it^
 @@||aax-eu.amazon.nl^
-@@||aax-eu.amazon.sa^
 @@||aax-eu-dub.amazon.com^
 @@||aax-eu-retail-rtb.amazon.com^
 @@||aax-fe.amazon.com^
@@ -78,7 +77,6 @@
 @@||aax-dtb-cf.amazon-adsystem.amazon.com^
 @@||aax-dtb-mobile-geo.amazon-adsystem.amazon.com^
 @@||aax-ott.amazon-adsystem.amazon.com^
-@@||aax-ott-sdk.amazon-adsystem.amazon.com^
 @@||aax-us.amazon-adsystem.amazon.com^
 @@||aax-us-ott.amazon-adsystem.amazon.com^
 @@||assoc-redirect.amazon.com^
@@ -141,6 +139,7 @@
 @@||tracking.cashkaro.com^
 @@||cc-dt.com^
 @@||cse3.chausport.com^
+@@||mkto-trk.cisco.com^
 @@||cj.com^
 @@||clck.ru^
 @@||api.cleverpush.com^
@@ -234,26 +233,35 @@
 @@||go.e2language.com^
 @@||tagm.eduscho.at^
 @@||track.effiliation.com^
+@@||track34102166105.effiliation.com^
 @@||api.elasticemail.com^
 @@||hs.eloqua.com^
 @@||list-unsubscribe.eservice.emarsys.net^
 @@||redirector.eservice.emarsys.net^
+@@||suite-dashboard.gservice.emarsys.net^
 @@||suite10.emarsys.net^
 @@||suite11.emarsys.net^
 @@||suite16.emarsys.net^
 @@||suite17.emarsys.net^
 @@||suite24.emarsys.net^
 @@||suite27.emarsys.net^
+@@||suite29.emarsys.net^
+@@||suite30.emarsys.net^
 @@||suite33.emarsys.net^
+@@||suite34.emarsys.net^
 @@||suite38.emarsys.net^
+@@||suite40.emarsys.net^
 @@||suite40-cf.emarsys.net^
 @@||suite44.emarsys.net^
 @@||suite45.emarsys.net^
+@@||suite54.emarsys.net^
 @@||suite56.emarsys.net^
 @@||suite57.emarsys.net^
 @@||suite58.emarsys.net^
 @@||suite59.emarsys.net^
 @@||suite63.emarsys.net^
+@@||suite7.emarsys.net^
+@@||suite9.emarsys.net^
 @@||emjcd.com^
 @@||t.en25.com^
 @@||link.epicgames.com^
@@ -264,21 +272,25 @@
 @@||evyy.net^
 @@||m.exactag.com^
 @@||tp-emea.exactag.com^
+@@||s10.login.exacttarget.com^
 @@||s1.exacttarget.com^
 @@||s10.exacttarget.com^
 @@||s11.exacttarget.com^
 @@||s12.exacttarget.com^
 @@||s13.exacttarget.com^
 @@||s4.exacttarget.com^
-@@||s5.exacttarget.com^
 @@||s50.exacttarget.com^
 @@||s51.exacttarget.com^
 @@||s6.exacttarget.com^
 @@||s7.exacttarget.com^
+@@||s8.exacttarget.com^
 @@||cl.exct.net^
 @@||click.e.usa.experian.com^
 @@||cdn.exponea.com^
 @@||cdn.eu1.exponea.com^
+@@||cdn.ftspecialist.exponea.com^
+@@||cdn.network.exponea.com^
+@@||ri-cdn.exponea.com^
 @@||cdn.uk.exponea.com^
 @@||cdn.us1.exponea.com^
 @@||l.facebook.com^
@@ -303,6 +315,7 @@
 @@||go.link^
 @@||go2jump.org^
 @@||adservice.google.ca^
+@@||adservice.google.ch^
 @@||adservice.google.com^
 @@||adservice.google.de^
 @@||adservice.google.dk^
@@ -359,7 +372,6 @@
 @@||judge.me^
 @@||click.justwatch.com^
 @@||www.kdukvh.com^
-@@||uk-go.kelkoogroup.net^
 @@||us-go.kelkoogroup.net^
 @@||click.klarna.de^
 @@||l.klarna.com^
@@ -394,24 +406,41 @@
 @@||mention-me.com^
 @@||action.metaffiliation.com^
 @@||micpn.com^
+@@||email.microsoft.com^
 @@||go.microsoft.com^
 @@||target.microsoft.com^
+@@||email.microsoftemail.com^
 @@||email.microsoftonline.com^
 @@||mkto-ab040115.com^
 @@||mkto-ab040147.com^
+@@||mkto-ab060144.com^
+@@||mkto-ab070017.com^
+@@||mkto-ab070157.com^
+@@||mkto-ab110217.com^
+@@||mkto-ab150224.com^
+@@||mkto-ab160143.com^
 @@||mkto-ab180008.com^
+@@||mkto-ab180024.com^
 @@||mkto-ab220178.com^
 @@||mkto-ab220193.com^
-@@||mkto-ab250167.com^
+@@||mkto-ab250105.com^
+@@||mkto-ab280126.com^
 @@||mkto-ab290022.com^
 @@||mkto-ab300154.com^
 @@||mkto-ab310115.com^
+@@||mkto-ab330006.com^
+@@||mkto-ab330197.com^
+@@||mkto-ab340022.com^
 @@||mkto-ab420081.com^
+@@||mkto-ab440025.com^
 @@||mkto-ab470148.com^
+@@||mkto-ab530057.com^
 @@||mkto-ab540059.com^
 @@||mkto-ab540186.com^
 @@||mkto-ab550140.com^
+@@||mkto-ab550168.com^
 @@||mkto-ab560068.com^
+@@||mkto-ab560171.com^
 @@||mkto-ab570013.com^
 @@||mkto-ab570110.com^
 @@||mkto-ab580004.com^
@@ -427,20 +456,26 @@
 @@||mkto-lon030291.com^
 @@||mkto-lon040152.com^
 @@||mkto-lon050200.com^
+@@||mkto-lon090082.com^
 @@||mkto-nld1040060.com^
 @@||mkto-nld1040186.com^
 @@||mkto-sj010104.com^
+@@||mkto-sj030214.com^
+@@||mkto-sj040252.com^
 @@||mkto-sj070214.com^
 @@||mkto-sj090132.com^
 @@||mkto-sj160210.com^
+@@||mkto-sj170094.com^
 @@||mkto-sj180011.com^
 @@||mkto-sj190104.com^
+@@||mkto-sj200192.com^
 @@||mkto-sj230006.com^
 @@||mkto-sj240014.com^
 @@||mkto-sj240021.com^
 @@||mkto-sj270080.com^
 @@||mkto-sj320047.com^
 @@||mkto-sj330006.com^
+@@||mkto-sj360142.com^
 @@||mkto-sj370181.com^
 @@||mkto-sjh0224.com^
 @@||mktoweb.com^
@@ -509,6 +544,7 @@
 @@||pntrack.com^
 @@||postaffiliatepro.com^
 @@||ndirect.ppro.de^
+@@||geo01.dns.presslabs.net^
 @@||geo02.dns.presslabs.net^
 @@||geo1.presslabs.net^
 @@||prf.hn^
@@ -531,6 +567,8 @@
 @@||rewardtk.com^
 @@||adorama.rfvk.net^
 @@||click.royalcaribbeanmarketing.com^
+@@||rdr9bzpab.cc.rs6.net^
+@@||rgllca6ab.cc.rs6.net^
 @@||r20.rs6.net^
 @@||tracking.s24.com^
 @@||click.e.safelite.com^
@@ -551,6 +589,7 @@
 @@||shop-links.co^
 @@||track.shoparize.com^
 @@||tag.shopping-feed.com^
+@@||t.sidekickopen07.com^
 @@||app.e.sigsauer.com^
 @@||go.skimresources.com^
 @@||a.slashdotmedia.com^
@@ -605,7 +644,6 @@
 @@||analytics.twitter.com^
 @@||email.uber.com^
 @@||redirect.viglink.com^
-@@||ek8.voyage-prive.com^
 @@||cts.vresp.com^
 @@||cdn.webclicks24.com^
 @@||api.webengage.com^

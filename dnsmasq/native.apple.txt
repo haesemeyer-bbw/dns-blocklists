@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 16 Jan 2025 23:31 UTC
-# Version: 2025.0116.2331.39
+# Last modified: 22 Feb 2025 00:09 UTC
+# Version: 2025.0222.0009.42
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 92
+# Number of entries: 93
 #
 local=/cstat.g.aaplimg.com/
 local=/diagassets.g.aaplimg.com/
@@ -63,6 +63,7 @@ local=/launch.apple.com/
 local=/metrics.apple.com/
 local=/msc-dct-prod.msc.apple.com/
 local=/news-app-events.apple.com/
+local=/news-events.apple.com/
 local=/news-notification-events.apple.com/
 local=/news-sports-events.apple.com/
 local=/notes-analytics-events.apple.com/

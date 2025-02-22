@@ -78,20 +78,6 @@
       }
     },
     {
-      "PK": "adsdkpreprod.afd.azureedge.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "adsdkpreprod.azureedge.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "adsdkprod.afd.azureedge.net",
       "action": {
         "do": 0,
@@ -1318,13 +1304,6 @@
     },
     {
       "PK": "ism-telemetry.trafficmanager.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "jpc-visio-telemetry.officeapps.live.com",
       "action": {
         "do": 0,
         "status": 1

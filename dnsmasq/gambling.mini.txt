@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 21 Feb 2025 15:27 UTC
-# Version: 2025.0221.1527.22
+# Last modified: 21 Feb 2025 23:54 UTC
+# Version: 2025.0221.2354.53
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 64936
+# Number of entries: 64937
 #
 local=/0-bdmbet.com/
 local=/0-betsixty.com/
@@ -15706,6 +15706,7 @@ local=/art-sol-casino.ru/
 local=/artcasino.io/
 local=/artcasinonodeposit.click/
 local=/artemisbet.net/
+local=/artemisbet70.com/
 local=/artemisbetgiris.net/
 local=/articlecasino.com/
 local=/articleknowledgebase.com/
@@ -31402,7 +31403,6 @@ local=/forexbrokerz.com/
 local=/forexdengi.com/
 local=/forexfactoryblog.com/
 local=/forexnewsnow.com/
-local=/forexopinia.pl/
 local=/forexpeacearmy.com/
 local=/forexpf.ru/
 local=/forexpros.com/
@@ -45939,6 +45939,7 @@ local=/nhacaisky88.org/
 local=/nhacaisodo.net/
 local=/nhacaisomot.com/
 local=/nhacaiuytin.life/
+local=/nhacaiuytin.top/
 local=/nhacaiv9bet.com/
 local=/nhacaixo88.net/
 local=/nhanhnhay.com/

@@ -5,10 +5,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 09 Feb 2025 10:56 UTC
-! Version: 2025.0209.1056.49
+! Last modified: 21 Feb 2025 23:33 UTC
+! Version: 2025.0221.2333.41
 ! Syntax: AdBlock
-! Number of entries: 216
+! Number of entries: 218
 !
 ||search.0xcb.dev^
 ||search.0xgingi.com^
@@ -42,6 +42,7 @@
 ||searx.com.au^
 ||copp.gg^
 ||search.cronobox.one^
+||searx.cthd.icu^
 ||searx.daetalytica.io^
 ||darmarit.org^
 ||suche.dasnetzundich.de^
@@ -157,6 +158,7 @@
 ||whoogle.privacydev.net^
 ||search.privacytools.io^
 ||search.in.projectsegfau.lt^
+||search.projectsegfau.lt^
 ||search.us.projectsegfau.lt^
 ||searx.prvcy.eu^
 ||librex.pufe.org^

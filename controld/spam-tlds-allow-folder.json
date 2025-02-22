@@ -1219,6 +1219,13 @@
       }
     },
     {
+      "PK": "host.church",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "httpjames.space",
       "action": {
         "do": 1,

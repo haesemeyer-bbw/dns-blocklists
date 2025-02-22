@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 21 Feb 2025 12:02 UTC
-# Version: 2025.0221.1202.19
+# Last modified: 22 Feb 2025 00:31 UTC
+# Version: 2025.0222.0031.49
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10892
+# Number of entries: 10893
 #
 local=/01crypto.com/
 local=/1-stud.net/
@@ -441,7 +441,6 @@ local=/annafieldshop.fr/
 local=/annafieldwien.at/
 local=/annawelpen.de/
 local=/annebarot.com/
-local=/annelieholmen.com/
 local=/annelore.shop/
 local=/annenowakwelpen.de/
 local=/anneschilk.com/
@@ -713,6 +712,9 @@ local=/awccanadianpharmacy.org/
 local=/awirer.com/
 local=/axa-europe-patrimoine.com/
 local=/axa-gestion.com/
+local=/axacoins.com/
+local=/axaimarketfx.com/
+local=/axatechviewou.com/
 local=/axelarigatojapan.net/
 local=/axelarigatomilano.it/
 local=/axelarigatooslo.com/
@@ -1457,6 +1459,7 @@ local=/brueggen-handel.de/
 local=/bruland.store/
 local=/brunateschuhewerksverkauf.de/
 local=/brunetsludmila.com/
+local=/bs2best.at/
 local=/bse-capital.com/
 local=/bskinenvide.shop/
 local=/bsm-consulting.de/
@@ -10414,7 +10417,6 @@ local=/vorzeltede.com/
 local=/votezerro.com/
 local=/vrtil.com/
 local=/vswatches.net/
-local=/vtmarkets.net/
 local=/eu.vtmarkets.com/
 local=/vtmarketsfr.com/
 local=/vtoolstore.de/
@@ -10853,7 +10855,6 @@ local=/zerogrid.shop/
 local=/zesavi-tech.de/
 local=/zetko-waren.com/
 local=/zetko-waren.de/
-local=/app.zety.de/
 local=/zhrtasarimf.shop/
 local=/zicklerbrennholz.de/
 local=/zidnjlamp.com/
