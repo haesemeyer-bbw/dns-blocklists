@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 21 Feb 2025 23:36 UTC
-# Version: 2025.0221.2336.02
+# Last modified: 23 Feb 2025 03:41 UTC
+# Version: 2025.0223.0341.55
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3789
+# Number of entries: 3774
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -1831,7 +1831,6 @@ local=/lumes.jp/
 local=/luminati.io/
 local=/luminatinet.com/
 local=/lurk.info/
-local=/dns.lvolland.fr/
 local=/orau.lz0724.com/
 local=/addns1.m-it.ro/
 local=/mabuktogel.builders/
@@ -3068,8 +3067,6 @@ local=/tenta.io/
 local=/de.teradns.org/
 local=/ny.teradns.org/
 local=/sg.teradns.org/
-local=/tx.teradns.org/
-local=/uk.teradns.org/
 local=/terraleads.cloud/
 local=/dns.soldier.terumi.club/
 local=/dns.tesem.dog/
@@ -3435,18 +3432,6 @@ local=/urban-vpn.com/
 local=/url10.org/
 local=/urology.wiki/
 local=/dns.koala.us.to/
-local=/nightlymoon.us.kg/
-local=/luna-is.so-gorgeo.us.kg/
-local=/mecca-is.so-gorgeo.us.kg/
-local=/mita-is.so-gorgeo.us.kg/
-local=/myrra-is.so-gorgeo.us.kg/
-local=/nana-is.so-gorgeo.us.kg/
-local=/nindy-is.so-gorgeo.us.kg/
-local=/nora-is.so-gorgeo.us.kg/
-local=/nova-is.so-gorgeo.us.kg/
-local=/sitha-is.so-gorgeo.us.kg/
-local=/tetty-is.so-gorgeo.us.kg/
-local=/yussy-is.so-gorgeo.us.kg/
 local=/webproxy.us.com/
 local=/us-proxy.org/
 local=/usa-proxy.org/

@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 20 Feb 2025 15:38 UTC
-# Version: 2025.0220.1538.21
+# Last modified: 23 Feb 2025 03:39 UTC
+# Version: 2025.0223.0339.27
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 2167
+# Number of entries: 2157
 #
 local=/000a.de/
 local=/000space.com/
@@ -204,7 +204,6 @@ local=/activoblog.com/
 local=/activosblog.com/
 local=/actoblog.com/
 local=/admarketlocation.com/
-local=/adultcd.shop/
 local=/aed1.host/
 local=/affiliatblogger.com/
 local=/ag.gp/
@@ -775,7 +774,6 @@ local=/de.pl/
 local=/de-2.de/
 local=/de-info.de/
 local=/dearcard.shop/
-local=/dearhalf.shop/
 local=/deno.dev/
 local=/design.tl/
 local=/designcarthosting.com/
@@ -1248,7 +1246,6 @@ local=/jixx.de/
 local=/jixx.net/
 local=/job.ec/
 local=/jobsms.shop/
-local=/jobswant.shop/
 local=/joomla.com/
 local=/joueb.com/
 local=/jouwweb.nl/
@@ -1301,7 +1298,6 @@ local=/layanan-dana.com/
 local=/ldblog.jp/
 local=/leaguelineup.com/
 local=/leastupdate.top/
-local=/legalreading.shop/
 local=/blog.lemonde.fr/
 local=/lernt.de/
 local=/lhosting.info/
@@ -1374,7 +1370,6 @@ local=/memoryislife.com/
 local=/menstudent.shop/
 local=/metplxx.com/
 local=/mex.tl/
-local=/mfbsp1324.click/
 local=/mforos.com/
 local=/miarroba.com/
 local=/mihanblog.com/
@@ -1387,7 +1382,6 @@ local=/mobi.ps/
 local=/mochahost.com/
 local=/moneyash.top/
 local=/monoblog.ir/
-local=/moreloan.shop/
 local=/mozello.com/
 local=/mp3.cr/
 local=/mpeblog.com/
@@ -1554,7 +1548,6 @@ local=/pages10.com/
 local=/pagexl.com/
 local=/paginawebgratis.es/
 local=/panel-1.de/
-local=/pantheonsite.io/
 local=/parknhost.com/
 local=/parsiblog.com/
 local=/party.lc/
@@ -1866,10 +1859,8 @@ local=/top.tc/
 local=/top8.com/
 local=/topbloghub.com/
 local=/total-blog.com/
-local=/totalbuildingservices.eu/
 local=/totalh.net/
 local=/ftp.totallyanonymous.com/
-local=/tourdomain.shop/
 local=/tourgod.shop/
 local=/toyo-jp.shop/
 local=/toyoas.shop/
@@ -1938,7 +1929,6 @@ local=/urest.org/
 local=/urlaub.lc/
 local=/us.nf/
 local=/us.st/
-local=/cz1.us.kg/
 local=/usa.gg/
 local=/usafreespace.com/
 local=/usclargo.com/

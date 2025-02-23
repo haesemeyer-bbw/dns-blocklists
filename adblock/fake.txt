@@ -5,10 +5,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 22 Feb 2025 00:31 UTC
-! Version: 2025.0222.0031.49
+! Last modified: 22 Feb 2025 23:50 UTC
+! Version: 2025.0222.2350.57
 ! Syntax: AdBlock
-! Number of entries: 10893
+! Number of entries: 10921
 !
 ||01crypto.com^
 ||1-stud.net^
@@ -265,6 +265,7 @@
 ||algorates.com^
 ||aliasboards.de^
 ||alice-outlet.com^
+||alidropnuig.com^
 ||alimhomeoutlet.shop^
 ||alingis-finanzen.de^
 ||alioth.club^
@@ -595,6 +596,7 @@
 ||asfimag.mom^
 ||asfimamg.mom^
 ||asfinag.live^
+||asfinag.me^
 ||asfinag.today^
 ||asfinaga.com^
 ||asfinagl.com^
@@ -607,6 +609,7 @@
 ||asicskuwaitsale.com^
 ||asicsosterreich.at^
 ||asicsoutletwien.at^
+||asjinaec.shop^
 ||asneakerssalesshop.com^
 ||asolocipele.com^
 ||asolosko.com^
@@ -686,6 +689,7 @@
 ||automatische-dividende.de^
 ||automatischer-aktienhandel.de^
 ||autorfahrumpler.at^
+||autoroad.top^
 ||autoseries.de^
 ||autoteileelopode.shop^
 ||autoteilepreisvergleich.org^
@@ -844,7 +848,6 @@
 ||barbourgermany.de^
 ||barbourpolska.com^
 ||barbourpolska.net^
-||barcelona-mall.shop^
 ||barclaystrade.com^
 ||barefootshoesosterreich.top^
 ||barettaverkauf.shop^
@@ -1587,6 +1590,7 @@
 ||capapparelsale.com^
 ||capella-handel.de^
 ||capitagains.net^
+||capital-cap.com^
 ||capital-diamond.com^
 ||capital-france.com^
 ||capital-partnersgroup.co^
@@ -1803,7 +1807,6 @@
 ||chrisneuman.shop^
 ||teufel.christdeal.shop^
 ||christianpomowski.de^
-||christmastrees-or.com^
 ||christophmencke.de^
 ||chrom-kultur.de^
 ||chubunnews.com^
@@ -1949,6 +1952,7 @@
 ||coffeeequipmentsupply.com^
 ||coffeeshopus.com^
 ||cogitatio-kauf.de^
+||cognitiveloop.org^
 ||coinbasen.vip^
 ||coinboxtradeoption.com^
 ||coincorex.com^
@@ -2210,6 +2214,7 @@
 ||daleofnorway-eu.shop^
 ||dalilincase.com^
 ||dalmatinac.de^
+||dalnicka.cz^
 ||dalsari.com^
 ||damaikjhhh.com^
 ||damatro.com^
@@ -2585,6 +2590,7 @@
 ||dressesneu.com^
 ||dressfat.com^
 ||dressphaseeight.com^
+||drezia.com^
 ||drgillmaier.de^
 ||driftgreat.club^
 ||dringenderkredit.com^
@@ -2884,6 +2890,7 @@
 ||eluxuryonline.com^
 ||elyseescapital.com^
 ||emanuelschwerd.de^
+||embrellar.de^
 ||emc-containerhandel.com^
 ||emeingarten24h.com^
 ||emerginghomeshop.com^
@@ -3031,6 +3038,7 @@
 ||euergutesbrennholz.com^
 ||eufm.eu^
 ||eufootwear.com^
+||eugadneu.de^
 ||eugeneoutlet.com^
 ||euisabelmarant.de^
 ||eukram.com^
@@ -3066,7 +3074,6 @@
 ||euronicsdirekte.de^
 ||euronicspowergame.de^
 ||euronicsser.de^
-||euronicsxxlonline.de^
 ||europa-apotek.com^
 ||europa-rezeptfrei.de^
 ||europaa-market.de^
@@ -3213,6 +3220,7 @@
 ||falkeco.de^
 ||fallopia-garten.de^
 ||faltengarten.com^
+||famgeschenk.de^
 ||famgmbh-24.de^
 ||famgmbh24.de^
 ||famigo24.de^
@@ -3235,6 +3243,7 @@
 ||fanwish.cn^
 ||farben-store.com^
 ||fargo-global.com^
+||farinaella.com^
 ||fariolla.de^
 ||farisent.com^
 ||farmacia-el-punto.es^
@@ -3273,6 +3282,7 @@
 ||fashionsviolet.com^
 ||fashionusregion.com^
 ||fashionvila.com^
+||fashionwelle.com^
 ||fashionyas.com^
 ||fast-heizoel.de^
 ||fast-oil24.com^
@@ -3325,6 +3335,7 @@
 ||fessy.co^
 ||festgelder-eu.com^
 ||festivaldefrente.com^
+||festoolz.shop^
 ||feststehendemesserde.com^
 ||festzins.online^
 ||fettverbrenneronline.com^
@@ -3792,6 +3803,7 @@
 ||gartensgeschaft.com^
 ||gartenshop-marsmann.de^
 ||gartentor.shop^
+||gartentraktor.com^
 ||gartio-shop.com^
 ||garved.com^
 ||gas-ertrag.app^
@@ -4437,7 +4449,6 @@
 ||hellomarkt.com^
 ||hellopaulette.com^
 ||hellorolexwatch.com^
-||hellscheiner.com^
 ||hellyhansen-suomi.com^
 ||hellyhansenargentina.net^
 ||hellyhansenaustralia.net^
@@ -4576,6 +4587,7 @@
 ||holaten.com^
 ||holdengm.de^
 ||holidaypartner.co^
+||holidayvilla-canaryislands.com^
 ||hollylollies.com^
 ||holtzbrinckventuresgmbh.com^
 ||holydogwater.de^
@@ -4916,7 +4928,6 @@
 ||installateur-koller.at^
 ||installateur-notdienst24.at^
 ||installateur-top.at^
-||installateur-zentrum.at^
 ||integbeautycare.com^
 ||integralbroker.com^
 ||integritybotanicade.shop^
@@ -4942,6 +4953,7 @@
 ||fr.investigram.com^
 ||investirex.com^
 ||investisafe.com^
+||investmaza.com^
 ||investment-green.com^
 ||investportal.co^
 ||investsecuritiesgroup.com^
@@ -5245,6 +5257,7 @@
 ||kaufenozemp25mg.com^
 ||kauffahrradzubehoer.com^
 ||kaufhausaccessoires.com^
+||kaufhausde.top^
 ||kaufhausonline.com^
 ||kaufhausrabatt.com^
 ||kaufhauswerkzeuge.com^
@@ -5321,6 +5334,7 @@
 ||kindertische.com^
 ||kinderwagenonlinestore.com^
 ||kindgesund.shop^
+||kindundkrebs.eu^
 ||king-pellets.de^
 ||kingbabystudide.shop^
 ||kinoion.top^
@@ -5336,6 +5350,7 @@
 ||kissen-sales.com^
 ||kita-bruja.de^
 ||kita-much.de^
+||kitchenaid-offiziell.com^
 ||kitchenaid-onlinestore.com^
 ||kitchenaidhome.com^
 ||kitchenalessi.com^
@@ -5359,6 +5374,7 @@
 ||klassischesfahrradneu.com^
 ||klaus-ziegert.de^
 ||klax24.de^
+||kleiderweltboutique.com^
 ||kleidungliebe.de^
 ||kleinesengelparadies.com^
 ||kleinezeitung.co^
@@ -5432,6 +5448,7 @@
 ||konsolenmarkt.com^
 ||konsolenwelt.com^
 ||konsoleplay.com^
+||kontoverlaengerung.com^
 ||koodakde.shop^
 ||kopkde.shop^
 ||kora-store.de^
@@ -5801,6 +5818,7 @@
 ||lottosouthafrica.net^
 ||lottosuomi.net^
 ||lottouruguay.net^
+||lotz-container.com^
 ||louboutin-finland.com^
 ||louboutin-polska.com^
 ||louboutinshopwien.com^
@@ -5885,6 +5903,7 @@
 ||machineland.de^
 ||machinerypartsmarket.com^
 ||machinetoolhome.com^
+||macintoshvalhalla.org^
 ||mackagedenmark.com^
 ||mackagefemmeparis.com^
 ||mackageireland.com^
@@ -5987,6 +6006,7 @@
 ||markets-capital.com^
 ||marketsbroker.com^
 ||marketsinvest.com^
+||marketsyield.com^
 ||marketusbike.com^
 ||marketusgear.com^
 ||marketussports.com^
@@ -6040,13 +6060,13 @@
 ||mauromilana.it^
 ||mauserbau.com^
 ||mauserbau.de^
+||maut-acfinag.com^
 ||mauzer24.de^
 ||mavicsale.com^
 ||max-steroids.com^
 ||maxfoodglobal.com^
 ||maxi-bike24.de^
 ||maxim-lighting.com^
-||maxmarasite.com^
 ||maxmedi.de^
 ||maxpellets.store^
 ||maxpotenz.de^
@@ -6147,6 +6167,7 @@
 ||melis-sport.net^
 ||melissaschuhe.de^
 ||melkberg.de^
+||melvinham.shop^
 ||men-outfits.com^
 ||menaamoha.com^
 ||menbikeshop.com^
@@ -6573,6 +6594,7 @@
 ||price.mytestopay.com^
 ||sportlife.mytestopay.com^
 ||mytheresamall.top^
+||mytheresashop.top^
 ||mz-marketing-gmbh.com^
 ||naba-24.de^
 ||naba24.de^
@@ -6792,7 +6814,6 @@
 ||norge-ed.com^
 ||norgeapotek24.com^
 ||norion.xyz^
-||norrona.vip^
 ||norronabunda.sk^
 ||norsk-apotek24.com^
 ||norskeapotek.net^
@@ -7735,6 +7756,7 @@
 ||qualitypillsdistributor.com^
 ||qualitytophome.com^
 ||qualityviagra.online^
+||quandtfinanza.com^
 ||quantacapital.co^
 ||quantomarketing.com^
 ||quantum-ai.io^
@@ -7916,6 +7938,7 @@
 ||reineblume.de^
 ||reinekedesign.com^
 ||reinholdrasenmaher.com^
+||reinigungszubehor.com^
 ||reinirkens-handel.de^
 ||reinrassigewelpen.com^
 ||reisetaschenonshop.com^
@@ -8251,7 +8274,6 @@
 ||saletabletop.com^
 ||saletoolland.com^
 ||saletoyhub.com^
-||salewallexpay.shop^
 ||salewaoutlet.at^
 ||salewentools.com^
 ||salewineglass.com^
@@ -8291,6 +8313,8 @@
 ||sama-logistic.com^
 ||same-academy.com^
 ||samielataseven.com^
+||samsonite-at.com^
+||samsonite-deal.com^
 ||samsonitebag.com^
 ||samsonitexdeutschland.de^
 ||fr.samtradefx.com^
@@ -8448,6 +8472,7 @@
 ||select-football.com^
 ||selectedmedsonline.com^
 ||selfridges-work.com^
+||selfsnug.com^
 ||sellano.de^
 ||sellercenter.shop^
 ||sellerusapparel.com^
@@ -9392,6 +9417,7 @@
 ||telapros.de^
 ||tele-mag.de^
 ||telefoonshop.net^
+||vodafone.telekomdienst.de^
 ||telektronics.com^
 ||telesys-market.com^
 ||teller-store.com^
@@ -9583,6 +9609,8 @@
 ||thursdaybootsdeutschland.de^
 ||thursdaybootswien.at^
 ||thursdaycanada.com^
+||tidalsway.ru^
+||tienda-pellets.com^
 ||tiendasairjordanmexico.com^
 ||tierbedarfshop.com^
 ||tiere.at^
@@ -9758,7 +9786,6 @@
 ||toylest.de^
 ||toyquality.com^
 ||toys-holiday.com^
-||toyscenteronlines.com^
 ||toyshobbiesworld.com^
 ||toyslandus.com^
 ||toysrusofficial.com^
@@ -9841,7 +9868,6 @@
 ||travisscottofficial.com^
 ||traxxas-de.com^
 ||trd6.cc^
-||connexion.trdapplication.com^
 ||treaderoutlet.com^
 ||treasurebike.com^
 ||treatstoreweb.com^
@@ -9921,6 +9947,7 @@
 ||tupperware-osterreich.com^
 ||tupperwarestore-us.com^
 ||tupperwarseonline.com^
+||tuppsale-eu.shop^
 ||turbo-finanz.com^
 ||turbolidlcraft.com^
 ||turolloy.com^
@@ -10171,6 +10198,7 @@
 ||varnitur.de^
 ||varonet.de^
 ||varonet.store^
+||vasagleangebote.de^
 ||vast-spedition.com^
 ||vatan.at^
 ||vatlab.cc^

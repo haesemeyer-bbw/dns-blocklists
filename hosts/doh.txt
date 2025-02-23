@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 21 Feb 2025 23:37 UTC
-# Version: 2025.0221.2337.19
+# Last modified: 23 Feb 2025 03:40 UTC
+# Version: 2025.0223.0340.41
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1668
+# Number of entries: 1652
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -963,7 +963,6 @@
 0.0.0.0 lukscasino-542-tr.xyz
 0.0.0.0 lukscasino-929-tr.xyz
 0.0.0.0 dns.luma-medien.com
-0.0.0.0 dns.lvolland.fr
 0.0.0.0 orau.lz0724.com
 0.0.0.0 addns1.m-it.ro
 0.0.0.0 mabuktogel.builders
@@ -1514,8 +1513,6 @@
 0.0.0.0 de.teradns.org
 0.0.0.0 ny.teradns.org
 0.0.0.0 sg.teradns.org
-0.0.0.0 tx.teradns.org
-0.0.0.0 uk.teradns.org
 0.0.0.0 dns.soldier.terumi.club
 0.0.0.0 dns.tesem.dog
 0.0.0.0 cloud.tezoi.com
@@ -1582,19 +1579,6 @@
 0.0.0.0 dns.uplenk.com
 0.0.0.0 urology.wiki
 0.0.0.0 dns.koala.us.to
-0.0.0.0 nightlymoon.us.kg
-0.0.0.0 dns.nightlymoon.us.kg
-0.0.0.0 luna-is.so-gorgeo.us.kg
-0.0.0.0 mecca-is.so-gorgeo.us.kg
-0.0.0.0 mita-is.so-gorgeo.us.kg
-0.0.0.0 myrra-is.so-gorgeo.us.kg
-0.0.0.0 nana-is.so-gorgeo.us.kg
-0.0.0.0 nindy-is.so-gorgeo.us.kg
-0.0.0.0 nora-is.so-gorgeo.us.kg
-0.0.0.0 nova-is.so-gorgeo.us.kg
-0.0.0.0 sitha-is.so-gorgeo.us.kg
-0.0.0.0 tetty-is.so-gorgeo.us.kg
-0.0.0.0 yussy-is.so-gorgeo.us.kg
 0.0.0.0 adfree.usableprivacy.net
 0.0.0.0 dns.vaioswolke.xyz
 0.0.0.0 doh.valscosmos.com
