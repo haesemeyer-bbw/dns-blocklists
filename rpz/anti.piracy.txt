@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1740181140 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1740325080 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 21 Feb 2025 23:39 UTC
-; Version: 2025.0221.2339.44
+; Last modified: 23 Feb 2025 15:38 UTC
+; Version: 2025.0223.1538.16
 ; Syntax: RPZ
-; Number of entries: 19906
+; Number of entries: 19904
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -14019,8 +14019,6 @@ crackdb.org CNAME .
 *.crackdb.org CNAME .
 cracked-games.org CNAME .
 *.cracked-games.org CNAME .
-crackedpc.org CNAME .
-*.crackedpc.org CNAME .
 crackhash.org CNAME .
 *.crackhash.org CNAME .
 crackzplanet.org CNAME .

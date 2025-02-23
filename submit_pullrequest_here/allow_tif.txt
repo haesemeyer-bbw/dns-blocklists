@@ -1,5 +1,9 @@
 # Domains to be removed from the tif and tif medium/mini list.
 
+# https://github.com/hagezi/dns-blocklists/issues/5303
+ak-is2.net
+pushub.xs.ak-is2.net
+
 # https://github.com/hagezi/dns-blocklists/issues/5046
 usw-tencentclb.net
 trk.newpowerads.com

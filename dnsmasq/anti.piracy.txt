@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 21 Feb 2025 23:39 UTC
-# Version: 2025.0221.2339.44
+# Last modified: 23 Feb 2025 15:38 UTC
+# Version: 2025.0223.1538.16
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9953
+# Number of entries: 9952
 #
 local=/0123456789nonexistent.com/
 local=/0123movie.net/
@@ -2159,7 +2159,6 @@ local=/cracked-games.org/
 local=/crackedfully.com/
 local=/crackedme.com/
 local=/crackedmine.com/
-local=/crackedpc.org/
 local=/crackedreal.com/
 local=/crackedstream.tv/
 local=/crackedversion.com/

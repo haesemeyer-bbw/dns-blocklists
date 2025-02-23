@@ -165,7 +165,6 @@ kinesis.eu-west-1.amazonaws.com
 firehose.eu-west-2.amazonaws.com
 firehose.eu-west-3.amazonaws.com
 aws-data-analytics-workshops.s3.amazonaws.com
-bbuseruploads.s3.amazonaws.com
 firehose.sa-east-1.amazonaws.com
 1g26ewet37.execute-api.us-east-1.amazonaws.com
 1s7vmel6xi.execute-api.us-east-1.amazonaws.com
@@ -705,6 +704,7 @@ js.duhnet.tv
 dxpapi.com
 dogus-ads-cdn.dygdigital.com
 dygassets.dygdigital.com
+dzen.ru
 pin-river.data.ea.com
 fcm23-prod-hygeialogsvc.prod.eacn.ea.com
 errors.ea.com
@@ -875,7 +875,6 @@ forexprostools.com
 found.io
 tl.foxnews.com
 frameip.com
-l.franceculture.fr
 files.freedownloadmanager.org
 files2.freedownloadmanager.org
 freegeoip.net
@@ -1372,7 +1371,6 @@ log19-normal-useast1a.lemon8-app.com
 log22-normal-alisg.lemon8-app.com
 log22-normal-useast1a.lemon8-app.com
 lenta.ru
-l.leparisien.fr
 us.ibs.lgappstv.com
 gb.lgrecommends.lgappstv.com
 aic-ngfts.lge.com
@@ -1669,7 +1667,6 @@ nimiq.watch
 miner.nimiq.com
 pool.nimiq.watch
 www.nimiq.com
-nimiqchina.com
 nitrogensports.eu
 tracker.nofap.com
 nofluffjobs.com
@@ -2507,6 +2504,7 @@ app.termly.io
 telemetry-prd.ap.tesla.services
 telemetry-prd.vn.tesla.services
 telemetry.teslafi.com
+telemetry.tessie.com
 test-app.link
 tf1.fr
 www.tf1.fr
