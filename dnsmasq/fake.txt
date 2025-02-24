@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 22 Feb 2025 23:50 UTC
-# Version: 2025.0222.2350.57
+# Last modified: 24 Feb 2025 11:53 UTC
+# Version: 2025.0224.1153.29
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10921
+# Number of entries: 10922
 #
 local=/01crypto.com/
 local=/1-stud.net/
@@ -1475,6 +1475,7 @@ local=/btcminer.website/
 local=/btcoinpro.com/
 local=/btcswing.com/
 local=/btop24.de/
+local=/btvtransport.com/
 local=/buceplantde.shop/
 local=/buchholzs.de/
 local=/buchverlag-scholz.de/
@@ -3037,7 +3038,6 @@ local=/eu-venum.shop/
 local=/euergutesbrennholz.com/
 local=/eufm.eu/
 local=/eufootwear.com/
-local=/eugadneu.de/
 local=/eugeneoutlet.com/
 local=/euisabelmarant.de/
 local=/eukram.com/
@@ -5250,6 +5250,7 @@ local=/kauf-motorroller.com/
 local=/kaufdefahrrad.com/
 local=/kaufdichonline.de/
 local=/kaufdisney.de/
+local=/kaufen-motorrad.com/
 local=/kaufen-rezeptfrei.de/
 local=/kaufen-shop.com/
 local=/kaufenbrennholz.com/

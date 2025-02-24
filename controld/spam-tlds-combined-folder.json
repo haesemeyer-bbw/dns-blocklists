@@ -3633,6 +3633,13 @@
       }
     },
     {
+      "PK": "sci-hub.red",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "scribe.rip",
       "action": {
         "do": 1,
