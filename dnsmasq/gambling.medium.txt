@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 24 Feb 2025 15:30 UTC
-# Version: 2025.0224.1530.37
+# Last modified: 25 Feb 2025 03:34 UTC
+# Version: 2025.0225.0334.26
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 190845
+# Number of entries: 190847
 #
 local=/0-bdmbet.com/
 local=/0-bet.com/
@@ -135051,6 +135051,7 @@ local=/lightcasinos.co/
 local=/lightcasinos.pl/
 local=/lightingnewyork.com/
 local=/lightningcasino.io/
+local=/lightningroulettelive.se/
 local=/lightningstormcasino.de/
 local=/lightningstormcasino.nl/
 local=/lightpoker88.me/
@@ -140052,6 +140053,7 @@ local=/megadice.com/
 local=/megafaraon-casino.top/
 local=/megafaraoncasino.click/
 local=/megafaraoncasino.top/
+local=/megafireblazeroulette.se/
 local=/megagacor88.com/
 local=/megagacorjp88.com/
 local=/megagacorvip.lol/

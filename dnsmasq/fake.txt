@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 24 Feb 2025 11:53 UTC
-# Version: 2025.0224.1153.29
+# Last modified: 24 Feb 2025 23:51 UTC
+# Version: 2025.0224.2351.58
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10922
+# Number of entries: 10920
 #
 local=/01crypto.com/
 local=/1-stud.net/
@@ -471,6 +471,7 @@ local=/apharmacie.com/
 local=/apkwell.com/
 local=/aplschuhe.com/
 local=/apo-rezeptfrei.com/
+local=/apoamerbach.com/
 local=/apotek-no24.com/
 local=/apotek-norge24.com/
 local=/apoteket.to/
@@ -1462,7 +1463,6 @@ local=/brueggen-handel.de/
 local=/bruland.store/
 local=/brunateschuhewerksverkauf.de/
 local=/brunetsludmila.com/
-local=/bs2best.at/
 local=/bse-capital.com/
 local=/bskinenvide.shop/
 local=/bsm-consulting.de/
@@ -1915,7 +1915,6 @@ local=/duneshoesouthafrica.co.za/
 local=/emporioarmanisouthafrica.co.za/
 local=/fitnesstogether.co.uk/
 local=/gymsharkinsouthafrica.co.za/
-local=/homegymsupply.co.uk/
 local=/icetrade.co.uk/
 local=/luxurydupes.co.uk/
 local=/michele.co.at/
@@ -7036,7 +7035,6 @@ local=/onlinekamagrastore.org/
 local=/onlinekmnwi.com/
 local=/onlinekuche.com/
 local=/onlineladywear.com/
-local=/app.onlinelebenslauf.com/
 local=/onlinemaripe.com/
 local=/onlinemensdenim.com/
 local=/onlinemotorrad.com/
@@ -7361,7 +7359,6 @@ local=/pc-medienagentur.de/
 local=/pcakkusdirekt.de/
 local=/pd-handel.de/
 local=/pd99.cc/
-local=/pdfmaster.app/
 local=/peacefulexitsworldwide.org/
 local=/peacevulture.com/
 local=/peakperformancemall.com/
@@ -10884,6 +10881,7 @@ local=/zerogrid.shop/
 local=/zesavi-tech.de/
 local=/zetko-waren.com/
 local=/zetko-waren.de/
+local=/app.zety.de/
 local=/zhrtasarimf.shop/
 local=/zicklerbrennholz.de/
 local=/zidnjlamp.com/

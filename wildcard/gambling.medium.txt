@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 24 Feb 2025 15:30 UTC
-# Version: 2025.0224.1530.37
+# Last modified: 25 Feb 2025 03:34 UTC
+# Version: 2025.0225.0334.26
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 190845
+# Number of entries: 190847
 #
 *.0-bdmbet.com
 *.0-bet.com
@@ -135051,6 +135051,7 @@
 *.lightcasinos.pl
 *.lightingnewyork.com
 *.lightningcasino.io
+*.lightningroulettelive.se
 *.lightningstormcasino.de
 *.lightningstormcasino.nl
 *.lightpoker88.me
@@ -140052,6 +140053,7 @@
 *.megafaraon-casino.top
 *.megafaraoncasino.click
 *.megafaraoncasino.top
+*.megafireblazeroulette.se
 *.megagacor88.com
 *.megagacorjp88.com
 *.megagacorvip.lol

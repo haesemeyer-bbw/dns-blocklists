@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 24 Feb 2025 11:47 UTC
-# Version: 2025.0224.1147.36
+# Last modified: 24 Feb 2025 23:46 UTC
+# Version: 2025.0224.2346.09
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 87374
+# Number of entries: 87372
 #
 *.0.beer
 *.0.club
@@ -42078,7 +42078,6 @@
 *.itzripkkdkfny.com
 *.itztek.com
 *.iuafpmbeyqcv.com
-*.cdn.iubenda.com
 *.iucc.yt
 *.iucpr.org
 *.iucr2026.org
@@ -59493,7 +59492,6 @@
 *.phoksaub.net
 *.phokukse.com
 *.phomoach.net
-*.phone-analyzer.com
 *.phoneapplicationlabs.top
 *.phonebeagle.com
 *.phoneboothclergy.com
@@ -86192,7 +86190,6 @@
 *.yorkvillemarketing.net
 *.yorrp.yt
 *.yosintv.com
-*.yosoborno.com
 *.yospice.com
 *.yottacash.com
 *.you-people.net
@@ -86767,6 +86764,7 @@
 *.go.zdos.ru
 *.zdplbqcgsdhug.com
 *.zdqgsoqsmppd.com
+*.zdqmlgij.com
 *.zdrava-prodejna.info
 *.zdravie.app
 *.zdravie.online

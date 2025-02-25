@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 24 Feb 2025 11:47 UTC
-# Version: 2025.0224.1147.36
+# Last modified: 24 Feb 2025 23:46 UTC
+# Version: 2025.0224.2346.09
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 87374
+# Number of entries: 87372
 #
 local=/0.beer/
 local=/0.club/
@@ -42078,7 +42078,6 @@ local=/itzekromom.com/
 local=/itzripkkdkfny.com/
 local=/itztek.com/
 local=/iuafpmbeyqcv.com/
-local=/cdn.iubenda.com/
 local=/iucc.yt/
 local=/iucpr.org/
 local=/iucr2026.org/
@@ -59493,7 +59492,6 @@ local=/phokruhefeki.com/
 local=/phoksaub.net/
 local=/phokukse.com/
 local=/phomoach.net/
-local=/phone-analyzer.com/
 local=/phoneapplicationlabs.top/
 local=/phonebeagle.com/
 local=/phoneboothclergy.com/
@@ -86192,7 +86190,6 @@ local=/yorkguardian.ca/
 local=/yorkvillemarketing.net/
 local=/yorrp.yt/
 local=/yosintv.com/
-local=/yosoborno.com/
 local=/yospice.com/
 local=/yottacash.com/
 local=/you-people.net/
@@ -86767,6 +86764,7 @@ local=/zdljbrwosbymft.com/
 local=/go.zdos.ru/
 local=/zdplbqcgsdhug.com/
 local=/zdqgsoqsmppd.com/
+local=/zdqmlgij.com/
 local=/zdrava-prodejna.info/
 local=/zdravie.app/
 local=/zdravie.online/

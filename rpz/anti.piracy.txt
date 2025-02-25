@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1740325080 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1740454800 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 23 Feb 2025 15:38 UTC
-; Version: 2025.0223.1538.16
+; Last modified: 25 Feb 2025 03:40 UTC
+; Version: 2025.0225.0340.06
 ; Syntax: RPZ
-; Number of entries: 19904
+; Number of entries: 19924
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -2139,6 +2139,8 @@ tracker.0x7c0.com CNAME .
 *.100520.com CNAME .
 1080-kino.com CNAME .
 *.1080-kino.com CNAME .
+10drives.com CNAME .
+*.10drives.com CNAME .
 10mbit.com CNAME .
 *.10mbit.com CNAME .
 123-movies.com CNAME .
@@ -3519,6 +3521,8 @@ deutschekanale.com CNAME .
 *.deutschekanale.com CNAME .
 devilwolfs.com CNAME .
 *.devilwolfs.com CNAME .
+devuploads.com CNAME .
+*.devuploads.com CNAME .
 dezflight-underground.com CNAME .
 *.dezflight-underground.com CNAME .
 dfichiers.com CNAME .
@@ -3903,6 +3907,8 @@ fileshunt.com CNAME .
 *.fileshunt.com CNAME .
 filespace.com CNAME .
 *.filespace.com CNAME .
+filespayouts.com CNAME .
+*.filespayouts.com CNAME .
 filetram.com CNAME .
 *.filetram.com CNAME .
 film-en-lignee.com CNAME .
@@ -4989,6 +4995,8 @@ mega-bits.com CNAME .
 *.mega-bits.com CNAME .
 mega-exclue.com CNAME .
 *.mega-exclue.com CNAME .
+mega4upload.com CNAME .
+*.mega4upload.com CNAME .
 megadownloadz.com CNAME .
 *.megadownloadz.com CNAME .
 megagames.com CNAME .
@@ -7017,6 +7025,8 @@ unlockedpiratebay.com CNAME .
 *.unlockedpiratebay.com CNAME .
 updatesofts.com CNAME .
 *.updatesofts.com CNAME .
+upfiles.com CNAME .
+*.upfiles.com CNAME .
 uploadbox.com CNAME .
 *.uploadbox.com CNAME .
 uploadcity.com CNAME .
@@ -9529,6 +9539,8 @@ fmoviesio.io CNAME .
 *.fmoviesio.io CNAME .
 footybite.io CNAME .
 *.footybite.io CNAME .
+frdl.io CNAME .
+*.frdl.io CNAME .
 futebolgratis.io CNAME .
 *.futebolgratis.io CNAME .
 gamestorrents.io CNAME .
@@ -12195,6 +12207,8 @@ imonlineisp.net CNAME .
 *.imonlineisp.net CNAME .
 inetisp.net CNAME .
 *.inetisp.net CNAME .
+infidrive.net CNAME .
+*.infidrive.net CNAME .
 media.infobd.net CNAME .
 *.media.infobd.net CNAME .
 internetwarriors.net CNAME .
@@ -13139,6 +13153,8 @@ unit193.net CNAME .
 *.unit193.net CNAME .
 unlockpiratebay.net CNAME .
 *.unlockpiratebay.net CNAME .
+up-4ever.net CNAME .
+*.up-4ever.net CNAME .
 upload24.net CNAME .
 *.upload24.net CNAME .
 uploaded.net CNAME .
@@ -16781,6 +16797,8 @@ torrent9.sh CNAME .
 *.torrent9.sh CNAME .
 bvarf.tracker.sh CNAME .
 *.bvarf.tracker.sh CNAME .
+uploda.sh CNAME .
+*.uploda.sh CNAME .
 git.vulnix.sh CNAME .
 *.git.vulnix.sh CNAME .
 tracker.vulnix.sh CNAME .
@@ -19025,6 +19043,8 @@ cmovieshd.vip CNAME .
 *.cmovieshd.vip CNAME .
 dramaqu.vip CNAME .
 *.dramaqu.vip CNAME .
+dropgalaxy.vip CNAME .
+*.dropgalaxy.vip CNAME .
 dubbedanime.vip CNAME .
 *.dubbedanime.vip CNAME .
 duboku.vip CNAME .

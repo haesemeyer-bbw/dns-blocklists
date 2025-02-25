@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 23 Feb 2025 15:38 UTC
-# Version: 2025.0223.1538.16
+# Last modified: 25 Feb 2025 03:40 UTC
+# Version: 2025.0225.0340.06
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9952
+# Number of entries: 9962
 #
 local=/0123456789nonexistent.com/
 local=/0123movie.net/
@@ -42,6 +42,7 @@ local=/1-thepiratebay.org/
 local=/100520.com/
 local=/tracker.1048576.cn/
 local=/1080-kino.com/
+local=/10drives.com/
 local=/10kol.tv/
 local=/10mbit.com/
 local=/atrack-asia-s1.114913.xyz/
@@ -2447,6 +2448,7 @@ local=/devil-torrents.pl/
 local=/deviloid.net/
 local=/devilwolfs.com/
 local=/devops.gay/
+local=/devuploads.com/
 local=/dex.email/
 local=/dezflight-underground.com/
 local=/dfast.app/
@@ -2681,6 +2683,7 @@ local=/dridak.com/
 local=/drivec.ru/
 local=/drop.download/
 local=/dropapk.to/
+local=/dropgalaxy.vip/
 local=/droskop.com/
 local=/drteam.rocks/
 local=/drumkitx.com/
@@ -3181,6 +3184,7 @@ local=/files4you.org/
 local=/filesharingtalk.com/
 local=/fileshunt.com/
 local=/filespace.com/
+local=/filespayouts.com/
 local=/filetracker.pl/
 local=/filetracker.xyz/
 local=/filetram.com/
@@ -3568,6 +3572,7 @@ local=/titans-team.fr.cr/
 local=/warez-mania.fr.nf/
 local=/warez-wawa.fr.nf/
 local=/frboard.com/
+local=/frdl.io/
 local=/naruto.a.free.fr/
 local=/biloutman24.free.fr/
 local=/cdie.cdie.free.fr/
@@ -4517,6 +4522,7 @@ local=/indoxxi.studio/
 local=/indoxxi.tube/
 local=/indoxxi.tv/
 local=/inetisp.net/
+local=/infidrive.net/
 local=/infire.si/
 local=/media.infobd.net/
 local=/infohash.org/
@@ -5356,6 +5362,7 @@ local=/mega-bits.com/
 local=/mega-exclue.com/
 local=/mega-films.net/
 local=/mega21.net/
+local=/mega4upload.com/
 local=/megabitnetwork.net/
 local=/megacam.xyz/
 local=/megacanaisonline.me/
@@ -9092,9 +9099,11 @@ local=/unlimitedserials.com/
 local=/unlimitz.com/
 local=/unlockedpiratebay.com/
 local=/unlockpiratebay.net/
+local=/up-4ever.net/
 local=/upawg.ca/
 local=/updatesofts.com/
 local=/upeer.me/
+local=/upfiles.com/
 local=/upload24.net/
 local=/uploadbox.com/
 local=/uploadcity.com/
@@ -9105,6 +9114,7 @@ local=/uploadev.com/
 local=/uploadev.org/
 local=/uploadgig.com/
 local=/uploadrar.com/
+local=/uploda.sh/
 local=/uppit.com/
 local=/vidics.uproxy2.biz/
 local=/upstore.net/
