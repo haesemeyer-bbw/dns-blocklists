@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 24 Feb 2025 23:46 UTC
-# Version: 2025.0224.2346.09
+# Last modified: 25 Feb 2025 11:48 UTC
+# Version: 2025.0225.1148.25
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 87372
+# Number of entries: 87370
 #
 local=/0.beer/
 local=/0.club/
@@ -41166,7 +41166,6 @@ local=/insistauthorities.com/
 local=/insistballisticclone.com/
 local=/insistent-worker.com/
 local=/insistgoodsrespect.com/
-local=/insistinestimable.com/
 local=/insistpeerbeef.com/
 local=/insistseptember.com/
 local=/insitebankingplatform.com/
@@ -85748,7 +85747,6 @@ local=/xyhx.org/
 local=/xyjaewocysv.com/
 local=/xymhdmqrjxwl.com/
 local=/xymphldgqgb.com/
-local=/xyooepktyy.xyz/
 local=/xyopx.com/
 local=/xyrkvqvuxhrtrbw.com/
 local=/xysp123.buzz/

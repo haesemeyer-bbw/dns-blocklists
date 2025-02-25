@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 25 Feb 2025 01:50 UTC
-# Version: 2025.0225.0150.28
+# Last modified: 25 Feb 2025 13:51 UTC
+# Version: 2025.0225.1351.09
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 153821
+# Number of entries: 153850
 #
 0-02.net
 www.0-02.net
@@ -661,8 +661,6 @@ www.1c7cf19baa.com
 www.1cash.info
 1cctcm1gq.de
 www.1cctcm1gq.de
-1cecn.icu
-www.1cecn.icu
 1ckbfk08k.de
 www.1ckbfk08k.de
 1clic1don.fr
@@ -4622,6 +4620,8 @@ www.57573zubo36833.com
 578d72001a.com
 fcd3a3a3aa.578d72001a.com
 www.578d72001a.com
+579eede9ca.com
+www.579eede9ca.com
 jumpluna.58.com
 poro.58.com
 tracklog.58.com
@@ -5763,6 +5763,7 @@ tahoe-analytics.publishers.advertising.a2z.com
 prod.tahoe-analytics.publishers.advertising.a2z.com
 video-events.publishers.advertising.a2z.com
 prod.video-events.publishers.advertising.a2z.com
+clientlogger.marketplace.aws.a2z.com
 metrics.client-eng.a2z.com
 metrics.imdb.a2z.com
 prod.metrics.imdb.a2z.com
@@ -9030,6 +9031,8 @@ www.adnanny.com
 analytics.adnatus.com
 adnboost.com
 www.adnboost.com
+adncdn.net
+www.adncdn.net
 adne.info
 www.adne.info
 adnection.com
@@ -30114,6 +30117,8 @@ blastpainterclerk.com
 www.blastpainterclerk.com
 blastworthwhilewith.com
 www.blastworthwhilewith.com
+blati.site
+www.blati.site
 smetrics.blau.de
 data.umfrage.blau.de
 piwik.blaue-funken.de
@@ -30145,6 +30150,8 @@ www.blearspellaea.shop
 blehcourt.com
 engine.blehcourt.com
 www.blehcourt.com
+blellumgrittie.shop
+www.blellumgrittie.shop
 blendedbird.com
 www.blendedbird.com
 analytics.blender.org
@@ -31951,8 +31958,6 @@ brekus.org
 www.brekus.org
 piwik.bremen.de
 matomo.bresser.de
-brethelkumys.com
-www.brethelkumys.com
 smetrics.brett-robinson.com
 matomo.brewes.de
 brewingjoie.com
@@ -32990,8 +32995,6 @@ buxfmookn.com
 www.buxfmookn.com
 buxnet.ir
 www.buxnet.ir
-buxomerrentage.com
-www.buxomerrentage.com
 buxp.org
 www.buxp.org
 buy404s.com
@@ -39497,8 +39500,6 @@ www.celebratedrighty.com
 celebrationfestive.com
 www.celebrationfestive.com
 smetrics.celebritycruises.com
-celebritywizard.net
-www.celebritywizard.net
 celebros-analytics.com
 ai.celebros-analytics.com
 ai2.celebros-analytics.com
@@ -40594,6 +40595,8 @@ www.chyvz-lsdpv.click
 chzjidgc.xyz
 www.chzjidgc.xyz
 tc.ci123.com
+ciaankzzhmcrz.click
+www.ciaankzzhmcrz.click
 sopr-api.cian.ru
 metrics.cib.bnpparibas
 analytics.cibc.com
@@ -46782,6 +46785,8 @@ contehos.com
 www.contehos.com
 contema.ru
 www.contema.ru
+contemnomnipresentinstantly.com
+www.contemnomnipresentinstantly.com
 contemplatepuddingbrain.com
 www.contemplatepuddingbrain.com
 contemplatethwartcooperation.com
@@ -48161,8 +48166,6 @@ cqcrci.xyz
 www.cqcrci.xyz
 cqisam.xyz
 www.cqisam.xyz
-cqmgoxqbhsmgg.site
-www.cqmgoxqbhsmgg.site
 cqnmtmqxecqvyl.com
 www.cqnmtmqxecqvyl.com
 cqtlimi.cn
@@ -48971,6 +48974,7 @@ www.crowdedmass.com
 crowdignite.com
 www.crowdignite.com
 gtm-sst.crowdin.com
+hog.crowdin.com
 crowdnextquoted.com
 www.crowdnextquoted.com
 crowdpass.live
@@ -50442,8 +50446,6 @@ darkwebtormarketslinks.com
 www.darkwebtormarketslinks.com
 darkworldmarket.com
 www.darkworldmarket.com
-darkxmode.com
-www.darkxmode.com
 matomo.darmankade.org
 darmowylicznik.pl
 www.darmowylicznik.pl
@@ -51262,8 +51264,6 @@ declk.com
 www.declk.com
 decmutsoocha.net
 www.decmutsoocha.net
-decnetshantih.com
-www.decnetshantih.com
 decollhuaca.com
 www.decollhuaca.com
 decomposedismantle.com
@@ -60326,6 +60326,8 @@ dtootmvwy.top
 www.dtootmvwy.top
 dtprofit.com
 www.dtprofit.com
+dtrurjpkugcsv.tech
+www.dtrurjpkugcsv.tech
 dtsan.net
 a.dtsan.net
 p.dtsan.net
@@ -65004,6 +65006,7 @@ expertvn.com
 www.expertvn.com
 filter.expialidosius.com
 xml.expialidosius.com
+click-v4.explodasclksec.com
 explodedecompose.com
 www.explodedecompose.com
 exploderunway.com
@@ -66473,8 +66476,6 @@ feignoccasionedmound.com
 www.feignoccasionedmound.com
 feignthat.com
 www.feignthat.com
-feilbeclaw.com
-www.feilbeclaw.com
 feintelbowsburglar.com
 www.feintelbowsburglar.com
 feistyhelicopter.com
@@ -67335,6 +67336,8 @@ flaminglamesuitable.com
 www.flaminglamesuitable.com
 gtrack.flamingoof.com
 track.flamingoof.com
+flamssybotic.top
+www.flamssybotic.top
 flamtyr.com
 eu.flamtyr.com
 tracking.eu.flamtyr.com
@@ -78181,6 +78184,8 @@ analytics.dev.htmedia.in
 cdn.html5maker.com
 htmlcounter.com
 www.htmlcounter.com
+htnswmuugnjpr.club
+www.htnswmuugnjpr.club
 htobficta.com
 www.htobficta.com
 htoetgk.icu
@@ -81954,10 +81959,6 @@ intencysrv.com
 www.intencysrv.com
 intendedeasiestlost.com
 www.intendedeasiestlost.com
-intensedebate.com
-bur.intensedebate.com
-comments.bur.intensedebate.com
-www.intensedebate.com
 intensifier.de
 www.intensifier.de
 intent.ai
@@ -82321,6 +82322,8 @@ www.inwesternmusic.com
 inworket.com
 inwraptsekane.com
 www.inwraptsekane.com
+inxgfxylzkkgi.one
+www.inxgfxylzkkgi.one
 inzerille.com
 www.inzerille.com
 inzn.ru
@@ -91811,6 +91814,8 @@ www.literaturerehearsesteal.com
 poetry.literotica.com
 smetrics.litfulo.com
 analytics.app.lithium.com
+liticismoverneme.org
+www.liticismoverneme.org
 ccjnhnqfnvsr3otokvf59ns52.litix.io
 litlyx.com
 broker.litlyx.com
@@ -92694,6 +92699,8 @@ www.lotstoleratescarf.com
 displayad.lotteon.com
 lotteryadda.com
 www.lotteryadda.com
+lotterycommy.shop
+www.lotterycommy.shop
 metrics.lottielab.com
 lottoknacker.net
 www.lottoknacker.net
@@ -97260,6 +97267,8 @@ www.missena.io
 missilesocalled.com
 www.missilesocalled.com
 banner.missingkids.com
+missingsupervisetwins.com
+www.missingsupervisetwins.com
 analytics.missionagency.com
 missionaryhypocrisypeachy.com
 www.missionaryhypocrisypeachy.com
@@ -100455,6 +100464,8 @@ musclesprefacelie.com
 www.musclesprefacelie.com
 muscularcopiedgulp.com
 www.muscularcopiedgulp.com
+musculetepidly.com
+www.musculetepidly.com
 museafrica.com
 www.museafrica.com
 musedemeanouregyptian.com
@@ -101432,8 +101443,6 @@ nakedfulfilhairy.com
 www.nakedfulfilhairy.com
 nakedreel.com
 www.nakedreel.com
-nakooarsenal.com
-www.nakooarsenal.com
 naleapprength.xyz
 www.naleapprength.xyz
 nalhedgelnhamf.info
@@ -103211,6 +103220,8 @@ nildoviana.com
 www.nildoviana.com
 washpost.nile.works
 targeting.washpost.nile.works
+niltelreekrofik.net
+www.niltelreekrofik.net
 niltibse.net
 www.niltibse.net
 nimblebird.co
@@ -104659,6 +104670,8 @@ o000oo.com
 www.o000oo.com
 o02231aokk.com
 www.o02231aokk.com
+o02251aokk.com
+www.o02251aokk.com
 u.o0bc.com
 analytics.o11.tech
 o18.click
@@ -104831,8 +104844,6 @@ www.obediencechainednoun.com
 obedientapologyinefficient.com
 www.obedientapologyinefficient.com
 matomo.oberpfalzmedien.de
-obertsiamw.fun
-www.obertsiamw.fun
 obesityvanmost.shop
 www.obesityvanmost.shop
 obeus.com
@@ -105407,8 +105418,6 @@ adc.ohmynews.com
 ohooftaux.net
 www.ohooftaux.net
 log.ohou.se
-ohpuduiogir.com
-www.ohpuduiogir.com
 ohqduxhcuab.com
 www.ohqduxhcuab.com
 data.service.ohra.nl
@@ -106119,6 +106128,8 @@ onionmarkets-darknet.link
 www.onionmarkets-darknet.link
 onionurl.net
 www.onionurl.net
+onjncgq.top
+www.onjncgq.top
 onkafxtiqcu.com
 www.onkafxtiqcu.com
 aem-kakao-collector.onkakao.net
@@ -109960,6 +109971,8 @@ pdfsam.com
 www.pdfsam.com
 analytics.pdfsmart.com
 log.pdfviewerscannerstore.live
+pdhhcshvuocyza.com
+www.pdhhcshvuocyza.com
 pdjjrh.xyz
 www.pdjjrh.xyz
 pdjyzx.com
@@ -110820,6 +110833,8 @@ pheedsoan.com
 www.pheedsoan.com
 pheegopt.xyz
 www.pheegopt.xyz
+pheidheat.com
+www.pheidheat.com
 pheniter.com
 www.pheniter.com
 telemetry.phenixrts.com
@@ -112257,6 +112272,8 @@ plyfoni.ru
 www.plyfoni.ru
 plygainroundup.com
 smetrics.plymouthrock.com
+plywoodmergenewspaper.com
+www.plywoodmergenewspaper.com
 plzblz.xyz
 www.plzblz.xyz
 analytics.pm-srv.co
@@ -112973,6 +112990,8 @@ portmap.io
 www.portmap.io
 portoteamo.com
 www.portoteamo.com
+portswaving.com
+www.portswaving.com
 analytics.portswigger.net
 telemetry.portswigger.net
 portuguesetoil.com
@@ -113452,6 +113471,8 @@ www.predictplate.com
 analytics.predictspring.com
 predominanttamper.com
 www.predominanttamper.com
+predownset.shop
+www.predownset.shop
 predskolaci.cz
 www.predskolaci.cz
 telemetry.prefab.cloud
@@ -113814,6 +113835,8 @@ prisamusicales.player-top.prisasd.com
 racaracol.player-top.prisasd.com
 wradiomx.player-top.prisasd.com
 www.prisasd.com
+priscanvarify.top
+www.priscanvarify.top
 prisesdemode.com
 prisma-tr.prismamedia.com
 tk.prismashop.fr
@@ -115890,7 +115913,6 @@ www.pwyruccp.com
 px-broke.com
 www.px-broke.com
 px-golf.com
-www.px-golf.com
 pxaction.com
 www.pxaction.com
 pxhuiben.com
@@ -116237,8 +116259,6 @@ qimnubohcapb.com
 www.qimnubohcapb.com
 qinghua.cc
 www.qinghua.cc
-qingniatouzi.com
-www.qingniatouzi.com
 qingolor.com
 www.qingolor.com
 adlaunch.qingting.fm
@@ -118922,6 +118942,8 @@ stat.reg.ru
 analytics.regainapp.ai
 regainthong.com
 www.regainthong.com
+regainwoodlandsraised.com
+www.regainwoodlandsraised.com
 regalteathe.com
 www.regalteathe.com
 regardedcontentdigest.com
@@ -121268,7 +121290,6 @@ rnengage.com
 www.rnengage.com
 rnet.plus
 rngpaluydont.com
-www.rngpaluydont.com
 rnhsrsn.com
 www.rnhsrsn.com
 rtb-eu-v4.rnkclkres.com
@@ -123159,7 +123180,6 @@ c.a352.sandiegouniontribune.com
 sandmakingsilver.info
 www.sandmakingsilver.info
 sandsonair.com
-www.sandsonair.com
 analytics.sandstorm.game
 sandstrophies.com
 www.sandstrophies.com
@@ -123954,6 +123974,8 @@ scruboutdoorsoffensive.com
 www.scruboutdoorsoffensive.com
 scrubswim.com
 www.scrubswim.com
+scruftsurface.top
+www.scruftsurface.top
 scrutinizeordealscrutinize.com
 www.scrutinizeordealscrutinize.com
 sctclick2.com
@@ -126088,7 +126110,6 @@ sync.showheroes.com
 technical-solutions.showheroes.com
 video-library.showheroes.com
 www.showheroes.com
-showierberetta.com
 showilycola.shop
 showjav11.fun
 www.showjav11.fun
@@ -129357,8 +129378,6 @@ funes.solutionshindsight.net
 static.solutionshindsight.net
 widget.solvemate.com
 track.solventum.com
-solveseek.com
-www.solveseek.com
 som419.net
 www.som419.net
 analytics.soma.com
@@ -132198,6 +132217,8 @@ papi.stylar.ai
 sponsor.styleblueprint.com
 as.stylebook.de
 ast.stylebook.de
+stylesbatty.top
+www.stylesbatty.top
 piwik.stylestep.de
 styletrackstable.com
 www.styletrackstable.com
@@ -135546,6 +135567,8 @@ myevents.thalesgroup.com
 myfeed.thalesgroup.com
 thalesgroup-events.com
 www.thalesgroup-events.com
+thampheth.com
+www.thampheth.com
 thampolsi.com
 www.thampolsi.com
 analytics.thangs.com
@@ -135783,6 +135806,7 @@ f775.thehour.com
 csp.thehut.net
 techmktg.thehut.net
 userexperience.thehut.net
+matstats.theindiestone.com
 d712.theinformation.com
 s232.theintelligencer.com
 theinterwebs.space
@@ -137501,6 +137525,8 @@ www.tordarkwebmarketlink.link
 www.tordarkwebmarketlink.shop
 toreddorize.com
 www.toreddorize.com
+torejogging.com
+www.torejogging.com
 torgdom.biz
 www.torgdom.biz
 torimochi-ad.net
@@ -139644,7 +139670,6 @@ www.tuplzt.xyz
 tuqgtpirrtuu.com
 www.tuqgtpirrtuu.com
 tuqizi.uno
-www.tuqizi.uno
 estanciasargentinas.tur.ar
 turbo-cdn.net
 www.turbo-cdn.net
@@ -141140,6 +141165,8 @@ www.uiphk.one
 uirvpdor.xyz
 www.uirvpdor.xyz
 metric.dev.uisp.com
+uitesousefulheady.org
+www.uitesousefulheady.org
 uiz.io
 www.uiz.io
 ujian.cc
@@ -141948,8 +141975,6 @@ www.universitypermanentlyhusk.com
 p.univide.com
 ads.univision.com
 tracking.univtec.com
-unjuicypeal.com
-www.unjuicypeal.com
 unkinpaynim.com
 unkinpigsty.com
 www.unkinpigsty.com
@@ -148717,6 +148742,8 @@ www.wlct-one.de
 wlct-two.de
 static.wlct-two.de
 www.wlct-two.de
+wleallwqyblmm.top
+www.wleallwqyblmm.top
 wlgxaij.cn
 www.wlgxaij.cn
 s.wlink1.com
@@ -149034,6 +149061,8 @@ getdomain.woodpeckerlog.com
 open.woodpeckerlog.com
 report.woodpeckerlog.com
 www.woodpeckerlog.com
+woodsfalsie.com
+www.woodsfalsie.com
 axp.woodtv.com
 woodwo.net
 www.woodwo.net
@@ -151158,8 +151187,6 @@ xylhwdu.com
 www.xylhwdu.com
 xynfextpw.com
 www.xynfextpw.com
-xyooepktyy.xyz
-www.xyooepktyy.xyz
 xypthe.com
 www.xypthe.com
 xytcboyz.icu
@@ -151667,8 +151694,6 @@ ygoibya.icu
 www.ygoibya.icu
 ygto.com
 www.ygto.com
-ygunoiunommiurynfuup.com
-www.ygunoiunommiurynfuup.com
 ygvqughn.com
 www.ygvqughn.com
 ygxgk.cn

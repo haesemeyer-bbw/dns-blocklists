@@ -3206,6 +3206,13 @@
       }
     },
     {
+      "PK": "poly.market",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "popcat.click",
       "action": {
         "do": 1,

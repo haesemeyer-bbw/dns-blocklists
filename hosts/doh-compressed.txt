@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 23 Feb 2025 03:40 UTC
-# Version: 2025.0223.0340.41
+# Last modified: 25 Feb 2025 15:46 UTC
+# Version: 2025.0225.1546.02
 # Syntax: Hosts compressed (9 per line, including possible subdomains)
-# Number of entries: 184
+# Number of entries: 185
 #
 0.0.0.0 003153.xyz ns.00dani.me 0ms.dev cdn.0ms.dev dns.0ooo.icu dns.0x55.net 123000123.xyz dns.13evl.com cloud.198.games
 0.0.0.0 1and1-dns.de dns.23-4.cn 233py.com dns.240527.xyz doh003.280blocker.net doh.30x.me 351242444.xyz dns.354688.xyz doh.360.cn
@@ -184,13 +184,14 @@
 0.0.0.0 dns.tryk.app adg.tshost.no doh.ibr.cs.tu-bs.de tujenasnaszato.xyz tuskythehusky.tech nat64.tuxis.nl dns.twnic.tw adguard.twotigers.xyz dns.txq.life
 0.0.0.0 typaza.com ad.tzockt.beer dns.umbrella.com doh.umbrella.com unasw.eu www.unasw.eu uncensoreddns.org anycast.uncensoreddns.org deic-lgb.anycast.uncensoreddns.org
 0.0.0.0 deic-ore.anycast.uncensoreddns.org kracon.anycast.uncensoreddns.org rgnet-iad.anycast.uncensoreddns.org unicast.uncensoreddns.org dns.unerror.network ines.zfn.uni-bremen.de galileo.math.unipd.it resolver.unstoppable.io dns.unx.io
-0.0.0.0 dns.uplenk.com urology.wiki dns.koala.us.to adfree.usableprivacy.net dns.vaioswolke.xyz doh.valscosmos.com tor.vasi.li dns.vault81.de dns.vinnyp.xyz
-0.0.0.0 dns.vinokurov.tk dns.vishalk.com dns.vod11.xyz dns.vojtat.cz vorlif.org vtcuong.site dns.w3ctag.org dns.wahr.top aqua.is.my.waifu.cz
-0.0.0.0 darkness.is.my.waifu.cz megumin.is.my.waifu.cz yunyun.is.my.waifu.cz dns.wang.art wantaquddin.com dns.wargan.io abel.waringer-atg.de dns.warma.me dns.warpnine.de
-0.0.0.0 dns.engineer.web.id doh.this.web.id doh.webnmail.de dns.wechat.com doh.wewitro.net wikimedia-dns.org dns-1.wil.cloud dns-2.wil.cloud adguard.wirimij.nl
-0.0.0.0 clearweb.woodbridge.club home.wriedts.de ns2.wuyouss.com ns3.wuyouss.com wyx.cloud adb-home.xaoimoon.fr xbcpb668.com doh.xcom.pro xenergy.cc
-0.0.0.0 doh.xfinity.com dot.xfinity.com doh2.gslb2.xfinity.com xholgm.top agh.xinfeng16m.top dns.xlion.tw xn--durhre-yxa.de dns.xuming.studio dns.xusqui.com
-0.0.0.0 v2.xx3210766.live dns.yameenassotally.com 2.dnscrypt-cert.browser.yandex.net dns.yandex.ru common.dot.dns.yandex.net family.dot.dns.yandex.net safe.dot.dns.yandex.net family.dns.yandex.ru secondary.family.dns.yandex.ru
-0.0.0.0 safe.dns.yandex.ru secondary.safe.dns.yandex.ru secondary.dns.yandex.ru dns.yatima.tv ychen.cf ychen.gq net01.youcef.io your-dns.run yovbak.com
-0.0.0.0 dns.yuu-g.net yuvelirtut.website dns.daemon.za.net adguard.zachitect.com zakaria.website zburger.top www.zburger.top zdn.ro dns.zemows.industries
-0.0.0.0 adguard-kartoffel.zernico.de dns.zfsystem.tech doh.zknt.org zougloub.eu dns.zzuhacker.cn 
+0.0.0.0 dns.uplenk.com urology.wiki dns.koala.us.to nightlymoon.us.kg luna-is.so-gorgeo.us.kg mecca-is.so-gorgeo.us.kg mita-is.so-gorgeo.us.kg myrra-is.so-gorgeo.us.kg nana-is.so-gorgeo.us.kg
+0.0.0.0 nindy-is.so-gorgeo.us.kg nora-is.so-gorgeo.us.kg nova-is.so-gorgeo.us.kg sitha-is.so-gorgeo.us.kg tetty-is.so-gorgeo.us.kg yussy-is.so-gorgeo.us.kg adfree.usableprivacy.net dns.vaioswolke.xyz doh.valscosmos.com
+0.0.0.0 tor.vasi.li dns.vault81.de dns.vinnyp.xyz dns.vinokurov.tk dns.vishalk.com dns.vod11.xyz dns.vojtat.cz vorlif.org vtcuong.site
+0.0.0.0 dns.w3ctag.org dns.wahr.top aqua.is.my.waifu.cz darkness.is.my.waifu.cz megumin.is.my.waifu.cz yunyun.is.my.waifu.cz dns.wang.art wantaquddin.com dns.wargan.io
+0.0.0.0 abel.waringer-atg.de dns.warma.me dns.warpnine.de dns.engineer.web.id doh.this.web.id doh.webnmail.de dns.wechat.com doh.wewitro.net wikimedia-dns.org
+0.0.0.0 dns-1.wil.cloud dns-2.wil.cloud adguard.wirimij.nl clearweb.woodbridge.club home.wriedts.de ns2.wuyouss.com ns3.wuyouss.com wyx.cloud adb-home.xaoimoon.fr
+0.0.0.0 xbcpb668.com doh.xcom.pro xenergy.cc doh.xfinity.com dot.xfinity.com doh2.gslb2.xfinity.com xholgm.top agh.xinfeng16m.top dns.xlion.tw
+0.0.0.0 xn--durhre-yxa.de dns.xuming.studio dns.xusqui.com v2.xx3210766.live dns.yameenassotally.com 2.dnscrypt-cert.browser.yandex.net dns.yandex.ru common.dot.dns.yandex.net family.dot.dns.yandex.net
+0.0.0.0 safe.dot.dns.yandex.net family.dns.yandex.ru secondary.family.dns.yandex.ru safe.dns.yandex.ru secondary.safe.dns.yandex.ru secondary.dns.yandex.ru dns.yatima.tv ychen.cf ychen.gq
+0.0.0.0 net01.youcef.io your-dns.run yovbak.com dns.yuu-g.net yuvelirtut.website dns.daemon.za.net adguard.zachitect.com zakaria.website zburger.top
+0.0.0.0 www.zburger.top zdn.ro dns.zemows.industries adguard-kartoffel.zernico.de dns.zfsystem.tech doh.zknt.org zougloub.eu dns.zzuhacker.cn 

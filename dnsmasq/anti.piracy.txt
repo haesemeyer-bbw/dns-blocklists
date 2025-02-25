@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 25 Feb 2025 03:40 UTC
-# Version: 2025.0225.0340.06
+# Last modified: 25 Feb 2025 15:41 UTC
+# Version: 2025.0225.1541.57
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9962
+# Number of entries: 9964
 #
 local=/0123456789nonexistent.com/
 local=/0123movie.net/
@@ -2055,6 +2055,7 @@ local=/nis.com.bd/
 local=/tracker.novage.com.ua/
 local=/nowhdtime.com.bd/
 local=/smtp-relay.odysseylabel.com.au/
+local=/onstream.com.in/
 local=/www.opnsports.com.pk/
 local=/salamonline.com.bd/
 local=/seriezloaded.com.ng/
@@ -6263,6 +6264,7 @@ local=/onlytorrents.com/
 local=/onnosomoy.com/
 local=/onsbd.net/
 local=/onstream.so/
+local=/onstreamapk.com/
 local=/onstreamapp.to/
 local=/bestfiles.oo.lv/
 local=/oomoviz.com/

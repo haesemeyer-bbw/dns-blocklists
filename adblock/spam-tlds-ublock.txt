@@ -11,8 +11,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 24 Feb 2025 15:42 UTC
-! Version: 2025.0224.1542.48
+! Last modified: 25 Feb 2025 15:48 UTC
+! Version: 2025.0225.1548.41
 ! Syntax: uBlock
 ! Number of latin TLDs: 219 - non-latin TLDs: 151
 !
@@ -129,7 +129,7 @@
 ||luxe^$doc
 ||makeup^$doc,domain=~bird.makeup
 ||management^$doc
-||market^$doc,domain=~digiseller.market|~otto.market|~plati.market|~spotim.market|~warframe.market
+||market^$doc,domain=~digiseller.market|~otto.market|~plati.market|~poly.market|~spotim.market|~warframe.market
 ||markets^$doc
 ||mba^$doc
 ||men^$doc,domain=~virgile.men
