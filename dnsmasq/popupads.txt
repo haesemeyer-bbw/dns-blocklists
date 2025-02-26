@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 25 Feb 2025 23:44 UTC
-# Version: 2025.0225.2344.37
+# Last modified: 26 Feb 2025 11:48 UTC
+# Version: 2025.0226.1148.31
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 87367
+# Number of entries: 87361
 #
 local=/0.beer/
 local=/0.club/
@@ -31352,7 +31352,6 @@ local=/filosofo.ai/
 local=/filosofo.io/
 local=/filosofovirtual.com/
 local=/filtereddata.com/
-local=/filterexchangecage.com/
 local=/filteringelement.com/
 local=/filtermac.com/
 local=/filternannewspaper.com/
@@ -60848,7 +60847,6 @@ local=/portlychurchyard.com/
 local=/portlycreeper.com/
 local=/portlydrum.com/
 local=/portlysingkenneth.com/
-local=/portlywhereveralfred.com/
 local=/portofmadcalls.com/
 local=/portoteamo.com/
 local=/portperrystar.com/
@@ -66660,7 +66658,6 @@ local=/rqouewb.com/
 local=/rqr97sfd.xyz/
 local=/rqsaxxdbt.com/
 local=/rqyjtwvnxhea.com/
-local=/rreauksofthecom.xyz/
 local=/rreftyonkak.com/
 local=/rreg.us/
 local=/rreis.yt/
@@ -69517,7 +69514,6 @@ local=/shoastauce.net/
 local=/shoathofte.net/
 local=/shoatoasti.com/
 local=/shoatoolauftook.net/
-local=/shockadviceinsult.com/
 local=/shocked-failure.com/
 local=/shockeys.ca/
 local=/shocking-honey.com/
@@ -70044,7 +70040,6 @@ local=/simplexinternational.com/
 local=/simplifinow.com/
 local=/simpliigenius.com/
 local=/simpliisustainable.com/
-local=/simplistic-king.pro/
 local=/simplisustainable.com/
 local=/simplyabjection.com/
 local=/simplyaccessable.io/
@@ -70202,7 +70197,6 @@ local=/siruso.net/
 local=/sirwcniydewu.com/
 local=/sis001h1s2.com/
 local=/sisaurgeegh.net/
-local=/sisewepod.com/
 local=/sisfulylydevelope.com/
 local=/sismoycheii.cc/
 local=/sistemadeenvio.info/

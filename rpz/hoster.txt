@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1740281940 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1740584580 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 23 Feb 2025 03:39 UTC
-; Version: 2025.0223.0339.27
+; Last modified: 26 Feb 2025 15:43 UTC
+; Version: 2025.0226.1543.54
 ; Syntax: RPZ
-; Number of entries: 4314
+; Number of entries: 4228
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -241,6 +241,8 @@ webnode.cl CNAME .
 *.webnode.cl CNAME .
 hstgr.cloud CNAME .
 *.hstgr.cloud CNAME .
+airground.club CNAME .
+*.airground.club CNAME .
 wapka.club CNAME .
 *.wapka.club CNAME .
 asia.cm CNAME .
@@ -795,6 +797,8 @@ bravenet.com CNAME .
 *.bravenet.com CNAME .
 bravepages.com CNAME .
 *.bravepages.com CNAME .
+bridalgallerymaryville.com CNAME .
+*.bridalgallerymaryville.com CNAME .
 bugs3.com CNAME .
 *.bugs3.com CNAME .
 business-minagne.com CNAME .
@@ -811,8 +815,6 @@ canalblog.com CNAME .
 *.canalblog.com CNAME .
 canariblogs.com CNAME .
 *.canariblogs.com CNAME .
-carloscornejoart.com CNAME .
-*.carloscornejoart.com CNAME .
 carookee.com CNAME .
 *.carookee.com CNAME .
 carrefourpro.com CNAME .
@@ -867,6 +869,8 @@ crypto-market-world.com CNAME .
 *.crypto-market-world.com CNAME .
 cryptocurrencies-offers.com CNAME .
 *.cryptocurrencies-offers.com CNAME .
+cryptofinancetrack.com CNAME .
+*.cryptofinancetrack.com CNAME .
 csublogs.com CNAME .
 *.csublogs.com CNAME .
 cyberbree.com CNAME .
@@ -1011,6 +1015,8 @@ ferreracademy.com CNAME .
 *.ferreracademy.com CNAME .
 fileave.com CNAME .
 *.fileave.com CNAME .
+financecryptoworld.com CNAME .
+*.financecryptoworld.com CNAME .
 financial-market-world.com CNAME .
 *.financial-market-world.com CNAME .
 financial-offer.com CNAME .
@@ -1681,8 +1687,6 @@ tek-blogs.com CNAME .
 *.tek-blogs.com CNAME .
 tempisite.com CNAME .
 *.tempisite.com CNAME .
-temune.com CNAME .
-*.temune.com CNAME .
 terapad.com CNAME .
 *.terapad.com CNAME .
 the-finance-world.com CNAME .
@@ -1739,6 +1743,8 @@ total-blog.com CNAME .
 *.total-blog.com CNAME .
 ftp.totallyanonymous.com CNAME .
 *.ftp.totallyanonymous.com CNAME .
+trackfinanceworld.com CNAME .
+*.trackfinanceworld.com CNAME .
 tribalpages.com CNAME .
 *.tribalpages.com CNAME .
 tribunablog.com CNAME .
@@ -1853,6 +1859,8 @@ wopop.com CNAME .
 *.wopop.com CNAME .
 worldblogged.com CNAME .
 *.worldblogged.com CNAME .
+worldofcryptofinance.com CNAME .
+*.worldofcryptofinance.com CNAME .
 worldsoffinance.com CNAME .
 *.worldsoffinance.com CNAME .
 wpsuo.com CNAME .
@@ -1955,8 +1963,6 @@ team.cx CNAME .
 *.team.cx CNAME .
 blogspot.com.cy CNAME .
 *.blogspot.com.cy CNAME .
-schroedec.cyou CNAME .
-*.schroedec.cyou CNAME .
 blog.cz CNAME .
 *.blog.cz CNAME .
 blogspot.cz CNAME .
@@ -2703,8 +2709,6 @@ blogspot.co.id CNAME .
 *.blogspot.co.id CNAME .
 xzf.my.id CNAME .
 *.xzf.my.id CNAME .
-yet5.web.id CNAME .
-*.yet5.web.id CNAME .
 blogspot.ie CNAME .
 *.blogspot.ie CNAME .
 blogspot.co.il CNAME .
@@ -3049,8 +3053,6 @@ blogspot.li CNAME .
 *.blogspot.li CNAME .
 flf.li CNAME .
 *.flf.li CNAME .
-itama.life CNAME .
-*.itama.life CNAME .
 lhr.life CNAME .
 *.lhr.life CNAME .
 365bbt.link CNAME .
@@ -3139,6 +3141,8 @@ blogspot.my CNAME .
 *.blogspot.my CNAME .
 blogspot.com.my CNAME .
 *.blogspot.com.my CNAME .
+svsy.my CNAME .
+*.svsy.my CNAME .
 0fees.net CNAME .
 *.0fees.net CNAME .
 one4u.0lx.net CNAME .
@@ -3801,8 +3805,6 @@ perl.sh CNAME .
 *.perl.sh CNAME .
 airself.shop CNAME .
 *.airself.shop CNAME .
-akkido.shop CNAME .
-*.akkido.shop CNAME .
 annualhuman.shop CNAME .
 *.annualhuman.shop CNAME .
 asiaal.shop CNAME .
@@ -3825,18 +3827,10 @@ boutiqueond.shop CNAME .
 *.boutiqueond.shop CNAME .
 brazilbill.shop CNAME .
 *.brazilbill.shop CNAME .
-caok.shop CNAME .
-*.caok.shop CNAME .
-careersave.shop CNAME .
-*.careersave.shop CNAME .
-cdbrowse.shop CNAME .
-*.cdbrowse.shop CNAME .
 chicjolieboutiqueonline.shop CNAME .
 *.chicjolieboutiqueonline.shop CNAME .
 cielo-fashion.shop CNAME .
 *.cielo-fashion.shop CNAME .
-companyyes.shop CNAME .
-*.companyyes.shop CNAME .
 connysdress.shop CNAME .
 *.connysdress.shop CNAME .
 creamclothinginc.shop CNAME .
@@ -3851,10 +3845,6 @@ darayibuy.shop CNAME .
 *.darayibuy.shop CNAME .
 datechurch.shop CNAME .
 *.datechurch.shop CNAME .
-datetx.shop CNAME .
-*.datetx.shop CNAME .
-dearcard.shop CNAME .
-*.dearcard.shop CNAME .
 dfashionboutique.shop CNAME .
 *.dfashionboutique.shop CNAME .
 diana-fashion.shop CNAME .
@@ -3865,8 +3855,6 @@ dinaellen.shop CNAME .
 *.dinaellen.shop CNAME .
 dmodaboutique1.shop CNAME .
 *.dmodaboutique1.shop CNAME .
-dogsgarden.shop CNAME .
-*.dogsgarden.shop CNAME .
 domepaosell.shop CNAME .
 *.domepaosell.shop CNAME .
 downfall.shop CNAME .
@@ -3899,10 +3887,6 @@ fishmeet.shop CNAME .
 *.fishmeet.shop CNAME .
 fitegirlsboutique.shop CNAME .
 *.fitegirlsboutique.shop CNAME .
-flightbay.shop CNAME .
-*.flightbay.shop CNAME .
-furuka.shop CNAME .
-*.furuka.shop CNAME .
 gabstinaboutique.shop CNAME .
 *.gabstinaboutique.shop CNAME .
 gamblerschoiceclothing.shop CNAME .
@@ -3911,8 +3895,6 @@ georgiatwo.shop CNAME .
 *.georgiatwo.shop CNAME .
 godscience.shop CNAME .
 *.godscience.shop CNAME .
-goodcosts.shop CNAME .
-*.goodcosts.shop CNAME .
 gowedhemarketing.shop CNAME .
 *.gowedhemarketing.shop CNAME .
 grecofioredesigns.shop CNAME .
@@ -3923,44 +3905,20 @@ harise.shop CNAME .
 *.harise.shop CNAME .
 hostmeans.shop CNAME .
 *.hostmeans.shop CNAME .
-ispfew.shop CNAME .
-*.ispfew.shop CNAME .
-ivinterest.shop CNAME .
-*.ivinterest.shop CNAME .
-jobsms.shop CNAME .
-*.jobsms.shop CNAME .
-jrago.shop CNAME .
-*.jrago.shop CNAME .
-kagure.shop CNAME .
-*.kagure.shop CNAME .
-kamiha.shop CNAME .
-*.kamiha.shop CNAME .
+hotloss.shop CNAME .
+*.hotloss.shop CNAME .
 kidnumber.shop CNAME .
 *.kidnumber.shop CNAME .
-kitame.shop CNAME .
-*.kitame.shop CNAME .
-kizai.shop CNAME .
-*.kizai.shop CNAME .
-kubote.shop CNAME .
-*.kubote.shop CNAME .
 landmen.shop CNAME .
 *.landmen.shop CNAME .
-loanstatus.shop CNAME .
-*.loanstatus.shop CNAME .
-makine.shop CNAME .
-*.makine.shop CNAME .
+malltree.shop CNAME .
+*.malltree.shop CNAME .
 mapsweight.shop CNAME .
 *.mapsweight.shop CNAME .
-marrieduse.shop CNAME .
-*.marrieduse.shop CNAME .
 menstudent.shop CNAME .
 *.menstudent.shop CNAME .
-namecut.shop CNAME .
-*.namecut.shop CNAME .
-netbrowser.shop CNAME .
-*.netbrowser.shop CNAME .
-noko-jp.shop CNAME .
-*.noko-jp.shop CNAME .
+nokojp.shop CNAME .
+*.nokojp.shop CNAME .
 nyccenter.shop CNAME .
 *.nyccenter.shop CNAME .
 officialcity.shop CNAME .
@@ -3971,76 +3929,40 @@ openinglook.shop CNAME .
 *.openinglook.shop CNAME .
 orderedlinks.shop CNAME .
 *.orderedlinks.shop CNAME .
+osa-jp.shop CNAME .
+*.osa-jp.shop CNAME .
 outoverall.shop CNAME .
 *.outoverall.shop CNAME .
-phonesport.shop CNAME .
-*.phonesport.shop CNAME .
-pokemo.shop CNAME .
-*.pokemo.shop CNAME .
+ozaki-jp.shop CNAME .
+*.ozaki-jp.shop CNAME .
 refurbished-us.shop CNAME .
 *.refurbished-us.shop CNAME .
-remoteband.shop CNAME .
-*.remoteband.shop CNAME .
 rentweek.shop CNAME .
 *.rentweek.shop CNAME .
 rubberphone.shop CNAME .
 *.rubberphone.shop CNAME .
-samurei.shop CNAME .
-*.samurei.shop CNAME .
 sapabayeshops.shop CNAME .
 *.sapabayeshops.shop CNAME .
-schooltype.shop CNAME .
-*.schooltype.shop CNAME .
-seeingip.shop CNAME .
-*.seeingip.shop CNAME .
-shotyellow.shop CNAME .
-*.shotyellow.shop CNAME .
-skireason.shop CNAME .
-*.skireason.shop CNAME .
-soundstate.shop CNAME .
-*.soundstate.shop CNAME .
-successlot.shop CNAME .
-*.successlot.shop CNAME .
-takasu.shop CNAME .
-*.takasu.shop CNAME .
+showrating.shop CNAME .
+*.showrating.shop CNAME .
 teenradio.shop CNAME .
 *.teenradio.shop CNAME .
-timeactive.shop CNAME .
-*.timeactive.shop CNAME .
-toisi.shop CNAME .
-*.toisi.shop CNAME .
+temu-jp.shop CNAME .
+*.temu-jp.shop CNAME .
 tokusi.shop CNAME .
 *.tokusi.shop CNAME .
-tourgod.shop CNAME .
-*.tourgod.shop CNAME .
 toyo-jp.shop CNAME .
 *.toyo-jp.shop CNAME .
-toyoas.shop CNAME .
-*.toyoas.shop CNAME .
 tsure.shop CNAME .
 *.tsure.shop CNAME .
 ultimatescrubsmore.shop CNAME .
 *.ultimatescrubsmore.shop CNAME .
-ustopic.shop CNAME .
-*.ustopic.shop CNAME .
-videoblog.shop CNAME .
-*.videoblog.shop CNAME .
 videopaul.shop CNAME .
 *.videopaul.shop CNAME .
 wantedland.shop CNAME .
 *.wantedland.shop CNAME .
-webthere.shop CNAME .
-*.webthere.shop CNAME .
-wwwwelcome.shop CNAME .
-*.wwwwelcome.shop CNAME .
 xinei.shop CNAME .
 *.xinei.shop CNAME .
-yamaze.shop CNAME .
-*.yamaze.shop CNAME .
-yescontact.shop CNAME .
-*.yescontact.shop CNAME .
-yofuke.shop CNAME .
-*.yofuke.shop CNAME .
 zapacesauto.shop CNAME .
 *.zapacesauto.shop CNAME .
 zepatifcommerce.shop CNAME .
@@ -4089,8 +4011,6 @@ us.st CNAME .
 *.us.st CNAME .
 secureonline.store CNAME .
 *.secureonline.store CNAME .
-serance.store CNAME .
-*.serance.store CNAME .
 wapka.store CNAME .
 *.wapka.store CNAME .
 biz.tc CNAME .
@@ -4147,8 +4067,6 @@ freetheme.top CNAME .
 *.freetheme.top CNAME .
 godxdess.top CNAME .
 *.godxdess.top CNAME .
-gooba.top CNAME .
-*.gooba.top CNAME .
 holcom.top CNAME .
 *.holcom.top CNAME .
 imml.top CNAME .
@@ -4165,8 +4083,8 @@ moneyash.top CNAME .
 *.moneyash.top CNAME .
 mtradi.top CNAME .
 *.mtradi.top CNAME .
-nimprove.top CNAME .
-*.nimprove.top CNAME .
+oki-store.top CNAME .
+*.oki-store.top CNAME .
 one-move.top CNAME .
 *.one-move.top CNAME .
 pl-oferta-id2387942371.top CNAME .
@@ -4181,10 +4099,6 @@ sv-whatsapp.top CNAME .
 *.sv-whatsapp.top CNAME .
 tgpropower.top CNAME .
 *.tgpropower.top CNAME .
-trdechat.top CNAME .
-*.trdechat.top CNAME .
-trdeone.top CNAME .
-*.trdeone.top CNAME .
 troove.top CNAME .
 *.troove.top CNAME .
 wapka.top CNAME .
