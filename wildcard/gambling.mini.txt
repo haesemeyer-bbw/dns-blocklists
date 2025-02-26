@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 25 Feb 2025 15:26 UTC
-# Version: 2025.0225.1526.34
+# Last modified: 26 Feb 2025 03:27 UTC
+# Version: 2025.0226.0327.51
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 62816
+# Number of entries: 62818
 #
 *.0-bdmbet.com
 *.0-betsixty.com
@@ -339,6 +339,7 @@
 *.1-x-mirrors.com
 *.1-x-slots-casino.online
 *.1-xbet.com
+*.1-xbet-casino.ru
 *.1-xbet-tj.com
 *.1-xbet10.com
 *.1-xbet13.com
@@ -8475,7 +8476,6 @@
 *.1xbet-za.org
 *.1xbet-zac.top
 *.1xbet-zaf.top
-*.1xbet-zaletai.ru
 *.1xbet-zambia.biz
 *.1xbet-zambia.net
 *.1xbet-zao.top
@@ -9054,6 +9054,7 @@
 *.1xslots-zerkalo.one
 *.1xslots-zerkalo-casino.ru
 *.1xslots-zerkalo-officialsite.top
+*.1xslots36.ru
 *.1xslots4373.top
 *.1xslots4938.ru
 *.1xslots9.ru
@@ -18842,7 +18843,6 @@
 *.bitcoincasinolist.in
 *.bitcoincasinonodeposit.click
 *.bitcoincasinonodepositbonus.com
-*.bitcoincasinonodepositbonus.org
 *.bitcoincasinopik.com
 *.bitcoincasinopro.com
 *.bitcoincasinoreviews.net
@@ -49108,6 +49108,7 @@
 *.pokeronlinedownload.com
 *.pokeronlinerus.biz
 *.pokeronlineteman99.online
+*.pokeronlineutansvensklicens.se
 *.pokerontech.com
 *.pokeronthepier.ca
 *.pokeroperator.com
@@ -56219,6 +56220,7 @@
 *.svenska-casino.co
 *.svenskacasino.se
 *.svenskacasinosajter.se
+*.svenskacasinoutanbankid.se
 *.svenskaonlinecasino.info
 *.svenskasajter.com
 *.svenskaspel.se

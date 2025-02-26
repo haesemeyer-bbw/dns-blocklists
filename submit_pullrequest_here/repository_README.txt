@@ -309,7 +309,7 @@ A blocklist for blocking malware, cryptojacking, scam, spam and phishing. Blocks
 | Domains<br>Subdomains | [GH](lnkgh_d/tif.txt) [GL](lnkgl_d/tif.txt) [CB](lnkjd_d/tif.txt) | Blocky (older than v0.23), Diversion (older than v5), OpenSnitch, PersonalBlocklist, pfBlockerNG |
 | Hosts | [GH](lnkgh_h/tif.txt) [GL](lnkgl_h/tif.txt) [CB](lnkjd_h/tif.txt) | AdAway, uMatrix, DNS66, GasMask, NetGuard |
 | Hosts<br>Compressed | [GH](lnkgh_h/tif-compressed.txt) [GL](lnkgl_h/tif-compressed.txt) [CB](lnkjd_h/tif-compressed.txt) | Hostfile, Linux, Windows |
-| Adblock | [GH](lnkgh_a/tif.txt) [GL](lnkgl_a/tif.txt) [CB](lnkjd_a/tif.txt) | Pi-hole, ~~AdGuard~~ (too big!), AdGuard Home, eBlocker, uBlock Origin, Brave (only in aggressive mode), AdNauseam |
+| Adblock | [GH](lnkgh_a/tif.txt) [GL](lnkgl_a/tif.txt) [CB](lnkjd_a/tif.txt) | Pi-hole, ~~AdGuard~~ (too big!), AdGuard Home (only devices with >= 1GB RAM!), eBlocker, uBlock Origin, Brave (only in aggressive mode), AdNauseam |
 | DNSMasq | [GH](lnkgh_m/tif.txt) [GL](lnkgl_m/tif.txt) [CB](lnkjd_m/tif.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
 | Wildcard<br>Asterisk | [GH](lnkgh_w/tif.txt) [GL](lnkgl_w/tif.txt) [CB](lnkjd_w/tif.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, OPNsense, YogaDNS |
 | Wildcard<br>Domains | [GH](lnkgh_w/tif-onlydomains.txt) [GL](lnkgl_w/tif-onlydomains.txt) [CB](lnkjd_w/tif-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |

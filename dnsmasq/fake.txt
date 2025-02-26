@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 25 Feb 2025 11:54 UTC
-# Version: 2025.0225.1154.25
+# Last modified: 25 Feb 2025 23:50 UTC
+# Version: 2025.0225.2350.33
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10918
+# Number of entries: 10920
 #
 local=/01crypto.com/
 local=/1-stud.net/
@@ -163,6 +163,7 @@ local=/aerosolesshoesoutlets.com/
 local=/aersix.com/
 local=/aetos-deutschland.de/
 local=/aetrexoutletfactory.com/
+local=/aeydeschuhe.de/
 local=/afara.de/
 local=/affen-park.de/
 local=/affenzahn-exclusive.shop/
@@ -2246,6 +2247,7 @@ local=/dasoffiziellespadel.com/
 local=/dasrichtigeholz.com/
 local=/daswirthshaus.com/
 local=/datapprove-gmbh.com/
+local=/daunenjacken-shop.com/
 local=/davanu.com/
 local=/daveamor.us/
 local=/daveintheshop.com/
@@ -3241,7 +3243,6 @@ local=/fantomfx.net/
 local=/fanwish.cn/
 local=/farben-store.com/
 local=/fargo-global.com/
-local=/farinaella.com/
 local=/fariolla.de/
 local=/farisent.com/
 local=/farmacia-el-punto.es/
@@ -7136,6 +7137,7 @@ local=/orlimex-versand.de/
 local=/orpeagroup.com/
 local=/orrebol.com/
 local=/ortliebpack.com/
+local=/ortovox-eu.shop/
 local=/ortovoxeu.com/
 local=/os-serv.com/
 local=/oshop.at/

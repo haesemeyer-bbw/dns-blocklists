@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 25 Feb 2025 15:36 UTC
-# Version: 2025.0225.1536.13
+# Last modified: 26 Feb 2025 03:37 UTC
+# Version: 2025.0226.0337.15
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 190174
+# Number of entries: 190176
 #
 local=/0-bdmbet.com/
 local=/0-bet.com/
@@ -3491,6 +3491,7 @@ local=/1-x-mirror.com/
 local=/1-x-mirrors.com/
 local=/1-x-slots-casino.online/
 local=/1-xbet.com/
+local=/1-xbet-casino.ru/
 local=/1-xbet-tj.com/
 local=/1-xbet10.com/
 local=/1-xbet11.com/
@@ -19210,7 +19211,6 @@ local=/1xbet-z9.top/
 local=/1xbet-za.org/
 local=/1xbet-zac.top/
 local=/1xbet-zaf.top/
-local=/1xbet-zaletai.ru/
 local=/1xbet-zambia.biz/
 local=/1xbet-zambia.net/
 local=/1xbet-zao.top/
@@ -19930,6 +19930,7 @@ local=/1xslots-uie.top/
 local=/1xslots-zerkalo.one/
 local=/1xslots-zerkalo-casino.ru/
 local=/1xslots-zerkalo-officialsite.top/
+local=/1xslots36.ru/
 local=/1xslots4373.top/
 local=/1xslots4938.ru/
 local=/1xslots9.ru/
@@ -85183,7 +85184,6 @@ local=/bitcoincasinolari.com/
 local=/bitcoincasinolist.in/
 local=/bitcoincasinonodeposit.click/
 local=/bitcoincasinonodepositbonus.com/
-local=/bitcoincasinonodepositbonus.org/
 local=/bitcoincasinopik.com/
 local=/bitcoincasinopro.com/
 local=/bitcoincasinoreviews.net/
@@ -153430,6 +153430,7 @@ local=/pokeronline77vip.com/
 local=/pokeronlinedownload.com/
 local=/pokeronlinerus.biz/
 local=/pokeronlineteman99.online/
+local=/pokeronlineutansvensklicens.se/
 local=/pokerontech.com/
 local=/pokeronthepier.ca/
 local=/pokeroom.bet/
@@ -167901,6 +167902,7 @@ local=/svenskacasinosajter.se/
 local=/svenskacasinosidor.eu/
 local=/svenskacasinosidorna.se/
 local=/svenskacasinospel.nu/
+local=/svenskacasinoutanbankid.se/
 local=/svenskamobilcasinon.com/
 local=/svenskanatcasinon.nu/
 local=/svenskaonlinecasino.info/

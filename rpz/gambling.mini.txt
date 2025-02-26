@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1740497160 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1740540420 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 25 Feb 2025 15:26 UTC
-; Version: 2025.0225.1526.34
+; Last modified: 26 Feb 2025 03:27 UTC
+; Version: 2025.0226.0327.51
 ; Syntax: RPZ
-; Number of entries: 125632
+; Number of entries: 125636
 ;
 1xbet.ac CNAME .
 *.1xbet.ac CNAME .
@@ -90397,8 +90397,6 @@ bintangstar.org CNAME .
 *.bintangstar.org CNAME .
 bitcoincasinofreespins.org CNAME .
 *.bitcoincasinofreespins.org CNAME .
-bitcoincasinonodepositbonus.org CNAME .
-*.bitcoincasinonodepositbonus.org CNAME .
 bitcoincasinoreviews.org CNAME .
 *.bitcoincasinoreviews.org CNAME .
 bitcoingambling.org CNAME .
@@ -94701,6 +94699,8 @@ vavada-casino.rs CNAME .
 *.vavada-casino.rs CNAME .
 01casino-x.ru CNAME .
 *.01casino-x.ru CNAME .
+1-xbet-casino.ru CNAME .
+*.1-xbet-casino.ru CNAME .
 101casino.ru CNAME .
 *.101casino.ru CNAME .
 101win.ru CNAME .
@@ -95351,8 +95351,6 @@ vavada-casino.rs CNAME .
 *.1xbet-www.ru CNAME .
 1xbet-xbet.ru CNAME .
 *.1xbet-xbet.ru CNAME .
-1xbet-zaletai.ru CNAME .
-*.1xbet-zaletai.ru CNAME .
 1xbet-zerkalo-1.ru CNAME .
 *.1xbet-zerkalo-1.ru CNAME .
 1xbet-zerkalo-bonus.ru CNAME .
@@ -95409,6 +95407,8 @@ vavada-casino.rs CNAME .
 *.1xslots-online.ru CNAME .
 1xslots-zerkalo-casino.ru CNAME .
 *.1xslots-zerkalo-casino.ru CNAME .
+1xslots36.ru CNAME .
+*.1xslots36.ru CNAME .
 1xslots4938.ru CNAME .
 *.1xslots4938.ru CNAME .
 1xslots9.ru CNAME .
@@ -98863,6 +98863,8 @@ poker-utansvensklicens.se CNAME .
 *.poker-utansvensklicens.se CNAME .
 pokeridag.se CNAME .
 *.pokeridag.se CNAME .
+pokeronlineutansvensklicens.se CNAME .
+*.pokeronlineutansvensklicens.se CNAME .
 pokertips.se CNAME .
 *.pokertips.se CNAME .
 popcasino.se CNAME .
@@ -98901,6 +98903,8 @@ svenskacasino.se CNAME .
 *.svenskacasino.se CNAME .
 svenskacasinosajter.se CNAME .
 *.svenskacasinosajter.se CNAME .
+svenskacasinoutanbankid.se CNAME .
+*.svenskacasinoutanbankid.se CNAME .
 svenskaspel.se CNAME .
 *.svenskaspel.se CNAME .
 sverige-casino-online.se CNAME .
