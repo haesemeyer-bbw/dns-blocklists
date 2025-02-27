@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1740583500 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1740626520 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 26 Feb 2025 15:25 UTC
-; Version: 2025.0226.1525.56
+; Last modified: 27 Feb 2025 03:22 UTC
+; Version: 2025.0227.0322.41
 ; Syntax: RPZ
-; Number of entries: 129224
+; Number of entries: 129234
 ;
 1xbet.ac CNAME .
 *.1xbet.ac CNAME .
@@ -7001,6 +7001,8 @@ starlightcasino.ca CNAME .
 *.starlightcasino.ca CNAME .
 starslottery.ca CNAME .
 *.starslottery.ca CNAME .
+sweetrehab.ca CNAME .
+*.sweetrehab.ca CNAME .
 thecasinoguide.ca CNAME .
 *.thecasinoguide.ca CNAME .
 thegrandmondialcasino.ca CNAME .
@@ -15041,8 +15043,6 @@ bengkulu4dgacor.club CNAME .
 *.bengkulu4dgacor.club CNAME .
 best-casinos.club CNAME .
 *.best-casinos.club CNAME .
-bestbitcoincasinos.club CNAME .
-*.bestbitcoincasinos.club CNAME .
 bestcasinodeals.club CNAME .
 *.bestcasinodeals.club CNAME .
 bestesonlinecasino.club CNAME .
@@ -75033,6 +75033,8 @@ casino-vulcan.dev CNAME .
 *.casino-vulcan.dev CNAME .
 cf68.dev CNAME .
 *.cf68.dev CNAME .
+danielniko.dev CNAME .
+*.danielniko.dev CNAME .
 g88.dev CNAME .
 *.g88.dev CNAME .
 hknalo.dev CNAME .
@@ -79061,6 +79063,8 @@ pokermaster.in CNAME .
 *.pokermaster.in CNAME .
 pokerstars.in CNAME .
 *.pokerstars.in CNAME .
+prestige-construction.in CNAME .
+*.prestige-construction.in CNAME .
 pundi68jp.in CNAME .
 *.pundi68jp.in CNAME .
 purecasino24.in CNAME .
@@ -79097,6 +79101,8 @@ theblackjacktattoo.in CNAME .
 *.theblackjacktattoo.in CNAME .
 thegambling.in CNAME .
 *.thegambling.in CNAME .
+themarketingreview.in CNAME .
+*.themarketingreview.in CNAME .
 tk88.in CNAME .
 *.tk88.in CNAME .
 topcasinosreviews.in CNAME .
@@ -81191,6 +81197,8 @@ bgame.it CNAME .
 *.bgame.it CNAME .
 bigbet24.it CNAME .
 *.bigbet24.it CNAME .
+bimbiagiro.it CNAME .
+*.bimbiagiro.it CNAME .
 bizzocasinoitalia.it CNAME .
 *.bizzocasinoitalia.it CNAME .
 blackjack-casino.it CNAME .
@@ -81377,6 +81385,8 @@ nuovicasino.it CNAME .
 *.nuovicasino.it CNAME .
 onlinecasinoinfo.it CNAME .
 *.onlinecasinoinfo.it CNAME .
+osterixpub.it CNAME .
+*.osterixpub.it CNAME .
 overplus.it CNAME .
 *.overplus.it CNAME .
 paddypartners.it CNAME .
@@ -85293,6 +85303,8 @@ gamebaidoithuong.com.mx CNAME .
 *.gamebaidoithuong.com.mx CNAME .
 ice-casino.com.mx CNAME .
 *.ice-casino.com.mx CNAME .
+mextrade.com.mx CNAME .
+*.mextrade.com.mx CNAME .
 mostbetcasino.com.mx CNAME .
 *.mostbetcasino.com.mx CNAME .
 strendus.com.mx CNAME .
@@ -85327,6 +85339,8 @@ playdoit.mx CNAME .
 *.playdoit.mx CNAME .
 playuzu.mx CNAME .
 *.playuzu.mx CNAME .
+plazalaroca.mx CNAME .
+*.plazalaroca.mx CNAME .
 sin88.mx CNAME .
 *.sin88.mx CNAME .
 teammexico.mx CNAME .
@@ -89453,8 +89467,6 @@ zo5858.net CNAME .
 *.zo5858.net CNAME .
 1xbet-v-79.network CNAME .
 *.1xbet-v-79.network CNAME .
-betvisa.network CNAME .
-*.betvisa.network CNAME .
 casino-frank.network CNAME .
 *.casino-frank.network CNAME .
 cat-casino.network CNAME .
@@ -95631,8 +95643,6 @@ botakempire-slot.pro CNAME .
 *.botakempire-slot.pro CNAME .
 brsamba777.pro CNAME .
 *.brsamba777.pro CNAME .
-bs77x500b.pro CNAME .
-*.bs77x500b.pro CNAME .
 btcasino818.pro CNAME .
 *.btcasino818.pro CNAME .
 btcasino818entrar.pro CNAME .
@@ -101379,8 +101389,12 @@ vpncasinon.se CNAME .
 *.vpncasinon.se CNAME .
 winziecasino.se CNAME .
 *.winziecasino.se CNAME .
+xn--basta-casino-utan-omsttningskrav-5yc.se CNAME .
+*.xn--basta-casino-utan-omsttningskrav-5yc.se CNAME .
 xn--casinoerbjudandenutaninsttning-jtc.se CNAME .
 *.xn--casinoerbjudandenutaninsttning-jtc.se CNAME .
+xn--online-casino-utan-omsttningskrav-11c.se CNAME .
+*.xn--online-casino-utan-omsttningskrav-11c.se CNAME .
 xn--stjrncasino-n8a.se CNAME .
 *.xn--stjrncasino-n8a.se CNAME .
 8xbet.services CNAME .
@@ -125867,8 +125881,6 @@ benua99gacor.xyz CNAME .
 *.benua99gacor.xyz CNAME .
 bermaindarigotopublicinter.xyz CNAME .
 *.bermaindarigotopublicinter.xyz CNAME .
-bestebitcoincasinoer.xyz CNAME .
-*.bestebitcoincasinoer.xyz CNAME .
 bestes-online-casino.xyz CNAME .
 *.bestes-online-casino.xyz CNAME .
 bestesonlinecasino.xyz CNAME .
@@ -126221,8 +126233,6 @@ casinoburadatv.xyz CNAME .
 *.casinoburadatv.xyz CNAME .
 casinocafe.xyz CNAME .
 *.casinocafe.xyz CNAME .
-casinoconbitcoin.xyz CNAME .
-*.casinoconbitcoin.xyz CNAME .
 casinocopilot.xyz CNAME .
 *.casinocopilot.xyz CNAME .
 casinodollars.xyz CNAME .
