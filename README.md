@@ -144,7 +144,7 @@ Big broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate
 
 #### :ledger: **Multi PRO mini (Recommended for browser/mobile adblockers)** <a name="promini"></a>
 
-Size-optimised version for DNS/Browser adblockers. This list only contains domains from the Pro full that have been found on Top 1M lists (Umbrella, Cloudflare, Tranco, Chrome, ...) in the last 12 months.
+Size-optimised version for DNS/Browser adblockers, e.g. for devices with less RAM. This list only contains domains from the Pro full that have been found on Top 1/10M lists (Umbrella, Cloudflare, Tranco, Chrome, BuiltWith, Majestic, DomCop).
 
 **Entries:** 75992 compressed domains
 
@@ -183,7 +183,7 @@ Sweeper - Aggressive cleans the Internet and protects your privacy! Blocks Ads, 
 
 #### :orange_book: **Multi PRO++ mini** <a name="proplusmini"></a>
 
-Size-optimised version for DNS/Browser adblockers. This list only contains domains from the Pro++ full that have been found on Top 1M lists (Umbrella, Cloudflare, Tranco, Chrome, ...) in the last 12 months.
+Size-optimised version for DNS/Browser adblockers, e.g. for devices with less RAM. This list only contains domains from the Pro++ full that have been found on Top 1/10M lists (Umbrella, Cloudflare, Tranco, Chrome, BuiltWith, Majestic, DomCop).
 
 **Entries:** 83860 compressed domains
 
@@ -231,7 +231,7 @@ Ultimate Sweeper - Strictly cleans the Internet and protects your privacy! Block
 
 #### :closed_book: **Multi ULTIMATE mini** <a name="ultimatemini"></a>
 
-Size-optimised version for DNS/Browser adblockers. This list only contains domains from the Ultimate full that have been found on Top 1M lists (Umbrella, Cloudflare, Tranco, Chrome, ...) in the last 12 months.
+Size-optimised version for DNS/Browser adblockers, e.g. for devices with less RAM. This list only contains domains from the Ultimate full that have been found on Top 1/10M lists (Umbrella, Cloudflare, Tranco, Chrome, BuiltWith, Majestic, DomCop).
 
 **Entries:** 86170 compressed domains
 
@@ -595,7 +595,7 @@ A medium version of the Gambling list. Designed for Adblockers that have problem
 
 #### :slot_machine: **Gambling - Mini version** <a name="gamblingmini"></a>
 
-A size-optimised version of the Gambling Medium list. This list only contains domains that have been found on Top 1M lists (Umbrella, Cloudflare, Tranco, Chrome, ...) in the last 12 months.
+A size-optimised version of the Gambling Medium list. This list only contains domains that have been found on Top 1/10M lists (Umbrella, Cloudflare, Tranco, Chrome, BuiltWith, Majestic, DomCop).
 
 |             | Light | Normal | Pro | Pro++ | Ultimate |
 |:-----------:|:-----:|:------:|:---:|:-----:|:--------:|
