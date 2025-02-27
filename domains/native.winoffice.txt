@@ -4,8 +4,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 22 Feb 2025 00:13 UTC
-# Version: 2025.0222.0013.05
+# Last modified: 27 Feb 2025 08:11 UTC
+# Version: 2025.0227.0811.04
 # Syntax: Domains (including possible subdomains)
 # Number of entries: 696
 #
@@ -30,6 +30,7 @@ api.applicationinsights.azure.com
 dc.applicationinsights.azure.cn
 dc.applicationinsights.azure.com
 dc.applicationinsights.azure.us
+www.dc.applicationinsights.azure.com
 in.applicationinsights.azure.cn
 in.applicationinsights.azure.com
 in.applicationinsights.azure.us
@@ -62,7 +63,6 @@ eastus-global.in.applicationinsights.azure.com
 eastus2-0.in.applicationinsights.azure.com
 eastus2-3.in.applicationinsights.azure.com
 eastus2-4.in.applicationinsights.azure.com
-francecentral-0.in.applicationinsights.azure.com
 francecentral-1.in.applicationinsights.azure.com
 germanywestcentral-0.in.applicationinsights.azure.com
 germanywestcentral-1.in.applicationinsights.azure.com
@@ -111,6 +111,7 @@ westus2-5.in.applicationinsights.azure.com
 westus2-global.in.applicationinsights.azure.com
 westus3-1.in.applicationinsights.azure.com
 live.applicationinsights.azure.com
+www.live.applicationinsights.azure.com
 inference-app-gateway.eastus2.cloudapp.azure.com
 inference-app-gateway.koreacentral.cloudapp.azure.com
 inference-app-gateway.northeurope.cloudapp.azure.com
@@ -258,6 +259,7 @@ analyticspixel.microsoft.com
 applicationinsights.microsoft.com
 dc.applicationinsights.microsoft.com
 rt.applicationinsights.microsoft.com
+www.rt.applicationinsights.microsoft.com
 pipe.aria.microsoft.com
 browser.pipe.aria.microsoft.com
 eu.pipe.aria.microsoft.com
@@ -569,7 +571,6 @@ m365cdn.nelsdf.measure.office.net
 powerpointonline.nelsdf.measure.office.net
 sdwan.measure.office.com
 wan.measure.office.com
-hubblecontent.osi.office.net
 adsdk.trafficmanager.net
 agps-location-livenet.trafficmanager.net
 analytics.trafficmanager.net
@@ -676,7 +677,6 @@ sa.windows.com
 analytics-dev-lleap-events.servicebus.windows.net
 analytics-dev-simpad-events.servicebus.windows.net
 analyticsehnwe.servicebus.windows.net
-analyticsiot-prod-simpad-ehn.servicebus.windows.net
 btv-du-dev-eventhub-streamanalytics.servicebus.windows.net
 btv-du-prod-eventhub-streamanalytics.servicebus.windows.net
 citrixanalyticseh.servicebus.windows.net

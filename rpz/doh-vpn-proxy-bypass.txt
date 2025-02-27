@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1740584760 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1740671220 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 26 Feb 2025 15:46 UTC
-; Version: 2025.0226.1546.22
+; Last modified: 27 Feb 2025 15:47 UTC
+; Version: 2025.0227.1547.06
 ; Syntax: RPZ
-; Number of entries: 7576
+; Number of entries: 7542
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -102,8 +102,6 @@ ecxs.asia CNAME .
 *.ecxs.asia CNAME .
 freeproxy.asia CNAME .
 *.freeproxy.asia CNAME .
-goproxy.asia CNAME .
-*.goproxy.asia CNAME .
 kproxy.asia CNAME .
 *.kproxy.asia CNAME .
 mehide.asia CNAME .
@@ -268,8 +266,6 @@ onion.casa CNAME .
 *.onion.casa CNAME .
 sriedmueadguard.casa CNAME .
 *.sriedmueadguard.casa CNAME .
-yui.cat CNAME .
-*.yui.cat CNAME .
 affsoft.cc CNAME .
 *.affsoft.cc CNAME .
 antidnsvpn.co.cc CNAME .
@@ -1456,8 +1452,6 @@ harbaletsstudy.com CNAME .
 *.harbaletsstudy.com CNAME .
 resolver-eu.haringstad.com CNAME .
 *.resolver-eu.haringstad.com CNAME .
-headproxy.com CNAME .
-*.headproxy.com CNAME .
 heiwanotameno.com CNAME .
 *.heiwanotameno.com CNAME .
 dns.hellozhao.com CNAME .
@@ -2216,10 +2210,6 @@ publicdnsserver.com CNAME .
 *.publicdnsserver.com CNAME .
 dns.pumpkinvrar.com CNAME .
 *.dns.pumpkinvrar.com CNAME .
-dns.pumplex.com CNAME .
-*.dns.pumplex.com CNAME .
-2.dnscrypt-cert.pumplex.com CNAME .
-*.2.dnscrypt-cert.pumplex.com CNAME .
 pupilproxy.com CNAME .
 *.pupilproxy.com CNAME .
 purevpn.com CNAME .
@@ -3088,8 +3078,6 @@ ytcroxyproxy.com CNAME .
 *.ytcroxyproxy.com CNAME .
 yuyuproxy.com CNAME .
 *.yuyuproxy.com CNAME .
-yxorproxy.com CNAME .
-*.yxorproxy.com CNAME .
 zacebookpk.com CNAME .
 *.zacebookpk.com CNAME .
 adguard.zachitect.com CNAME .
@@ -3492,8 +3480,6 @@ ultrasurf.es CNAME .
 *.3dns.eu CNAME .
 dns.almir1904.eu CNAME .
 *.dns.almir1904.eu CNAME .
-anonproxy.eu CNAME .
-*.anonproxy.eu CNAME .
 dns.bermeitinger.eu CNAME .
 *.dns.bermeitinger.eu CNAME .
 adguard.bonsirven.eu CNAME .
@@ -4024,8 +4010,6 @@ prointern.info CNAME .
 *.prointern.info CNAME .
 propage.info CNAME .
 *.propage.info CNAME .
-provpn.info CNAME .
-*.provpn.info CNAME .
 proxify.info CNAME .
 *.proxify.info CNAME .
 proxite.info CNAME .
@@ -4446,8 +4430,6 @@ unbl4you.lol CNAME .
 *.unbl4you.lol CNAME .
 unkn0wngb.lol CNAME .
 *.unkn0wngb.lol CNAME .
-www-bruh.xenon.lol CNAME .
-*.www-bruh.xenon.lol CNAME .
 doyouremember.love CNAME .
 *.doyouremember.love CNAME .
 unblocked.love CNAME .
@@ -4538,8 +4520,6 @@ encrypt.me CNAME .
 *.encrypt.me CNAME .
 faceless.me CNAME .
 *.faceless.me CNAME .
-fastvpn.me CNAME .
-*.fastvpn.me CNAME .
 fiberprox.me CNAME .
 *.fiberprox.me CNAME .
 filterbypass.me CNAME .
@@ -4688,8 +4668,6 @@ dns.d4d.moe CNAME .
 *.dns.d4d.moe CNAME .
 dns.kosan.moe CNAME .
 *.dns.kosan.moe CNAME .
-dns.kusoneko.moe CNAME .
-*.dns.kusoneko.moe CNAME .
 dns.kuuhaku.moe CNAME .
 *.dns.kuuhaku.moe CNAME .
 naganohara-yoimiya.momokko.moe CNAME .
@@ -5206,8 +5184,6 @@ dns.lars-lehmann.net CNAME .
 *.dns.lars-lehmann.net CNAME .
 adguard1.leadmon.net CNAME .
 *.adguard1.leadmon.net CNAME .
-leafyvpn.net CNAME .
-*.leafyvpn.net CNAME .
 yarp.lefolgoc.net CNAME .
 *.yarp.lefolgoc.net CNAME .
 dns.liberador.net CNAME .
@@ -5838,16 +5814,12 @@ unblocked2.online CNAME .
 *.unblocked2.online CNAME .
 unblocksites.online CNAME .
 *.unblocksites.online CNAME .
-unblockwebsite.online CNAME .
-*.unblockwebsite.online CNAME .
 uproxy.online CNAME .
 *.uproxy.online CNAME .
 videomy.online CNAME .
 *.videomy.online CNAME .
 videonew.online CNAME .
 *.videonew.online CNAME .
-vpnproxy.online CNAME .
-*.vpnproxy.online CNAME .
 go.vrpyourself.online CNAME .
 *.go.vrpyourself.online CNAME .
 webproxy.online CNAME .
@@ -6648,8 +6620,6 @@ proxy.rocks CNAME .
 *.proxy.rocks CNAME .
 dns.quiet.rocks CNAME .
 *.dns.quiet.rocks CNAME .
-unblockit.rsvp CNAME .
-*.unblockit.rsvp CNAME .
 ad.anym0re.ru CNAME .
 *.ad.anym0re.ru CNAME .
 bi-tree.ru CNAME .
@@ -6816,8 +6786,6 @@ videoproxy.site CNAME .
 *.videoproxy.site CNAME .
 vpnproxy.site CNAME .
 *.vpnproxy.site CNAME .
-vtcuong.site CNAME .
-*.vtcuong.site CNAME .
 dns.levonet.sk CNAME .
 *.dns.levonet.sk CNAME .
 surfshark.sk CNAME .
@@ -7560,8 +7528,6 @@ dns.vinnyp.xyz CNAME .
 *.dns.vinnyp.xyz CNAME .
 dns.vod11.xyz CNAME .
 *.dns.vod11.xyz CNAME .
-vpn-server.xyz CNAME .
-*.vpn-server.xyz CNAME .
 webpro.xyz CNAME .
 *.webpro.xyz CNAME .
 parrotballs.worksheetsforteachers.xyz CNAME .

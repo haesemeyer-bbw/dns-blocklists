@@ -197,13 +197,6 @@
       }
     },
     {
-      "PK": "analyticsiot-prod-simpad-ehn.servicebus.windows.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "analytics-listener.trafficmanager.net",
       "action": {
         "do": 0,
@@ -1199,13 +1192,6 @@
     },
     {
       "PK": "h.msn.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "hubblecontent.osi.office.net",
       "action": {
         "do": 0,
         "status": 1

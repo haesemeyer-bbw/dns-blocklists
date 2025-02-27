@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 26 Feb 2025 15:43 UTC
-# Version: 2025.0226.1543.54
+# Last modified: 27 Feb 2025 15:44 UTC
+# Version: 2025.0227.1544.37
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 2114
+# Number of entries: 2111
 #
 local=/000a.de/
 local=/000space.com/
@@ -470,7 +470,6 @@ local=/blogsidea.com/
 local=/blogsky.com/
 local=/blogsmine.com/
 local=/blogsome.com/
-local=/blogsource.com/
 local=/blogspace.fr/
 local=/blogspirit.com/
 local=/blogsport.de/
@@ -678,7 +677,6 @@ local=/blogspot.com.my/
 local=/blogspot.com.ng/
 local=/blogspot.com.tr/
 local=/blogspot.com.uy/
-local=/cableonline.com.mx/
 local=/fullblog.com.ar/
 local=/keshavbashyal.com.np/
 local=/kl.com.ua/
@@ -1490,7 +1488,6 @@ local=/online-net.de/
 local=/onlineweb.shop/
 local=/onlinewebshop.net/
 local=/only4u.eu/
-local=/onmbl.com/
 local=/onrender.com/
 local=/ontheweb.nu/
 local=/onwebbox.com/

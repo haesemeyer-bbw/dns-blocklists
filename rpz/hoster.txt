@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1740584580 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1740671040 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 26 Feb 2025 15:43 UTC
-; Version: 2025.0226.1543.54
+; Last modified: 27 Feb 2025 15:44 UTC
+; Version: 2025.0227.1544.37
 ; Syntax: RPZ
-; Number of entries: 4228
+; Number of entries: 4222
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -733,8 +733,6 @@ blogsmine.com CNAME .
 *.blogsmine.com CNAME .
 blogsome.com CNAME .
 *.blogsome.com CNAME .
-blogsource.com CNAME .
-*.blogsource.com CNAME .
 blogspirit.com CNAME .
 *.blogspirit.com CNAME .
 blogspot.com CNAME .
@@ -1457,8 +1455,6 @@ onbloglist.com CNAME .
 *.onbloglist.com CNAME .
 onesmablog.com CNAME .
 *.onesmablog.com CNAME .
-onmbl.com CNAME .
-*.onmbl.com CNAME .
 onrender.com CNAME .
 *.onrender.com CNAME .
 onwebbox.com CNAME .
@@ -3129,8 +3125,6 @@ world.mu CNAME .
 *.world.mu CNAME .
 blogspot.mx CNAME .
 *.blogspot.mx CNAME .
-cableonline.com.mx CNAME .
-*.cableonline.com.mx CNAME .
 tripod.com.mx CNAME .
 *.tripod.com.mx CNAME .
 webnode.mx CNAME .
