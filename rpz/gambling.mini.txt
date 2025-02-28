@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1740669840 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1740712980 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 27 Feb 2025 15:24 UTC
-; Version: 2025.0227.1524.24
+; Last modified: 28 Feb 2025 03:23 UTC
+; Version: 2025.0228.0323.04
 ; Syntax: RPZ
-; Number of entries: 126646
+; Number of entries: 126664
 ;
 1xbet.ac CNAME .
 *.1xbet.ac CNAME .
@@ -7333,8 +7333,6 @@ beam.casino CNAME .
 *.beam.casino CNAME .
 beste.casino CNAME .
 *.beste.casino CNAME .
-bet168.casino CNAME .
-*.bet168.casino CNAME .
 betti.casino CNAME .
 *.betti.casino CNAME .
 bettilt.casino CNAME .
@@ -15807,8 +15805,6 @@ aus9.co CNAME .
 *.aus9.co CNAME .
 australia-casino.co CNAME .
 *.australia-casino.co CNAME .
-autobet711.co CNAME .
-*.autobet711.co CNAME .
 autobot77.co CNAME .
 *.autobot77.co CNAME .
 b8my.co CNAME .
@@ -29579,8 +29575,6 @@ bet1x-thai.com CNAME .
 *.bet1x-thai.com CNAME .
 bet1x-thailand.com CNAME .
 *.bet1x-thailand.com CNAME .
-bet213slots.com CNAME .
-*.bet213slots.com CNAME .
 bet24.com CNAME .
 *.bet24.com CNAME .
 bet24star.com CNAME .
@@ -85693,8 +85687,6 @@ hb888mobile1.net CNAME .
 *.hb888mobile1.net CNAME .
 hbk88.net CNAME .
 *.hbk88.net CNAME .
-hdbet303slot.net CNAME .
-*.hdbet303slot.net CNAME .
 heapsofwins.net CNAME .
 *.heapsofwins.net CNAME .
 notfound.heedxefu.net CNAME .
@@ -88363,8 +88355,6 @@ a22.one CNAME .
 *.a22.one CNAME .
 admiralcasino2020.one CNAME .
 *.admiralcasino2020.one CNAME .
-albet808.one CNAME .
-*.albet808.one CNAME .
 alfabeta.one CNAME .
 *.alfabeta.one CNAME .
 betobet.one CNAME .
@@ -99215,8 +99205,14 @@ vulkancasino.science CNAME .
 *.vulkancasino.science CNAME .
 22casino22.se CNAME .
 *.22casino22.se CNAME .
+24-casinos.se CNAME .
+*.24-casinos.se CNAME .
+allacasinoutankonto.se CNAME .
+*.allacasinoutankonto.se CNAME .
 atg.se CNAME .
 *.atg.se CNAME .
+avantgarde-casino.se CNAME .
+*.avantgarde-casino.se CNAME .
 bastacasinobonus.se CNAME .
 *.bastacasinobonus.se CNAME .
 battrebetting.se CNAME .
@@ -99239,6 +99235,8 @@ bingoon.se CNAME .
 *.bingoon.se CNAME .
 casino-med-paylevo.se CNAME .
 *.casino-med-paylevo.se CNAME .
+casino-onlinesverige.se CNAME .
+*.casino-onlinesverige.se CNAME .
 casino-stockholm.se CNAME .
 *.casino-stockholm.se CNAME .
 casino-utanbankid.se CNAME .
@@ -99255,6 +99253,8 @@ casino360.se CNAME .
 *.casino360.se CNAME .
 casinobonus2016.se CNAME .
 *.casinobonus2016.se CNAME .
+casinobonusutankonto.se CNAME .
+*.casinobonusutankonto.se CNAME .
 casinobros.se CNAME .
 *.casinobros.se CNAME .
 casinobulle.se CNAME .
@@ -99309,6 +99309,8 @@ casinos-utan-svensk-licens.se CNAME .
 *.casinos-utan-svensk-licens.se CNAME .
 casinosafe.se CNAME .
 *.casinosafe.se CNAME .
+casinosoffan.se CNAME .
+*.casinosoffan.se CNAME .
 casinostars.se CNAME .
 *.casinostars.se CNAME .
 casinot.se CNAME .
@@ -99321,6 +99323,8 @@ casinoutaninsattningsgrans.se CNAME .
 *.casinoutaninsattningsgrans.se CNAME .
 casinoutankonto.se CNAME .
 *.casinoutankonto.se CNAME .
+casinoutankonto2025.se CNAME .
+*.casinoutankonto2025.se CNAME .
 casinov.se CNAME .
 *.casinov.se CNAME .
 casinowings.se CNAME .
@@ -99337,6 +99341,8 @@ dagenscasinobonus.se CNAME .
 *.dagenscasinobonus.se CNAME .
 dragon-slots.se CNAME .
 *.dragon-slots.se CNAME .
+dreamcatchercasino.se CNAME .
+*.dreamcatchercasino.se CNAME .
 extremelightningroulette.se CNAME .
 *.extremelightningroulette.se CNAME .
 freespin-casino.se CNAME .
@@ -99349,6 +99355,8 @@ ice-casino.se CNAME .
 *.ice-casino.se CNAME .
 incognito-casinos.se CNAME .
 *.incognito-casinos.se CNAME .
+infiniteblackjack.se CNAME .
+*.infiniteblackjack.se CNAME .
 instant-casinoo.se CNAME .
 *.instant-casinoo.se CNAME .
 instantcasinoo.se CNAME .
@@ -99409,6 +99417,10 @@ ojvilkenoverraskning.se CNAME .
 *.ojvilkenoverraskning.se CNAME .
 onlinecasinolistan.se CNAME .
 *.onlinecasinolistan.se CNAME .
+onlinecasinoutanbankid.se CNAME .
+*.onlinecasinoutanbankid.se CNAME .
+onlinepokerutansvensklicens.se CNAME .
+*.onlinepokerutansvensklicens.se CNAME .
 pachacasino.se CNAME .
 *.pachacasino.se CNAME .
 pachaibizacasino.se CNAME .
@@ -99423,22 +99435,38 @@ pokeronlineutansvensklicens.se CNAME .
 *.pokeronlineutansvensklicens.se CNAME .
 pokertips.se CNAME .
 *.pokertips.se CNAME .
+pokerutanlicens.se CNAME .
+*.pokerutanlicens.se CNAME .
 popcasino.se CNAME .
 *.popcasino.se CNAME .
 prankcasino.se CNAME .
 *.prankcasino.se CNAME .
+prylbutikenonline.se CNAME .
+*.prylbutikenonline.se CNAME .
+reblz-casino.se CNAME .
+*.reblz-casino.se CNAME .
+reblzcasino.se CNAME .
+*.reblzcasino.se CNAME .
 rollino-casino.se CNAME .
 *.rollino-casino.se CNAME .
 roxycasino.se CNAME .
 *.roxycasino.se CNAME .
 betway.brandstudio.schibsted.se CNAME .
 *.betway.brandstudio.schibsted.se CNAME .
+slotsdudes.se CNAME .
+*.slotsdudes.se CNAME .
 slotv.se CNAME .
 *.slotv.se CNAME .
 smyckenochbling.se CNAME .
 *.smyckenochbling.se CNAME .
 spelacasinotrotsspelpaus.se CNAME .
 *.spelacasinotrotsspelpaus.se CNAME .
+spelacasinoutanbankid.se CNAME .
+*.spelacasinoutanbankid.se CNAME .
+spelacasinoutankonto.se CNAME .
+*.spelacasinoutankonto.se CNAME .
+spelapokerutansvensklicens.se CNAME .
+*.spelapokerutansvensklicens.se CNAME .
 spin-sweetcasino.se CNAME .
 *.spin-sweetcasino.se CNAME .
 spincasino.se CNAME .
@@ -99461,6 +99489,8 @@ svenskacasinosajter.se CNAME .
 *.svenskacasinosajter.se CNAME .
 svenskacasinoutanbankid.se CNAME .
 *.svenskacasinoutanbankid.se CNAME .
+svenskacasinoutankonto.se CNAME .
+*.svenskacasinoutankonto.se CNAME .
 svenskaspel.se CNAME .
 *.svenskaspel.se CNAME .
 sverige-casino-online.se CNAME .
@@ -99481,14 +99511,22 @@ vikingscasino.se CNAME .
 *.vikingscasino.se CNAME .
 winziecasino.se CNAME .
 *.winziecasino.se CNAME .
+xn--allabstacasino-9hb.se CNAME .
+*.xn--allabstacasino-9hb.se CNAME .
 xn--basta-casino-utan-omsttningskrav-5yc.se CNAME .
 *.xn--basta-casino-utan-omsttningskrav-5yc.se CNAME .
+xn--bstacasinoutanbankid-bzb.se CNAME .
+*.xn--bstacasinoutanbankid-bzb.se CNAME .
+xn--casino-bonus-utan-omsttningskrav-5yc.se CNAME .
+*.xn--casino-bonus-utan-omsttningskrav-5yc.se CNAME .
 xn--casinoerbjudandenutaninsttning-jtc.se CNAME .
 *.xn--casinoerbjudandenutaninsttning-jtc.se CNAME .
 xn--online-casino-utan-omsttningskrav-11c.se CNAME .
 *.xn--online-casino-utan-omsttningskrav-11c.se CNAME .
 xn--stjrncasino-n8a.se CNAME .
 *.xn--stjrncasino-n8a.se CNAME .
+xxxtremelightningroulette.se CNAME .
+*.xxxtremelightningroulette.se CNAME .
 8xbet.services CNAME .
 *.8xbet.services CNAME .
 rikvip.services CNAME .
@@ -107597,8 +107635,6 @@ slotgacor.tools CNAME .
 *.1xbet-jri.top CNAME .
 1xbet-jrj.top CNAME .
 *.1xbet-jrj.top CNAME .
-1xbet-jrt.top CNAME .
-*.1xbet-jrt.top CNAME .
 1xbet-jsh.top CNAME .
 *.1xbet-jsh.top CNAME .
 1xbet-jsqo.top CNAME .
@@ -107711,8 +107747,6 @@ slotgacor.tools CNAME .
 *.1xbet-kcq.top CNAME .
 1xbet-kcv.top CNAME .
 *.1xbet-kcv.top CNAME .
-1xbet-kdg.top CNAME .
-*.1xbet-kdg.top CNAME .
 1xbet-kdw.top CNAME .
 *.1xbet-kdw.top CNAME .
 1xbet-kec.top CNAME .
@@ -107745,8 +107779,6 @@ slotgacor.tools CNAME .
 *.1xbet-kgm.top CNAME .
 1xbet-kha.top CNAME .
 *.1xbet-kha.top CNAME .
-1xbet-khh.top CNAME .
-*.1xbet-khh.top CNAME .
 1xbet-khk.top CNAME .
 *.1xbet-khk.top CNAME .
 1xbet-kia.top CNAME .
@@ -107765,10 +107797,6 @@ slotgacor.tools CNAME .
 *.1xbet-kjr.top CNAME .
 1xbet-kjx.top CNAME .
 *.1xbet-kjx.top CNAME .
-1xbet-kka.top CNAME .
-*.1xbet-kka.top CNAME .
-1xbet-kkl.top CNAME .
-*.1xbet-kkl.top CNAME .
 1xbet-kkp.top CNAME .
 *.1xbet-kkp.top CNAME .
 1xbet-kla.top CNAME .
@@ -107787,8 +107815,6 @@ slotgacor.tools CNAME .
 *.1xbet-kmo.top CNAME .
 1xbet-kmu.top CNAME .
 *.1xbet-kmu.top CNAME .
-1xbet-knc.top CNAME .
-*.1xbet-knc.top CNAME .
 1xbet-knd.top CNAME .
 *.1xbet-knd.top CNAME .
 1xbet-knn.top CNAME .
@@ -107973,8 +107999,6 @@ slotgacor.tools CNAME .
 *.1xbet-lcf.top CNAME .
 1xbet-lch.top CNAME .
 *.1xbet-lch.top CNAME .
-1xbet-lck.top CNAME .
-*.1xbet-lck.top CNAME .
 1xbet-lcl.top CNAME .
 *.1xbet-lcl.top CNAME .
 1xbet-lcn.top CNAME .
@@ -108065,8 +108089,6 @@ slotgacor.tools CNAME .
 *.1xbet-ljt.top CNAME .
 1xbet-lk2.top CNAME .
 *.1xbet-lk2.top CNAME .
-1xbet-lka.top CNAME .
-*.1xbet-lka.top CNAME .
 1xbet-lke.top CNAME .
 *.1xbet-lke.top CNAME .
 1xbet-lkq.top CNAME .
@@ -108837,8 +108859,6 @@ slotgacor.tools CNAME .
 *.1xbet-official-site-ggg.top CNAME .
 1xbet-official-site8s.top CNAME .
 *.1xbet-official-site8s.top CNAME .
-1xbet-officiall1.top CNAME .
-*.1xbet-officiall1.top CNAME .
 1xbet-officiall2.top CNAME .
 *.1xbet-officiall2.top CNAME .
 1xbet-officiall3.top CNAME .
@@ -124475,8 +124495,6 @@ hype-casino8.xyz CNAME .
 *.hype-casino8.xyz CNAME .
 hype-casino878.xyz CNAME .
 *.hype-casino878.xyz CNAME .
-ibet899mntb.xyz CNAME .
-*.ibet899mntb.xyz CNAME .
 ibukota303.xyz CNAME .
 *.ibukota303.xyz CNAME .
 ibukota303a.xyz CNAME .

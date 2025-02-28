@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 27 Feb 2025 11:50 UTC
-# Version: 2025.0227.1150.33
+# Last modified: 27 Feb 2025 23:54 UTC
+# Version: 2025.0227.2354.08
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10647
+# Number of entries: 10650
 #
 local=/01crypto.com/
 local=/1-stud.net/
@@ -24,6 +24,7 @@ local=/1rx-pharmacy.com/
 local=/1ticketmarket.com/
 local=/200pills.com/
 local=/eoutlet.2022factorysale.ru/
+local=/zpb.2023bp.top/
 local=/2024shopping.ru/
 local=/20mg-tadalafil-cheapest-price.com/
 local=/24-modellstore.com/
@@ -460,7 +461,6 @@ local=/apharmacie.com/
 local=/apkwell.com/
 local=/aplschuhe.com/
 local=/apo-rezeptfrei.com/
-local=/apoamerbach.com/
 local=/apotek-no24.com/
 local=/apotek-norge24.com/
 local=/apoteket.to/
@@ -4874,7 +4874,6 @@ local=/ix-consulting.de/
 local=/ixora-offers.com/
 local=/ixxen.com/
 local=/izalewis.com/
-local=/j-store-online.shop/
 local=/jacadistore.com/
 local=/jackenjackets.de/
 local=/jackenpascher.com/
@@ -7519,6 +7518,7 @@ local=/pumadeutschland.de/
 local=/pumafi.com/
 local=/pumpeprada.com/
 local=/punkrave.ch/
+local=/puotsovf.com/
 local=/puppenhauser.com/
 local=/puppyrope.shop/
 local=/fr.puprime.net/
@@ -8254,6 +8254,7 @@ local=/selfsnug.com/
 local=/sellano.de/
 local=/sellercenter.shop/
 local=/sellerusapparel.com/
+local=/sellgfvs.best/
 local=/sellhqvs.best/
 local=/sellingkitchen.com/
 local=/sellodoov.pics/
@@ -8294,6 +8295,7 @@ local=/sevenhorizonsde.shop/
 local=/seveninter.com/
 local=/sfswimheaven.com/
 local=/sfzev.de/
+local=/bvz.sgesn.top/
 local=/sgpill.com/
 local=/shaftcoins.com/
 local=/shapecertain.com/
@@ -10534,6 +10536,7 @@ local=/de.xynapay.com/
 local=/yahalom.de/
 local=/yakshart.com/
 local=/yali24.de/
+local=/yaloveomk.shop/
 local=/yangzhi.de/
 local=/yarnoas.de/
 local=/yashautomation.com/
