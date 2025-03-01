@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 27 Feb 2025 15:45 UTC
-# Version: 2025.0227.1545.52
+# Last modified: 28 Feb 2025 23:38 UTC
+# Version: 2025.0228.2338.28
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1660
+# Number of entries: 1661
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -842,7 +842,6 @@
 0.0.0.0 www.inpssh.online
 0.0.0.0 qlf-doh.inria.fr
 0.0.0.0 dns.interhub.cc
-0.0.0.0 ipoac.nl
 0.0.0.0 dns1.irumatech.com
 0.0.0.0 dns.is0mino.com
 0.0.0.0 mickedi.isgood.host
@@ -1225,6 +1224,7 @@
 0.0.0.0 dns.uk-london-1.oraclecloud.com
 0.0.0.0 dns.us-ashburn-1.oraclecloud.com
 0.0.0.0 dns.us-phoenix-1.oraclecloud.com
+0.0.0.0 resolver.dnsprivacy.org.uk
 0.0.0.0 dns.oryxlabs.com
 0.0.0.0 dns.oszx.co
 0.0.0.0 dns.ours.luxe
@@ -1299,6 +1299,7 @@
 0.0.0.0 lindung.pp.ua
 0.0.0.0 sundalandia.pp.ua
 0.0.0.0 virga.pp.ua
+0.0.0.0 zxcvb.pp.ua
 0.0.0.0 dns.pragmasec.nl
 0.0.0.0 dns2.prima-solusindo.com
 0.0.0.0 dns.princex.net

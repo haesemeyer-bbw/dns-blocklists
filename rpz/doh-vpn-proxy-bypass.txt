@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1740671220 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1740785820 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 27 Feb 2025 15:47 UTC
-; Version: 2025.0227.1547.06
+; Last modified: 28 Feb 2025 23:37 UTC
+; Version: 2025.0228.2337.09
 ; Syntax: RPZ
-; Number of entries: 7542
+; Number of entries: 7544
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -5686,8 +5686,6 @@ gratisproxy.nl CNAME .
 *.gratisproxy.nl CNAME .
 ikhebdorst.nl CNAME .
 *.ikhebdorst.nl CNAME .
-ipoac.nl CNAME .
-*.ipoac.nl CNAME .
 doh.jeroenhd.nl CNAME .
 *.doh.jeroenhd.nl CNAME .
 dns.joey01245.nl CNAME .
@@ -7018,6 +7016,8 @@ sundalandia.pp.ua CNAME .
 *.sundalandia.pp.ua CNAME .
 virga.pp.ua CNAME .
 *.virga.pp.ua CNAME .
+zxcvb.pp.ua CNAME .
+*.zxcvb.pp.ua CNAME .
 binhexsolutions.co.uk CNAME .
 *.binhexsolutions.co.uk CNAME .
 clearvpn.co.uk CNAME .
@@ -7070,6 +7070,8 @@ www-pa.linkall.uk CNAME .
 *.www-pa.linkall.uk CNAME .
 dns.aa.net.uk CNAME .
 *.dns.aa.net.uk CNAME .
+resolver.dnsprivacy.org.uk CNAME .
+*.resolver.dnsprivacy.org.uk CNAME .
 princez.uk CNAME .
 *.princez.uk CNAME .
 rifhchj.uk CNAME .

@@ -11110,13 +11110,6 @@
       }
     },
     {
-      "PK": "refurbished-us.shop",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "regentcoin.sa.com",
       "action": {
         "do": 0,
@@ -11601,13 +11594,6 @@
     },
     {
       "PK": "shoutpost.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "showrating.shop",
       "action": {
         "do": 0,
         "status": 1

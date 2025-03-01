@@ -78,6 +78,20 @@
       }
     },
     {
+      "PK": "adsdkpreprod.afd.azureedge.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "adsdkpreprod.azureedge.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "adsdkprod.afd.azureedge.net",
       "action": {
         "do": 0,
@@ -191,6 +205,13 @@
     },
     {
       "PK": "analyticsehnwe.servicebus.windows.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "analyticsiot-prod-simpad-ehn.servicebus.windows.net",
       "action": {
         "do": 0,
         "status": 1
