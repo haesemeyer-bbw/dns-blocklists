@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 27 Feb 2025 15:43 UTC
-# Version: 2025.0227.1543.25
+# Last modified: 02 Mar 2025 04:02 UTC
+# Version: 2025.0302.0402.39
 # Syntax: Domains (without subdomains)
-# Number of entries: 1404
+# Number of entries: 1406
 #
 0000000000000000000000.com
 0rg.us
@@ -683,6 +683,7 @@ imexsac.com
 imprendum.com
 in-the-band.net
 independentonline.ro
+inet2.org
 inflict.us
 info.gf
 info.tm
@@ -1329,6 +1330,7 @@ udp64.de
 ufcfan.org
 ufodns.com
 ugo.si
+uk.ms
 uk.to
 unibutton.com
 unitedhardwood.com

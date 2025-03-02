@@ -135,6 +135,7 @@ https://raw.githubusercontent.com/cchevy/macedonian-pi-hole-blocklist/master/hos
 https://raw.githubusercontent.com/chainapsis/phishing-block-list/refs/heads/main/block-list.txt
 https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt
 https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjxlist.txt
+https://raw.githubusercontent.com/clsfo/reflect4-domains/refs/heads/main/reflect4-domains.txt
 https://raw.githubusercontent.com/craiu/mobiletrackers/master/list.txt
 https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
 https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt

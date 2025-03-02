@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1740670860 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1740888000 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,8 +8,8 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 27 Feb 2025 15:41 UTC
-; Version: 2025.0227.1541.47
+; Last modified: 02 Mar 2025 04:00 UTC
+; Version: 2025.0302.0400.57
 ; Syntax: RPZ
 ; Number of entries: 19674
 ;
@@ -1569,8 +1569,6 @@ thouvenin.cloud CNAME .
 *.thouvenin.cloud CNAME .
 upvid.cloud CNAME .
 *.upvid.cloud CNAME .
-123netflix.club CNAME .
-*.123netflix.club CNAME .
 agentfilm.club CNAME .
 *.agentfilm.club CNAME .
 altadefinizione.club CNAME .
@@ -7031,6 +7029,8 @@ vidcloud1.com CNAME .
 *.vidcloud1.com CNAME .
 vidcloud9.com CNAME .
 *.vidcloud9.com CNAME .
+videocop.com CNAME .
+*.videocop.com CNAME .
 tracker.videodrugproject.com CNAME .
 *.tracker.videodrugproject.com CNAME .
 videoelephantbd.com CNAME .
@@ -8839,8 +8839,6 @@ altadefinizione01.immo CNAME .
 *.altadefinizione01.immo CNAME .
 cb01.immo CNAME .
 *.cb01.immo CNAME .
-1kino.in CNAME .
-*.1kino.in CNAME .
 altadefinizione01.in CNAME .
 *.altadefinizione01.in CNAME .
 animestream.in CNAME .
@@ -13471,8 +13469,6 @@ newalbumreleases.unblockit.onl CNAME .
 *.123movies.online CNAME .
 1jour1film.online CNAME .
 *.1jour1film.online CNAME .
-aboutbeautifulgallopinghorsesinthegreenpasture.online CNAME .
-*.aboutbeautifulgallopinghorsesinthegreenpasture.online CNAME .
 altadefinizione.online CNAME .
 *.altadefinizione.online CNAME .
 altadefinizione-originale.online CNAME .
@@ -13881,6 +13877,8 @@ crackdb.org CNAME .
 *.crackdb.org CNAME .
 cracked-games.org CNAME .
 *.cracked-games.org CNAME .
+crackedpc.org CNAME .
+*.crackedpc.org CNAME .
 crackhash.org CNAME .
 *.crackhash.org CNAME .
 crackzplanet.org CNAME .
@@ -16891,6 +16889,8 @@ torrentclub.space CNAME .
 *.torrentclub.space CNAME .
 unblockproject.space CNAME .
 *.unblockproject.space CNAME .
+tracker-zhuqiy.xn--1r3au8b.space CNAME .
+*.tracker-zhuqiy.xn--1r3au8b.space CNAME .
 123movies.st CNAME .
 *.123movies.st CNAME .
 1337x.st CNAME .

@@ -4,8 +4,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 27 Feb 2025 15:41 UTC
-# Version: 2025.0227.1541.47
+# Last modified: 02 Mar 2025 04:00 UTC
+# Version: 2025.0302.0400.57
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 9837
 #
@@ -132,7 +132,6 @@ local=/123movieswww.com/
 local=/123moviesx.tv/
 local=/123movietheater.com/
 local=/123myflixer.pro/
-local=/123netflix.club/
 local=/123putlocker.io/
 local=/123stream.la/
 local=/123tvnow.com/
@@ -168,7 +167,6 @@ local=/1gabba.pw/
 local=/1jour1film.online/
 local=/1jour1film.website/
 local=/1kif.com/
-local=/1kino.in/
 local=/1load.sx/
 local=/1movies.best/
 local=/1movies.is/
@@ -382,7 +380,6 @@ local=/abcvg.info/
 local=/abibd.com/
 local=/tr.abir.ga/
 local=/abnctg.net/
-local=/aboutbeautifulgallopinghorsesinthegreenpasture.online/
 local=/abrokegamer.com/
 local=/abtorrents.com/
 local=/tracker.aburaya.live/
@@ -2134,6 +2131,7 @@ local=/cracked-games.org/
 local=/crackedfully.com/
 local=/crackedme.com/
 local=/crackedmine.com/
+local=/crackedpc.org/
 local=/crackedreal.com/
 local=/crackedstream.tv/
 local=/crackedversion.com/
@@ -9136,6 +9134,7 @@ local=/vidcloud9.com/
 local=/vidclouds.icu/
 local=/vidembed.net/
 local=/videobin.co/
+local=/videocop.com/
 local=/tracker.videodrugproject.com/
 local=/videoelephantbd.com/
 local=/admin.videoenpoche.info/
@@ -9562,6 +9561,7 @@ local=/xmovies8.lol/
 local=/xmovies8.org/
 local=/xmovies8.ru/
 local=/xmovies8.si/
+local=/tracker-zhuqiy.xn--1r3au8b.space/
 local=/xn--80a4b.com/
 local=/xn--950bz4kqroyzjblb.com/
 local=/xn--firstrowsport-8xe.eu/

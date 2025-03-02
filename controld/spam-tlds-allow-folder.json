@@ -64,6 +64,13 @@
       }
     },
     {
+      "PK": "adidashardware.store",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "adistance.tk",
       "action": {
         "do": 1,
@@ -2648,6 +2655,13 @@
     },
     {
       "PK": "srv.rent",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "stan.store",
       "action": {
         "do": 1,
         "status": 1

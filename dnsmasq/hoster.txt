@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 28 Feb 2025 23:39 UTC
-# Version: 2025.0228.2339.42
+# Last modified: 02 Mar 2025 04:03 UTC
+# Version: 2025.0302.0403.53
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 2108
+# Number of entries: 2105
 #
 local=/000a.de/
 local=/000space.com/
@@ -47,7 +47,6 @@ local=/0fees.us/
 local=/0hna.com/
 local=/one4u.0lx.net/
 local=/0me.com/
-local=/0pe.kr/
 local=/0pi.com/
 local=/1.vg/
 local=/10001mb.com/
@@ -1500,7 +1499,6 @@ local=/orderedlinks.shop/
 local=/24.org.es/
 local=/orgfree.com/
 local=/orgsites.com/
-local=/osa-jp.shop/
 local=/osc.pl/
 local=/ourcodeblog.com/
 local=/outoverall.shop/
@@ -1512,7 +1510,6 @@ local=/over-blog.org/
 local=/overblog.com/
 local=/overblog.net/
 local=/own-free-website.com/
-local=/ozaki-jp.shop/
 local=/ozq.de/
 local=/p.gp/
 local=/p2a.pl/
