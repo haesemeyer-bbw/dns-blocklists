@@ -1,5 +1,9 @@
 # Unblocking for relaxed, balanced and aggressive (pro++) lists only
 
+# https://github.com/hagezi/dns-blocklists/issues/5393
+log.tailscale.io
+log.tailscale.com
+
 # https://github.com/hagezi/dns-blocklists/issues/5252
 v10c.events.data.microsoft.com
 *-v10c.events.data.microsoft.com

@@ -6,10 +6,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 28 Feb 2025 23:38 UTC
-! Version: 2025.0228.2338.28
+! Last modified: 03 Mar 2025 03:49 UTC
+! Version: 2025.0303.0349.37
 ! Syntax: AdBlock
-! Number of entries: 1492
+! Number of entries: 1488
 !
 ||003153.xyz^
 ||ns.00dani.me^
@@ -216,9 +216,7 @@
 ||callies-online.site^
 ||2.dnscrypt-cert.captnemo.in^
 ||doh.captnemo.in^
-||console.carestyle.org^
 ||dns.carson-family.com^
-||dns.carter.me^
 ||dns.caspervk.net^
 ||catchen121299.top^
 ||catdns.org^
@@ -368,7 +366,6 @@
 ||dns.dns-53.us^
 ||dns1.dns-ga.de^
 ||dns2.dns-ga.de^
-||dns3.dns-ga.de^
 ||doh.dns-ga.de^
 ||secure-dns.dns-ga.de^
 ||dns.dns-over-https.com^
@@ -895,7 +892,6 @@
 ||netcup.mismat.ch^
 ||doh.mmmalia.com^
 ||dns.mnet-online.de^
-||mnrv.trade^
 ||dns.mo0on15.com^
 ||moamao.shop^
 ||dnstls.mobik.com^

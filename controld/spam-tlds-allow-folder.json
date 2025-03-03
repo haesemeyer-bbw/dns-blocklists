@@ -2045,6 +2045,13 @@
       }
     },
     {
+      "PK": "optimizer.solar",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "osrs.wiki",
       "action": {
         "do": 1,

@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 02 Mar 2025 04:06 UTC
-# Version: 2025.0302.0406.19
+# Last modified: 03 Mar 2025 03:50 UTC
+# Version: 2025.0303.0350.52
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3843
+# Number of entries: 3845
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -353,7 +353,6 @@ local=/dns.belnet.be/
 local=/dns.bermeitinger.eu/
 local=/bestaitool.news/
 local=/bestfreevpn.com/
-local=/bestmod.site/
 local=/bestproxy.xyz/
 local=/bestssh.net/
 local=/bestukvpn.com/
@@ -401,7 +400,6 @@ local=/dot-de.blahdns.com/
 local=/dot-fi.blahdns.com/
 local=/dot-jp.blahdns.com/
 local=/dot-sg.blahdns.com/
-local=/blahn.space/
 local=/dns.blaumer.dev/
 local=/blewpass.com/
 local=/us1.blissdns.net/
@@ -473,7 +471,6 @@ local=/dns.busold.ws/
 local=/dns.butterfly87.sbs/
 local=/bvpn.com/
 local=/byewall.com/
-local=/bypass.pw/
 local=/bypassable.com/
 local=/bypassed.wtf/
 local=/bypasser.us/
@@ -495,9 +492,7 @@ local=/2.dnscrypt-cert.captnemo.in/
 local=/doh.captnemo.in/
 local=/carebuzz.io/
 local=/careproxy.com/
-local=/console.carestyle.org/
 local=/dns.carson-family.com/
-local=/dns.carter.me/
 local=/casinovpn.com/
 local=/dns.caspervk.net/
 local=/catchen121299.top/
@@ -633,6 +628,7 @@ local=/us.doh.cloudveil.org/
 local=/dns.cmrg.net/
 local=/pope.cnblw.me/
 local=/doh.cnetwork.cloud/
+local=/10bestvpn.co.uk/
 local=/akashiro.co.id/
 local=/antidnsvpn.co.cc/
 local=/binhexsolutions.co.uk/
@@ -860,7 +856,6 @@ local=/dns.dns-53.uk/
 local=/dns.dns-53.us/
 local=/dns1.dns-ga.de/
 local=/dns2.dns-ga.de/
-local=/dns3.dns-ga.de/
 local=/doh.dns-ga.de/
 local=/secure-dns.dns-ga.de/
 local=/dns.dns-over-https.com/
@@ -1851,6 +1846,7 @@ local=/lopana.com/
 local=/n5.lsasss.com/
 local=/dns.lsho.top/
 local=/ltlxvxjjmvhn.me/
+local=/lucasmaia.org/
 local=/lukscasino-479-tr.xyz/
 local=/lukscasino-542-tr.xyz/
 local=/lukscasino-929-tr.xyz/
@@ -1949,7 +1945,6 @@ local=/netcup.mismat.ch/
 local=/mitmproxy.org/
 local=/doh.mmmalia.com/
 local=/dns.mnet-online.de/
-local=/mnrv.trade/
 local=/dns.mo0on15.com/
 local=/moamao.shop/
 local=/dnstls.mobik.com/
@@ -2198,9 +2193,16 @@ local=/vpn.nvidia.com/
 local=/nvpn.net/
 local=/nvpn.to/
 local=/ns.nwps.fi/
+local=/nym.com/
+local=/nym.community/
+local=/nym.dev/
+local=/nym.network/
+local=/nymtech.net/
 local=/qdns02.nymterm.com/
+local=/nymvpn.com/
 local=/5g.o0o.re/
 local=/o1.lt/
+local=/obscura.net/
 local=/oceanbrowser.co/
 local=/octohide.com/
 local=/octovpn.net/

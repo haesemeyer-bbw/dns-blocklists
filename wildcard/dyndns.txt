@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 02 Mar 2025 04:02 UTC
-# Version: 2025.0302.0402.39
+# Last modified: 03 Mar 2025 03:47 UTC
+# Version: 2025.0303.0347.09
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1406
+# Number of entries: 1404
 #
 *.0000000000000000000000.com
 *.0rg.us
@@ -683,7 +683,6 @@
 *.imprendum.com
 *.in-the-band.net
 *.independentonline.ro
-*.inet2.org
 *.inflict.us
 *.info.gf
 *.info.tm
@@ -1330,7 +1329,6 @@
 *.ufcfan.org
 *.ufodns.com
 *.ugo.si
-*.uk.ms
 *.uk.to
 *.unibutton.com
 *.unitedhardwood.com

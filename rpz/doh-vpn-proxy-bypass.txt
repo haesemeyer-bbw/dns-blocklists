@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1740888360 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1740973800 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 02 Mar 2025 04:06 UTC
-; Version: 2025.0302.0406.19
+; Last modified: 03 Mar 2025 03:50 UTC
+; Version: 2025.0303.0350.52
 ; Syntax: RPZ
-; Number of entries: 7686
+; Number of entries: 7690
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -1930,8 +1930,12 @@ dns.numerus.com CNAME .
 *.dns.numerus.com CNAME .
 vpn.nvidia.com CNAME .
 *.vpn.nvidia.com CNAME .
+nym.com CNAME .
+*.nym.com CNAME .
 qdns02.nymterm.com CNAME .
 *.qdns02.nymterm.com CNAME .
+nymvpn.com CNAME .
+*.nymvpn.com CNAME .
 octohide.com CNAME .
 *.octohide.com CNAME .
 dns.odinpl.com CNAME .
@@ -3158,6 +3162,8 @@ zoogvpn.com CNAME .
 *.zoogvpn.com CNAME .
 zwyr157wwiu6eior.com CNAME .
 *.zwyr157wwiu6eior.com CNAME .
+nym.community CNAME .
+*.nym.community CNAME .
 vpn-professional.company CNAME .
 *.vpn-professional.company CNAME .
 polisitogel.contractors CNAME .
@@ -3270,8 +3276,6 @@ dns1.dns-ga.de CNAME .
 *.dns1.dns-ga.de CNAME .
 dns2.dns-ga.de CNAME .
 *.dns2.dns-ga.de CNAME .
-dns3.dns-ga.de CNAME .
-*.dns3.dns-ga.de CNAME .
 doh.dns-ga.de CNAME .
 *.doh.dns-ga.de CNAME .
 secure-dns.dns-ga.de CNAME .
@@ -3452,6 +3456,8 @@ ngrok.dev CNAME .
 *.ngrok.dev CNAME .
 ngrok-free.dev CNAME .
 *.ngrok-free.dev CNAME .
+nym.dev CNAME .
+*.nym.dev CNAME .
 proxy.outred.dev CNAME .
 *.proxy.outred.dev CNAME .
 unblockit.pages.dev CNAME .
@@ -4572,8 +4578,6 @@ bluemood.me CNAME .
 *.bluemood.me CNAME .
 doh.boje8.me CNAME .
 *.doh.boje8.me CNAME .
-dns.carter.me CNAME .
-*.dns.carter.me CNAME .
 pope.cnblw.me CNAME .
 *.pope.cnblw.me CNAME .
 doh.cornes.me CNAME .
@@ -5386,6 +5390,10 @@ dns.nullgate.net CNAME .
 *.dns.nullgate.net CNAME .
 nvpn.net CNAME .
 *.nvpn.net CNAME .
+nymtech.net CNAME .
+*.nymtech.net CNAME .
+obscura.net CNAME .
+*.obscura.net CNAME .
 octovpn.net CNAME .
 *.octovpn.net CNAME .
 dns.ofdoom.net CNAME .
@@ -5730,6 +5738,8 @@ freedom.mydns.network CNAME .
 *.freedom.mydns.network CNAME .
 paranoia.mydns.network CNAME .
 *.paranoia.mydns.network CNAME .
+nym.network CNAME .
+*.nym.network CNAME .
 dns.pari.network CNAME .
 *.dns.pari.network CNAME .
 dns.unerror.network CNAME .
@@ -5964,8 +5974,6 @@ cantblockthis.org CNAME .
 *.cantblockthis.org CNAME .
 cantfindme.org CNAME .
 *.cantfindme.org CNAME .
-console.carestyle.org CNAME .
-*.console.carestyle.org CNAME .
 catdns.org CNAME .
 *.catdns.org CNAME .
 cfdjb.org CNAME .
@@ -6108,6 +6116,8 @@ doh.phdns4.lonet.org CNAME .
 *.doh.phdns4.lonet.org CNAME .
 doh.phdns5.lonet.org CNAME .
 *.doh.phdns5.lonet.org CNAME .
+lucasmaia.org CNAME .
+*.lucasmaia.org CNAME .
 mehide.org CNAME .
 *.mehide.org CNAME .
 dns.mikeliu.org CNAME .
@@ -6630,8 +6640,6 @@ doh.totoro.pub CNAME .
 *.doh.totoro.pub CNAME .
 bingle.pw CNAME .
 *.bingle.pw CNAME .
-bypass.pw CNAME .
-*.bypass.pw CNAME .
 proxy.eti.pw CNAME .
 *.proxy.eti.pw CNAME .
 freevpn.pw CNAME .
@@ -6838,8 +6846,6 @@ adguard.marto.si CNAME .
 *.28383829.site CNAME .
 artclass.site CNAME .
 *.artclass.site CNAME .
-bestmod.site CNAME .
-*.bestmod.site CNAME .
 booomblaastfs.site CNAME .
 *.booomblaastfs.site CNAME .
 callies-online.site CNAME .
@@ -6908,8 +6914,6 @@ unblocked.soy CNAME .
 *.unblocked.soy CNAME .
 dns.b33.space CNAME .
 *.dns.b33.space CNAME .
-blahn.space CNAME .
-*.blahn.space CNAME .
 cosmohacker.space CNAME .
 *.cosmohacker.space CNAME .
 edpuzzle.space CNAME .
@@ -7100,8 +7104,6 @@ agh.xinfeng16m.top CNAME .
 *.agh.xinfeng16m.top CNAME .
 zburger.top CNAME .
 *.zburger.top CNAME .
-mnrv.trade CNAME .
-*.mnrv.trade CNAME .
 unblocked.tube CNAME .
 *.unblocked.tube CNAME .
 doh.funtopia.tv CNAME .
@@ -7140,6 +7142,8 @@ virga.pp.ua CNAME .
 *.virga.pp.ua CNAME .
 zxcvb.pp.ua CNAME .
 *.zxcvb.pp.ua CNAME .
+10bestvpn.co.uk CNAME .
+*.10bestvpn.co.uk CNAME .
 binhexsolutions.co.uk CNAME .
 *.binhexsolutions.co.uk CNAME .
 clearvpn.co.uk CNAME .

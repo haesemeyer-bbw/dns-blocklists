@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 02 Mar 2025 04:02 UTC
-# Version: 2025.0302.0402.39
+# Last modified: 03 Mar 2025 03:47 UTC
+# Version: 2025.0303.0347.09
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1406
+# Number of entries: 1404
 #
 local=/0000000000000000000000.com/
 local=/0rg.us/
@@ -683,7 +683,6 @@ local=/imexsac.com/
 local=/imprendum.com/
 local=/in-the-band.net/
 local=/independentonline.ro/
-local=/inet2.org/
 local=/inflict.us/
 local=/info.gf/
 local=/info.tm/
@@ -1330,7 +1329,6 @@ local=/udp64.de/
 local=/ufcfan.org/
 local=/ufodns.com/
 local=/ugo.si/
-local=/uk.ms/
 local=/uk.to/
 local=/unibutton.com/
 local=/unitedhardwood.com/
