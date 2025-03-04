@@ -3171,6 +3171,13 @@
       }
     },
     {
+      "PK": "platformsh.site",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "platform.uno",
       "action": {
         "do": 1,

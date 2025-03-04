@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 04 Mar 2025 03:46 UTC
-# Version: 2025.0304.0346.28
+# Last modified: 04 Mar 2025 15:48 UTC
+# Version: 2025.0304.1548.54
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9762
+# Number of entries: 9750
 #
 local=/0123456789nonexistent.com/
 local=/0123movie.net/
@@ -4697,9 +4697,7 @@ local=/kickme.to/
 local=/tracker.0day.kiev.ua/
 local=/max2wwe.kilu.de/
 local=/kimanime.ru/
-local=/kimcartoon.li/
 local=/kimcartoon.si/
-local=/kimcartoon.to/
 local=/kimoitv.com/
 local=/kingdom-kvcd.net/
 local=/kingdom-leaks.com/
@@ -4736,7 +4734,6 @@ local=/kinokrad.fan/
 local=/kinokrad.film/
 local=/kinol.pl/
 local=/kinomall.ru/
-local=/kinomavic.com/
 local=/kinomax.to/
 local=/kinomisto.com/
 local=/kinomix.tv/
@@ -4953,12 +4950,9 @@ local=/limetorrent.xyz/
 local=/limetorrents.asia/
 local=/limetorrents.at/
 local=/limetorrents.buzz/
-local=/limetorrents.cc/
 local=/limetorrents.co/
-local=/limetorrents.info/
 local=/limetorrents.lol/
 local=/limetorrents.online/
-local=/limetorrents.pro/
 local=/limetorrents.so/
 local=/limetorrents.to/
 local=/limetorrents.xyz/
@@ -5059,12 +5053,10 @@ local=/lookmoviess.com/
 local=/lopatins.ru/
 local=/lordfilmhd.lol/
 local=/qg.lorzl.gq/
-local=/brokenhelix.loseyourip.com/
 local=/losmovies.app/
 local=/losmovies.com/
 local=/losmovies.fun/
 local=/losmovies.live/
-local=/losmovies.sh/
 local=/losmovies.us/
 local=/losmovies.ws/
 local=/lossless.cd/
@@ -5206,7 +5198,6 @@ local=/me-4u.com/
 local=/mechopirate.com/
 local=/medbit.ru/
 local=/media-sharing.com/
-local=/media-torrent.org/
 local=/mediaboom.org/
 local=/mediaboxbd.com/
 local=/mediaboxhd.net/
@@ -5285,7 +5276,6 @@ local=/mfilmeshd.com/
 local=/mflix.to/
 local=/tracker.mg64.net/
 local=/mgtracker.org/
-local=/miacho.org/
 local=/micro-win.com/
 local=/midiplex.net/
 local=/midnight-scene.com/
@@ -5392,7 +5382,6 @@ local=/tracker.monitorit4.me/
 local=/monkeystream.net/
 local=/monlive.info/
 local=/zephir.monocul.us/
-local=/ns1.monolithindustries.com/
 local=/mononoke-bt.org/
 local=/monoschinos.com/
 local=/monstream.co/
@@ -5537,7 +5526,6 @@ local=/moviewatcher.eu/
 local=/moviewatcher.is/
 local=/movieworld.to/
 local=/moviexk.biz/
-local=/moviezaddiction.click/
 local=/moviezone.ws/
 local=/moviful.com/
 local=/moviplus.net/

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1741059960 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1741103280 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 04 Mar 2025 03:46 UTC
-; Version: 2025.0304.0346.28
+; Last modified: 04 Mar 2025 15:48 UTC
+; Version: 2025.0304.1548.54
 ; Syntax: RPZ
-; Number of entries: 19524
+; Number of entries: 19500
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -1123,8 +1123,6 @@ laze.cc CNAME .
 *.laze.cc CNAME .
 limetorrent.cc CNAME .
 *.limetorrent.cc CNAME .
-limetorrents.cc CNAME .
-*.limetorrents.cc CNAME .
 limetorrentx.cc CNAME .
 *.limetorrentx.cc CNAME .
 tp.m-team.cc CNAME .
@@ -1479,8 +1477,6 @@ italia-film.click CNAME .
 *.italia-film.click CNAME .
 kinox.click CNAME .
 *.kinox.click CNAME .
-moviezaddiction.click CNAME .
-*.moviezaddiction.click CNAME .
 nextream.click CNAME .
 *.nextream.click CNAME .
 pirateproxy.click CNAME .
@@ -4597,8 +4593,6 @@ kinoger.com CNAME .
 *.kinoger.com CNAME .
 kinogo-ua.com CNAME .
 *.kinogo-ua.com CNAME .
-kinomavic.com CNAME .
-*.kinomavic.com CNAME .
 kinomisto.com CNAME .
 *.kinomisto.com CNAME .
 kinomob.com CNAME .
@@ -4745,8 +4739,6 @@ lookmovie.com CNAME .
 *.lookmovie.com CNAME .
 lookmoviess.com CNAME .
 *.lookmoviess.com CNAME .
-brokenhelix.loseyourip.com CNAME .
-*.brokenhelix.loseyourip.com CNAME .
 losmovies.com CNAME .
 *.losmovies.com CNAME .
 losslessclub.com CNAME .
@@ -4997,8 +4989,6 @@ mojblink.com CNAME .
 *.mojblink.com CNAME .
 mojobb.com CNAME .
 *.mojobb.com CNAME .
-ns1.monolithindustries.com CNAME .
-*.ns1.monolithindustries.com CNAME .
 monoschinos.com CNAME .
 *.monoschinos.com CNAME .
 mooslo.com CNAME .
@@ -9043,8 +9033,6 @@ legittorrents.info CNAME .
 *.legittorrents.info CNAME .
 lermangasonline.info CNAME .
 *.lermangasonline.info CNAME .
-limetorrents.info CNAME .
-*.limetorrents.info CNAME .
 lk21official.info CNAME .
 *.lk21official.info CNAME .
 m4ufree.info CNAME .
@@ -9829,8 +9817,6 @@ filmpertutti.li CNAME .
 *.filmpertutti.li CNAME .
 kat.li CNAME .
 *.kat.li CNAME .
-kimcartoon.li CNAME .
-*.kimcartoon.li CNAME .
 movieuniverse.li CNAME .
 *.movieuniverse.li CNAME .
 mp3.li CNAME .
@@ -14277,8 +14263,6 @@ mangadex.org CNAME .
 *.mangadex.org CNAME .
 mangamura.org CNAME .
 *.mangamura.org CNAME .
-media-torrent.org CNAME .
-*.media-torrent.org CNAME .
 mediaboom.org CNAME .
 *.mediaboom.org CNAME .
 meganova.org CNAME .
@@ -14299,8 +14283,6 @@ metalarea.org CNAME .
 *.metalarea.org CNAME .
 mgtracker.org CNAME .
 *.mgtracker.org CNAME .
-miacho.org CNAME .
-*.miacho.org CNAME .
 mindwarppavilion.org CNAME .
 *.mindwarppavilion.org CNAME .
 nipponsei.minglong.org CNAME .
@@ -15423,8 +15405,6 @@ kinoua.pro CNAME .
 *.kinoua.pro CNAME .
 limetor.pro CNAME .
 *.limetor.pro CNAME .
-limetorrents.pro CNAME .
-*.limetorrents.pro CNAME .
 live7.pro CNAME .
 *.live7.pro CNAME .
 tv2.lk21official.pro CNAME .
@@ -16441,8 +16421,6 @@ jeremylee.sh CNAME .
 *.jeremylee.sh CNAME .
 kinox.sh CNAME .
 *.kinox.sh CNAME .
-losmovies.sh CNAME .
-*.losmovies.sh CNAME .
 mexa.sh CNAME .
 *.mexa.sh CNAME .
 warezz.now.sh CNAME .
@@ -17269,8 +17247,6 @@ kickass.to CNAME .
 *.kickass.to CNAME .
 kickme.to CNAME .
 *.kickme.to CNAME .
-kimcartoon.to CNAME .
-*.kimcartoon.to CNAME .
 kinomax.to CNAME .
 *.kinomax.to CNAME .
 kinos.to CNAME .

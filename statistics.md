@@ -17,7 +17,7 @@
   7 |     100% |   0% |      0% | Native Tracker LG webOS
   8 |      18% |   0% |     82% | Native Tracker TikTok (Fingerprinting)
   9 |      31% |   0% |     69% | Native Tracker Microsoft (Windows, Office, MSN)
- 10 |      69% |  12% |     19% | Denylist Base
+ 10 |      70% |  12% |     18% | Denylist Base
  11 |      99% |   0% |      1% | Basic Extension
  12 |      88% |   8% |      4% | Denylist Community non-Aggressive
  13 |      86% |   7% |      7% | AdGuard FirstParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads)
@@ -58,13 +58,13 @@
  22 |      94% |   4% |      2% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
  23 |      84% |   7% |      9% | Advanced Extension
  24 |      73% |  25% |      2% | Denylist Community Threat Intelligence Feeds
- 25 |      65% |  22% |     13% | Denylist Community Advanced
+ 25 |      62% |  25% |     13% | Denylist Community Advanced
 ```
 #### PRO.PLUS
 ```
  Nr | Included | Dead | Removed | URL/File
   1 |     100% |   0% |      0% | Predecessor: Multi Pro
-  2 |      78% |  17% |      5% | Denylist Personal
+  2 |      77% |  18% |      5% | Denylist Personal
   3 |      89% |   3% |      8% | Extracted Wildcard Rules
   4 |      60% |   0% |     40% | Native Tracker Apple (iOS, macOS, tvOS)
   5 |      98% |   0% |      2% | Native Tracker Amazon (Devices, Shopping, Video)
@@ -85,18 +85,18 @@
  20 |      95% |   4% |      1% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
  21 |      85% |   7% |      8% | Advanced Extension
  22 |      73% |  25% |      2% | Denylist Community Threat Intelligence Feeds
- 23 |      68% |  22% |     10% | Denylist Community Advanced
+ 23 |      65% |  25% |     10% | Denylist Community Advanced
  24 |      80% |  13% |      7% | EasyList MultiParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
  25 |     100% |   0% |      0% | Pop-Up Ads
  26 |      82% |   0% |     18% | Native Tracker TikTok Extended (Fingerprinting)
- 27 |      84% |   8% |      8% | Aggressive Extension
+ 27 |      85% |   8% |      7% | Aggressive Extension
  28 |     100% |   0% |      0% | Denylist Community Aggressive
 ```
 #### ULTIMATE
 ```
  Nr | Included | Dead | Removed | URL/File
   1 |     100% |   0% |      0% | Predecessor: Multi Pro++
-  2 |      79% |  17% |      4% | Denylist Personal
+  2 |      78% |  18% |      4% | Denylist Personal
   3 |      89% |   3% |      8% | Extracted Wildcard Rules
   4 |     100% |   0% |      0% | Native Tracker Apple (iOS, macOS, tvOS)
   5 |     100% |   0% |      0% | Native Tracker Amazon (Devices, Shopping, Video)
@@ -117,7 +117,7 @@
  20 |      95% |   4% |      1% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
  21 |      86% |   7% |      7% | Advanced Extension
  22 |      73% |  25% |      2% | Denylist Community Threat Intelligence Feeds
- 23 |      68% |  22% |     10% | Denylist Community Advanced
+ 23 |      65% |  25% |     10% | Denylist Community Advanced
  24 |      80% |  13% |      7% | EasyList MultiParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
  25 |     100% |   0% |      0% | Pop-Up Ads
  26 |     100% |   0% |      0% | Native Tracker TikTok Extended (Fingerprinting)

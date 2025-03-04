@@ -44,6 +44,7 @@ https://github.com/Cisco-Talos/IOCs
 https://github.com/criminalip/Daily-Mal-Phishing/archive/refs/heads/main.zip
 https://github.com/drsdavidsoft/additional-hosts/raw/master/domains/blacklist/adservers-and-trackers.txt
 https://github.com/drsdavidsoft/additional-hosts/raw/master/domains/blacklist/unwanted-iranian.txt
+https://github.com/duckduckgo/tracker-blocklists
 https://gitlab.com/quidsup/notrack-annoyance-blocklist/-/raw/master/notrack-annoyance.txt
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
