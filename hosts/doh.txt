@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 03 Mar 2025 03:49 UTC
-# Version: 2025.0303.0349.37
+# Last modified: 04 Mar 2025 03:50 UTC
+# Version: 2025.0304.0350.38
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1657
+# Number of entries: 1658
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -747,7 +747,6 @@
 0.0.0.0 dns.api.staging.globuscs.info
 0.0.0.0 dns.api.test.globuscs.info
 0.0.0.0 agh.gloom.nexus
-0.0.0.0 dns.glorydns.com
 0.0.0.0 dns.gnb09.id
 0.0.0.0 privacydns.go6lab.si
 0.0.0.0 dns.goldplate.org
@@ -839,6 +838,7 @@
 0.0.0.0 www.inpssh.online
 0.0.0.0 qlf-doh.inria.fr
 0.0.0.0 dns.interhub.cc
+0.0.0.0 dns.invisv.com
 0.0.0.0 dns1.irumatech.com
 0.0.0.0 dns.is0mino.com
 0.0.0.0 mickedi.isgood.host
@@ -1012,6 +1012,7 @@
 0.0.0.0 netcup.mismat.ch
 0.0.0.0 doh.mmmalia.com
 0.0.0.0 dns.mnet-online.de
+0.0.0.0 mnrv.trade
 0.0.0.0 dns.mo0on15.com
 0.0.0.0 moamao.shop
 0.0.0.0 dnstls.mobik.com

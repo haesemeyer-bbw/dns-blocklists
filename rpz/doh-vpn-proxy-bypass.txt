@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1740973800 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1741060260 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 03 Mar 2025 03:50 UTC
-; Version: 2025.0303.0350.52
+; Last modified: 04 Mar 2025 03:51 UTC
+; Version: 2025.0304.0351.53
 ; Syntax: RPZ
-; Number of entries: 7690
+; Number of entries: 7704
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -610,6 +610,8 @@ dns.13evl.com CNAME .
 *.16yd.com CNAME .
 1banproxy.com CNAME .
 *.1banproxy.com CNAME .
+1clickvpn.com CNAME .
+*.1clickvpn.com CNAME .
 233py.com CNAME .
 *.233py.com CNAME .
 24tunnel.com CNAME .
@@ -702,6 +704,8 @@ httpdns-sc.aliyuncs.com CNAME .
 *.httpdns-sc.aliyuncs.com CNAME .
 allunblocked.com CNAME .
 *.allunblocked.com CNAME .
+alohabrowser.com CNAME .
+*.alohabrowser.com CNAME .
 dns.alvosec.com CNAME .
 *.dns.alvosec.com CNAME .
 alwaysvpn.com CNAME .
@@ -1216,6 +1220,8 @@ enrollkirgo.com CNAME .
 *.enrollkirgo.com CNAME .
 dns.enzonix.com CNAME .
 *.dns.enzonix.com CNAME .
+eonvpn.com CNAME .
+*.eonvpn.com CNAME .
 epicbrowser.com CNAME .
 *.epicbrowser.com CNAME .
 ettego.com CNAME .
@@ -1284,6 +1290,8 @@ rf4.forestberrypi.com CNAME .
 *.rf4.forestberrypi.com CNAME .
 www-rf4.forestberrypi.com CNAME .
 *.www-rf4.forestberrypi.com CNAME .
+forestvpn.com CNAME .
+*.forestvpn.com CNAME .
 forwardproxie.com CNAME .
 *.forwardproxie.com CNAME .
 free-proxy.com CNAME .
@@ -1396,6 +1404,8 @@ getxvpn.com CNAME .
 *.getxvpn.com CNAME .
 gfwvpn.com CNAME .
 *.gfwvpn.com CNAME .
+ghostbrowser.com CNAME .
+*.ghostbrowser.com CNAME .
 ghostpath.com CNAME .
 *.ghostpath.com CNAME .
 gipvpn.com CNAME .
@@ -1410,8 +1420,6 @@ globalchatinc.com CNAME .
 *.globalchatinc.com CNAME .
 globaltrx.com CNAME .
 *.globaltrx.com CNAME .
-dns.glorydns.com CNAME .
-*.dns.glorydns.com CNAME .
 glype.com CNAME .
 *.glype.com CNAME .
 goaslen.com CNAME .
@@ -1590,8 +1598,6 @@ in-disguise.com CNAME .
 *.in-disguise.com CNAME .
 dns.inclusioproject.com CNAME .
 *.dns.inclusioproject.com CNAME .
-indialifes.com CNAME .
-*.indialifes.com CNAME .
 indo-ssh.com CNAME .
 *.indo-ssh.com CNAME .
 dns.indybanipal.com CNAME .
@@ -1614,6 +1620,8 @@ intervpn.com CNAME .
 *.intervpn.com CNAME .
 intl-alliance.com CNAME .
 *.intl-alliance.com CNAME .
+invisv.com CNAME .
+*.invisv.com CNAME .
 ipchanging.com CNAME .
 *.ipchanging.com CNAME .
 ipinator.com CNAME .
@@ -2168,6 +2176,8 @@ proxy-works.com CNAME .
 *.proxy-works.com CNAME .
 proxy-youtube.com CNAME .
 *.proxy-youtube.com CNAME .
+proxy0101.com CNAME .
+*.proxy0101.com CNAME .
 proxy2link.com CNAME .
 *.proxy2link.com CNAME .
 proxy2you.com CNAME .
@@ -3180,8 +3190,6 @@ vps.avc.cx CNAME .
 *.vps.avc.cx CNAME .
 freedom.cx CNAME .
 *.freedom.cx CNAME .
-helloworld.cx CNAME .
-*.helloworld.cx CNAME .
 ns3.cx CNAME .
 *.ns3.cx CNAME .
 polaris.cx CNAME .
@@ -6364,6 +6372,8 @@ dns.hotta.page CNAME .
 *.dns.hotta.page CNAME .
 proxysite.page CNAME .
 *.proxysite.page CNAME .
+www-proxy.sayed.page CNAME .
+*.www-proxy.sayed.page CNAME .
 theproxy.page CNAME .
 *.theproxy.page CNAME .
 boghag.party CNAME .
@@ -7104,6 +7114,8 @@ agh.xinfeng16m.top CNAME .
 *.agh.xinfeng16m.top CNAME .
 zburger.top CNAME .
 *.zburger.top CNAME .
+mnrv.trade CNAME .
+*.mnrv.trade CNAME .
 unblocked.tube CNAME .
 *.unblocked.tube CNAME .
 doh.funtopia.tv CNAME .
@@ -7566,6 +7578,8 @@ kx-97795-tr.xyz CNAME .
 *.kx-97795-tr.xyz CNAME .
 ledfordmiddleschool.xyz CNAME .
 *.ledfordmiddleschool.xyz CNAME .
+loubonde.xyz CNAME .
+*.loubonde.xyz CNAME .
 lukscasino-479-tr.xyz CNAME .
 *.lukscasino-479-tr.xyz CNAME .
 lukscasino-542-tr.xyz CNAME .

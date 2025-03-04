@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 03 Mar 2025 03:47 UTC
-# Version: 2025.0303.0347.09
+# Last modified: 04 Mar 2025 03:48 UTC
+# Version: 2025.0304.0348.07
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1404
+# Number of entries: 1403
 #
 local=/0000000000000000000000.com/
 local=/0rg.us/
@@ -591,7 +591,6 @@ local=/gotdns.com/
 local=/gotdns.org/
 local=/gotgeeks.com/
 local=/govt.hu/
-local=/gr8domain.biz/
 local=/gr8name.biz/
 local=/grandmasgossip.com/
 local=/green-heroes.com/

@@ -20,9 +20,9 @@
  10 |      69% |  12% |     19% | Denylist Base
  11 |      99% |   0% |      1% | Basic Extension
  12 |      88% |   8% |      4% | Denylist Community non-Aggressive
- 13 |      87% |   6% |      7% | AdGuard FirstParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads)
+ 13 |      86% |   7% |      7% | AdGuard FirstParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads)
  14 |      78% |  10% |     12% | EasyList FirstParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
- 15 |      96% |   3% |      1% | uBlock FirstParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
+ 15 |      95% |   4% |      1% | uBlock FirstParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
  16 |     100% |   0% |      0% | Native Tracker Vivo (EXPERIMENTAL)
  17 |      98% |   0% |      2% | Native Tracker OPPO/Realme (EXPERIMENTAL)
  18 |      93% |   0% |      7% | Native Tracker Xiaomi (Devices)
@@ -43,7 +43,7 @@
   7 |     100% |   0% |      0% | Native Tracker LG webOS
   8 |      83% |   0% |     17% | Native Tracker TikTok (Fingerprinting)
   9 |      62% |   0% |     38% | Native Tracker Microsoft (Windows, Office, MSN)
- 10 |      75% |  12% |     13% | Denylist Base
+ 10 |      74% |  13% |     13% | Denylist Base
  11 |     100% |   0% |      0% | Basic Extension
  12 |      89% |  10% |      1% | Denylist Community non-Aggressive
  13 |      81% |  10% |      9% | EasyList FirstParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
@@ -55,8 +55,8 @@
  19 |      61% |  35% |      4% | Analytics/Metrics Extension
  20 |      89% |  11% |      0% | Balanced Extension
  21 |      86% |   7% |      7% | AdGuard MultiParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads and Trackers)
- 22 |      95% |   3% |      2% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
- 23 |      85% |   6% |      9% | Advanced Extension
+ 22 |      94% |   4% |      2% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
+ 23 |      84% |   7% |      9% | Advanced Extension
  24 |      73% |  25% |      2% | Denylist Community Threat Intelligence Feeds
  25 |      65% |  22% |     13% | Denylist Community Advanced
 ```
@@ -71,7 +71,7 @@
   6 |     100% |   0% |      0% | Native Tracker Huawei (Devices)
   7 |     100% |   0% |      0% | Native Tracker LG webOS
   8 |      92% |   0% |      8% | Native Tracker Microsoft (Windows, Office, MSN)
-  9 |      86% |  12% |      2% | Denylist Base
+  9 |      85% |  13% |      2% | Denylist Base
  10 |     100% |   0% |      0% | Basic Extension
  11 |      90% |  10% |      0% | Denylist Community non-Aggressive
  12 |     100% |   0% |      0% | Native Tracker Vivo (EXPERIMENTAL)
@@ -82,8 +82,8 @@
  17 |      61% |  35% |      4% | Analytics/Metrics Extension
  18 |      89% |  11% |      0% | Balanced Extension
  19 |      88% |   7% |      5% | AdGuard MultiParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads and Trackers)
- 20 |      96% |   3% |      1% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
- 21 |      86% |   6% |      8% | Advanced Extension
+ 20 |      95% |   4% |      1% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
+ 21 |      85% |   7% |      8% | Advanced Extension
  22 |      73% |  25% |      2% | Denylist Community Threat Intelligence Feeds
  23 |      68% |  22% |     10% | Denylist Community Advanced
  24 |      80% |  13% |      7% | EasyList MultiParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
@@ -103,7 +103,7 @@
   6 |     100% |   0% |      0% | Native Tracker Huawei (Devices)
   7 |     100% |   0% |      0% | Native Tracker LG webOS
   8 |     100% |   0% |      0% | Native Tracker Microsoft (Windows, Office, MSN)
-  9 |      87% |  12% |      1% | Denylist Base
+  9 |      86% |  13% |      1% | Denylist Base
  10 |     100% |   0% |      0% | Basic Extension
  11 |      90% |  10% |      0% | Denylist Community non-Aggressive
  12 |     100% |   0% |      0% | Native Tracker Vivo (EXPERIMENTAL)
@@ -114,8 +114,8 @@
  17 |      64% |  35% |      1% | Analytics/Metrics Extension
  18 |      89% |  11% |      0% | Balanced Extension
  19 |      88% |   7% |      5% | AdGuard MultiParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads and Trackers)
- 20 |      96% |   3% |      1% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
- 21 |      87% |   6% |      7% | Advanced Extension
+ 20 |      95% |   4% |      1% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
+ 21 |      86% |   7% |      7% | Advanced Extension
  22 |      73% |  25% |      2% | Denylist Community Threat Intelligence Feeds
  23 |      68% |  22% |     10% | Denylist Community Advanced
  24 |      80% |  13% |      7% | EasyList MultiParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)

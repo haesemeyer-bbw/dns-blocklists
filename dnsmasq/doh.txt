@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 03 Mar 2025 03:49 UTC
-# Version: 2025.0303.0349.37
+# Last modified: 04 Mar 2025 03:50 UTC
+# Version: 2025.0304.0350.38
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1488
+# Number of entries: 1489
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -631,7 +631,6 @@ local=/dns.api.sandbox.globuscs.info/
 local=/dns.api.staging.globuscs.info/
 local=/dns.api.test.globuscs.info/
 local=/agh.gloom.nexus/
-local=/dns.glorydns.com/
 local=/dns.gnb09.id/
 local=/privacydns.go6lab.si/
 local=/dns.goldplate.org/
@@ -721,6 +720,7 @@ local=/doh.infracell.net/
 local=/inpssh.online/
 local=/qlf-doh.inria.fr/
 local=/dns.interhub.cc/
+local=/dns.invisv.com/
 local=/dns1.irumatech.com/
 local=/dns.is0mino.com/
 local=/mickedi.isgood.host/
@@ -891,6 +891,7 @@ local=/minilla.store/
 local=/netcup.mismat.ch/
 local=/doh.mmmalia.com/
 local=/dns.mnet-online.de/
+local=/mnrv.trade/
 local=/dns.mo0on15.com/
 local=/moamao.shop/
 local=/dnstls.mobik.com/
