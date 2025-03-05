@@ -9227,6 +9227,13 @@
       }
     },
     {
+      "PK": "mastertopforum.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "mastertopforum.org",
       "action": {
         "do": 0,
@@ -9592,13 +9599,6 @@
     },
     {
       "PK": "mybloglicious.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "myblogvoice.com",
       "action": {
         "do": 0,
         "status": 1

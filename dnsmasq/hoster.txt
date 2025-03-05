@@ -4,8 +4,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 04 Mar 2025 03:49 UTC
-# Version: 2025.0304.0349.21
+# Last modified: 05 Mar 2025 03:49 UTC
+# Version: 2025.0305.0349.45
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 2102
 #
@@ -1330,6 +1330,7 @@ local=/maminforum.com/
 local=/mapsweight.shop/
 local=/mashstaffing.com/
 local=/master.com/
+local=/mastertopforum.net/
 local=/mastertopforum.org/
 local=/mdkblog.com/
 local=/me.gp/
@@ -1387,7 +1388,6 @@ local=/mybb.social/
 local=/myblog.de/
 local=/myblog.it/
 local=/mybloglicious.com/
-local=/myblogvoice.com/
 local=/mybluehost.me/
 local=/mybluehostin.me/
 local=/mybuzzblog.com/

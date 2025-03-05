@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 04 Mar 2025 15:54 UTC
-# Version: 2025.0304.1554.15
+# Last modified: 05 Mar 2025 03:52 UTC
+# Version: 2025.0305.0352.17
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3850
+# Number of entries: 3845
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -1024,7 +1024,6 @@ local=/duapps.com/
 local=/duba.net/
 local=/home27.duckdns.org/
 local=/jurre-home.duckdns.org/
-local=/krtekvpn.duckdns.org/
 local=/osefcorp.duckdns.org/
 local=/punono.duckdns.org/
 local=/tuandns.duckdns.org/
@@ -1311,7 +1310,6 @@ local=/gamers-nor.com/
 local=/gamingssh.com/
 local=/dns.beta.gandi.net/
 local=/gatcha.org/
-local=/gclouddns.com/
 local=/gecko.fun/
 local=/geckovpn.xyz/
 local=/geekproxy.com/
@@ -2101,7 +2099,6 @@ local=/dns.netvpn.net/
 local=/cube.neubsi.at/
 local=/dns.neubsi.at/
 local=/dns.neutopia.org/
-local=/newads-cdn.com/
 local=/newipnow.com/
 local=/newshosting.com/
 local=/doh.luigi.nexific.it/
@@ -2118,7 +2115,6 @@ local=/ngrok.pizza/
 local=/ngrok.pro/
 local=/ngrok-free.app/
 local=/ngrok-free.dev/
-local=/ngsw1234.com/
 local=/dns.nguyendn.com/
 local=/dns.nhtsky.com/
 local=/d.niaox.com/
@@ -3273,7 +3269,6 @@ local=/dns.trust404.win/
 local=/trustedproxies.com/
 local=/truta.org/
 local=/dns.tryk.app/
-local=/adg.tshost.no/
 local=/doh.ibr.cs.tu-bs.de/
 local=/tubeprox.com/
 local=/tubeunblock.me/

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1741103280 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1741146360 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 04 Mar 2025 15:48 UTC
-; Version: 2025.0304.1548.54
+; Last modified: 05 Mar 2025 03:46 UTC
+; Version: 2025.0305.0346.54
 ; Syntax: RPZ
-; Number of entries: 19500
+; Number of entries: 19480
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -33,8 +33,6 @@ katmoviehd.ac CNAME .
 *.katmoviehd.ac CNAME .
 kissanime.ac CNAME .
 *.kissanime.ac CNAME .
-myflixer.ac CNAME .
-*.myflixer.ac CNAME .
 openloadmovies.ac CNAME .
 *.openloadmovies.ac CNAME .
 primewire.ac CNAME .
@@ -705,8 +703,6 @@ cb01.blog CNAME .
 *.cb01.blog CNAME .
 filmsenzalimiti.blog CNAME .
 *.filmsenzalimiti.blog CNAME .
-pelisplus.blog CNAME .
-*.pelisplus.blog CNAME .
 tantifilm.blog CNAME .
 *.tantifilm.blog CNAME .
 layarkaca21.blue CNAME .
@@ -1637,8 +1633,6 @@ piratetpb.club CNAME .
 *.piratetpb.club CNAME .
 playseries.club CNAME .
 *.playseries.club CNAME .
-pornomen.club CNAME .
-*.pornomen.club CNAME .
 tracker.ptsbao.club CNAME .
 *.tracker.ptsbao.club CNAME .
 putlocker-free.club CNAME .
@@ -5389,8 +5383,6 @@ openbittorrent.com CNAME .
 *.openbittorrent.com CNAME .
 tracker.openbtba.com CNAME .
 *.tracker.openbtba.com CNAME .
-openload-streamango.com CNAME .
-*.openload-streamango.com CNAME .
 openloadmov.com CNAME .
 *.openloadmov.com CNAME .
 openwebtorrent.com CNAME .
@@ -5543,8 +5535,6 @@ platinmods.com CNAME .
 *.platinmods.com CNAME .
 bt.play-skill.com CNAME .
 *.bt.play-skill.com CNAME .
-ip-booter-net.play3nvvip.com CNAME .
-*.ip-booter-net.play3nvvip.com CNAME .
 playary.com CNAME .
 *.playary.com CNAME .
 playhydrax.com CNAME .
@@ -12209,8 +12199,6 @@ neobd.net CNAME .
 *.neobd.net CNAME .
 netcomisp.net CNAME .
 *.netcomisp.net CNAME .
-network-stressing.net CNAME .
-*.network-stressing.net CNAME .
 networkstresser.net CNAME .
 *.networkstresser.net CNAME .
 new-line.net CNAME .
@@ -15419,8 +15407,6 @@ tracker.ncore.pro CNAME .
 *.tracker.ncore.pro CNAME .
 nicemoviezion.pro CNAME .
 *.nicemoviezion.pro CNAME .
-piratebay.pro CNAME .
-*.piratebay.pro CNAME .
 proxybay.pro CNAME .
 *.proxybay.pro CNAME .
 pseudo-flix.pro CNAME .
@@ -17315,8 +17301,6 @@ myauto.to CNAME .
 *.myauto.to CNAME .
 myflixer.to CNAME .
 *.myflixer.to CNAME .
-myflixertv.to CNAME .
-*.myflixertv.to CNAME .
 myflixerz.to CNAME .
 *.myflixerz.to CNAME .
 mykino.to CNAME .
@@ -17681,8 +17665,6 @@ eurostreaming.trade CNAME .
 *.eurostreaming.trade CNAME .
 ilgeniodellostreaming.trade CNAME .
 *.ilgeniodellostreaming.trade CNAME .
-h4.trakx.nibba.trade CNAME .
-*.h4.trakx.nibba.trade CNAME .
 cb01.training CNAME .
 *.cb01.training CNAME .
 guardaserie.training CNAME .
@@ -19499,8 +19481,6 @@ s926723.ha016.t.mydomain.zone CNAME .
 *.s926723.ha016.t.mydomain.zone CNAME .
 myflixer.zone CNAME .
 *.myflixer.zone CNAME .
-nulled.zone CNAME .
-*.nulled.zone CNAME .
 piratebay.zone CNAME .
 *.piratebay.zone CNAME .
 tantifilm.zone CNAME .

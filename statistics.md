@@ -2,14 +2,14 @@
 #### LIGHT
 ```
  Nr | Included | Dead | Removed | URL/File
-  1 |      75% |  17% |      8% | Denylist Personal
+  1 |      74% |  18% |      8% | Denylist Personal
   2 |      99% |   0% |      1% | Basic Extension
 ```
 #### MULTI
 ```
  Nr | Included | Dead | Removed | URL/File
   1 |     100% |   0% |      0% | Predecessor: Multi Light
-  2 |      75% |  17% |      8% | Denylist Personal
+  2 |      74% |  18% |      8% | Denylist Personal
   3 |      66% |   3% |     31% | Extracted Wildcard Rules
   4 |      46% |   0% |     54% | Native Tracker Apple (iOS, macOS, tvOS)
   5 |      61% |   0% |     39% | Native Tracker Amazon (Devices, Shopping, Video)
@@ -35,7 +35,7 @@
 ```
  Nr | Included | Dead | Removed | URL/File
   1 |     100% |   0% |      0% | Predecessor: Multi Normal
-  2 |      77% |  17% |      6% | Denylist Personal
+  2 |      76% |  18% |      6% | Denylist Personal
   3 |      87% |   3% |     10% | Extracted Wildcard Rules
   4 |      59% |   0% |     41% | Native Tracker Apple (iOS, macOS, tvOS)
   5 |      90% |   0% |     10% | Native Tracker Amazon (Devices, Shopping, Video)
@@ -89,7 +89,7 @@
  24 |      80% |  13% |      7% | EasyList MultiParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
  25 |     100% |   0% |      0% | Pop-Up Ads
  26 |      82% |   0% |     18% | Native Tracker TikTok Extended (Fingerprinting)
- 27 |      85% |   8% |      7% | Aggressive Extension
+ 27 |      84% |   9% |      7% | Aggressive Extension
  28 |     100% |   0% |      0% | Denylist Community Aggressive
 ```
 #### ULTIMATE
@@ -121,7 +121,7 @@
  24 |      80% |  13% |      7% | EasyList MultiParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
  25 |     100% |   0% |      0% | Pop-Up Ads
  26 |     100% |   0% |      0% | Native Tracker TikTok Extended (Fingerprinting)
- 27 |      85% |   8% |      7% | Aggressive Extension
+ 27 |      84% |   9% |      7% | Aggressive Extension
  28 |     100% |   0% |      0% | Denylist Community Aggressive
  29 |     100% |   0% |      0% | META Graph Tracker (Facebook, Instagram)
  30 |      91% |   6% |      3% | Ultimate Extension
