@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 05 Mar 2025 03:52 UTC
-# Version: 2025.0305.0352.17
+# Last modified: 06 Mar 2025 03:49 UTC
+# Version: 2025.0306.0349.32
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3845
+# Number of entries: 3841
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -1024,6 +1024,7 @@ local=/duapps.com/
 local=/duba.net/
 local=/home27.duckdns.org/
 local=/jurre-home.duckdns.org/
+local=/krtekvpn.duckdns.org/
 local=/osefcorp.duckdns.org/
 local=/punono.duckdns.org/
 local=/tuandns.duckdns.org/
@@ -1310,6 +1311,7 @@ local=/gamers-nor.com/
 local=/gamingssh.com/
 local=/dns.beta.gandi.net/
 local=/gatcha.org/
+local=/gclouddns.com/
 local=/gecko.fun/
 local=/geckovpn.xyz/
 local=/geekproxy.com/
@@ -2683,7 +2685,6 @@ local=/dog.dns.qwer.pw/
 local=/frog.dns.qwer.pw/
 local=/lion.dns.qwer.pw/
 local=/tiger.dns.qwer.pw/
-local=/www-web.r-2.top/
 local=/resolver.r0cket.net/
 local=/r1bnc.com/
 local=/resolve2.r9x.cc/
@@ -2741,7 +2742,6 @@ local=/newd.rezyro.com/
 local=/resolver.rferee.dev/
 local=/rhys1901.biz/
 local=/ricko.is/
-local=/rifhchj.uk/
 local=/dns.rin.sh/
 local=/ringvpn.com/
 local=/riseup.net/
@@ -2878,7 +2878,6 @@ local=/shalenkov.dev/
 local=/sharejav.com/
 local=/sharevpn.org/
 local=/dns.shareworx.net/
-local=/shaw2426.org/
 local=/shazamio.online/
 local=/dns.shecan.ir/
 local=/free.shecan.ir/
@@ -2939,7 +2938,6 @@ local=/smartdnsproxy.com/
 local=/dns.smartguard.io/
 local=/smartproxy.com/
 local=/smartydns.com/
-local=/snapxs.com/
 local=/snowproxy.com/
 local=/guard.sntrk.ru/
 local=/dove.soapclient.com/
@@ -3202,7 +3200,6 @@ local=/timetohide.me/
 local=/timmes.nl/
 local=/adb.timnichollsphotography.com/
 local=/timurpoyraz.com/
-local=/tinf0il.tech/
 local=/tinfoil-is-ass.xyz/
 local=/dns.tipsy.coffee/
 local=/titaniumnetwork.org/
@@ -3460,9 +3457,9 @@ local=/unblockyouku.com/
 local=/unblockyouku.org/
 local=/unblockyoutube.co/
 local=/unblockyoutube.video/
-local=/unblockyoutubeatschool.com/
 local=/unblockytproxy.com/
 local=/uncensoreddns.org/
+local=/underage-gambling.site/
 local=/undofilters.com/
 local=/dns.unerror.network/
 local=/ines.zfn.uni-bremen.de/
@@ -3521,7 +3518,6 @@ local=/utopianpal.com/
 local=/utube.cc/
 local=/utunnel.io/
 local=/uvpn.me/
-local=/uyureufasod.xyz/
 local=/dns.vaioswolke.xyz/
 local=/doh.valscosmos.com/
 local=/vanilcraft.ru/

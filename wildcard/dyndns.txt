@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 04 Mar 2025 03:48 UTC
-# Version: 2025.0304.0348.07
+# Last modified: 06 Mar 2025 03:45 UTC
+# Version: 2025.0306.0345.49
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1403
+# Number of entries: 1402
 #
 *.0000000000000000000000.com
 *.0rg.us
@@ -1287,7 +1287,6 @@
 *.techproddns.com
 *.tedfullwood.com
 *.tekkennetwork.com
-*.teleconomiser.com
 *.texasdollies.com
 *.tftpd.net
 *.thatip.com

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1741146720 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1741232940 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 05 Mar 2025 03:52 UTC
-; Version: 2025.0305.0352.17
+; Last modified: 06 Mar 2025 03:49 UTC
+; Version: 2025.0306.0349.32
 ; Syntax: RPZ
-; Number of entries: 7690
+; Number of entries: 7682
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -1364,6 +1364,8 @@ gamers-nor.com CNAME .
 *.gamers-nor.com CNAME .
 gamingssh.com CNAME .
 *.gamingssh.com CNAME .
+gclouddns.com CNAME .
+*.gclouddns.com CNAME .
 geekproxy.com CNAME .
 *.geekproxy.com CNAME .
 genmirror.com CNAME .
@@ -2436,8 +2438,6 @@ smartproxy.com CNAME .
 *.smartproxy.com CNAME .
 smartydns.com CNAME .
 *.smartydns.com CNAME .
-snapxs.com CNAME .
-*.snapxs.com CNAME .
 snowproxy.com CNAME .
 *.snowproxy.com CNAME .
 dove.soapclient.com CNAME .
@@ -2816,8 +2816,6 @@ unblockwebsites.com CNAME .
 *.unblockwebsites.com CNAME .
 unblockyouku.com CNAME .
 *.unblockyouku.com CNAME .
-unblockyoutubeatschool.com CNAME .
-*.unblockyoutubeatschool.com CNAME .
 unblockytproxy.com CNAME .
 *.unblockytproxy.com CNAME .
 undofilters.com CNAME .
@@ -5994,6 +5992,8 @@ home27.duckdns.org CNAME .
 *.home27.duckdns.org CNAME .
 jurre-home.duckdns.org CNAME .
 *.jurre-home.duckdns.org CNAME .
+krtekvpn.duckdns.org CNAME .
+*.krtekvpn.duckdns.org CNAME .
 osefcorp.duckdns.org CNAME .
 *.osefcorp.duckdns.org CNAME .
 punono.duckdns.org CNAME .
@@ -6202,8 +6202,6 @@ shadowsocks.org CNAME .
 *.shadowsocks.org CNAME .
 sharevpn.org CNAME .
 *.sharevpn.org CNAME .
-shaw2426.org CNAME .
-*.shaw2426.org CNAME .
 dns.silen.org CNAME .
 *.dns.silen.org CNAME .
 sitenable.org CNAME .
@@ -6890,6 +6888,8 @@ top-proxy.site CNAME .
 *.top-proxy.site CNAME .
 unblock2.site CNAME .
 *.unblock2.site CNAME .
+underage-gambling.site CNAME .
+*.underage-gambling.site CNAME .
 videoproxy.site CNAME .
 *.videoproxy.site CNAME .
 vpnproxy.site CNAME .
@@ -6988,8 +6988,6 @@ s4m.tech CNAME .
 *.s4m.tech CNAME .
 dns.startupstack.tech CNAME .
 *.dns.startupstack.tech CNAME .
-tinf0il.tech CNAME .
-*.tinf0il.tech CNAME .
 toppal.tech CNAME .
 *.toppal.tech CNAME .
 tuskythehusky.tech CNAME .
@@ -7082,8 +7080,6 @@ proxyserverlist24.top CNAME .
 *.proxyserverlist24.top CNAME .
 proxysite.top CNAME .
 *.proxysite.top CNAME .
-www-web.r-2.top CNAME .
-*.www-web.r-2.top CNAME .
 revelio.top CNAME .
 *.revelio.top CNAME .
 dns.rootlab.top CNAME .
@@ -7202,8 +7198,6 @@ resolver.dnsprivacy.org.uk CNAME .
 *.resolver.dnsprivacy.org.uk CNAME .
 princez.uk CNAME .
 *.princez.uk CNAME .
-rifhchj.uk CNAME .
-*.rifhchj.uk CNAME .
 unblockit.uno CNAME .
 *.unblockit.uno CNAME .
 2fastsurfer.us CNAME .
@@ -7666,8 +7660,6 @@ unblock2.xyz CNAME .
 *.unblock2.xyz CNAME .
 unblockedsite.xyz CNAME .
 *.unblockedsite.xyz CNAME .
-uyureufasod.xyz CNAME .
-*.uyureufasod.xyz CNAME .
 dns.vaioswolke.xyz CNAME .
 *.dns.vaioswolke.xyz CNAME .
 dns.vinnyp.xyz CNAME .

@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 05 Mar 2025 03:51 UTC
-# Version: 2025.0305.0351.01
+# Last modified: 06 Mar 2025 03:48 UTC
+# Version: 2025.0306.0348.17
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1655
+# Number of entries: 1657
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -632,6 +632,7 @@
 0.0.0.0 agh.dshubham.xyz
 0.0.0.0 home27.duckdns.org
 0.0.0.0 jurre-home.duckdns.org
+0.0.0.0 krtekvpn.duckdns.org
 0.0.0.0 osefcorp.duckdns.org
 0.0.0.0 punono.duckdns.org
 0.0.0.0 tuandns.duckdns.org
@@ -728,6 +729,7 @@
 0.0.0.0 dns.gamban.com
 0.0.0.0 adguard.gambini.org
 0.0.0.0 dns.beta.gandi.net
+0.0.0.0 gclouddns.com
 0.0.0.0 adg.geili.me
 0.0.0.0 geshido.vpn.geshido.ru
 0.0.0.0 getdnsapi.net

@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 04 Mar 2025 23:53 UTC
-# Version: 2025.0304.2353.12
+# Last modified: 05 Mar 2025 23:54 UTC
+# Version: 2025.0305.2354.57
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 10443
+# Number of entries: 10377
 #
 *.01crypto.com
 *.1-stud.net
@@ -4433,6 +4433,7 @@
 *.hotsalecosmetic.com
 *.hotsalemakeup.com
 *.hotstoreonline.com
+*.hottestfurniture.com
 *.housecleaningsale.com
 *.householdrefrigerator.com
 *.householdunique.com
@@ -7317,7 +7318,6 @@
 *.purexx-tech.de
 *.purprints.net
 *.apothekerezeptfrei-1.puzl.com
-*.pylonize-tech.de
 *.pyro-expression.com
 *.qehner.de
 *.qekug.de
@@ -7394,7 +7394,6 @@
 *.rabattsport.de
 *.rabattsportbekleidung.com
 *.rabattswix.de
-*.rabatttonies.com
 *.rabattwerkzeuge.com
 *.rabattzubehor.com
 *.rabbit-fitness.de
@@ -7419,7 +7418,6 @@
 *.radtourmitthule.de
 *.radtraum.com
 *.radtrikotoutlet.de
-*.raduniversum.com
 *.radzenter.com
 *.raealed.club
 *.raffaellaterni.com
@@ -7429,7 +7427,6 @@
 *.rahr-gesellschaft.de
 *.rainer-baumarkt.de
 *.rainer-wunderlich.shop
-*.rainsbarato.com
 *.raka24.de
 *.rakaa24.de
 *.ralf-peters.shop
@@ -7456,7 +7453,6 @@
 *.rbvsv.com
 *.rcarrowmax.com
 *.rcaxon.com
-*.rccarsmaverick.com
 *.rcelectronicsale.com
 *.rcfastrax.com
 *.rcflugzeugde.com
@@ -7527,7 +7523,6 @@
 *.reiterholz.de
 *.rekrutierungszentrum.com
 *.reli-lex.de
-*.remarcgarten.com
 *.remediesinstantstore.com
 *.remediesonlinestore.com
 *.remedyinternationalshop.com
@@ -7549,7 +7544,6 @@
 *.remoteworks.online
 *.remstone.eu
 *.renado.de
-*.renaissancepartners.org
 *.rengstl-transport.de
 *.rennradergravel.com
 *.rennraderprada.com
@@ -7593,8 +7587,6 @@
 *.revemotode.shop
 *.reviewpunt.nl
 *.revolutionfsl.com
-*.revolutionraceclothes.com
-*.revolutionraceinc.com
 *.revolutionraceshop.com
 *.revomarkt.com
 *.reyfinances.com
@@ -7614,7 +7606,6 @@
 *.ricasrucksack.com
 *.richardtea.eu
 *.richmondlx.com
-*.richwaystake.com
 *.riddingglovesprada.com
 *.rideessence.com
 *.ridesprint.com
@@ -7679,7 +7670,6 @@
 *.rohdeschuheschweiz.com
 *.rohrsanierungen24.de
 *.rohrverbinder24.shop
-*.roirepublic.co
 *.rojalshop.com
 *.rokianjas.online
 *.roleo.net
@@ -7701,7 +7691,6 @@
 *.ronovia.de
 *.rontis.de
 *.roolede.shop
-*.roomdecoraction.shop
 *.roominabox.shop
 *.rootsandwings.at
 *.ropepflege.de
@@ -7737,8 +7726,6 @@
 *.rubis-patrimoine.fr
 *.rudacom.com
 *.rueckwaertssuche.de
-*.rugsdynamic.com
-*.rugsedgy.com
 *.rugsfeizy.com
 *.ruhrmove.de
 *.runcloudshoe.com
@@ -7790,14 +7777,12 @@
 *.safir.com
 *.sagaenterprizes.com
 *.sagenverkauf.com
-*.sahin-herrmann.de
 *.saintjamesireland.com
 *.sakaziq.com
 *.sakerwerkzeuge.de
 *.sakimo.net
 *.sale-hawaii.com
 *.sale-homedecor.com
-*.sale-jewellery.com
 *.sale-pils.com
 *.salebackpacks.com
 *.saleballsports.com
@@ -7821,6 +7806,7 @@
 *.salelanawelpen.de
 *.salelighters.com
 *.salemaeet.pics
+*.salenewshop.com
 *.saleoutdoorgear.com
 *.salercsite.com
 *.salesceramic.com
@@ -7988,12 +7974,10 @@
 *.schuhehoka.de
 *.schuhepaulgreen.de
 *.schuhepromo.com
-*.schuhesalede.de
 *.schuhescarpa.de
 *.schuhewienshoponline.com
 *.schuhheld.com
 *.schuhschritte.com
-*.schuhschritte.de
 *.schuster-wien.at
 *.schwanhaus.de
 *.schwarzbrennholz.com
@@ -8016,7 +8000,6 @@
 *.sebagobruxelles.com
 *.sebagodeckshoesireland.com
 *.sebagoschoenen.com
-*.sebagoshoesgreece.com
 *.sebagozapatos.com
 *.sebastian-schmitz.shop
 *.sebastian-stenzel.de
@@ -8114,7 +8097,6 @@
 *.shirtsandpolosde.com
 *.shirtsrabatt.com
 *.shj-shipping.de
-*.shoe-designers.com
 *.shoe-onsale.com
 *.shoeaerosoles.com
 *.shoeathletics.com
@@ -8147,7 +8129,6 @@
 *.shop-pharmacie-france.net
 *.shop-retailer.com
 *.shop-toolbox.com
-*.shop-verano.com
 *.shop-volcom.com
 *.shopaa.eu
 *.shopalpineski.com
@@ -8220,7 +8201,6 @@
 *.shopwaxsales.com
 *.shopwesternhats.com
 *.shopwineoutlet.com
-*.shopzaroller.com
 *.shortpantssales.com
 *.shortsoff.com
 *.shotkins.com
@@ -8232,19 +8212,18 @@
 *.sia-coins.com
 *.siamring-tech.de
 *.sichersparen.com
+*.sidirennradschuhe.at
 *.siegert-handel.de
-*.siegfried-schirmer.shop
 *.sieker-versand.de
 *.sierke24.de
 *.sifs-finance.de
 *.silkstocking.de
 *.silverfleetcapital.pro
+*.simaholz.com
 *.simpledancing.com
 *.simplejuicing.net
-*.sinaotte.shop
 *.sinarbrand.com
 *.sinbadgift.com
-*.sinrises.shop
 *.oud.sint-janscollege.be
 *.siouxshoe.com
 *.sipsbyde.shop
@@ -8352,12 +8331,10 @@
 *.snowboardk2.de
 *.snowboardlowsp.com
 *.snowboardprofi.com
-*.snowboundskier.com
 *.snownew.com
 *.snowsportsboard.com
 *.snowsuitschic.com
 *.so-avangarde.shop
-*.so-hub.com
 *.soapandmore.shop
 *.societesibois.com
 *.sockestore.com
@@ -8372,7 +8349,6 @@
 *.software-onsale.com
 *.softwaredealz.shop
 *.sogevis.com
-*.sol-consult.net
 *.sol-staking.com
 *.solandis.com
 *.solanex.de
@@ -8407,7 +8383,6 @@
 *.solovairwien.at
 *.solution-capital.com
 *.solution-crypto.com
-*.solution-invest.com
 *.solution-pro.de
 *.solutioncrypto.com
 *.solventus-shop.de
@@ -8435,7 +8410,6 @@
 *.sp-offers-d.org
 *.space-tennis.com
 *.spacenewtools.com
-*.spanenewstoday.com
 *.spar-allianz.de
 *.spar-markt.de
 *.sparfuchs.shop
@@ -8454,7 +8428,6 @@
 *.speed-gaming.com
 *.speelgoed-outlet.com
 *.speichern-fahrrad.com
-*.speilzeugtoy.shop
 *.spena24.de
 *.sperry-deutschland.com
 *.sperrybootsschuhe.de
@@ -8463,7 +8436,6 @@
 *.spieldeckestore.com
 *.spielhaus.shop
 *.spieluniversum.com
-*.spielwaren-fisiu.de
 *.spielzeug-kaufen.net
 *.spielzeugeneu.de
 *.spielzeugneue.com
@@ -8501,6 +8473,7 @@
 *.sportschuheshop.com
 *.sportsfabrik.net
 *.sportsgolfsale.com
+*.sportsstore-us.com
 *.sportswearpaired.com
 *.spotdiamonds.com
 *.spotyfx.com
@@ -8513,13 +8486,11 @@
 *.sptlego.de
 *.spuitcoatings.com
 *.spyderde.shop
-*.spyderkids.com
 *.spydersale.de
 *.spyshop.at
 *.spyxe.de
 *.squarexchange.com
 *.squeezetoys.de
-*.sr-finanzen.com
 *.ssense.vip
 *.ssrbjc.org
 *.ssystrypers.com
@@ -8531,7 +8502,6 @@
 *.stamer-hofmann.de
 *.stammeskleidung.de
 *.stammholz-aus59.com
-*.stammholzenergie.com
 *.stammholzexperten.com
 *.stammholzlkwmarkt.com
 *.stampsetshop.com
@@ -8605,7 +8575,6 @@
 *.store-airplane.com
 *.store-awnings.com
 *.store-bonds.com
-*.store-boots.com
 *.store-cycle.com
 *.store-dvd.com
 *.store-farmranch.com
@@ -8731,7 +8700,6 @@
 *.sukehiro.com
 *.sultrydelights.com
 *.summer-island.de
-*.summervibes.de
 *.sun-market.eu
 *.sunbike-shop.com
 *.sunbike-shop.de
@@ -8743,7 +8711,6 @@
 *.sunny-kids.de
 *.sunnyboy-beardies.de
 *.sunnydesignshome.com
-*.sunrun-solar.de
 *.sunsavy.shop
 *.super-discount-farma.com
 *.super-pharm-fr.net
@@ -8858,12 +8825,12 @@
 *.syos-space.capital
 *.systv-racks.de
 *.sztuka-handel.de
-*.t7cafe.de
 *.tabernas-tech.de
 *.tableteonline.com
 *.tabletopdeo.de
 *.tablets-today.org
 *.tablets-world.com
+*.tabletsreaders.com
 *.tablewaredeal.com
 *.tabsshopnet.com
 *.tacocood.com
@@ -8891,7 +8858,6 @@
 *.talents-orbit.online
 *.talents-peak.com
 *.tamaravanhalen.com
-*.tamarisoutlet.com
 *.tangent-capital.pro
 *.tanjanoll.shop
 *.taotaopartsdirect.shop
@@ -8912,8 +8878,6 @@
 *.tbclacrosse.com
 *.tbdress.com
 *.tbyyf.com
-*.tc-elektro24.de
-*.tcb-balla.com
 *.tcgsonlineshop.com
 *.tchibode.shop
 *.tchiboutlets.shop
@@ -8926,7 +8890,6 @@
 *.teameffekt.de
 *.teamfrostjin.com
 *.teamlevelsix.com
-*.teampandafilms.com
 *.teamskisuitde.com
 *.tech-solutions.store
 *.techfield.de
@@ -9010,7 +8973,6 @@
 *.teva-polska.com
 *.tevaberlin.de
 *.tevafi.com
-*.tevaforhandler.com
 *.tevahelsinki.com
 *.tevassandalen.com
 *.tevassuomi.com
@@ -9118,7 +9080,6 @@
 *.thetennisgolf.com
 *.thetennishop.com
 *.thetmstockwellfund.com
-*.thetodayhome.com
 *.thetopsknife.com
 *.theunionprojede.shop
 *.theusoutdoor.com
@@ -9129,7 +9090,6 @@
 *.thmbrennholz.at
 *.thomas-electronic.shop
 *.thomascarolyn.com
-*.thor-financial-apps.space
 *.thorogooddeutschland.com
 *.thorogooddeutschland.de
 *.thorogoodfrance.com
@@ -9146,7 +9106,6 @@
 *.thule-transport.de
 *.thulemobil.de
 *.thuletour.de
-*.thursdayboots.ae
 *.thursdayboots.at
 *.thursdayboots.de
 *.thursdaybootsdeutschland.com
@@ -9168,9 +9127,7 @@
 *.timber-land.de
 *.timberland-schweiz.com
 *.timberlandhelsinki.com
-*.timberlandmontreal.net
 *.timberlandshoesuae.com
-*.timberlandsuomi.net
 *.timbuktours.de
 *.time4smokede.shop
 *.timebinary.com
@@ -9199,7 +9156,6 @@
 *.tkeesdeutschland.com
 *.tkeesdeutschland.de
 *.tkkfrms.net
-*.tkonline.shop
 *.tlapka.cz
 *.tlcsalesar.shop
 *.tlodus.de
@@ -9211,11 +9167,9 @@
 *.todo-para-embarcaciones.com
 *.togclothes.com
 *.togetherrxacces.com
-*.realgermany.tohesokshopping.com
 *.tohlers.de
 *.token-trust.ltd
 *.tollergarten.com
-*.tollfahrrad.com
 *.toluaholz.com
 *.tomacycle.eu
 *.tomakas.de
@@ -9223,12 +9177,9 @@
 *.tommyfinland.com
 *.tommyhilfigerbunda.sk
 *.tommyhilfigerdeutschland.de
-*.tommyhilfigerdublin.com
 *.tommyhilfigerjakke.com
 *.tommyhilfigerjakne.com
 *.tommyhilfigeroutletargentina.com
-*.tommyhilfigeroutletnz.com
-*.tommyhilfigeroutletportugal.com
 *.tommyhilfigerpatike.com
 *.tommyhilfigerquebec.net
 *.tommyhilfigersko.com
@@ -9286,7 +9237,6 @@
 *.topgood.xyz
 *.tophousesgoods.com
 *.topillstore.com
-*.topmarkets.cc
 *.topmodeltoys.com
 *.topoathleticschuhe.at
 *.topoffice24.com
@@ -9308,7 +9258,6 @@
 *.torontonewsnet.com
 *.toryburchosterreich.com
 *.toryburchoutlet.at
-*.tosahomeappliances.com
 *.tosan24.de
 *.toshimarket.com
 *.totalmenshoe.com
@@ -9346,7 +9295,6 @@
 *.trade-24.com
 *.trade-call.com
 *.trade-gpt.ai
-*.trade-pro.io
 *.trade-strategy.net
 *.trade-trendy.com
 *.trade-x.net
@@ -9361,7 +9309,6 @@
 *.tradeduacai.com
 *.tradeeurax.com
 *.tradelanehub.com
-*.trademastercfd.com
 *.tradeneupro100.com
 *.tradeopol.com
 *.tradeoutdoor-pro.com
@@ -9402,7 +9349,6 @@
 *.traum-fahrrad.com
 *.traumwiese24.de
 *.traunsberger-garten.de
-*.traunsbergergarten.de
 *.travel-and-jobs.com
 *.travelbag-onsale.com
 *.traveledgy.com
@@ -9476,7 +9422,6 @@
 *.tsz-stadtilm.de
 *.ttfacai.shop
 *.ttup-ai.com
-*.ttup-app.com
 *.tudio.de
 *.tuficcryptoassets.com
 *.tuftex-balloons.com
@@ -9605,7 +9550,6 @@
 *.urban-biketech24.de
 *.urban-hits.de
 *.urban-transporte.com
-*.urbancarpetloft.com
 *.urbandecostyle.com
 *.350yeezy.us.com
 *.adidas.us.com
@@ -9647,8 +9591,6 @@
 *.uschristmashalloween.com
 *.usclothesheaven.com
 *.uscomfortcraze.com
-*.usdoggiedelight.com
-*.usdtgsr.icu
 *.usfashionfinery.com
 *.usfiguremodel.com
 *.usformalwear.com
@@ -9697,11 +9639,9 @@
 *.usstylishtreasure.com
 *.ustoolsale.com
 *.usualfurniture.com
-*.usvoguevaults.com
 *.uswestnews.com
 *.uudet-huonekalut.com
 *.uvh-apotheke.de
-*.uwe-richter.shop
 *.v-olklstore.shop
 *.vacamy.com
 *.vacationay.com
@@ -9749,7 +9689,6 @@
 *.vdelsra.com
 *.veated.com
 *.vecticon.co
-*.vegacapital.pro
 *.vehiclesdaily.com
 *.veja.at
 *.veja-ireland.net
@@ -9799,7 +9738,6 @@
 *.verkaufmode.de
 *.verkaufschuhe.de
 *.verkaufsmarkt.com
-*.vermo-handel.de
 *.fastrepair.verolixz.cloud
 *.versand-ogitoys.de
 *.versand-potenzmittel.de
@@ -9828,7 +9766,6 @@
 *.vessishoesireland.com
 *.vessisuomi.com
 *.vestapros.com
-*.vestfair-tech.de
 *.vetenade.com
 *.vewens.de
 *.vexxsel.online
@@ -9849,11 +9786,9 @@
 *.vibram-es.com
 *.vibramwienshop.at
 *.viceregale.com
-*.vicotoris.com
 *.victoriassecrets.at
 *.victoryshop.shop
 *.videforex.com
-*.videohobbies.com
 *.videospiel-markt.de
 *.viennaapartments.org
 *.viennaaustrohotel.com
@@ -9890,7 +9825,6 @@
 *.virtuelabs.nl
 *.virtuelle-analysen.de
 *.virtuellerassistentt.com
-*.vision-fs.com
 *.visionfancyclothing.com
 *.visionfx.me
 *.visitaserbia.com

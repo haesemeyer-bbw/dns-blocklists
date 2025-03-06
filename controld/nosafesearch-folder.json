@@ -29,13 +29,6 @@
       }
     },
     {
-      "PK": "baresearch.org",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "beezboo.com",
       "action": {
         "do": 0,
@@ -50,20 +43,6 @@
       }
     },
     {
-      "PK": "copp.gg",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "darmarit.org",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "dogpile.com",
       "action": {
         "do": 0,
@@ -72,13 +51,6 @@
     },
     {
       "PK": "dynabyte.ca",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "etsi.me",
       "action": {
         "do": 0,
         "status": 1
@@ -121,13 +93,6 @@
     },
     {
       "PK": "gowogle.voring.me",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "gruble.de",
       "action": {
         "do": 0,
         "status": 1
@@ -309,13 +274,6 @@
       }
     },
     {
-      "PK": "northboot.xyz",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "nova.rambler.ru",
       "action": {
         "do": 0,
@@ -337,13 +295,6 @@
       }
     },
     {
-      "PK": "ooglester.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "openworlds.info",
       "action": {
         "do": 0,
@@ -351,21 +302,7 @@
       }
     },
     {
-      "PK": "opnxng.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "oscobo.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "paulgo.io",
       "action": {
         "do": 0,
         "status": 1
@@ -380,13 +317,6 @@
     },
     {
       "PK": "presearch.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "priv.au",
       "action": {
         "do": 0,
         "status": 1
@@ -484,13 +414,6 @@
       }
     },
     {
-      "PK": "search.bluelock.org",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "search.bowlman.org",
       "action": {
         "do": 0,
@@ -582,20 +505,6 @@
       }
     },
     {
-      "PK": "search.gcomm.ch",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "search.im-in.space",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "search.in.projectsegfau.lt",
       "action": {
         "do": 0,
@@ -631,20 +540,6 @@
       }
     },
     {
-      "PK": "search.leptons.xyz",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "search.mdosch.de",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "search.modalogi.com",
       "action": {
         "do": 0,
@@ -660,13 +555,6 @@
     },
     {
       "PK": "search.notrustverify.ch",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "search.ononoki.org",
       "action": {
         "do": 0,
         "status": 1
@@ -694,13 +582,6 @@
       }
     },
     {
-      "PK": "search.projectsegfau.lt",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "search.rabbit-company.com",
       "action": {
         "do": 0,
@@ -708,28 +589,7 @@
       }
     },
     {
-      "PK": "search.rhscz.eu",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "search.rowie.at",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "search.rubberverse.xyz",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "search.sapti.me",
       "action": {
         "do": 0,
         "status": 1
@@ -855,13 +715,6 @@
       }
     },
     {
-      "PK": "searx.be",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "searx.bissisoft.com",
       "action": {
         "do": 0,
@@ -939,13 +792,6 @@
       }
     },
     {
-      "PK": "searx.dresden.network",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "searx.ericaftereric.top",
       "action": {
         "do": 0,
@@ -1016,13 +862,6 @@
       }
     },
     {
-      "PK": "searx.juancord.xyz",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "searx.lavatech.top",
       "action": {
         "do": 0,
@@ -1079,21 +918,7 @@
       }
     },
     {
-      "PK": "searx.mxchange.org",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "searx.nakhan.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "searx.namejeff.xyz",
       "action": {
         "do": 0,
         "status": 1
@@ -1142,13 +967,6 @@
       }
     },
     {
-      "PK": "searx.oakleycord.dev",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "searx.openhoofd.nl",
       "action": {
         "do": 0,
@@ -1170,13 +988,6 @@
       }
     },
     {
-      "PK": "searx.ox2.fr",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "searx.prvcy.eu",
       "action": {
         "do": 0,
@@ -1185,13 +996,6 @@
     },
     {
       "PK": "searx.rasp.fr",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "searx.ro",
       "action": {
         "do": 0,
         "status": 1
@@ -1226,13 +1030,6 @@
       }
     },
     {
-      "PK": "searx.sev.monster",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "searx.si",
       "action": {
         "do": 0,
@@ -1261,28 +1058,7 @@
       }
     },
     {
-      "PK": "searx.thefloatinglab.world",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "searx.thegreenwebfoundation.org",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "searx.tiekoetter.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "searx.tuxcloud.net",
       "action": {
         "do": 0,
         "status": 1
@@ -1380,13 +1156,6 @@
       }
     },
     {
-      "PK": "suche.dasnetzundich.de",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "suche.mexmail.de",
       "action": {
         "do": 0,
@@ -1402,13 +1171,6 @@
     },
     {
       "PK": "suchfeuer.de",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "sx.catgirl.cloud",
       "action": {
         "do": 0,
         "status": 1
