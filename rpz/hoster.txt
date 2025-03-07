@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1741318980 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1741363020 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 07 Mar 2025 03:43 UTC
-; Version: 2025.0307.0343.15
+; Last modified: 07 Mar 2025 15:57 UTC
+; Version: 2025.0307.1557.37
 ; Syntax: RPZ
-; Number of entries: 4432
+; Number of entries: 4442
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -879,6 +879,8 @@ cfm-id72049123.com CNAME .
 *.cfm-id72049123.com CNAME .
 chamberecommerce.com CNAME .
 *.chamberecommerce.com CNAME .
+checkiteasy.com CNAME .
+*.checkiteasy.com CNAME .
 chez.com CNAME .
 *.chez.com CNAME .
 cixx6.com CNAME .
@@ -1569,6 +1571,8 @@ own-free-website.com CNAME .
 *.own-free-website.com CNAME .
 p2blogs.com CNAME .
 *.p2blogs.com CNAME .
+page-bussines-review.com CNAME .
+*.page-bussines-review.com CNAME .
 page4.com CNAME .
 *.page4.com CNAME .
 pages10.com CNAME .
@@ -4237,8 +4241,12 @@ nathan.to CNAME .
 *.nathan.to CNAME .
 bebinmall.today CNAME .
 *.bebinmall.today CNAME .
+africafull.top CNAME .
+*.africafull.top CNAME .
 apeweae.top CNAME .
 *.apeweae.top CNAME .
+artsold.top CNAME .
+*.artsold.top CNAME .
 biproplw.top CNAME .
 *.biproplw.top CNAME .
 djuanlian.top CNAME .
@@ -4297,6 +4305,8 @@ triadw.top CNAME .
 *.triadw.top CNAME .
 troove.top CNAME .
 *.troove.top CNAME .
+w-registration.top CNAME .
+*.w-registration.top CNAME .
 wapka.top CNAME .
 *.wapka.top CNAME .
 waptrad.top CNAME .

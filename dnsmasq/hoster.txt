@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 07 Mar 2025 03:43 UTC
-# Version: 2025.0307.0343.15
+# Last modified: 07 Mar 2025 15:57 UTC
+# Version: 2025.0307.1557.37
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 2216
+# Number of entries: 2221
 #
 local=/000a.de/
 local=/000space.com/
@@ -205,6 +205,7 @@ local=/actoblog.com/
 local=/admarketlocation.com/
 local=/aed1.host/
 local=/affiliatblogger.com/
+local=/africafull.top/
 local=/ag.gp/
 local=/ag0rcgwjv5.com/
 local=/ageeksblog.com/
@@ -259,6 +260,7 @@ local=/argentpropertiesvb.com/
 local=/arien.cl/
 local=/arrangiert.de/
 local=/articlesblogger.com/
+local=/artsold.top/
 local=/arwebo.com/
 local=/asablo.jp/
 local=/asia.cm/
@@ -633,6 +635,7 @@ local=/chamberecommerce.com/
 local=/chat.dj/
 local=/chat3.de/
 local=/chatpc.club/
+local=/checkiteasy.com/
 local=/chez.com/
 local=/chicjolieboutiqueonline.shop/
 local=/cielo-fashion.shop/
@@ -1596,6 +1599,7 @@ local=/p2a.pl/
 local=/p2blogs.com/
 local=/pacbell.net/
 local=/page.tl/
+local=/page-bussines-review.com/
 local=/page-suspension.net/
 local=/page4.com/
 local=/page4.me/
@@ -2020,6 +2024,7 @@ local=/vpswala.org/
 local=/vxub.com/
 local=/vxwezsp.cn/
 local=/vz.lc/
+local=/w-registration.top/
 local=/wallinside.blog/
 local=/wallinside.com/
 local=/wallst.ru/

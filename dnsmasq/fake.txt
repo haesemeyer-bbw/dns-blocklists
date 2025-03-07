@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 06 Mar 2025 23:52 UTC
-# Version: 2025.0306.2352.33
+# Last modified: 07 Mar 2025 12:01 UTC
+# Version: 2025.0307.1201.47
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10375
+# Number of entries: 10384
 #
 local=/01crypto.com/
 local=/1-stud.net/
@@ -519,6 +519,7 @@ local=/arcanus-tech.de/
 local=/architectes-fr.com/
 local=/arcistock.com/
 local=/arcteryxoutletdeutschland.de/
+local=/arcticalimited.com/
 local=/area-fashion.com/
 local=/areatrading.io/
 local=/arena-jeux.com/
@@ -1215,6 +1216,7 @@ local=/bncopfs.com/
 local=/www.crypto2.bnd-group.com/
 local=/bnesmartrecruits.com/
 local=/bnp-otc.com/
+local=/bnpfx.com/
 local=/bnpotc.com/
 local=/bnrmarkets.com/
 local=/bo-bank.com/
@@ -1388,7 +1390,6 @@ local=/brueggen-handel.de/
 local=/bruland.store/
 local=/brunateschuhewerksverkauf.de/
 local=/brunetsludmila.com/
-local=/bs2best.at/
 local=/bse-capital.com/
 local=/bskinenvide.shop/
 local=/bsm-consulting.de/
@@ -2797,6 +2798,7 @@ local=/unser-eshop.shop.epages.de/
 local=/eparadies.com/
 local=/epargne-avenir.com/
 local=/epargne-b2.com/
+local=/epargne-xenyt.com/
 local=/epargnefacile.com/
 local=/epbitcoin.com/
 local=/epcc.co/
@@ -3239,6 +3241,7 @@ local=/fitpeakstore.com/
 local=/fitpro-shop.de/
 local=/fitstoredeal.com/
 local=/fittingdiscount.com/
+local=/five-media05.com/
 local=/five-media07.com/
 local=/fivesixgroup.com/
 local=/fix-finanz.com/
@@ -3344,6 +3347,7 @@ local=/fotohandel-kasper.de/
 local=/fotohandel-rausch.at/
 local=/fotoprinz.com/
 local=/fouque.de/
+local=/fourteen-mediatop13.com/
 local=/fox-handel.de/
 local=/fr.foxane.com/
 local=/foxblossomde.shop/
@@ -4603,6 +4607,7 @@ local=/immediatebitwave.com/
 local=/immediateconnect.co/
 local=/immediateconnect.com/
 local=/immediateconnect.me/
+local=/immediateconnectavis.fr/
 local=/immediatedexair.net/
 local=/immediateeuraxai.org/
 local=/immediateevista.app/
@@ -8888,6 +8893,7 @@ local=/tcgsonlineshop.com/
 local=/tchibode.shop/
 local=/tchiboutlets.shop/
 local=/tddexpresslogistics.com/
+local=/tdglobalcompany.com/
 local=/te.de/
 local=/zabawechtaseba.teachable.com/
 local=/tealightsshop.com/
@@ -9684,6 +9690,7 @@ local=/vasagleangebote.de/
 local=/vast-spedition.com/
 local=/vatan.at/
 local=/vatlab.cc/
+local=/vatradecoin.net/
 local=/vaudefabrikverkauf.de/
 local=/vaulttrade.org/
 local=/vaweeo.de/
@@ -10064,6 +10071,7 @@ local=/wheelskit.com/
 local=/wheelsupplyusde.shop/
 local=/whisky-prestige.com/
 local=/whiskybests.com/
+local=/apps.whitecroftcapital.fr/
 local=/whlshop.com/
 local=/whoisyourlover.com/
 local=/wholesaleacsymarket.shop/
@@ -10339,6 +10347,7 @@ local=/zerogrid.shop/
 local=/zesavi-tech.de/
 local=/zetko-waren.com/
 local=/zetko-waren.de/
+local=/app.zety.de/
 local=/zicklerbrennholz.de/
 local=/zidnjlamp.com/
 local=/zigaretten-bestellen.net/
