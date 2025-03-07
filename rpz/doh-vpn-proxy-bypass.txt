@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1741232940 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1741319100 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 06 Mar 2025 03:49 UTC
-; Version: 2025.0306.0349.32
+; Last modified: 07 Mar 2025 03:45 UTC
+; Version: 2025.0307.0345.45
 ; Syntax: RPZ
-; Number of entries: 7682
+; Number of entries: 7688
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -4162,6 +4162,8 @@ corsproxy.io CNAME .
 *.corsproxy.io CNAME .
 curd.io CNAME .
 *.curd.io CNAME .
+desec.io CNAME .
+*.desec.io CNAME .
 freeproxy.io CNAME .
 *.freeproxy.io CNAME .
 geosurf.io CNAME .
@@ -4248,6 +4250,8 @@ doh.rezhajul.io CNAME .
 *.doh.rezhajul.io CNAME .
 doh.safesurfer.io CNAME .
 *.doh.safesurfer.io CNAME .
+safing.io CNAME .
+*.safing.io CNAME .
 vps4.scho.io CNAME .
 *.vps4.scho.io CNAME .
 2.dnscrypt-cert.dns.seby.io CNAME .
@@ -4574,8 +4578,6 @@ bluemood.me CNAME .
 *.bluemood.me CNAME .
 doh.boje8.me CNAME .
 *.doh.boje8.me CNAME .
-pope.cnblw.me CNAME .
-*.pope.cnblw.me CNAME .
 doh.cornes.me CNAME .
 *.doh.cornes.me CNAME .
 www-plo.declan-reid.me CNAME .
@@ -5942,6 +5944,8 @@ amandahugnkiss.org CNAME .
 *.amandahugnkiss.org CNAME .
 mailer.amlegion.org CNAME .
 *.mailer.amlegion.org CNAME .
+amnezia.org CNAME .
+*.amnezia.org CNAME .
 anonproxy.org CNAME .
 *.anonproxy.org CNAME .
 anonymouse.org CNAME .
@@ -6126,6 +6130,8 @@ area51.mywire.org CNAME .
 *.area51.mywire.org CNAME .
 fwgw.orangepipc.mywire.org CNAME .
 *.fwgw.orangepipc.mywire.org CNAME .
+nekoray.org CNAME .
+*.nekoray.org CNAME .
 dns.neutopia.org CNAME .
 *.dns.neutopia.org CNAME .
 onestreaming.org CNAME .
@@ -7442,6 +7448,8 @@ www-proxy.facil.wtf CNAME .
 *.www-proxy.facil.wtf CNAME .
 dns.glf.wtf CNAME .
 *.dns.glf.wtf CNAME .
+yesbutno.wtf CNAME .
+*.yesbutno.wtf CNAME .
 003153.xyz CNAME .
 *.003153.xyz CNAME .
 108023.xyz CNAME .
@@ -7668,8 +7676,6 @@ dns.vod11.xyz CNAME .
 *.dns.vod11.xyz CNAME .
 webpro.xyz CNAME .
 *.webpro.xyz CNAME .
-parrotballs.worksheetsforteachers.xyz CNAME .
-*.parrotballs.worksheetsforteachers.xyz CNAME .
 pub.xapktech.xyz CNAME .
 *.pub.xapktech.xyz CNAME .
 proxy.yt CNAME .

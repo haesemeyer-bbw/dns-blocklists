@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 06 Mar 2025 03:45 UTC
-# Version: 2025.0306.0345.49
+# Last modified: 07 Mar 2025 03:42 UTC
+# Version: 2025.0307.0342.03
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1402
+# Number of entries: 1403
 #
 *.0000000000000000000000.com
 *.0rg.us
@@ -682,6 +682,7 @@
 *.imprendum.com
 *.in-the-band.net
 *.independentonline.ro
+*.inet2.org
 *.inflict.us
 *.info.gf
 *.info.tm

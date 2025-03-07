@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 06 Mar 2025 03:49 UTC
-# Version: 2025.0306.0349.32
+# Last modified: 07 Mar 2025 03:45 UTC
+# Version: 2025.0307.0345.45
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3841
+# Number of entries: 3844
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -220,6 +220,7 @@ local=/dsl-app.s3.us-east-2.amazonaws.com/
 local=/amirabbasmousavi.news/
 local=/mailer.amlegion.org/
 local=/ammmae150.news/
+local=/amnezia.org/
 local=/doh.amonsul.net/
 local=/anachem.online/
 local=/ananoos.com/
@@ -628,7 +629,6 @@ local=/dns.cloudtrust.solutions/
 local=/ca.doh.cloudveil.org/
 local=/us.doh.cloudveil.org/
 local=/dns.cmrg.net/
-local=/pope.cnblw.me/
 local=/doh.cnetwork.cloud/
 local=/10bestvpn.co.uk/
 local=/akashiro.co.id/
@@ -824,6 +824,7 @@ local=/doh.denypradana.com/
 local=/adguard.depieri.net/
 local=/deproxyserver.com/
 local=/desbloquearredes.online/
+local=/desec.io/
 local=/adguard.lege.despagne.net/
 local=/doh-primary-pool.detoxifypornblocker.com/
 local=/dns.dev-umbrellagov.com/
@@ -2084,6 +2085,7 @@ local=/vpn.ncapi.io/
 local=/ne1.ca/
 local=/dns.neeb.it/
 local=/needunblock.com/
+local=/nekoray.org/
 local=/nenam.eu/
 local=/adguard.neon0404.space/
 local=/neonos.me/
@@ -2793,6 +2795,7 @@ local=/safeservedns.com/
 local=/doh.safesurfer.io/
 local=/safetysurf.net/
 local=/safeunblock.com/
+local=/safing.io/
 local=/vpn.sakhwow.ru/
 local=/sakirdakproxy.tk/
 local=/samj.codes/
@@ -3738,7 +3741,6 @@ local=/workhost.eu/
 local=/workingvpn.com/
 local=/workproxy.net/
 local=/my.worksheetsforteachers.org/
-local=/parrotballs.worksheetsforteachers.xyz/
 local=/worldgravityapp.com/
 local=/worldvpn.net/
 local=/worldwideproxy4u.win/
@@ -3791,6 +3793,7 @@ local=/ychen.gq/
 local=/yd6n63ptky.com/
 local=/yellowproxy.net/
 local=/yellowshiitake.com/
+local=/yesbutno.wtf/
 local=/ylink.info/
 local=/yogavpn.com/
 local=/youcanhide.net/

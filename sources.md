@@ -45,6 +45,7 @@ https://github.com/criminalip/Daily-Mal-Phishing/archive/refs/heads/main.zip
 https://github.com/drsdavidsoft/additional-hosts/raw/master/domains/blacklist/adservers-and-trackers.txt
 https://github.com/drsdavidsoft/additional-hosts/raw/master/domains/blacklist/unwanted-iranian.txt
 https://github.com/duckduckgo/tracker-blocklists
+https://github.com/ghostery/trackerdb
 https://gitlab.com/quidsup/notrack-annoyance-blocklist/-/raw/master/notrack-annoyance.txt
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
@@ -93,7 +94,6 @@ https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/fil
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_7_Japanese/filter.txt
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_8_Dutch/filter.txt
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_9_Spanish/filter.txt
-https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/master/formats/domains.txt
 https://raw.githubusercontent.com/alexsannikov/adguardhome-filters/master/gambling.txt
 https://raw.githubusercontent.com/alsyundawy/TrustPositif/refs/heads/main/gambling_indonesia_domainonly.txt
 https://raw.githubusercontent.com/AmnestyTech/investigations/master/2021-07-18_nso/domains.txt
