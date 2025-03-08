@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 07 Mar 2025 23:50 UTC
-# Version: 2025.0307.2350.41
+# Last modified: 08 Mar 2025 15:59 UTC
+# Version: 2025.0308.1559.37
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3855
+# Number of entries: 3848
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -419,7 +419,6 @@ local=/dns.blokada.org/
 local=/bloquer.fr/
 local=/rfree1.blue-shield.at/
 local=/rfree2.blue-shield.at/
-local=/www-proxy2.blueboy.cf/
 local=/bluemood.me/
 local=/bluesnap.com/
 local=/blufvpn.com/
@@ -1109,11 +1108,9 @@ local=/dns.mayx.eu.org/
 local=/arashi.net.eu.org/
 local=/sukidayo.eu.org/
 local=/eurproxy.com/
-local=/evacraft.xyz/
 local=/evpn.net/
 local=/evyy.net/
 local=/ewon.biz/
-local=/excitedmurashin.com/
 local=/expatshield.com/
 local=/expressapisv2.net/
 local=/expressvpn.com/
@@ -1284,7 +1281,6 @@ local=/freevpnplanet.com/
 local=/freevpnsoftware.net/
 local=/freewebproxy.eu/
 local=/freewebproxyserver.net/
-local=/freeworldwideproxy.app/
 local=/freexite.com/
 local=/freeyouproxytube.com/
 local=/freeyoutube.net/
@@ -1397,6 +1393,7 @@ local=/dns.google.com/
 local=/google-public-dns-a.google.com/
 local=/google-public-dns-b.google.com/
 local=/dns-tunnel-check.googlezip.net/
+local=/tunnel.googlezip.net/
 local=/goosevpn.com/
 local=/performance.gosami.xyz/
 local=/vpn.gosami.xyz/
@@ -1445,7 +1442,6 @@ local=/happy-vpn.com/
 local=/harbaletsstudy.com/
 local=/resolver-eu.haringstad.com/
 local=/adguard.hartley.cloud/
-local=/hdjptube.site/
 local=/query.hdns.io/
 local=/ordns.he.net/
 local=/heiwanotameno.com/
@@ -1672,7 +1668,6 @@ local=/jamesisbald.xyz/
 local=/tj.jamesxue.xyz/
 local=/janathanmahes-mysharepoint.com/
 local=/dns.janl.eu/
-local=/px.jarnus.xyz/
 local=/jayshaun.com/
 local=/jellyvpn.com/
 local=/doh.jeroenhd.nl/
@@ -1902,6 +1897,7 @@ local=/mathhelpnow.site/
 local=/mathlearning.tech/
 local=/mathnotes.help/
 local=/mathnotes.icu/
+local=/adguard.mattiafenzi.uk/
 local=/maxfong.cc/
 local=/maxvpn.info/
 local=/dns.maybe.icu/
@@ -1944,7 +1940,6 @@ local=/www-proxy.migastep.com/
 local=/dns.mihanentalpo.me/
 local=/dns.mikeliu.org/
 local=/mikezhang.xyz/
-local=/milanopuma.ir/
 local=/minilla.store/
 local=/miniprox.com/
 local=/miniprox.info/
@@ -2337,7 +2332,6 @@ local=/papervpn.info/
 local=/paradise-human.shop/
 local=/dns.pari.network/
 local=/parkviewenglish.buzz/
-local=/parsazr.ir/
 local=/pashagame456.com/
 local=/a.passcloud.xyz/
 local=/i.passcloud.xyz/
@@ -3117,7 +3111,6 @@ local=/t92.online/
 local=/tailnet.ru/
 local=/tailscale.com/
 local=/talk2m.com/
-local=/tancheetiong.online/
 local=/tbjr6.com/
 local=/tbunet.com/
 local=/tcpvpn.com/

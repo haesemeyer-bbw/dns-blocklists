@@ -5,8 +5,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 07 Mar 2025 15:58 UTC
-# Version: 2025.0307.1558.52
+# Last modified: 08 Mar 2025 15:58 UTC
+# Version: 2025.0308.1558.21
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 1488
 #
@@ -719,7 +719,6 @@ local=/doh.infracell.net/
 local=/inpssh.online/
 local=/qlf-doh.inria.fr/
 local=/dns.interhub.cc/
-local=/dns.invisv.com/
 local=/dns1.irumatech.com/
 local=/dns.is0mino.com/
 local=/mickedi.isgood.host/
@@ -866,6 +865,7 @@ local=/adguard.marto.si/
 local=/doh.maskab.com/
 local=/masters-of-cloud.de/
 local=/dns.mateo.ovh/
+local=/adguard.mattiafenzi.uk/
 local=/maxfong.cc/
 local=/dns.maybe.icu/
 local=/dns.mbrjun.cn/

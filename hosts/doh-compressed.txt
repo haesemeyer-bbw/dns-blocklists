@@ -5,8 +5,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 07 Mar 2025 15:58 UTC
-# Version: 2025.0307.1558.52
+# Last modified: 08 Mar 2025 15:58 UTC
+# Version: 2025.0308.1558.21
 # Syntax: Hosts compressed (9 per line, including possible subdomains)
 # Number of entries: 185
 #
@@ -101,24 +101,24 @@
 0.0.0.0 opennic2.i2pd.xyz vd.i81.ru dns.iamanuragh.in dns.iamninja.ru mask.icloud.com mask-api.icloud.com mask-boot.icloud.com mask-canary.icloud.com mask-h2.icloud.com
 0.0.0.0 tienpham.id.vn adguard.shuting.idv.tw dns.ihaveacloud.com iij.jp public.dns.iij.jp ikarosalpha.xyz dns.ikataruto.com dns.imaicool.com noads.imbuffering.com
 0.0.0.0 dns.imchristian.de dns.immanuelschaffer.de doh.immerda.ch http-dns.imoim.net imperio.top dns1.in-berlin.de dns2.in-berlin.de dns.inclusioproject.com adblock.indianets.net
-0.0.0.0 dns.indust.me dns.indybanipal.com dns.inforlogia.com doh.infracell.net inpssh.online www.inpssh.online qlf-doh.inria.fr dns.interhub.cc dns.invisv.com
-0.0.0.0 dns1.irumatech.com dns.is0mino.com mickedi.isgood.host dns.ishan.pw dns.islandnet.com pdns.itxe.net ivnkn.xyz jabber-germany.de www.jabber-germany.de
-0.0.0.0 jackyes.ovh tj.jamesxue.xyz dns.janl.eu doh.jeroenhd.nl adguard.jfchenier.ca dns.jhangy.us dns.jichi.io dns.jinwoo.dev dns.jiyi.eu
-0.0.0.0 jkdns.me adg.jnorton.us green2.jnraptor.net dns.joey01245.nl adguard.johanliebert.top johneldenring.lol opencdn.jomodns.com adguard1.jsanagustin.net dns.jstockley.com
-0.0.0.0 dns.jundev.org dns.jupitrdns.com ad.justincounts.com dns.justinnetworkingsolutions.com dns.k3nny.fr kaiwu.xyz dns.kamilszczepanski.com dns.kapite.in dns.karadag.me
-0.0.0.0 dns.karfamily.net dns.karl.one adguard.kasbot.net dns.kastner-online.de kavkaz.monster dns.kawa.tf dns.kebree.fr dns.keke125.com doh.kekew.info
-0.0.0.0 doh.kel.pe dns.kerekes.xyz dns.kernel-error.de dns.kescher.at pihole.aws.ketan.dev dns.keviland.com dns.keweon.center adg.khon.dev adguard.kiboko.it
-0.0.0.0 doh.kidzonet.io kilabit.info doh.killtw.im blog.kimiblock.top dns1.klcd.eu dns2.klcd.eu ko-18948-tr.xyz adguard.konikoni428.com doh.kooman.org
-0.0.0.0 korzhov.dev dns.kosan.moe dart.kpsn.org adblock.krctech.dev xray.krnl.eu adguard.kss.ovh dns.kukal.cz dns.kuuhaku.moe kx-97795-tr.xyz
-0.0.0.0 dns.kxy.ink agh.kyusang.win dns.l337.site dns.labnekotest.site doh.lacontrevoie.fr dns.lars-lehmann.net dns.lashes-brow.ru lastentarvike.fi eu1.dns.lavate.ch
-0.0.0.0 us1.dns.lavate.ch iterator.lazada.com adguard1.leadmon.net adguard.leadseason.eu adblock.leenit.kr yarp.lefolgoc.net br.servers.legat.ml lelux.fi dns.lepilleur.com
-0.0.0.0 dns.lermer.nl lesuo.top dns.levonet.sk lewsha.lol dns2.lezainski.com dns.lgprk.com dns.liberador.net doh.libredns.gr dot.libredns.gr
-0.0.0.0 lifeisa.live dns.lihj.me dns.linkr.ninja africadns1.liquidtelecom.net africadns2.liquidtelecom.net dns.listo.click loadlow.me dns.lobbygod.com adguard.londonwebnerd.cloud
-0.0.0.0 doh.dns1.lonet.org doh.phdns1.lonet.org doh.phdns2.lonet.org doh.phdns3.lonet.org doh.phdns4.lonet.org doh.phdns5.lonet.org n5.lsasss.com dns.lsho.top lukscasino-479-tr.xyz
-0.0.0.0 lukscasino-542-tr.xyz lukscasino-929-tr.xyz dns.luma-medien.com orau.lz0724.com addns1.m-it.ro mabuktogel.builders mabuktogel.business mabuktogel.cards mabuktogel.creditcard
-0.0.0.0 mabuktogel.degree mabuktogel.directory mabuktogel.enterprises mabuktogel.immobilien mabuktogel.limited mabuktogel.ltd mabuktogel.marketing mabuktogel.properties mabuktogel.solutions
-0.0.0.0 mailkyb.co dns.maitrekuc.fr dns.mandre.dev dns.maolaohei.xyz maqgie.xyz dns.marasov.id dns.marbledfennec.net ag.marschi.de adguard.marto.si
-0.0.0.0 doh.maskab.com masters-of-cloud.de www.masters-of-cloud.de dns.mateo.ovh maxfong.cc www.maxfong.cc dns.maybe.icu dns.mbrjun.cn adguard.meddy94.de
+0.0.0.0 dns.indust.me dns.indybanipal.com dns.inforlogia.com doh.infracell.net inpssh.online www.inpssh.online qlf-doh.inria.fr dns.interhub.cc dns1.irumatech.com
+0.0.0.0 dns.is0mino.com mickedi.isgood.host dns.ishan.pw dns.islandnet.com pdns.itxe.net ivnkn.xyz jabber-germany.de www.jabber-germany.de jackyes.ovh
+0.0.0.0 tj.jamesxue.xyz dns.janl.eu doh.jeroenhd.nl adguard.jfchenier.ca dns.jhangy.us dns.jichi.io dns.jinwoo.dev dns.jiyi.eu jkdns.me
+0.0.0.0 adg.jnorton.us green2.jnraptor.net dns.joey01245.nl adguard.johanliebert.top johneldenring.lol opencdn.jomodns.com adguard1.jsanagustin.net dns.jstockley.com dns.jundev.org
+0.0.0.0 dns.jupitrdns.com ad.justincounts.com dns.justinnetworkingsolutions.com dns.k3nny.fr kaiwu.xyz dns.kamilszczepanski.com dns.kapite.in dns.karadag.me dns.karfamily.net
+0.0.0.0 dns.karl.one adguard.kasbot.net dns.kastner-online.de kavkaz.monster dns.kawa.tf dns.kebree.fr dns.keke125.com doh.kekew.info doh.kel.pe
+0.0.0.0 dns.kerekes.xyz dns.kernel-error.de dns.kescher.at pihole.aws.ketan.dev dns.keviland.com dns.keweon.center adg.khon.dev adguard.kiboko.it doh.kidzonet.io
+0.0.0.0 kilabit.info doh.killtw.im blog.kimiblock.top dns1.klcd.eu dns2.klcd.eu ko-18948-tr.xyz adguard.konikoni428.com doh.kooman.org korzhov.dev
+0.0.0.0 dns.kosan.moe dart.kpsn.org adblock.krctech.dev xray.krnl.eu adguard.kss.ovh dns.kukal.cz dns.kuuhaku.moe kx-97795-tr.xyz dns.kxy.ink
+0.0.0.0 agh.kyusang.win dns.l337.site dns.labnekotest.site doh.lacontrevoie.fr dns.lars-lehmann.net dns.lashes-brow.ru lastentarvike.fi eu1.dns.lavate.ch us1.dns.lavate.ch
+0.0.0.0 iterator.lazada.com adguard1.leadmon.net adguard.leadseason.eu adblock.leenit.kr yarp.lefolgoc.net br.servers.legat.ml lelux.fi dns.lepilleur.com dns.lermer.nl
+0.0.0.0 lesuo.top dns.levonet.sk lewsha.lol dns2.lezainski.com dns.lgprk.com dns.liberador.net doh.libredns.gr dot.libredns.gr lifeisa.live
+0.0.0.0 dns.lihj.me dns.linkr.ninja africadns1.liquidtelecom.net africadns2.liquidtelecom.net dns.listo.click loadlow.me dns.lobbygod.com adguard.londonwebnerd.cloud doh.dns1.lonet.org
+0.0.0.0 doh.phdns1.lonet.org doh.phdns2.lonet.org doh.phdns3.lonet.org doh.phdns4.lonet.org doh.phdns5.lonet.org n5.lsasss.com dns.lsho.top lukscasino-479-tr.xyz lukscasino-542-tr.xyz
+0.0.0.0 lukscasino-929-tr.xyz dns.luma-medien.com orau.lz0724.com addns1.m-it.ro mabuktogel.builders mabuktogel.business mabuktogel.cards mabuktogel.creditcard mabuktogel.degree
+0.0.0.0 mabuktogel.directory mabuktogel.enterprises mabuktogel.immobilien mabuktogel.limited mabuktogel.ltd mabuktogel.marketing mabuktogel.properties mabuktogel.solutions mailkyb.co
+0.0.0.0 dns.maitrekuc.fr dns.mandre.dev dns.maolaohei.xyz maqgie.xyz dns.marasov.id dns.marbledfennec.net ag.marschi.de adguard.marto.si doh.maskab.com
+0.0.0.0 masters-of-cloud.de www.masters-of-cloud.de dns.mateo.ovh adguard.mattiafenzi.uk maxfong.cc www.maxfong.cc dns.maybe.icu dns.mbrjun.cn adguard.meddy94.de
 0.0.0.0 dns.meeo.win testguard.meexx.de meganerd.nl httpdns.meituan.com dns.melvin2204.nl mendozasdelivery.com testaghome.meshkov.info dns.mestdag.fr dns.mh4ckt3mh4ckt1c4s.xyz
 0.0.0.0 esel.stusta.mhn.de muli.stusta.mhn.de securenet.mhsystems.net dns.michelo.cl doh.micronets.in dns.mihanentalpo.me dns.mikeliu.org mikezhang.xyz minilla.store
 0.0.0.0 netcup.mismat.ch doh.mmmalia.com dns.mnet-online.de mnrv.trade dns.mo0on15.com moamao.shop dnstls.mobik.com ps1.modr.club dns.molinero.dev

@@ -6,10 +6,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 07 Mar 2025 23:50 UTC
-! Version: 2025.0307.2350.41
+! Last modified: 08 Mar 2025 15:59 UTC
+! Version: 2025.0308.1559.37
 ! Syntax: AdBlock
-! Number of entries: 3855
+! Number of entries: 3848
 !
 ||003153.xyz^
 ||ns.00dani.me^
@@ -420,7 +420,6 @@
 ||bloquer.fr^
 ||rfree1.blue-shield.at^
 ||rfree2.blue-shield.at^
-||www-proxy2.blueboy.cf^
 ||bluemood.me^
 ||bluesnap.com^
 ||blufvpn.com^
@@ -1110,11 +1109,9 @@
 ||arashi.net.eu.org^
 ||sukidayo.eu.org^
 ||eurproxy.com^
-||evacraft.xyz^
 ||evpn.net^
 ||evyy.net^
 ||ewon.biz^
-||excitedmurashin.com^
 ||expatshield.com^
 ||expressapisv2.net^
 ||expressvpn.com^
@@ -1285,7 +1282,6 @@
 ||freevpnsoftware.net^
 ||freewebproxy.eu^
 ||freewebproxyserver.net^
-||freeworldwideproxy.app^
 ||freexite.com^
 ||freeyouproxytube.com^
 ||freeyoutube.net^
@@ -1398,6 +1394,7 @@
 ||google-public-dns-a.google.com^
 ||google-public-dns-b.google.com^
 ||dns-tunnel-check.googlezip.net^
+||tunnel.googlezip.net^
 ||goosevpn.com^
 ||performance.gosami.xyz^
 ||vpn.gosami.xyz^
@@ -1446,7 +1443,6 @@
 ||harbaletsstudy.com^
 ||resolver-eu.haringstad.com^
 ||adguard.hartley.cloud^
-||hdjptube.site^
 ||query.hdns.io^
 ||ordns.he.net^
 ||heiwanotameno.com^
@@ -1673,7 +1669,6 @@
 ||tj.jamesxue.xyz^
 ||janathanmahes-mysharepoint.com^
 ||dns.janl.eu^
-||px.jarnus.xyz^
 ||jayshaun.com^
 ||jellyvpn.com^
 ||doh.jeroenhd.nl^
@@ -1903,6 +1898,7 @@
 ||mathlearning.tech^
 ||mathnotes.help^
 ||mathnotes.icu^
+||adguard.mattiafenzi.uk^
 ||maxfong.cc^
 ||maxvpn.info^
 ||dns.maybe.icu^
@@ -1945,7 +1941,6 @@
 ||dns.mihanentalpo.me^
 ||dns.mikeliu.org^
 ||mikezhang.xyz^
-||milanopuma.ir^
 ||minilla.store^
 ||miniprox.com^
 ||miniprox.info^
@@ -2338,7 +2333,6 @@
 ||paradise-human.shop^
 ||dns.pari.network^
 ||parkviewenglish.buzz^
-||parsazr.ir^
 ||pashagame456.com^
 ||a.passcloud.xyz^
 ||i.passcloud.xyz^
@@ -3118,7 +3112,6 @@
 ||tailnet.ru^
 ||tailscale.com^
 ||talk2m.com^
-||tancheetiong.online^
 ||tbjr6.com^
 ||tbunet.com^
 ||tcpvpn.com^

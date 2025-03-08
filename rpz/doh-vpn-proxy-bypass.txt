@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1741391400 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1741449540 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 07 Mar 2025 23:50 UTC
-; Version: 2025.0307.2350.41
+; Last modified: 08 Mar 2025 15:59 UTC
+; Version: 2025.0308.1559.37
 ; Syntax: RPZ
-; Number of entries: 7710
+; Number of entries: 7696
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -40,8 +40,6 @@ doh.disconnect.app CNAME .
 *.doh.disconnect.app CNAME .
 antistalkerfree-eu.europe-west1.firebasedatabase.app CNAME .
 *.antistalkerfree-eu.europe-west1.firebasedatabase.app CNAME .
-freeworldwideproxy.app CNAME .
-*.freeworldwideproxy.app CNAME .
 doh.futa.app CNAME .
 *.doh.futa.app CNAME .
 gointerstellar.app CNAME .
@@ -348,8 +346,6 @@ dns.keweon.center CNAME .
 *.dns.keweon.center CNAME .
 proxies.center CNAME .
 *.proxies.center CNAME .
-www-proxy2.blueboy.cf CNAME .
-*.www-proxy2.blueboy.cf CNAME .
 usvpn.cf CNAME .
 *.usvpn.cf CNAME .
 ychen.cf CNAME .
@@ -1230,8 +1226,6 @@ ettego.com CNAME .
 *.ettego.com CNAME .
 eurproxy.com CNAME .
 *.eurproxy.com CNAME .
-excitedmurashin.com CNAME .
-*.excitedmurashin.com CNAME .
 expatshield.com CNAME .
 *.expatshield.com CNAME .
 expressvpn.com CNAME .
@@ -4328,10 +4322,6 @@ hotac.ir CNAME .
 *.hotac.ir CNAME .
 masthisis.ir CNAME .
 *.masthisis.ir CNAME .
-milanopuma.ir CNAME .
-*.milanopuma.ir CNAME .
-parsazr.ir CNAME .
-*.parsazr.ir CNAME .
 persianreserve.ir CNAME .
 *.persianreserve.ir CNAME .
 pesemes.ir CNAME .
@@ -5196,6 +5186,8 @@ globalssh.net CNAME .
 *.globalssh.net CNAME .
 dns-tunnel-check.googlezip.net CNAME .
 *.dns-tunnel-check.googlezip.net CNAME .
+tunnel.googlezip.net CNAME .
+*.tunnel.googlezip.net CNAME .
 greenproxy.net CNAME .
 *.greenproxy.net CNAME .
 guardianvpn.net CNAME .
@@ -5912,8 +5904,6 @@ speedproxy.online CNAME .
 *.speedproxy.online CNAME .
 t92.online CNAME .
 *.t92.online CNAME .
-tancheetiong.online CNAME .
-*.tancheetiong.online CNAME .
 unblocked2.online CNAME .
 *.unblocked2.online CNAME .
 unblocksites.online CNAME .
@@ -6876,8 +6866,6 @@ croxy.ghgi.site CNAME .
 *.croxy.ghgi.site CNAME .
 www-croxy.ghgi.site CNAME .
 *.www-croxy.ghgi.site CNAME .
-hdjptube.site CNAME .
-*.hdjptube.site CNAME .
 hiddendragon.site CNAME .
 *.hiddendragon.site CNAME .
 joker81fansbase.site CNAME .
@@ -7218,6 +7206,8 @@ pa.linkall.uk CNAME .
 *.pa.linkall.uk CNAME .
 www-pa.linkall.uk CNAME .
 *.www-pa.linkall.uk CNAME .
+adguard.mattiafenzi.uk CNAME .
+*.adguard.mattiafenzi.uk CNAME .
 dns.aa.net.uk CNAME .
 *.dns.aa.net.uk CNAME .
 resolver.dnsprivacy.org.uk CNAME .
@@ -7534,8 +7524,6 @@ agh.dshubham.xyz CNAME .
 *.agh.dshubham.xyz CNAME .
 hole.elbschloss.xyz CNAME .
 *.hole.elbschloss.xyz CNAME .
-evacraft.xyz CNAME .
-*.evacraft.xyz CNAME .
 fra1.eyecay.xyz CNAME .
 *.fra1.eyecay.xyz CNAME .
 dns.f97.xyz CNAME .
@@ -7566,8 +7554,6 @@ jamesisbald.xyz CNAME .
 *.jamesisbald.xyz CNAME .
 tj.jamesxue.xyz CNAME .
 *.tj.jamesxue.xyz CNAME .
-px.jarnus.xyz CNAME .
-*.px.jarnus.xyz CNAME .
 jongserver.xyz CNAME .
 *.jongserver.xyz CNAME .
 judua3rtinpst0s.xyz CNAME .
