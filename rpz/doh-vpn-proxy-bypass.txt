@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1741363200 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1741391400 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 07 Mar 2025 16:00 UTC
-; Version: 2025.0307.1600.07
+; Last modified: 07 Mar 2025 23:50 UTC
+; Version: 2025.0307.2350.41
 ; Syntax: RPZ
-; Number of entries: 7690
+; Number of entries: 7710
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -932,6 +932,8 @@ browsebridge.com CNAME .
 *.browsebridge.com CNAME .
 browsec.com CNAME .
 *.browsec.com CNAME .
+browserling.com CNAME .
+*.browserling.com CNAME .
 doh.bt.com CNAME .
 *.doh.bt.com CNAME .
 btguard.com CNAME .
@@ -1984,6 +1986,8 @@ resolver2-fs.opendns.com CNAME .
 *.resolver2-fs.opendns.com CNAME .
 sandbox.opendns.com CNAME .
 *.sandbox.opendns.com CNAME .
+openproxylist.com CNAME .
+*.openproxylist.com CNAME .
 openvpn.com CNAME .
 *.openvpn.com CNAME .
 openvpn-ssh.com CNAME .
@@ -2156,6 +2160,8 @@ proxy-123.com CNAME .
 *.proxy-123.com CNAME .
 proxy-2014.com CNAME .
 *.proxy-2014.com CNAME .
+proxy-best.com CNAME .
+*.proxy-best.com CNAME .
 proxy-bypass.com CNAME .
 *.proxy-bypass.com CNAME .
 proxy-n-vpn.com CNAME .
@@ -2190,6 +2196,8 @@ proxybuss.com CNAME .
 *.proxybuss.com CNAME .
 proxycloyd.com CNAME .
 *.proxycloyd.com CNAME .
+proxycompass.com CNAME .
+*.proxycompass.com CNAME .
 proxydrop.com CNAME .
 *.proxydrop.com CNAME .
 proxyen.com CNAME .
@@ -2206,6 +2214,8 @@ proxyist.com CNAME .
 *.proxyist.com CNAME .
 proxyium.com CNAME .
 *.proxyium.com CNAME .
+proxylister.com CNAME .
+*.proxylister.com CNAME .
 proxylistpro.com CNAME .
 *.proxylistpro.com CNAME .
 proxymesh.com CNAME .
@@ -2228,12 +2238,16 @@ proxyscrape.com CNAME .
 *.proxyscrape.com CNAME .
 proxyserver.com CNAME .
 *.proxyserver.com CNAME .
+proxyshare.com CNAME .
+*.proxyshare.com CNAME .
 proxysheep.com CNAME .
 *.proxysheep.com CNAME .
 proxysite.com CNAME .
 *.proxysite.com CNAME .
 proxysneak.com CNAME .
 *.proxysneak.com CNAME .
+proxytitan.com CNAME .
+*.proxytitan.com CNAME .
 proxytoplay.com CNAME .
 *.proxytoplay.com CNAME .
 proxyturbo.com CNAME .
@@ -4176,6 +4190,8 @@ dns.guard.io CNAME .
 *.dns.guard.io CNAME .
 query.hdns.io CNAME .
 *.query.hdns.io CNAME .
+hidemium.io CNAME .
+*.hidemium.io CNAME .
 hidemy.io CNAME .
 *.hidemy.io CNAME .
 holax.io CNAME .
@@ -6042,6 +6058,8 @@ fastp.org CNAME .
 *.fastp.org CNAME .
 fastproxy.org CNAME .
 *.fastproxy.org CNAME .
+fineproxy.org CNAME .
+*.fineproxy.org CNAME .
 finevpn.org CNAME .
 *.finevpn.org CNAME .
 freeopenvpn.org CNAME .
@@ -7310,6 +7328,8 @@ simpleproxy.us CNAME .
 *.simpleproxy.us CNAME .
 socialnetworkinfo.us CNAME .
 *.socialnetworkinfo.us CNAME .
+sockslist.us CNAME .
+*.sockslist.us CNAME .
 starruby.us CNAME .
 *.starruby.us CNAME .
 thesafety.us CNAME .

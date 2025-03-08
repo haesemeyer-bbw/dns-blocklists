@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 07 Mar 2025 16:00 UTC
-# Version: 2025.0307.1600.07
+# Last modified: 07 Mar 2025 23:50 UTC
+# Version: 2025.0307.2350.41
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3845
+# Number of entries: 3855
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -461,6 +461,7 @@ local=/brovpn.io/
 local=/browsebridge.com/
 local=/browsec.com/
 local=/browser.lol/
+local=/browserling.com/
 local=/doh.bt.com/
 local=/btguard.com/
 local=/bubbleset.com/
@@ -1180,6 +1181,7 @@ local=/dns.filipccz.eu/
 local=/filterbypass.me/
 local=/finalbreaths.xyz/
 local=/finchvpn.com/
+local=/fineproxy.org/
 local=/finevpn.org/
 local=/antistalkerfree-eu.europe-west1.firebasedatabase.app/
 local=/xcomvpn-7000b-default-rtdb.firebaseio.com/
@@ -1477,6 +1479,7 @@ local=/hideme.be/
 local=/hidemebro.com/
 local=/hidemefast.net/
 local=/hidemenow.net/
+local=/hidemium.io/
 local=/hidemy.io/
 local=/hidemy.name/
 local=/hidemyass.com/
@@ -2275,6 +2278,7 @@ local=/ns2.opennameserver.org/
 local=/ns3.opennameserver.org/
 local=/ns4.opennameserver.org/
 local=/openproxy.space/
+local=/openproxylist.com/
 local=/opentunnel.net/
 local=/openvpn.cc/
 local=/openvpn.com/
@@ -2541,6 +2545,7 @@ local=/proxy.yt/
 local=/proxy-123.com/
 local=/proxy-2014.com/
 local=/proxy-2015.info/
+local=/proxy-best.com/
 local=/proxy-bypass.com/
 local=/proxy-german.de/
 local=/proxy-internet.info/
@@ -2570,6 +2575,7 @@ local=/proxybrowsing.com/
 local=/proxybuss.com/
 local=/proxycloud.net/
 local=/proxycloyd.com/
+local=/proxycompass.com/
 local=/proxydrop.com/
 local=/proxydude.red/
 local=/proxydude.xyz/
@@ -2590,6 +2596,7 @@ local=/proxyisp.com/
 local=/proxyist.com/
 local=/proxyium.com/
 local=/proxyium.org/
+local=/proxylister.com/
 local=/proxylistpro.com/
 local=/proxyload.net/
 local=/proxymaster.me/
@@ -2614,6 +2621,7 @@ local=/proxyscrape.com/
 local=/proxyserver.buzz/
 local=/proxyserver.com/
 local=/proxyserverlist24.top/
+local=/proxyshare.com/
 local=/proxysheep.com/
 local=/proxysite.cc/
 local=/proxysite.cloud/
@@ -2631,6 +2639,7 @@ local=/proxysneak.com/
 local=/proxysurfing.org/
 local=/proxythis.info/
 local=/proxytime.net/
+local=/proxytitan.com/
 local=/proxytoplay.com/
 local=/proxyturbo.com/
 local=/proxyunblock.site/
@@ -2947,6 +2956,7 @@ local=/guard.sntrk.ru/
 local=/dove.soapclient.com/
 local=/socialnetworkinfo.us/
 local=/socks-proxy.net/
+local=/sockslist.us/
 local=/www-proxy.sodemc.com/
 local=/clientdns3.softcom.net/
 local=/free-vpn.en.softonic.com/

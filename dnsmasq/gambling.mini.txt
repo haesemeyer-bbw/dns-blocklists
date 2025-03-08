@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 07 Mar 2025 15:39 UTC
-# Version: 2025.0307.1539.23
+# Last modified: 08 Mar 2025 00:10 UTC
+# Version: 2025.0308.0010.17
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 87812
+# Number of entries: 87810
 #
 local=/0-bdmbet.com/
 local=/0-betsixty.com/
@@ -821,6 +821,7 @@ local=/12yingli.com/
 local=/1300joycasino.ru/
 local=/13023.vip/
 local=/130casino.app/
+local=/13145bets10.com/
 local=/13146bets10.com/
 local=/1314casino.xyz/
 local=/1315betsl10.com/
@@ -1824,7 +1825,6 @@ local=/1wutz.com/
 local=/1wwblr.top/
 local=/1wxnnw.top/
 local=/1wxur.com/
-local=/1wxxlb.com/
 local=/1wzknl.xyz/
 local=/1x.club/
 local=/1x.games/
@@ -20619,7 +20619,6 @@ local=/bets088ph.com/
 local=/bets10.cd/
 local=/bets10.pics/
 local=/bets10-adresi.com/
-local=/bets10-bahissitesi.vip/
 local=/bets10-casino-tr.com/
 local=/bets10-casinospor.com/
 local=/bets10-click.com/
@@ -25920,7 +25919,6 @@ local=/casino-jax-australia.com/
 local=/casino-jet-bcnexpert6.top/
 local=/casino-jetton.ru/
 local=/casino-jimmywinner.com/
-local=/casino-jojobet.vip/
 local=/casino-joka1.com/
 local=/casino-joker8.com/
 local=/casino-joy.bid/

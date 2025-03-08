@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 07 Mar 2025 12:01 UTC
-# Version: 2025.0307.1201.47
+# Last modified: 08 Mar 2025 00:49 UTC
+# Version: 2025.0308.0049.20
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10384
+# Number of entries: 10386
 #
 local=/01crypto.com/
 local=/1-stud.net/
@@ -2715,6 +2715,7 @@ local=/elinour-kauf.de/
 local=/eliostrategy.com/
 local=/elipolyse.de/
 local=/elisaluna-handel24.de/
+local=/elisehassoun.com/
 local=/elite-real-estate.com/
 local=/eliteai-t.com/
 local=/elitecloth.store/
@@ -3110,6 +3111,7 @@ local=/fashions-woman.com/
 local=/fashionsgf.com/
 local=/fashionssurf.com/
 local=/fashionstb.com/
+local=/fashionsviolet.com/
 local=/fashionusregion.com/
 local=/fashionvila.com/
 local=/fashionwelle.com/
@@ -5399,7 +5401,6 @@ local=/lifestyleshoe.com/
 local=/lighats4fun.shop/
 local=/lightcanarm.com/
 local=/lightfaze.de/
-local=/lightingarroyo.com/
 local=/lightingoxygen.com/
 local=/lights4funvdb.shop/
 local=/lights4xfun.shop/
@@ -5878,7 +5879,6 @@ local=/meta-mental.com/
 local=/metalbrakepadsde.com/
 local=/metallurgydaily.com/
 local=/metallurgyglobal.com/
-local=/metalworking-tools.com/
 local=/metatrada.com/
 local=/metaversesworld.org/
 local=/metricgurus.com/
@@ -6816,6 +6816,7 @@ local=/outdoorkleidungs.com/
 local=/outdoorloungefurnitures.com/
 local=/outdoorpetzl.com/
 local=/outdoorrecreationplay.com/
+local=/outdoorreisenexperte.com/
 local=/outdoorresearchjacke.de/
 local=/outdoorsback.com/
 local=/outdoorsbackpack.com/
@@ -6957,6 +6958,7 @@ local=/client.partnersce.cm/
 local=/webtrader.partnersce.cm/
 local=/partydirect.shop/
 local=/pasadenablues.com/
+local=/pasargadrugs.com/
 local=/pascher.top/
 local=/passivo.io/
 local=/patagoniapolskasklep.pl/

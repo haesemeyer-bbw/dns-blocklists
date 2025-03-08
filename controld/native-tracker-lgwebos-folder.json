@@ -111,6 +111,13 @@
         "do": 0,
         "status": 1
       }
+    },
+    {
+      "PK": "us.lgsmartad.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
     }
   ]
 }

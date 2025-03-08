@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 08 Feb 2025 00:18 UTC
-# Version: 2025.0208.0018.13
+# Last modified: 08 Mar 2025 00:37 UTC
+# Version: 2025.0308.0037.30
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1116
+# Number of entries: 1153
 #
 0.0.0.0 alphonso.tv
 0.0.0.0 ad-inserter.alphonso.tv
@@ -28,6 +28,7 @@
 0.0.0.0 bucyhq2.alphonso.tv
 0.0.0.0 budwoc80.alphonso.tv
 0.0.0.0 burmsde90.alphonso.tv
+0.0.0.0 bwezic7.alphonso.tv
 0.0.0.0 bzgjx81.alphonso.tv
 0.0.0.0 ccxspcacy49.alphonso.tv
 0.0.0.0 cdn-aas-campaigns.alphonso.tv
@@ -42,6 +43,7 @@
 0.0.0.0 csxnc89.alphonso.tv
 0.0.0.0 cxlqmxzemg54.alphonso.tv
 0.0.0.0 cyijq72.alphonso.tv
+0.0.0.0 dar-pix-prod-lb.alphonso.tv
 0.0.0.0 dkpae73.alphonso.tv
 0.0.0.0 dmkfppbdav49.alphonso.tv
 0.0.0.0 dqzljjhryn04.alphonso.tv
@@ -52,6 +54,7 @@
 0.0.0.0 ebgyjue7.alphonso.tv
 0.0.0.0 ecbmtltfbu47.alphonso.tv
 0.0.0.0 edqsadx4.alphonso.tv
+0.0.0.0 eqdrews7.alphonso.tv
 0.0.0.0 erafukhaie3.alphonso.tv
 0.0.0.0 eu-acr-gpu1.alphonso.tv
 0.0.0.0 eu-acr-gpu2.alphonso.tv
@@ -359,6 +362,7 @@
 0.0.0.0 krishnaw370.alphonso.tv
 0.0.0.0 krishnaw371.alphonso.tv
 0.0.0.0 krishnaw374.alphonso.tv
+0.0.0.0 krishnaw375.alphonso.tv
 0.0.0.0 krishnaw380.alphonso.tv
 0.0.0.0 krishnaw381.alphonso.tv
 0.0.0.0 krishnaw382.alphonso.tv
@@ -392,6 +396,7 @@
 0.0.0.0 krishnaw428.alphonso.tv
 0.0.0.0 krishnaw429.alphonso.tv
 0.0.0.0 krishnaw430.alphonso.tv
+0.0.0.0 krishnaw432.alphonso.tv
 0.0.0.0 krishnaw434.alphonso.tv
 0.0.0.0 krishnaw435.alphonso.tv
 0.0.0.0 krishnaw436.alphonso.tv
@@ -419,6 +424,7 @@
 0.0.0.0 krishnaw465.alphonso.tv
 0.0.0.0 krishnaw466.alphonso.tv
 0.0.0.0 krishnaw467.alphonso.tv
+0.0.0.0 krishnaw468.alphonso.tv
 0.0.0.0 krishnaw469.alphonso.tv
 0.0.0.0 krishnaw470.alphonso.tv
 0.0.0.0 krishnaw471.alphonso.tv
@@ -468,6 +474,7 @@
 0.0.0.0 mercury.alphonso.tv
 0.0.0.0 mercury-lb.alphonso.tv
 0.0.0.0 mercury-lb-staging.alphonso.tv
+0.0.0.0 mercury-staging.alphonso.tv
 0.0.0.0 mhfzxyb54.alphonso.tv
 0.0.0.0 miadhqsm4.alphonso.tv
 0.0.0.0 mmfmkbhbvj6.alphonso.tv
@@ -511,6 +518,7 @@
 0.0.0.0 prov-lg.alphonso.tv
 0.0.0.0 qarawx1.alphonso.tv
 0.0.0.0 qdlmwrluk95.alphonso.tv
+0.0.0.0 qhaciv57.alphonso.tv
 0.0.0.0 qinvc14.alphonso.tv
 0.0.0.0 rbdkfs9.alphonso.tv
 0.0.0.0 rdewdwf27.alphonso.tv
@@ -535,6 +543,7 @@
 0.0.0.0 sync.alphonso.tv
 0.0.0.0 syxjwpfr3.alphonso.tv
 0.0.0.0 tabdqklvfv8.alphonso.tv
+0.0.0.0 tcootf8.alphonso.tv
 0.0.0.0 test-tn.alphonso.tv
 0.0.0.0 tkacr300.alphonso.tv
 0.0.0.0 tkacr301.alphonso.tv
@@ -628,6 +637,7 @@
 0.0.0.0 tkacr390.alphonso.tv
 0.0.0.0 tkacr391.alphonso.tv
 0.0.0.0 tkacr392.alphonso.tv
+0.0.0.0 tkacr393.alphonso.tv
 0.0.0.0 tkacr394.alphonso.tv
 0.0.0.0 tkacr395.alphonso.tv
 0.0.0.0 tkacr396.alphonso.tv
@@ -703,6 +713,8 @@
 0.0.0.0 tkacr466.alphonso.tv
 0.0.0.0 tkacr467.alphonso.tv
 0.0.0.0 tkacr468.alphonso.tv
+0.0.0.0 tkacr469.alphonso.tv
+0.0.0.0 tkacr470.alphonso.tv
 0.0.0.0 tkacr471.alphonso.tv
 0.0.0.0 tkacr472.alphonso.tv
 0.0.0.0 tkacr473.alphonso.tv
@@ -827,9 +839,15 @@
 0.0.0.0 tkacr592.alphonso.tv
 0.0.0.0 tkacr593.alphonso.tv
 0.0.0.0 tkacr594.alphonso.tv
+0.0.0.0 tkacr595.alphonso.tv
+0.0.0.0 tkacr596.alphonso.tv
+0.0.0.0 tkacr597.alphonso.tv
 0.0.0.0 tkacr598.alphonso.tv
 0.0.0.0 tkacr599.alphonso.tv
 0.0.0.0 tkacr600.alphonso.tv
+0.0.0.0 tkacr601.alphonso.tv
+0.0.0.0 tkacr602.alphonso.tv
+0.0.0.0 tkacr606.alphonso.tv
 0.0.0.0 tkacr607.alphonso.tv
 0.0.0.0 tkacr608.alphonso.tv
 0.0.0.0 tkacr609.alphonso.tv
@@ -846,6 +864,7 @@
 0.0.0.0 tkacr620.alphonso.tv
 0.0.0.0 tkacr621.alphonso.tv
 0.0.0.0 tkacr622.alphonso.tv
+0.0.0.0 tkacr623.alphonso.tv
 0.0.0.0 tkacr624.alphonso.tv
 0.0.0.0 tkacr625.alphonso.tv
 0.0.0.0 tkacr626.alphonso.tv
@@ -930,6 +949,7 @@
 0.0.0.0 tkacr706.alphonso.tv
 0.0.0.0 tkacr707.alphonso.tv
 0.0.0.0 tkacr708.alphonso.tv
+0.0.0.0 tkacr709.alphonso.tv
 0.0.0.0 tkacr710.alphonso.tv
 0.0.0.0 tkacr711.alphonso.tv
 0.0.0.0 tkacr712.alphonso.tv
@@ -1001,6 +1021,7 @@
 0.0.0.0 tkacr779.alphonso.tv
 0.0.0.0 tkacr780.alphonso.tv
 0.0.0.0 tkacr781.alphonso.tv
+0.0.0.0 tkacr782.alphonso.tv
 0.0.0.0 tkacr783.alphonso.tv
 0.0.0.0 tkacr784.alphonso.tv
 0.0.0.0 tkacr785.alphonso.tv
@@ -1025,6 +1046,7 @@
 0.0.0.0 uwysugvwcb5.alphonso.tv
 0.0.0.0 uzfsfnxy61.alphonso.tv
 0.0.0.0 vewxchtqs1.alphonso.tv
+0.0.0.0 vfqtgvx0.alphonso.tv
 0.0.0.0 vgflwz29.alphonso.tv
 0.0.0.0 vllychnv92.alphonso.tv
 0.0.0.0 voexk5.alphonso.tv
@@ -1059,8 +1081,10 @@
 0.0.0.0 yrdpnjajw79.alphonso.tv
 0.0.0.0 yubyryonu18.alphonso.tv
 0.0.0.0 yumhcpugj62.alphonso.tv
+0.0.0.0 yygzydzs13.alphonso.tv
 0.0.0.0 zbzcbkflw2.alphonso.tv
 0.0.0.0 zcesm62.alphonso.tv
+0.0.0.0 zeokb1.alphonso.tv
 0.0.0.0 zmepmwhey7.alphonso.tv
 0.0.0.0 zpvvb87.alphonso.tv
 0.0.0.0 zqsyp37.alphonso.tv
@@ -1070,13 +1094,19 @@
 0.0.0.0 ad.lgsmartad.com
 0.0.0.0 ae.ad.lgsmartad.com
 0.0.0.0 al.ad.lgsmartad.com
+0.0.0.0 ar.ad.lgsmartad.com
 0.0.0.0 at.ad.lgsmartad.com
+0.0.0.0 au.ad.lgsmartad.com
 0.0.0.0 be.ad.lgsmartad.com
 0.0.0.0 br.ad.lgsmartad.com
+0.0.0.0 by.ad.lgsmartad.com
 0.0.0.0 ca.ad.lgsmartad.com
 0.0.0.0 cl.ad.lgsmartad.com
 0.0.0.0 co.ad.lgsmartad.com
+0.0.0.0 cr.ad.lgsmartad.com
+0.0.0.0 cz.ad.lgsmartad.com
 0.0.0.0 de.ad.lgsmartad.com
+0.0.0.0 dk.ad.lgsmartad.com
 0.0.0.0 do.ad.lgsmartad.com
 0.0.0.0 ec.ad.lgsmartad.com
 0.0.0.0 ee.ad.lgsmartad.com
@@ -1089,12 +1119,15 @@
 0.0.0.0 hn.ad.lgsmartad.com
 0.0.0.0 hu.ad.lgsmartad.com
 0.0.0.0 id.ad.lgsmartad.com
+0.0.0.0 ie.ad.lgsmartad.com
 0.0.0.0 il.ad.lgsmartad.com
 0.0.0.0 in.ad.lgsmartad.com
 0.0.0.0 iq.ad.lgsmartad.com
 0.0.0.0 kz.ad.lgsmartad.com
+0.0.0.0 lt.ad.lgsmartad.com
 0.0.0.0 mx.ad.lgsmartad.com
 0.0.0.0 my.ad.lgsmartad.com
+0.0.0.0 ng.ad.lgsmartad.com
 0.0.0.0 nl.ad.lgsmartad.com
 0.0.0.0 pa.ad.lgsmartad.com
 0.0.0.0 ph.ad.lgsmartad.com
@@ -1103,14 +1136,18 @@
 0.0.0.0 ro.ad.lgsmartad.com
 0.0.0.0 rs.ad.lgsmartad.com
 0.0.0.0 ru.ad.lgsmartad.com
+0.0.0.0 se.ad.lgsmartad.com
 0.0.0.0 sg.ad.lgsmartad.com
 0.0.0.0 sk.ad.lgsmartad.com
+0.0.0.0 sv.ad.lgsmartad.com
 0.0.0.0 th.ad.lgsmartad.com
 0.0.0.0 tr.ad.lgsmartad.com
 0.0.0.0 ua.ad.lgsmartad.com
 0.0.0.0 us.ad.lgsmartad.com
 0.0.0.0 ve.ad.lgsmartad.com
 0.0.0.0 vn.ad.lgsmartad.com
+0.0.0.0 za.ad.lgsmartad.com
+0.0.0.0 us.lgsmartad.com
 0.0.0.0 aic.cdpbeacon.lgtvcommon.com
 0.0.0.0 eic.cdpbeacon.lgtvcommon.com
 0.0.0.0 aic.homeprv.lgtvcommon.com

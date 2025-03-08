@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1737071400 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1741394820 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Samsung Tracker DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 16 Jan 2025 23:50 UTC
-; Version: 2025.0116.2350.12
+; Last modified: 08 Mar 2025 00:47 UTC
+; Version: 2025.0308.0047.02
 ; Syntax: RPZ
-; Number of entries: 376
+; Number of entries: 390
 ;
 matomo.samsungsdibs.at CNAME .
 *.matomo.samsungsdibs.at CNAME .
@@ -77,6 +77,8 @@ sia.internet.apps.samsung.com CNAME .
 *.sia.internet.apps.samsung.com CNAME .
 dls-account.di.atlas.samsung.com CNAME .
 *.dls-account.di.atlas.samsung.com CNAME .
+images.b2bindia.samsung.com CNAME .
+*.images.b2bindia.samsung.com CNAME .
 analytics.bigdata.samsung.com CNAME .
 *.analytics.bigdata.samsung.com CNAME .
 lp.americas.business.samsung.com CNAME .
@@ -89,20 +91,28 @@ tracking.apac.business.samsung.com CNAME .
 *.tracking.apac.business.samsung.com CNAME .
 tracking.europe.business.samsung.com CNAME .
 *.tracking.europe.business.samsung.com CNAME .
+images.it.business.samsung.com CNAME .
+*.images.it.business.samsung.com CNAME .
 seao.business.samsung.com CNAME .
 *.seao.business.samsung.com CNAME .
 channelusa.samsung.com CNAME .
 *.channelusa.samsung.com CNAME .
+images.chbusiness.samsung.com CNAME .
+*.images.chbusiness.samsung.com CNAME .
 dc.dqa.samsung.com CNAME .
 *.dc.dqa.samsung.com CNAME .
 event-tracking.samsung.com CNAME .
 *.event-tracking.samsung.com CNAME .
+images.frbusiness.samsung.com CNAME .
+*.images.frbusiness.samsung.com CNAME .
 bldr.mkt.samsung.com CNAME .
 *.bldr.mkt.samsung.com CNAME .
 analytics.mpay.samsung.com CNAME .
 *.analytics.mpay.samsung.com CNAME .
 nmetrics.samsung.com CNAME .
 *.nmetrics.samsung.com CNAME .
+images.partnersupport.samsung.com CNAME .
+*.images.partnersupport.samsung.com CNAME .
 plbusiness.samsung.com CNAME .
 *.plbusiness.samsung.com CNAME .
 sca.samsung.com CNAME .
@@ -113,6 +123,8 @@ tracking.smartbusiness.samsung.com CNAME .
 *.tracking.smartbusiness.samsung.com CNAME .
 smetrics.samsung.com CNAME .
 *.smetrics.samsung.com CNAME .
+images.ssbusiness.samsung.com CNAME .
+*.images.ssbusiness.samsung.com CNAME .
 bigdata.ssp.samsung.com CNAME .
 *.bigdata.ssp.samsung.com CNAME .
 target-us.samsung.com CNAME .
@@ -197,6 +209,8 @@ tracking.mkt-email.samsungsds.com CNAME .
 *.tracking.mkt-email.samsungsds.com CNAME .
 samsungtvads.com CNAME .
 *.samsungtvads.com CNAME .
+business.samsungusa.com CNAME .
+*.business.samsungusa.com CNAME .
 api-samsung.swypeconnect.com CNAME .
 *.api-samsung.swypeconnect.com CNAME .
 lbs-samsung.swypeconnect.com CNAME .

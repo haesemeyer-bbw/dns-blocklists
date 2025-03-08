@@ -183,6 +183,13 @@
       }
     },
     {
+      "PK": "business.samsungusa.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "channelusa.samsung.com",
       "action": {
         "do": 0,
@@ -296,6 +303,48 @@
     },
     {
       "PK": "gld.samsungosp.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "images.b2bindia.samsung.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "images.chbusiness.samsung.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "images.frbusiness.samsung.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "images.it.business.samsung.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "images.partnersupport.samsung.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "images.ssbusiness.samsung.com",
       "action": {
         "do": 0,
         "status": 1

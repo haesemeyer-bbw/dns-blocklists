@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 07 Mar 2025 15:57 UTC
-# Version: 2025.0307.1557.37
+# Last modified: 07 Mar 2025 23:53 UTC
+# Version: 2025.0307.2353.14
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 2221
+# Number of entries: 2214
 #
 local=/000a.de/
 local=/000space.com/
@@ -1161,12 +1161,6 @@ local=/happy-couple.com/
 local=/harise.shop/
 local=/hase.in/
 local=/hashnode.dev/
-local=/hateblo.jp/
-local=/hatenablog.com/
-local=/hatenablog.jp/
-local=/hatenadiary.com/
-local=/hatenadiary.jp/
-local=/hatenadiary.org/
 local=/hautetfort.com/
 local=/healthyemployee.me/
 local=/helioho.st/
@@ -1827,7 +1821,6 @@ local=/square7.ch/
 local=/srv1.org/
 local=/ss-blog.jp/
 local=/ssnblog.com/
-local=/st-hatena.com/
 local=/st20.com/
 local=/standardseoservices.com/
 local=/starman.ee/

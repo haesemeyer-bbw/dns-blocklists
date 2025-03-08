@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1741348860 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1741394940 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 07 Mar 2025 12:01 UTC
-; Version: 2025.0307.1201.47
+; Last modified: 08 Mar 2025 00:49 UTC
+; Version: 2025.0308.0049.20
 ; Syntax: RPZ
-; Number of entries: 20768
+; Number of entries: 20772
 ;
 prosperi.academy CNAME .
 *.prosperi.academy CNAME .
@@ -4119,6 +4119,8 @@ elinardi.com CNAME .
 *.elinardi.com CNAME .
 eliostrategy.com CNAME .
 *.eliostrategy.com CNAME .
+elisehassoun.com CNAME .
+*.elisehassoun.com CNAME .
 elite-real-estate.com CNAME .
 *.elite-real-estate.com CNAME .
 eliteai-t.com CNAME .
@@ -4545,6 +4547,8 @@ fashionssurf.com CNAME .
 *.fashionssurf.com CNAME .
 fashionstb.com CNAME .
 *.fashionstb.com CNAME .
+fashionsviolet.com CNAME .
+*.fashionsviolet.com CNAME .
 fashionusregion.com CNAME .
 *.fashionusregion.com CNAME .
 fashionvila.com CNAME .
@@ -7009,8 +7013,6 @@ lifestyleshoe.com CNAME .
 *.lifestyleshoe.com CNAME .
 lightcanarm.com CNAME .
 *.lightcanarm.com CNAME .
-lightingarroyo.com CNAME .
-*.lightingarroyo.com CNAME .
 lightingoxygen.com CNAME .
 *.lightingoxygen.com CNAME .
 lightsplaza.com CNAME .
@@ -7501,8 +7503,6 @@ metallurgydaily.com CNAME .
 *.metallurgydaily.com CNAME .
 metallurgyglobal.com CNAME .
 *.metallurgyglobal.com CNAME .
-metalworking-tools.com CNAME .
-*.metalworking-tools.com CNAME .
 metatrada.com CNAME .
 *.metatrada.com CNAME .
 metricgurus.com CNAME .
@@ -8619,6 +8619,8 @@ outdoorpetzl.com CNAME .
 *.outdoorpetzl.com CNAME .
 outdoorrecreationplay.com CNAME .
 *.outdoorrecreationplay.com CNAME .
+outdoorreisenexperte.com CNAME .
+*.outdoorreisenexperte.com CNAME .
 outdoorsback.com CNAME .
 *.outdoorsback.com CNAME .
 outdoorsbackpack.com CNAME .
@@ -8827,6 +8829,8 @@ partenaire-finance.com CNAME .
 *.partenaire-finance.com CNAME .
 pasadenablues.com CNAME .
 *.pasadenablues.com CNAME .
+pasargadrugs.com CNAME .
+*.pasargadrugs.com CNAME .
 patainfel.com CNAME .
 *.patainfel.com CNAME .
 patrimoine-partenaires.com CNAME .

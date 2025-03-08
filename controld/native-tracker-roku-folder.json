@@ -148,20 +148,6 @@
       }
     },
     {
-      "PK": "adletsvc.geo.prod.ap.int.roku.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "adletsvc.geo.staging.ap.int.roku.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "admin-advertising.roku.com",
       "action": {
         "do": 0,

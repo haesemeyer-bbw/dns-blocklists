@@ -5,10 +5,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 24 Jan 2025 17:34 UTC
-! Version: 2025.0124.1734.08
+! Last modified: 08 Mar 2025 00:44 UTC
+! Version: 2025.0308.0044.32
 ! Syntax: AdBlock
-! Number of entries: 359
+! Number of entries: 365
 !
 ||traffic-media.co.uk^
 ||ad.intl.xiaomi.com.edgesuite.net^
@@ -30,6 +30,13 @@
 ||sdk-cache.video.ptqy.gitv.tv^
 ||time.video.ptqy.gitv.tv^
 ||openapi.vip.ptqy.gitv.tv^
+||app.chat.global.xiaomi.net.iberostar.com^
+||resolver.msg.global.xiaomi.net.iberostar.com^
+||find.api.micloud.xiaomi.net.iberostar.com^
+||us.appbackupapi.micloud.xiaomi.net.iberostar.com^
+||us.micardapi.micloud.xiaomi.net.iberostar.com^
+||us.noteapi.micloud.xiaomi.net.iberostar.com^
+||us.pdc.micloud.xiaomi.net.iberostar.com^
 ||ad.intl.xiaomi.com.ksyna.net^
 ||kuyun.com^
 ||ad.mi.com^
@@ -263,7 +270,6 @@
 ||statusapi.micloud.xiaomi.net^
 ||tv.app.migc.xiaomi.com^
 ||invoice.netroam.mihome.xiaomi.net^
-||abtest.mistat.xiaomi.com^
 ||data.mistat.xiaomi.com^
 ||storeconfig.mistat.xiaomi.com^
 ||file.cdn.mvideo.xiaomi.com^

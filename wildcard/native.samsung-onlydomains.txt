@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 16 Jan 2025 23:50 UTC
-# Version: 2025.0116.2350.12
+# Last modified: 08 Mar 2025 00:47 UTC
+# Version: 2025.0308.0047.02
 # Syntax: Domains (without subdomains)
-# Number of entries: 188
+# Number of entries: 195
 #
 samsung-com.112.2o7.net
 metric.account-samsung.com
@@ -93,24 +93,30 @@ zneysvtqyfhzf6n4p-samsungeurope.siteintercept.qualtrics.com
 config-api.internet.apps.samsung.com
 sia.internet.apps.samsung.com
 dls-account.di.atlas.samsung.com
+images.b2bindia.samsung.com
 analytics.bigdata.samsung.com
 lp.americas.business.samsung.com
 tracking.americas.business.samsung.com
 lp.apac.business.samsung.com
 tracking.apac.business.samsung.com
 tracking.europe.business.samsung.com
+images.it.business.samsung.com
 seao.business.samsung.com
 channelusa.samsung.com
+images.chbusiness.samsung.com
 dc.dqa.samsung.com
 event-tracking.samsung.com
+images.frbusiness.samsung.com
 bldr.mkt.samsung.com
 analytics.mpay.samsung.com
 nmetrics.samsung.com
+images.partnersupport.samsung.com
 plbusiness.samsung.com
 sca.samsung.com
 lp.smartbusiness.samsung.com
 tracking.smartbusiness.samsung.com
 smetrics.samsung.com
+images.ssbusiness.samsung.com
 bigdata.ssp.samsung.com
 target-us.samsung.com
 samsungacr.com
@@ -165,6 +171,7 @@ matomo.samsungsdibs.at
 lp.mkt-email.samsungsds.com
 tracking.mkt-email.samsungsds.com
 samsungtvads.com
+business.samsungusa.com
 api-samsung.swypeconnect.com
 lbs-samsung.swypeconnect.com
 samsungau.api.useinsider.com

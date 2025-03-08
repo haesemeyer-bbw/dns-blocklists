@@ -48,6 +48,7 @@ aadrm.com
 yu.ac.kr
 ac24horas.com
 accountkit.com
+graph.accountkit.com
 netweather.accuweather.com
 clarity.acdcorp.com
 acdid.acdsystems.com
@@ -59,9 +60,7 @@ dns-c.iij.ad.jp
 ad-shield.io
 adapty.io
 api.adapty.io
-adfixus.com
 afx.adfixus.com
-ad-block.dns.adguard.com
 admeen.org
 ccf.admeen.org
 tcf.admeen.org
@@ -107,7 +106,6 @@ airydress.com
 tracker-g.aiscore.com
 pop-iad-2.cf.dash.row.aiv-cdn.net
 onecollector.cloudapp.aria.akadns.net
-nlog.naver.com.akadns.net
 advertising-cdn.walmart.com.akadns.net
 eip-ntt.audio-ak.spotify.com.akahost.net
 eip-tata.audio-ak.spotify.com.akahost.net
@@ -343,6 +341,7 @@ api-ap-southeast-2-production.boxever.com
 bpltm.com
 bpmonline.com
 www.bpmonline.com
+pub40.bravenet.com
 brid.tv
 cdn.brid.tv
 p.brid.tv
@@ -402,6 +401,7 @@ filebroker-cdn.lazada.com.my.9d2b5122.cdnhwcchh18.com
 filebroker-cdn.lazada.com.ph.9d2b5122.cdnhwcchh18.com
 filebroker-cdn.lazada.sg.9d2b5122.cdnhwcchh18.com
 filebroker-cdn.lazada.co.th.9d2b5122.cdnhwcchh18.com
+filebroker-cdn.lazada.vn.9d2b5122.cdnhwcchh18.com
 cdnhwcick110.com
 platform.cdninstagram.com
 cdntips.net
@@ -457,7 +457,6 @@ analytics-us10.hr.cloud.sap
 analytics-us20.hr.cloud.sap
 sway.cloud.microsoft
 clarity.dexcom.com.cdn.cloudflare.net
-tracking.rosettastone.com.cdn.cloudflare.net
 d1gw63jeifbb1b.cloudfront.net
 d1mj578wat5n4o.cloudfront.net
 d291vdycu0ht11.cloudfront.net
@@ -523,7 +522,6 @@ codeblackbelt.com
 www.codeblackbelt.com
 coinminerz.com
 cointiply.com
-www.cointiply.com
 coloros.com
 www.coloros.com
 viaggiare.columbusassicurazioni.it
@@ -597,14 +595,12 @@ www.consentmanager.net
 consoletarget.com
 eu2.contabostorage.com
 content-loader.com
-fb.content-loader.com
 contentpass.net
 get.contentpass.net
 contextly.com
 analytics.controld.com
 controlup.com
 www.controlup.com
-cdn.cookie-script.com
 chs03.cookie-script.com
 consent.cookiebot.eu
 consentcdn.cookiebot.com
@@ -643,7 +639,6 @@ edge-west.customer.io
 track.cvs.com
 cxense.com
 cy-pr.com
-www.cy-pr.com
 service.cz.nl
 www.service.cz.nl
 zakelijk.cz.nl
@@ -651,7 +646,6 @@ www.zakelijk.cz.nl
 tdn.da-services.ch
 dailycaller.com
 dailycamera.com
-www.dailycamera.com
 dnsseed.bitcoin.dashjr.org
 tracker.datacenterlight.ch
 datadoghq.eu
@@ -943,6 +937,7 @@ plv.geocomply.com
 sentry.geocomply.com
 www.geocomply.com
 geolocation-db.com
+get-express-vpn.com
 getadjacent.com
 getbeamer.com
 www.getbeamer.com
@@ -1018,7 +1013,6 @@ config-vvs.glomex.com
 player-feedback-v1.glomex.com
 gm99.com
 www.gm99.com
-cov.gmlinteractive.com
 insights-collector.gog.com
 adssettings.google.com
 analytics-alv.google.com
@@ -1036,7 +1030,6 @@ firebasedynamiclinks-ipv4.googleapis.com
 firebasedynamiclinks-ipv6.googleapis.com
 firebaseinappmessaging.googleapis.com
 firebaseinstallations.googleapis.com
-firebaseremoteconfig.googleapis.com
 geomobileservices-pa.googleapis.com
 imasdk.googleapis.com
 jnn-pa.googleapis.com
@@ -1101,7 +1094,6 @@ mdp-appconf-bh.heytapdl.com
 mdp-appconf-bo.heytapdl.com
 mdp-appconf-br.heytapdl.com
 mdp-appconf-by.heytapdl.com
-mdp-appconf-ca.heytapdl.com
 mdp-appconf-ch.heytapdl.com
 mdp-appconf-chl.heytapdl.com
 mdp-appconf-cn.heytapdl.com
@@ -1217,11 +1209,9 @@ hyperdx.io
 iadvize.com
 lc.iadvize.com
 icanhazip.com
-www.icanhazip.com
 ka.images.icas.io
 tracking.icims.com
 analytics.icis.com
-ad.uslax.icloud-content.com
 iesnare.com
 mpsnare.iesnare.com
 ifrype.com
@@ -1272,7 +1262,6 @@ internalfb.com
 www.internalfb.com
 sso.internetat.tv
 interserver.net
-www.interserver.net
 api.intuit.com
 apppersonalization.api.intuit.com
 beyonduserpaid.api.intuit.com
@@ -1301,9 +1290,7 @@ h3.iot-dns.com
 us-d-master-tutk.iotcplatform.com
 iovation.com
 ip-adress.com
-www.ip-adress.com
 ip-tracker.org
-www.ip-tracker.org
 ip2location.com
 ipapi.co
 api.ipapi.com
@@ -1317,8 +1304,6 @@ ipstack.com
 iptools.su
 static.iterable.com
 itracmediav4.com
-itsfogo.com
-www.itsfogo.com
 metrics.ix.nz
 izatcloud.net
 xtrapath1.izatcloud.net
@@ -1327,7 +1312,6 @@ xtrapath3.izatcloud.net
 jackjones.com
 www.jackjones.com
 jango.com
-www.jango.com
 javhdporn.net
 glitchtip.jgeek00.com
 jobbio.com
@@ -1372,7 +1356,6 @@ klevu.com
 myim3banner.kloc.co
 knet.cn
 stats.kontomanager.at
-omsc.kpn.com
 sharing.kptncook.com
 ksapisrv.com
 apissl.ksapisrv.com
@@ -1409,35 +1392,7 @@ gb.lgrecommends.lgappstv.com
 aic-ngfts.lge.com
 lgsmartad.com
 info.lgsmartad.com
-be.info.lgsmartad.com
-br.info.lgsmartad.com
-ca.info.lgsmartad.com
-cl.info.lgsmartad.com
-co.info.lgsmartad.com
-de.info.lgsmartad.com
-do.info.lgsmartad.com
-dz.info.lgsmartad.com
-ec.info.lgsmartad.com
-eu7.info.lgsmartad.com
-gb.info.lgsmartad.com
-gr.info.lgsmartad.com
-gt.info.lgsmartad.com
-hk.info.lgsmartad.com
-hn.info.lgsmartad.com
-hu.info.lgsmartad.com
-id.info.lgsmartad.com
-kz.info.lgsmartad.com
-me.info.lgsmartad.com
-nl.info.lgsmartad.com
-ph.info.lgsmartad.com
-ro.info.lgsmartad.com
-rs.info.lgsmartad.com
-ru.info.lgsmartad.com
-sg.info.lgsmartad.com
-th.info.lgsmartad.com
-tr.info.lgsmartad.com
 us.info.lgsmartad.com
-ve.info.lgsmartad.com
 vn.info.lgsmartad.com
 www.lgsmartad.com
 kic.cdpsvc.lgtvcommon.com
@@ -1532,8 +1487,6 @@ long.xxx
 lookbookhq.com
 app.cdn.lookbookhq.com
 www.lookbookhq.com
-lookmovie2.to
-www.lookmovie2.to
 lowendbox.com
 lpsnmedia.net
 accdn-a.lpsnmedia.net
@@ -1683,7 +1636,6 @@ mpeasylink.com
 mradx.net
 r.mradx.net
 cdn.mrkhub.com
-aadcdn.msauth.net
 msgs.jp
 assets.msn.cn
 g.msn.com
@@ -1705,6 +1657,7 @@ tracker-api.namitiyu.com
 tracker-api-s.namitiyu.com
 domain-track.prod20.narvar.com
 tracking.domain-track.prod20.narvar.com
+adimg.nate.com
 naturalnews.com
 www.naturalnews.com
 adcr.naver.com
@@ -1741,7 +1694,6 @@ nimiq.com
 nimiq.watch
 pool.nimiq.watch
 www.nimiq.com
-nitrogensports.eu
 tracker.nofap.com
 nofluffjobs.com
 non.li
@@ -1999,12 +1951,8 @@ telemetry.eu-frankfurt-1.oraclecloud.com
 telemetry.eu-zurich-1.oraclecloud.com
 telemetry.ap-mumbai-1.oci.oraclecloud.com
 telemetry.ca-montreal-1.oci.oraclecloud.com
-logging.eu-frankfurt-1.oci.oraclecloud.com
 telemetry.eu-madrid-1.oci.oraclecloud.com
-logging.us-ashburn-1.oci.oraclecloud.com
 telemetry.us-ashburn-1.oci.oraclecloud.com
-logging.us-chicago-1.oci.oraclecloud.com
-logging.us-phoenix-1.oci.oraclecloud.com
 analytics.ocp.oraclecloud.com
 telemetry.sa-bogota-1.oraclecloud.com
 telemetry.uk-cardiff-1.oraclecloud.com
@@ -2097,8 +2045,6 @@ abstatic.pmosvc.io
 game.pmosvc.io
 administrator.pnclassaction.com
 podscribe.com
-podtrac.com
-www.podtrac.com
 5dd25432-015f-11ea-ad56-9cb6d0d995f7.poki-gdn.com
 5dd264d4-015f-11ea-ad56-9cb6d0d995f7.poki-gdn.com
 5dd28e51-015f-11ea-ad56-9cb6d0d995f7.poki-gdn.com
@@ -2143,7 +2089,6 @@ geo.privacymanager.io
 proff.se
 proofpoint.com
 urldefense.proofpoint.com
-www.proofpoint.com
 propellerheads.se
 reports.proton.me
 proxad.net
@@ -2160,7 +2105,6 @@ cmp.pubtech.ai
 push.delivery
 pushbullet.com
 widget.pushbullet.com
-www.pushbullet.com
 pusher.com
 js.pusher.com
 sockjs.pusher.com
@@ -2194,6 +2138,8 @@ ak.quantcast.com
 cmp.quantcast.com
 apis.cmp.quantcast.com
 test.cmp.quantcast.com
+quartic.pl
+rec.quartic.pl
 questback.com
 www.questback.com
 ablink.account.quizlet.com
@@ -2220,7 +2166,6 @@ analytics.rbleipzig.com
 c0aws.rbxcdn.com
 c0cfly.rbxcdn.com
 rdstation.com
-www.rdstation.com
 assets.realclear.com
 realmemobile.com
 realtimestatistics.net
@@ -2235,7 +2180,6 @@ jsv3.recruitics.com
 recursos-tpnet.es
 qm.redbull.com
 redbutton-adproxy-lb-prod.redbutton.de
-conversions-config.reddit.com
 im.rediff.com
 redventures.io
 adtech.redventures.io
@@ -2260,13 +2204,11 @@ static.cdn.responsys.net
 resultify.com
 resultify.se
 static.returngo.ai
-api.revenuecat.com
 revinate.com
 www.revinate.com
 get.revolut.com
 beyondmeasure.rigoltech.com
 riotpixels.net
-ad.rit.edu
 track.roadie.com
 ephemeralcounters.api.roblox.com
 locale.roblox.com
@@ -2294,7 +2236,6 @@ tracker.rutor.is
 tracking.s-kaupat.fi
 s1search.co
 s3blog.org
-www.s3blog.org
 sajari.com
 la1-c2-iad.salesforceliveagent.com
 d.la1-c2-iad.salesforceliveagent.com
@@ -2428,16 +2369,13 @@ signalfx.com
 www.signalfx.com
 live.simcitybuildit.com
 simplyhired.com
-www.simplyhired.com
 seed.bitcoin.sipa.be
 siteheart.com
 assets.sitescdn.net
 sjv.io
 skidrow-games.com
-www.skidrow-games.com
 skyticket.sky.de
 go.trouter.skype.com
-pixel.disco.skyshowtime.com
 hooks.slack.com
 slashdot.org
 slido.com
@@ -2485,7 +2423,6 @@ damoh.spiegel.de
 auth.split.io
 cdn.split.io
 sdk.split.io
-streaming.split.io
 post.spmailtechnol.com
 api-2-0.spot.im
 seo.spot.im
@@ -2547,7 +2484,6 @@ app.sysdigcloud.com
 systweak.com
 www.systweak.com
 tabooporn.tv
-www.tabooporn.tv
 track.talabat.com
 cdn259.talksport.com
 audid-api.taobao.com
@@ -2565,6 +2501,8 @@ ping.cloud.tencent.com
 tenping.kr
 termly.io
 app.termly.io
+telemetry-prd.ap.tesla.services
+telemetry-prd.vn.tesla.services
 telemetry.teslafi.com
 telemetry.tessie.com
 test-app.link
@@ -2608,7 +2546,6 @@ www.tmz.com
 tns-sifo.se
 ping1.tnt-ea.com
 track.toggl.com
-api.track.toggl.com
 tollfreeforwarding.com
 www.tollfreeforwarding.com
 top.lv
@@ -2616,6 +2553,8 @@ top-shop.ru
 www.top-shop.ru
 toptracker.ru
 metrics.torproject.org
+totalav.com
+www.totalav.com
 totalh.net
 tigger-citadel.touchtype-fluency.com
 toyscenter.it
@@ -2732,6 +2671,7 @@ www.vbsedit.com
 go.vertexsmb.com
 veteranstoday.com
 www.veteranstoday.com
+viafoura.net
 vidgyor.com
 vidyard.com
 www.vidyard.com
@@ -2763,7 +2703,6 @@ waaw.to
 br.eml.walgreens.com
 clear.wallapop.com
 advertising.walmart.com
-omniture.walmart.com
 cpm.wargaming.net
 wargaming-aff.com
 warthunder.com
@@ -2837,7 +2776,6 @@ mistat.xiaomi.com
 resolver.msg.xiaomi.net
 music.xiaomi.com
 register.xmpush.xiaomi.com
-path1.xtracloud.net
 msg2.client.xunlei.com
 xzone.cz
 yadro.ru
@@ -2852,7 +2790,6 @@ push.yandex.ru
 share.yandex.ru
 strm.yandex.net
 yabs.yandex.ru
-yastatic.net
 oimagea2.ydstatic.com
 yeshen.com
 www.yeshen.com

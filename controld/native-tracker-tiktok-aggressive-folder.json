@@ -36,6 +36,13 @@
       }
     },
     {
+      "PK": "ad-instantpage-ttp2.tiktokv.us",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "ad-instantpage-va.tiktokv.com",
       "action": {
         "do": 0,
@@ -1437,6 +1444,13 @@
     },
     {
       "PK": "mon-ru.tiktokv.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "mon-sg.byteoversea.com",
       "action": {
         "do": 0,
         "status": 1

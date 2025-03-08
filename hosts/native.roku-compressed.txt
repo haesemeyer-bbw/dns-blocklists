@@ -4,8 +4,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 18 Jan 2025 19:15 UTC
-# Version: 2025.0118.1915.22
+# Last modified: 08 Mar 2025 00:39 UTC
+# Version: 2025.0308.0039.15
 # Syntax: Hosts compressed (9 per line, including possible subdomains)
 # Number of entries: 19
 #
@@ -18,13 +18,13 @@
 0.0.0.0 cloudservices.roku.com samples.voice.cti.roku.com ravm-qa-e.data.roku.com ravm-qa-w.data.roku.com ravm-staging.data.roku.com ravm-staging-e.data.roku.com ravm-staging-w.data.roku.com ads-aka-us-east-1.delivery.roku.com ads-aka-us-west-2.delivery.roku.com
 0.0.0.0 ads-cf-us-east-1.delivery.roku.com ads-cf-us-west-2.delivery.roku.com ads-us-east-1.delivery.roku.com ads-us-east-2.delivery.roku.com ads-us-west-2.delivery.roku.com ads-cf-us-east-1.dev.delivery.roku.com osm-ads.delivery.roku.com osm-ads-aka.delivery.roku.com osm-ads-cf.delivery.roku.com
 0.0.0.0 ads.gcp.roku.com dev.ads.gcp.roku.com europe-west3.dev.ads.gcp.roku.com us-east4.dev.ads.gcp.roku.com adeng-qa-device.us-east4.dev.ads.gcp.roku.com adeng-staging.us-east4.dev.ads.gcp.roku.com us-west1.dev.ads.gcp.roku.com us-east4.ads.gcp.roku.com adeng-staging-device.us-east4.ads.gcp.roku.com
-0.0.0.0 us-west1.ads.gcp.roku.com adletsvc.geo.prod.ap.int.roku.com adletsvc.geo.staging.ap.int.roku.com ad.prod.rpay.int.roku.com ad-bl.prod.rpay.int.roku.com ad-eng.prod.rpay.int.roku.com ad-eng-pci.prod.rpay.int.roku.com ad-eng-pci-bl.prod.rpay.int.roku.com ad-eng-bl.use1.prod.rpay.int.roku.com
-0.0.0.0 ad-eng-pci-bl.use1.prod.rpay.int.roku.com ad-eng-bl.usw2.prod.rpay.int.roku.com ad-eng-pci-bl.usw2.prod.rpay.int.roku.com ad.staging.rpay.int.roku.com ad-eng.staging.rpay.int.roku.com ad-bl.usw2.staging.rpay.int.roku.com logs.roku.com austin.logs.roku.com bailey.logs.roku.com
-0.0.0.0 benjamin.logs.roku.com benjamin-w.logs.roku.com brewster.logs.roku.com cooper.logs.roku.com digdug.logs.roku.com digdug-g2.logs.roku.com esp.logs.roku.com external.logs.roku.com aws.external.logs.roku.com
-0.0.0.0 use1.aws.external.logs.roku.com g3.logs.roku.com giga.logs.roku.com griffin.logs.roku.com lagrange.logs.roku.com liberty.logs.roku.com littlefield.logs.roku.com lockhart.logs.roku.com logan.logs.roku.com
-0.0.0.0 longview.logs.roku.com lt.logs.roku.com madison.logs.roku.com marlin.logs.roku.com midland.logs.roku.com mobile.logs.roku.com mustang.logs.roku.com nemo.logs.roku.com os-12-5-alpha.logs.roku.com
-0.0.0.0 paolo.logs.roku.com pico.logs.roku.com richmond.logs.roku.com rockett.logs.roku.com scribe.logs.roku.com sugarland.logs.roku.com tyler.logs.roku.com victoria.logs.roku.com weighted.logs.roku.com
-0.0.0.0 windsor.logs.roku.com blog-advertising.msc.roku.com advertising-qa.us-east-1.dev.msc.roku.com advertising-v3-qa.us-east-1.dev.msc.roku.com blog-advertising-qa.us-east-1.dev.msc.roku.com blog-advertising-v2-qa.us-east-1.dev.msc.roku.com advertising.qa.us-east-1.dev.msc.roku.com advertising.us-east-1.msc.roku.com advertising-v3.us-east-1.msc.roku.com
-0.0.0.0 blog-advertising-v2.us-east-1.msc.roku.com ad-eng-pci-bl.geoproximity.rpay.roku.com ad-bl.geoproximity.staging.rpay.roku.com ad-eng-bl.geoproximity.staging.rpay.roku.com ad-eng-pci-bl.geoproximity.staging.rpay.roku.com assets.sr.roku.com item-tracking.dev.sr.roku.com logs.dev.sr.roku.com traces.dev.sr.roku.com
-0.0.0.0 traces-us-east-1.dev.sr.roku.com traces-us-west-2.dev.sr.roku.com userdata.dev.sr.roku.com logs.sr.roku.com traces.sr.roku.com userdata.sr.roku.com ads.staging.roku.com login.ads.staging.roku.com wwwimg.staging.roku.com
-0.0.0.0 customer-feedbacks.web.roku.com methodofpay-ads.web.roku.com pixel.web.roku.com pixel.staging.web.roku.com wwwimg.roku.com 
+0.0.0.0 us-west1.ads.gcp.roku.com ad.prod.rpay.int.roku.com ad-bl.prod.rpay.int.roku.com ad-eng.prod.rpay.int.roku.com ad-eng-pci.prod.rpay.int.roku.com ad-eng-pci-bl.prod.rpay.int.roku.com ad-eng-bl.use1.prod.rpay.int.roku.com ad-eng-pci-bl.use1.prod.rpay.int.roku.com ad-eng-bl.usw2.prod.rpay.int.roku.com
+0.0.0.0 ad-eng-pci-bl.usw2.prod.rpay.int.roku.com ad.staging.rpay.int.roku.com ad-eng.staging.rpay.int.roku.com ad-bl.usw2.staging.rpay.int.roku.com logs.roku.com austin.logs.roku.com bailey.logs.roku.com benjamin.logs.roku.com benjamin-w.logs.roku.com
+0.0.0.0 brewster.logs.roku.com cooper.logs.roku.com digdug.logs.roku.com digdug-g2.logs.roku.com esp.logs.roku.com external.logs.roku.com aws.external.logs.roku.com use1.aws.external.logs.roku.com g3.logs.roku.com
+0.0.0.0 giga.logs.roku.com griffin.logs.roku.com lagrange.logs.roku.com liberty.logs.roku.com littlefield.logs.roku.com lockhart.logs.roku.com logan.logs.roku.com longview.logs.roku.com lt.logs.roku.com
+0.0.0.0 madison.logs.roku.com marlin.logs.roku.com midland.logs.roku.com mobile.logs.roku.com mustang.logs.roku.com nemo.logs.roku.com os-12-5-alpha.logs.roku.com paolo.logs.roku.com pico.logs.roku.com
+0.0.0.0 richmond.logs.roku.com rockett.logs.roku.com scribe.logs.roku.com sugarland.logs.roku.com tyler.logs.roku.com victoria.logs.roku.com weighted.logs.roku.com windsor.logs.roku.com blog-advertising.msc.roku.com
+0.0.0.0 advertising-qa.us-east-1.dev.msc.roku.com advertising-v3-qa.us-east-1.dev.msc.roku.com blog-advertising-qa.us-east-1.dev.msc.roku.com blog-advertising-v2-qa.us-east-1.dev.msc.roku.com advertising.qa.us-east-1.dev.msc.roku.com advertising.us-east-1.msc.roku.com advertising-v3.us-east-1.msc.roku.com blog-advertising-v2.us-east-1.msc.roku.com ad-eng-pci-bl.geoproximity.rpay.roku.com
+0.0.0.0 ad-bl.geoproximity.staging.rpay.roku.com ad-eng-bl.geoproximity.staging.rpay.roku.com ad-eng-pci-bl.geoproximity.staging.rpay.roku.com assets.sr.roku.com item-tracking.dev.sr.roku.com logs.dev.sr.roku.com traces.dev.sr.roku.com traces-us-east-1.dev.sr.roku.com traces-us-west-2.dev.sr.roku.com
+0.0.0.0 userdata.dev.sr.roku.com logs.sr.roku.com traces.sr.roku.com userdata.sr.roku.com ads.staging.roku.com login.ads.staging.roku.com wwwimg.staging.roku.com customer-feedbacks.web.roku.com methodofpay-ads.web.roku.com
+0.0.0.0 pixel.web.roku.com pixel.staging.web.roku.com wwwimg.roku.com 

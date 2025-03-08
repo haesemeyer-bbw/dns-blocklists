@@ -148,13 +148,6 @@
       }
     },
     {
-      "PK": "adstore.response.eastus.trafficmanager.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "adstore.response.gcp.eastus.trafficmanager.net",
       "action": {
         "do": 0,
@@ -1549,6 +1542,13 @@
     },
     {
       "PK": "pgtbr1-word-telemetry-vip.officeapps.live.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "pgtbr2-excel-telemetry-vip.officeapps.live.com",
       "action": {
         "do": 0,
         "status": 1

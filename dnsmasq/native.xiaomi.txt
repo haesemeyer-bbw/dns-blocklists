@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 24 Jan 2025 17:34 UTC
-# Version: 2025.0124.1734.08
+# Last modified: 08 Mar 2025 00:44 UTC
+# Version: 2025.0308.0044.32
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 359
+# Number of entries: 365
 #
 local=/traffic-media.co.uk/
 local=/ad.intl.xiaomi.com.edgesuite.net/
@@ -29,6 +29,13 @@ local=/msg2.video.ptqy.gitv.tv/
 local=/sdk-cache.video.ptqy.gitv.tv/
 local=/time.video.ptqy.gitv.tv/
 local=/openapi.vip.ptqy.gitv.tv/
+local=/app.chat.global.xiaomi.net.iberostar.com/
+local=/resolver.msg.global.xiaomi.net.iberostar.com/
+local=/find.api.micloud.xiaomi.net.iberostar.com/
+local=/us.appbackupapi.micloud.xiaomi.net.iberostar.com/
+local=/us.micardapi.micloud.xiaomi.net.iberostar.com/
+local=/us.noteapi.micloud.xiaomi.net.iberostar.com/
+local=/us.pdc.micloud.xiaomi.net.iberostar.com/
 local=/ad.intl.xiaomi.com.ksyna.net/
 local=/kuyun.com/
 local=/ad.mi.com/
@@ -262,7 +269,6 @@ local=/galleryapi.micloud.xiaomi.net/
 local=/statusapi.micloud.xiaomi.net/
 local=/tv.app.migc.xiaomi.com/
 local=/invoice.netroam.mihome.xiaomi.net/
-local=/abtest.mistat.xiaomi.com/
 local=/data.mistat.xiaomi.com/
 local=/storeconfig.mistat.xiaomi.com/
 local=/file.cdn.mvideo.xiaomi.com/

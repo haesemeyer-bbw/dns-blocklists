@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 01 Mar 2025 00:12 UTC
-# Version: 2025.0301.0012.43
+# Last modified: 08 Mar 2025 00:27 UTC
+# Version: 2025.0308.0027.57
 # Syntax: Domains (without subdomains)
-# Number of entries: 335
+# Number of entries: 334
 #
 aan.amazon.co.jp
 aan.amazon.com
@@ -229,7 +229,6 @@ monitoring.eu-west-3.amazonaws.com
 monitoring.il-central-1.amazonaws.com
 monitoring.me-central-1.amazonaws.com
 monitoring.me-south-1.amazonaws.com
-monitoring.prod.cloudwatch.amazonaws.com
 monitoring.sa-east-1.amazonaws.com
 monitoring.us-east-1.amazonaws.com
 monitoring.us-east-2.amazonaws.com

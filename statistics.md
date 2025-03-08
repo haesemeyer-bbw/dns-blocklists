@@ -10,7 +10,7 @@
  Nr | Included | Dead | Removed | URL/File
   1 |     100% |   0% |      0% | Predecessor: Multi Light
   2 |      75% |  17% |      8% | Denylist Personal
-  3 |      66% |   3% |     31% | Extracted Wildcard Rules
+  3 |      65% |   3% |     32% | Extracted Wildcard Rules
   4 |      46% |   0% |     54% | Native Tracker Apple (iOS, macOS, tvOS)
   5 |      61% |   0% |     39% | Native Tracker Amazon (Devices, Shopping, Video)
   6 |      77% |   0% |     23% | Native Tracker Huawei (Devices)
@@ -22,12 +22,12 @@
  12 |      87% |   9% |      4% | Denylist Community non-Aggressive
  13 |      86% |   7% |      7% | AdGuard FirstParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads)
  14 |      78% |  10% |     12% | EasyList FirstParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
- 15 |      94% |   5% |      1% | uBlock FirstParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
+ 15 |      95% |   4% |      1% | uBlock FirstParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
  16 |     100% |   0% |      0% | Native Tracker Vivo (EXPERIMENTAL)
  17 |      98% |   0% |      2% | Native Tracker OPPO/Realme (EXPERIMENTAL)
- 18 |      93% |   0% |      7% | Native Tracker Xiaomi (Devices)
- 19 |      90% |   0% |     10% | Native Tracker Samsung (Devices)
- 20 |      98% |   1% |      1% | Native Tracker Roku (Devices)
+ 18 |      92% |   0% |      8% | Native Tracker Xiaomi (Devices)
+ 19 |      87% |   0% |     13% | Native Tracker Samsung (Devices)
+ 20 |      99% |   0% |      1% | Native Tracker Roku (Devices)
  21 |      61% |  35% |      4% | Analytics/Metrics Extension
  22 |      89% |  11% |      0% | Balanced Extension
 ```
@@ -41,7 +41,7 @@
   5 |      90% |   0% |     10% | Native Tracker Amazon (Devices, Shopping, Video)
   6 |     100% |   0% |      0% | Native Tracker Huawei (Devices)
   7 |     100% |   0% |      0% | Native Tracker LG webOS
-  8 |      83% |   0% |     17% | Native Tracker TikTok (Fingerprinting)
+  8 |      84% |   0% |     16% | Native Tracker TikTok (Fingerprinting)
   9 |      62% |   0% |     38% | Native Tracker Microsoft (Windows, Office, MSN)
  10 |      74% |  13% |     13% | Denylist Base
  11 |     100% |   0% |      0% | Basic Extension
@@ -49,14 +49,14 @@
  13 |      81% |  10% |      9% | EasyList FirstParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
  14 |     100% |   0% |      0% | Native Tracker Vivo (EXPERIMENTAL)
  15 |      98% |   0% |      2% | Native Tracker OPPO/Realme (EXPERIMENTAL)
- 16 |      99% |   0% |      1% | Native Tracker Xiaomi (Devices)
- 17 |      99% |   0% |      1% | Native Tracker Samsung (Devices)
- 18 |      98% |   1% |      1% | Native Tracker Roku (Devices)
+ 16 |      97% |   0% |      3% | Native Tracker Xiaomi (Devices)
+ 17 |      96% |   0% |      4% | Native Tracker Samsung (Devices)
+ 18 |      99% |   0% |      1% | Native Tracker Roku (Devices)
  19 |      61% |  35% |      4% | Analytics/Metrics Extension
  20 |      89% |  11% |      0% | Balanced Extension
  21 |      86% |   7% |      7% | AdGuard MultiParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads and Trackers)
- 22 |      93% |   5% |      2% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
- 23 |      88% |   5% |      7% | Advanced Extension
+ 22 |      94% |   4% |      2% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
+ 23 |      85% |   6% |      9% | Advanced Extension
  24 |      72% |  26% |      2% | Denylist Community Threat Intelligence Feeds
  25 |      62% |  25% |     13% | Denylist Community Advanced
 ```
@@ -64,7 +64,7 @@
 ```
  Nr | Included | Dead | Removed | URL/File
   1 |     100% |   0% |      0% | Predecessor: Multi Pro
-  2 |      78% |  17% |      5% | Denylist Personal
+  2 |      79% |  17% |      4% | Denylist Personal
   3 |      89% |   3% |      8% | Extracted Wildcard Rules
   4 |      60% |   0% |     40% | Native Tracker Apple (iOS, macOS, tvOS)
   5 |      98% |   0% |      2% | Native Tracker Amazon (Devices, Shopping, Video)
@@ -78,25 +78,25 @@
  13 |     100% |   0% |      0% | Native Tracker OPPO/Realme (EXPERIMENTAL)
  14 |     100% |   0% |      0% | Native Tracker Xiaomi (Devices)
  15 |     100% |   0% |      0% | Native Tracker Samsung (Devices)
- 16 |      99% |   1% |      0% | Native Tracker Roku (Devices)
+ 16 |     100% |   0% |      0% | Native Tracker Roku (Devices)
  17 |      61% |  35% |      4% | Analytics/Metrics Extension
  18 |      89% |  11% |      0% | Balanced Extension
- 19 |      88% |   7% |      5% | AdGuard MultiParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads and Trackers)
- 20 |      94% |   5% |      1% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
- 21 |      89% |   5% |      6% | Advanced Extension
+ 19 |      92% |   7% |      1% | AdGuard MultiParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads and Trackers)
+ 20 |      95% |   4% |      1% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
+ 21 |      87% |   6% |      7% | Advanced Extension
  22 |      72% |  26% |      2% | Denylist Community Threat Intelligence Feeds
  23 |      65% |  25% |     10% | Denylist Community Advanced
- 24 |      79% |  14% |      7% | EasyList MultiParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
+ 24 |      82% |  14% |      4% | EasyList MultiParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
  25 |     100% |   0% |      0% | Pop-Up Ads
  26 |      82% |   0% |     18% | Native Tracker TikTok Extended (Fingerprinting)
- 27 |      84% |   8% |      8% | Aggressive Extension
+ 27 |      84% |   9% |      7% | Aggressive Extension
  28 |     100% |   0% |      0% | Denylist Community Aggressive
 ```
 #### ULTIMATE
 ```
  Nr | Included | Dead | Removed | URL/File
   1 |     100% |   0% |      0% | Predecessor: Multi Pro++
-  2 |      79% |  17% |      4% | Denylist Personal
+  2 |      80% |  17% |      3% | Denylist Personal
   3 |      89% |   3% |      8% | Extracted Wildcard Rules
   4 |     100% |   0% |      0% | Native Tracker Apple (iOS, macOS, tvOS)
   5 |     100% |   0% |      0% | Native Tracker Amazon (Devices, Shopping, Video)
@@ -110,21 +110,21 @@
  13 |     100% |   0% |      0% | Native Tracker OPPO/Realme (EXPERIMENTAL)
  14 |     100% |   0% |      0% | Native Tracker Xiaomi (Devices)
  15 |     100% |   0% |      0% | Native Tracker Samsung (Devices)
- 16 |      99% |   1% |      0% | Native Tracker Roku (Devices)
+ 16 |     100% |   0% |      0% | Native Tracker Roku (Devices)
  17 |      64% |  35% |      1% | Analytics/Metrics Extension
  18 |      89% |  11% |      0% | Balanced Extension
- 19 |      88% |   7% |      5% | AdGuard MultiParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads and Trackers)
- 20 |      94% |   5% |      1% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
- 21 |      90% |   5% |      5% | Advanced Extension
+ 19 |      92% |   7% |      1% | AdGuard MultiParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads and Trackers)
+ 20 |      95% |   4% |      1% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
+ 21 |      88% |   6% |      6% | Advanced Extension
  22 |      72% |  26% |      2% | Denylist Community Threat Intelligence Feeds
  23 |      65% |  25% |     10% | Denylist Community Advanced
- 24 |      79% |  14% |      7% | EasyList MultiParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
+ 24 |      82% |  14% |      4% | EasyList MultiParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
  25 |     100% |   0% |      0% | Pop-Up Ads
  26 |     100% |   0% |      0% | Native Tracker TikTok Extended (Fingerprinting)
- 27 |      85% |   8% |      7% | Aggressive Extension
+ 27 |      84% |   9% |      7% | Aggressive Extension
  28 |     100% |   0% |      0% | Denylist Community Aggressive
  29 |     100% |   0% |      0% | META Graph Tracker (Facebook, Instagram)
- 30 |      91% |   6% |      3% | Ultimate Extension
+ 30 |      93% |   5% |      2% | Ultimate Extension
  31 |      86% |   8% |      6% | Denylist Aggressive
  32 |      69% |  24% |      7% | Denylist Community Ultimate
 ```

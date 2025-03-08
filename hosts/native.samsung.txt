@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 16 Jan 2025 23:50 UTC
-# Version: 2025.0116.2350.12
+# Last modified: 08 Mar 2025 00:47 UTC
+# Version: 2025.0308.0047.02
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 247
+# Number of entries: 256
 #
 0.0.0.0 samsung-com.112.2o7.net
 0.0.0.0 metric.account-samsung.com
@@ -119,20 +119,25 @@
 0.0.0.0 config-api.internet.apps.samsung.com
 0.0.0.0 sia.internet.apps.samsung.com
 0.0.0.0 dls-account.di.atlas.samsung.com
+0.0.0.0 images.b2bindia.samsung.com
 0.0.0.0 analytics.bigdata.samsung.com
 0.0.0.0 lp.americas.business.samsung.com
 0.0.0.0 tracking.americas.business.samsung.com
 0.0.0.0 lp.apac.business.samsung.com
 0.0.0.0 tracking.apac.business.samsung.com
 0.0.0.0 tracking.europe.business.samsung.com
+0.0.0.0 images.it.business.samsung.com
 0.0.0.0 seao.business.samsung.com
 0.0.0.0 channelusa.samsung.com
+0.0.0.0 images.chbusiness.samsung.com
 0.0.0.0 dc.dqa.samsung.com
 0.0.0.0 event-tracking.samsung.com
 0.0.0.0 europe.event-tracking.samsung.com
+0.0.0.0 images.frbusiness.samsung.com
 0.0.0.0 bldr.mkt.samsung.com
 0.0.0.0 analytics.mpay.samsung.com
 0.0.0.0 nmetrics.samsung.com
+0.0.0.0 images.partnersupport.samsung.com
 0.0.0.0 plbusiness.samsung.com
 0.0.0.0 sca.samsung.com
 0.0.0.0 gear.sca.samsung.com
@@ -141,6 +146,7 @@
 0.0.0.0 lp.smartbusiness.samsung.com
 0.0.0.0 tracking.smartbusiness.samsung.com
 0.0.0.0 smetrics.samsung.com
+0.0.0.0 images.ssbusiness.samsung.com
 0.0.0.0 bigdata.ssp.samsung.com
 0.0.0.0 target-us.samsung.com
 0.0.0.0 samsungacr.com
@@ -224,6 +230,9 @@
 0.0.0.0 tracking.mkt-email.samsungsds.com
 0.0.0.0 samsungtvads.com
 0.0.0.0 www.samsungtvads.com
+0.0.0.0 business.samsungusa.com
+0.0.0.0 app.business.samsungusa.com
+0.0.0.0 images.business.samsungusa.com
 0.0.0.0 api-samsung.swypeconnect.com
 0.0.0.0 lbs-samsung.swypeconnect.com
 0.0.0.0 samsungau.api.useinsider.com

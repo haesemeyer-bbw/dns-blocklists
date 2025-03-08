@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 24 Jan 2025 17:34 UTC
-# Version: 2025.0124.1734.08
+# Last modified: 08 Mar 2025 00:44 UTC
+# Version: 2025.0308.0044.32
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 469
+# Number of entries: 474
 #
 0.0.0.0 traffic-media.co.uk
 0.0.0.0 ad.intl.xiaomi.com.edgesuite.net
@@ -32,6 +32,13 @@
 0.0.0.0 sdk-cache.video.ptqy.gitv.tv
 0.0.0.0 time.video.ptqy.gitv.tv
 0.0.0.0 openapi.vip.ptqy.gitv.tv
+0.0.0.0 app.chat.global.xiaomi.net.iberostar.com
+0.0.0.0 resolver.msg.global.xiaomi.net.iberostar.com
+0.0.0.0 find.api.micloud.xiaomi.net.iberostar.com
+0.0.0.0 us.appbackupapi.micloud.xiaomi.net.iberostar.com
+0.0.0.0 us.micardapi.micloud.xiaomi.net.iberostar.com
+0.0.0.0 us.noteapi.micloud.xiaomi.net.iberostar.com
+0.0.0.0 us.pdc.micloud.xiaomi.net.iberostar.com
 0.0.0.0 ad.intl.xiaomi.com.ksyna.net
 0.0.0.0 kuyun.com
 0.0.0.0 config.kuyun.com
@@ -206,7 +213,6 @@
 0.0.0.0 marketing.ad.xiaomi.com
 0.0.0.0 max.ad.xiaomi.com
 0.0.0.0 sdkconfig.ad.xiaomi.com
-0.0.0.0 default.sdkconfig.ad.xiaomi.com
 0.0.0.0 staging-diagnosis.ad.xiaomi.com
 0.0.0.0 test.ad.xiaomi.com
 0.0.0.0 track.ad.xiaomi.com
@@ -363,7 +369,6 @@
 0.0.0.0 us.statusapi.micloud.xiaomi.net
 0.0.0.0 tv.app.migc.xiaomi.com
 0.0.0.0 invoice.netroam.mihome.xiaomi.net
-0.0.0.0 abtest.mistat.xiaomi.com
 0.0.0.0 data.mistat.xiaomi.com
 0.0.0.0 storeconfig.mistat.xiaomi.com
 0.0.0.0 file.cdn.mvideo.xiaomi.com
