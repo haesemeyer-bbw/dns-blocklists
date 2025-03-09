@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 08 Mar 2025 15:58 UTC
-# Version: 2025.0308.1558.21
+# Last modified: 09 Mar 2025 03:49 UTC
+# Version: 2025.0309.0349.24
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1657
+# Number of entries: 1656
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -985,7 +985,6 @@
 0.0.0.0 masters-of-cloud.de
 0.0.0.0 www.masters-of-cloud.de
 0.0.0.0 dns.mateo.ovh
-0.0.0.0 adguard.mattiafenzi.uk
 0.0.0.0 maxfong.cc
 0.0.0.0 www.maxfong.cc
 0.0.0.0 dns.maybe.icu

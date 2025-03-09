@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1741449420 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1741492080 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -8,8 +8,8 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 08 Mar 2025 15:57 UTC
-; Version: 2025.0308.1557.06
+; Last modified: 09 Mar 2025 03:48 UTC
+; Version: 2025.0309.0348.09
 ; Syntax: RPZ
 ; Number of entries: 4398
 ;
@@ -1533,8 +1533,6 @@ onbloglist.com CNAME .
 *.onbloglist.com CNAME .
 onesmablog.com CNAME .
 *.onesmablog.com CNAME .
-onrender.com CNAME .
-*.onrender.com CNAME .
 onwebbox.com CNAME .
 *.onwebbox.com CNAME .
 onzeblog.com CNAME .
@@ -4247,8 +4245,6 @@ prodepl.top CNAME .
 *.prodepl.top CNAME .
 proginfortrad.top CNAME .
 *.proginfortrad.top CNAME .
-rpsinvests.top CNAME .
-*.rpsinvests.top CNAME .
 safwhatsapp.top CNAME .
 *.safwhatsapp.top CNAME .
 sjuyouhui.top CNAME .
@@ -4361,6 +4357,8 @@ name.vg CNAME .
 *.name.vg CNAME .
 pro.vg CNAME .
 *.pro.vg CNAME .
+ayf666263o.vip CNAME .
+*.ayf666263o.vip CNAME .
 bateicpoint.vip CNAME .
 *.bateicpoint.vip CNAME .
 bgydnb.vip CNAME .
@@ -4371,6 +4369,8 @@ gtsepress.vip CNAME .
 *.gtsepress.vip CNAME .
 imtokne.vip CNAME .
 *.imtokne.vip CNAME .
+xgo791266c.vip CNAME .
+*.xgo791266c.vip CNAME .
 blogspot.vn CNAME .
 *.blogspot.vn CNAME .
 webnode.vn CNAME .

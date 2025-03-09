@@ -4,8 +4,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 08 Mar 2025 11:56 UTC
-# Version: 2025.0308.1156.19
+# Last modified: 08 Mar 2025 23:57 UTC
+# Version: 2025.0308.2357.33
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 10429
 #
@@ -449,6 +449,7 @@ local=/apharmacie.com/
 local=/apkwell.com/
 local=/aplschuhe.com/
 local=/apo-rezeptfrei.com/
+local=/apoamerbach.com/
 local=/apotek-no24.com/
 local=/apotek-norge24.com/
 local=/apoteket.to/
@@ -1515,7 +1516,6 @@ local=/cannexo-tech.de/
 local=/canoefans.com/
 local=/canvasxde.shop/
 local=/capapparelsale.com/
-local=/capella-handel.de/
 local=/capitagains.net/
 local=/capital-cap.com/
 local=/capital-diamond.com/
@@ -1723,6 +1723,7 @@ local=/chrisgfornevada.com/
 local=/chriskkfishing.com/
 local=/chrisneuman.shop/
 local=/christianpomowski.de/
+local=/christmastrees-or.com/
 local=/christophmencke.de/
 local=/chrom-kultur.de/
 local=/chubunnews.com/
@@ -1872,7 +1873,6 @@ local=/colbertcap.com/
 local=/collectablesplaza.com/
 local=/collectionbath.com/
 local=/collectionbicycles.com/
-local=/colsportswear.com/
 local=/columbi.de/
 local=/columbia-suomi.com/
 local=/columbiashoesmalaysia.com/
@@ -1894,7 +1894,6 @@ local=/comexpartners.com/
 local=/comfitunderwear-suomi.com/
 local=/comicsbyhaemi.com/
 local=/comicsde.com/
-local=/comme-des-garcons.at/
 local=/commercewealth.com/
 local=/commitmentconfrontaction.com/
 local=/commoditycutter.com/
@@ -4090,7 +4089,6 @@ local=/hanseatische-handel.de/
 local=/hansrasenmaher.com/
 local=/hanwagdeutschland.com/
 local=/hanwagfabrikverkauf.com/
-local=/hanwagfabrikverkauf.de/
 local=/hanwagoutletstore.com/
 local=/hanwagoutletstore.de/
 local=/hanwagshoesoutlet.com/
@@ -4233,6 +4231,7 @@ local=/helloelife.com/
 local=/hellomarkt.com/
 local=/hellopaulette.com/
 local=/hellorolexwatch.com/
+local=/hellscheiner.com/
 local=/hellyhansen-suomi.com/
 local=/hellyhansenargentina.net/
 local=/hellyhansenaustralia.net/
@@ -9475,6 +9474,7 @@ local=/tsv-erste.de/
 local=/tsz-stadtilm.de/
 local=/ttfacai.shop/
 local=/ttup-ai.com/
+local=/ttygwronline.com/
 local=/tudio.de/
 local=/tuficcryptoassets.com/
 local=/tuftex-balloons.com/

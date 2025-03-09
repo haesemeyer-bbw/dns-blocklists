@@ -4,8 +4,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 08 Mar 2025 15:57 UTC
-# Version: 2025.0308.1557.06
+# Last modified: 09 Mar 2025 03:48 UTC
+# Version: 2025.0309.0348.09
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 2199
 #
@@ -284,6 +284,7 @@ local=/aw3.de/
 local=/awardspace.biz/
 local=/awardspace.com/
 local=/aweys.net/
+local=/ayf666263o.vip/
 local=/az.gp/
 local=/azzablog.com/
 local=/b.gp/
@@ -1548,7 +1549,6 @@ local=/online-net.de/
 local=/onlineweb.shop/
 local=/onlinewebshop.net/
 local=/only4u.eu/
-local=/onrender.com/
 local=/ontheweb.nu/
 local=/onwebbox.com/
 local=/onzeblog.com/
@@ -1684,7 +1684,6 @@ local=/ro.gp/
 local=/romesuper.shop/
 local=/royal-host.com/
 local=/rozblog.com/
-local=/rpsinvests.top/
 local=/rssing.com/
 local=/ru.cm/
 local=/ru.gg/
@@ -2148,6 +2147,7 @@ local=/xbl0g.com/
 local=/xblog.in/
 local=/xbloggers.com/
 local=/xdiheu.cn/
+local=/xgo791266c.vip/
 local=/xinei.shop/
 local=/xitiz.cfd/
 local=/xl.lc/

@@ -29,7 +29,7 @@
  19 |      87% |   0% |     13% | Native Tracker Samsung (Devices)
  20 |      99% |   0% |      1% | Native Tracker Roku (Devices)
  21 |      61% |  35% |      4% | Analytics/Metrics Extension
- 22 |      83% |  17% |      0% | Balanced Extension
+ 22 |      89% |  11% |      0% | Balanced Extension
 ```
 #### PRO
 ```
@@ -53,7 +53,7 @@
  17 |      96% |   0% |      4% | Native Tracker Samsung (Devices)
  18 |      99% |   0% |      1% | Native Tracker Roku (Devices)
  19 |      61% |  35% |      4% | Analytics/Metrics Extension
- 20 |      83% |  17% |      0% | Balanced Extension
+ 20 |      89% |  11% |      0% | Balanced Extension
  21 |      86% |   7% |      7% | AdGuard MultiParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads and Trackers)
  22 |      94% |   4% |      2% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
  23 |      86% |   5% |      9% | Advanced Extension
@@ -79,7 +79,7 @@
  15 |     100% |   0% |      0% | Native Tracker Samsung (Devices)
  16 |     100% |   0% |      0% | Native Tracker Roku (Devices)
  17 |      61% |  35% |      4% | Analytics/Metrics Extension
- 18 |      83% |  17% |      0% | Balanced Extension
+ 18 |      89% |  11% |      0% | Balanced Extension
  19 |      92% |   7% |      1% | AdGuard MultiParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads and Trackers)
  20 |      95% |   4% |      1% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
  21 |      88% |   5% |      7% | Advanced Extension
@@ -110,7 +110,7 @@
  15 |     100% |   0% |      0% | Native Tracker Samsung (Devices)
  16 |     100% |   0% |      0% | Native Tracker Roku (Devices)
  17 |      64% |  35% |      1% | Analytics/Metrics Extension
- 18 |      83% |  17% |      0% | Balanced Extension
+ 18 |      89% |  11% |      0% | Balanced Extension
  19 |      92% |   7% |      1% | AdGuard MultiParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads and Trackers)
  20 |      95% |   4% |      1% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
  21 |      89% |   5% |      6% | Advanced Extension
