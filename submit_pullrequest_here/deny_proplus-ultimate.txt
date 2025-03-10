@@ -1,5 +1,8 @@
 # Domains to be added only to the pro++ and ultimate list.
 
+# https://github.com/hagezi/dns-blocklists/issues/5483
+7cbf2.v.fwmrm.net
+
 # https://github.com/hagezi/dns-blocklists/issues/4900
 js.monitor.azure.com
 js0.cdn.applicationinsights.io

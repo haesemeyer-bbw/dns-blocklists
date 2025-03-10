@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 09 Mar 2025 23:53 UTC
-# Version: 2025.0309.2353.57
+# Last modified: 10 Mar 2025 12:00 UTC
+# Version: 2025.0310.1200.48
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10427
+# Number of entries: 10434
 #
 local=/01crypto.com/
 local=/1-stud.net/
@@ -24,6 +24,7 @@ local=/1rx-pharmacy.com/
 local=/1ticketmarket.com/
 local=/200pills.com/
 local=/eoutlet.2022factorysale.ru/
+local=/zpb.2023bp.top/
 local=/2024shopping.ru/
 local=/20mg-tadalafil-cheapest-price.com/
 local=/24-modellstore.com/
@@ -48,6 +49,7 @@ local=/4rxofficial.com/
 local=/5-drugs.com/
 local=/52magicdownload.com/
 local=/52magicdownloads.com/
+local=/5shop.lol/
 local=/6-drugs.com/
 local=/7-drugs.com/
 local=/7-order.com/
@@ -1716,6 +1718,7 @@ local=/chicshopus.com/
 local=/chicwatersport.com/
 local=/chicwomenus.com/
 local=/child-vogue.com/
+local=/childrenfurnitures.com/
 local=/chillgod.com/
 local=/chilllady.com/
 local=/chinesecanadianvoice.ca/
@@ -6279,6 +6282,7 @@ local=/mytester.org/
 local=/price.mytestopay.com/
 local=/sportlife.mytestopay.com/
 local=/mytheresamall.top/
+local=/mytheresashop.top/
 local=/mz-marketing-gmbh.com/
 local=/naba-24.de/
 local=/naba24.de/
@@ -6594,6 +6598,7 @@ local=/officialcamping.com/
 local=/officialclimbing.com/
 local=/slimvitaxdietgummies.officialdealsite.com/
 local=/officialyeti.com/
+local=/offnewfashion.com/
 local=/offretroattire.com/
 local=/offrodaa.xyz/
 local=/offsportus.com/
@@ -8500,6 +8505,7 @@ local=/sport-rausch.de/
 local=/sport-titan.de/
 local=/sportandoutdoorstore.com/
 local=/sportapothekeonline.com/
+local=/sportausrustung.com/
 local=/sportausrustung-de.com/
 local=/sportbekleidung-de.com/
 local=/sportdamen.de/
@@ -10315,6 +10321,7 @@ local=/de.xynapay.com/
 local=/yahalom.de/
 local=/yakshart.com/
 local=/yali24.de/
+local=/yaloveomk.shop/
 local=/yangzhi.de/
 local=/yarnoas.de/
 local=/yashigeoutlet.com/
