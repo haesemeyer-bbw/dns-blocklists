@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 08 Mar 2025 15:54 UTC
-# Version: 2025.0308.1554.15
+# Last modified: 10 Mar 2025 03:48 UTC
+# Version: 2025.0310.0348.10
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9698
+# Number of entries: 9700
 #
 local=/0123456789nonexistent.com/
 local=/0123movie.net/
@@ -2380,6 +2380,7 @@ local=/tracker.dev-null.rocks/
 local=/devil-torrents.pl/
 local=/deviloid.net/
 local=/devilwolfs.com/
+local=/bt-tracker.devnak.win/
 local=/devops.gay/
 local=/devuploads.com/
 local=/dezflight-underground.com/
@@ -3053,6 +3054,7 @@ local=/fcstream.net/
 local=/fddbits.com/
 local=/torrent.fedoraproject.org/
 local=/feeder.lt/
+local=/lucke.fenesisu.moe/
 local=/fenopy.com/
 local=/feuerbringer.com/
 local=/ffbox.org/
@@ -4155,7 +4157,6 @@ local=/hgzone.ro/
 local=/hhdmovies.org/
 local=/hi10anime.com/
 local=/hidraplay.tv/
-local=/hif.to/
 local=/torrent.hificode.in/
 local=/high-way.me/
 local=/highlightstore.me/
@@ -9008,6 +9009,7 @@ local=/vidcloud9.com/
 local=/vidclouds.icu/
 local=/vidembed.net/
 local=/videobin.co/
+local=/videocop.com/
 local=/tracker.videodrugproject.com/
 local=/videoelephantbd.com/
 local=/admin.videoenpoche.info/

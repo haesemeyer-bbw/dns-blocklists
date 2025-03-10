@@ -6,10 +6,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 09 Mar 2025 03:50 UTC
-! Version: 2025.0309.0350.39
+! Last modified: 10 Mar 2025 03:53 UTC
+! Version: 2025.0310.0353.33
 ! Syntax: AdBlock
-! Number of entries: 3847
+! Number of entries: 3849
 !
 ||003153.xyz^
 ||ns.00dani.me^
@@ -347,6 +347,7 @@
 ||beapasswpn.com^
 ||dns.beardic.cn^
 ||bebasid.com^
+||bebra.ai^
 ||justhost.bedro.cloud^
 ||beecomf.xyz^
 ||beehivesmp.com^
@@ -1655,6 +1656,7 @@
 ||itsnotevil.com^
 ||pdns.itxe.net^
 ||ivacy.com^
+||ivacyvpn.com^
 ||ivnkn.xyz^
 ||ivpn.net^
 ||iwantproxy.com^

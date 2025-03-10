@@ -46,6 +46,7 @@ https://github.com/drsdavidsoft/additional-hosts/raw/master/domains/blacklist/ad
 https://github.com/drsdavidsoft/additional-hosts/raw/master/domains/blacklist/unwanted-iranian.txt
 https://github.com/duckduckgo/tracker-blocklists
 https://github.com/ghostery/trackerdb
+https://github.com/MikhailKasimov/validin-phish-feed
 https://gitlab.com/quidsup/notrack-annoyance-blocklist/-/raw/master/notrack-annoyance.txt
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt

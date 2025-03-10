@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 08 Mar 2025 23:57 UTC
-# Version: 2025.0308.2357.33
+# Last modified: 09 Mar 2025 23:53 UTC
+# Version: 2025.0309.2353.57
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10429
+# Number of entries: 10427
 #
 local=/01crypto.com/
 local=/1-stud.net/
@@ -419,7 +419,6 @@ local=/annafieldshop.fr/
 local=/annafieldwien.at/
 local=/annawelpen.de/
 local=/annebarot.com/
-local=/annelieholmen.com/
 local=/annelore.shop/
 local=/annenowakwelpen.de/
 local=/anneschilk.com/
@@ -591,6 +590,7 @@ local=/asneakerssalesshop.com/
 local=/asolocipele.com/
 local=/asolosko.com/
 local=/asolousoutlet.com/
+local=/aspesiclothes.com/
 local=/asportuguesaslatvija.com/
 local=/assameshop.com/
 local=/assemblytoolprada.com/
@@ -1008,6 +1008,7 @@ local=/bettyshops.com/
 local=/bewoix.com/
 local=/bexisassets.com/
 local=/bfarmacia.com/
+local=/bfashionstyle.com/
 local=/bfmmarkets.com/
 local=/bforbinary.com/
 local=/bforbroker.com/
@@ -1723,7 +1724,6 @@ local=/chrisgfornevada.com/
 local=/chriskkfishing.com/
 local=/chrisneuman.shop/
 local=/christianpomowski.de/
-local=/christmastrees-or.com/
 local=/christophmencke.de/
 local=/chrom-kultur.de/
 local=/chubunnews.com/
@@ -1895,7 +1895,6 @@ local=/comfitunderwear-suomi.com/
 local=/comicsbyhaemi.com/
 local=/comicsde.com/
 local=/commercewealth.com/
-local=/commitmentconfrontaction.com/
 local=/commoditycutter.com/
 local=/commoditysurf.com/
 local=/commoditysurfnew.com/
@@ -2222,7 +2221,6 @@ local=/deinnschoneshaus.com/
 local=/deinspurwechsel.de/
 local=/deinvest.site/
 local=/dejob.online/
-local=/dekarcheck.com/
 local=/dekarikatur.shop/
 local=/dekoartikelrabatt.de/
 local=/dekodolphin.de/
@@ -2727,7 +2725,6 @@ local=/elinour-kauf.de/
 local=/eliostrategy.com/
 local=/elipolyse.de/
 local=/elisaluna-handel24.de/
-local=/elisehassoun.com/
 local=/elite-real-estate.com/
 local=/eliteai-t.com/
 local=/elitecloth.store/
@@ -2891,6 +2888,7 @@ local=/eu-venum.shop/
 local=/euergutesbrennholz.com/
 local=/eufm.eu/
 local=/eufootwear.com/
+local=/eugadneu.de/
 local=/euisabelmarant.de/
 local=/eukram.com/
 local=/eukrypto.site/

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1741492080 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1741578660 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 09 Mar 2025 03:48 UTC
-; Version: 2025.0309.0348.09
+; Last modified: 10 Mar 2025 03:51 UTC
+; Version: 2025.0310.0351.04
 ; Syntax: RPZ
-; Number of entries: 4398
+; Number of entries: 4408
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -477,6 +477,8 @@ blog.51cto.com CNAME .
 *.9k.com CNAME .
 aboutyoublog.com CNAME .
 *.aboutyoublog.com CNAME .
+account-disney-subscription.com CNAME .
+*.account-disney-subscription.com CNAME .
 actifforum.com CNAME .
 *.actifforum.com CNAME .
 activablog.com CNAME .
@@ -865,8 +867,6 @@ carrefourpro.com CNAME .
 *.carrefourpro.com CNAME .
 case-id-100029850.com CNAME .
 *.case-id-100029850.com CNAME .
-casibomtr-login.com CNAME .
-*.casibomtr-login.com CNAME .
 cbkgardens.com CNAME .
 *.cbkgardens.com CNAME .
 cellnovis.com CNAME .
@@ -1507,6 +1507,8 @@ newbigblog.com CNAME .
 *.newbigblog.com CNAME .
 newsbloger.com CNAME .
 *.newsbloger.com CNAME .
+nexgenelectricct.com CNAME .
+*.nexgenelectricct.com CNAME .
 ngontinh24.com CNAME .
 *.ngontinh24.com CNAME .
 niloblog.com CNAME .
@@ -3815,6 +3817,8 @@ netten.ru CNAME .
 *.netten.ru CNAME .
 newmail.ru CNAME .
 *.newmail.ru CNAME .
+nyanyash.ru CNAME .
+*.nyanyash.ru CNAME .
 nyashk.ru CNAME .
 *.nyashk.ru CNAME .
 okis.ru CNAME .
@@ -3997,6 +4001,8 @@ gakken.shop CNAME .
 *.gakken.shop CNAME .
 gamblerschoiceclothing.shop CNAME .
 *.gamblerschoiceclothing.shop CNAME .
+genomehp.shop CNAME .
+*.genomehp.shop CNAME .
 georgiatwo.shop CNAME .
 *.georgiatwo.shop CNAME .
 godscience.shop CNAME .
@@ -4205,6 +4211,8 @@ artsold.top CNAME .
 *.artsold.top CNAME .
 biproplw.top CNAME .
 *.biproplw.top CNAME .
+datesize.top CNAME .
+*.datesize.top CNAME .
 djuanlian.top CNAME .
 *.djuanlian.top CNAME .
 doctorfew.top CNAME .
@@ -4221,6 +4229,8 @@ infplm.top CNAME .
 *.infplm.top CNAME .
 jtexpressr.top CNAME .
 *.jtexpressr.top CNAME .
+laexchange.top CNAME .
+*.laexchange.top CNAME .
 leastupdate.top CNAME .
 *.leastupdate.top CNAME .
 mdtwo.top CNAME .
@@ -4357,8 +4367,6 @@ name.vg CNAME .
 *.name.vg CNAME .
 pro.vg CNAME .
 *.pro.vg CNAME .
-ayf666263o.vip CNAME .
-*.ayf666263o.vip CNAME .
 bateicpoint.vip CNAME .
 *.bateicpoint.vip CNAME .
 bgydnb.vip CNAME .
@@ -4399,6 +4407,8 @@ akaramessi.xyz CNAME .
 *.akaramessi.xyz CNAME .
 cominbaxz.xyz CNAME .
 *.cominbaxz.xyz CNAME .
+hkearth.xyz CNAME .
+*.hkearth.xyz CNAME .
 pwttr.xyz CNAME .
 *.pwttr.xyz CNAME .
 ryuekyo.xyz CNAME .

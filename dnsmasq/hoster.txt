@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 09 Mar 2025 03:48 UTC
-# Version: 2025.0309.0348.09
+# Last modified: 10 Mar 2025 03:51 UTC
+# Version: 2025.0310.0351.04
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 2199
+# Number of entries: 2204
 #
 local=/000a.de/
 local=/000space.com/
@@ -193,6 +193,7 @@ local=/abwechslungsreiches.de/
 local=/myblog.arts.ac.uk/
 local=/blogs.lincoln.ac.uk/
 local=/ac6.de/
+local=/account-disney-subscription.com/
 local=/aceblog.fr/
 local=/acidblog.net/
 local=/actifforum.com/
@@ -284,7 +285,6 @@ local=/aw3.de/
 local=/awardspace.biz/
 local=/awardspace.com/
 local=/aweys.net/
-local=/ayf666263o.vip/
 local=/az.gp/
 local=/azzablog.com/
 local=/b.gp/
@@ -611,7 +611,6 @@ local=/carrd.co/
 local=/carrefourpro.com/
 local=/carsix.shop/
 local=/case-id-100029850.com/
-local=/casibomtr-login.com/
 local=/cavandoragh.org/
 local=/cba.pl/
 local=/cbkgardens.com/
@@ -773,6 +772,7 @@ local=/daneblogger.com/
 local=/darayibuy.shop/
 local=/dashosting.de/
 local=/datechurch.shop/
+local=/datesize.top/
 local=/datingpm.club/
 local=/dax.ru/
 local=/dbblog.net/
@@ -1096,6 +1096,7 @@ local=/gazmuri.cl/
 local=/gearhost.com/
 local=/gearhostpreview.com/
 local=/genblogger.com/
+local=/genomehp.shop/
 local=/georgiatwo.shop/
 local=/gerentebr.com/
 local=/get-blogging.com/
@@ -1162,6 +1163,7 @@ local=/hiblogger.net/
 local=/highclassacademia.com/
 local=/hilfe24h.de/
 local=/hilfigeroutlet.at/
+local=/hkearth.xyz/
 local=/holcom.top/
 local=/home.lc/
 local=/homemarker.com/
@@ -1331,6 +1333,7 @@ local=/l.gp/
 local=/l4n.org/
 local=/l8n5kafm6l.net/
 local=/laden.biz/
+local=/laexchange.top/
 local=/land.to/
 local=/landmen.shop/
 local=/laowaiblog.com/
@@ -1497,6 +1500,7 @@ local=/netz.tl/
 local=/newbigblog.com/
 local=/newmail.ru/
 local=/newsbloger.com/
+local=/nexgenelectricct.com/
 local=/ngontinh24.com/
 local=/nichesite.org/
 local=/nikoha.shop/
@@ -1515,6 +1519,7 @@ local=/npx.de/
 local=/nstemp.com/
 local=/nut.cc/
 local=/nuvox.net/
+local=/nyanyash.ru/
 local=/nyashk.ru/
 local=/nyccards.shop/
 local=/nyccenter.shop/
