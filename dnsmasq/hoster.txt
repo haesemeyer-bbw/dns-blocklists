@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 10 Mar 2025 03:51 UTC
-# Version: 2025.0310.0351.04
+# Last modified: 11 Mar 2025 03:50 UTC
+# Version: 2025.0311.0350.17
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 2204
+# Number of entries: 2215
 #
 local=/000a.de/
 local=/000space.com/
@@ -258,6 +258,7 @@ local=/arcadepages.com/
 local=/arcor-ip.net/
 local=/argentpropertiesvb.com/
 local=/arien.cl/
+local=/arizonafun.shop/
 local=/arrangiert.de/
 local=/articlesblogger.com/
 local=/artsold.top/
@@ -266,6 +267,7 @@ local=/asablo.jp/
 local=/asia.cm/
 local=/asia.gp/
 local=/asiaal.shop/
+local=/asianhotel.shop/
 local=/at.cr/
 local=/at.st/
 local=/atsnx.com/
@@ -651,6 +653,7 @@ local=/cloudwaysapps.com/
 local=/club.lc/
 local=/club-area.de/
 local=/clubeo.com/
+local=/clubstrack.shop/
 local=/clumsy.de/
 local=/cn.gp/
 local=/blogs.cnn.com/
@@ -887,6 +890,7 @@ local=/emoneysale.shop/
 local=/emyspot.com/
 local=/energycd.shop/
 local=/english.lc/
+local=/englishset.club/
 local=/entekpartners.com/
 local=/enterprisedeliveries.com/
 local=/envy.nu/
@@ -1082,6 +1086,7 @@ local=/full-design.com/
 local=/fun.gg/
 local=/fun.pe/
 local=/fun5.de/
+local=/funcurrent.top/
 local=/fw.bz/
 local=/fw.hu/
 local=/fwscheckout.com/
@@ -1163,7 +1168,9 @@ local=/hiblogger.net/
 local=/highclassacademia.com/
 local=/hilfe24h.de/
 local=/hilfigeroutlet.at/
+local=/hinerava.com/
 local=/hkearth.xyz/
+local=/hklevel.club/
 local=/holcom.top/
 local=/home.lc/
 local=/homemarker.com/
@@ -1289,6 +1296,7 @@ local=/jiliblog.com/
 local=/jixx.de/
 local=/jixx.net/
 local=/job.ec/
+local=/jobsnote.xyz/
 local=/joomla.com/
 local=/joueb.com/
 local=/jouwweb.nl/
@@ -1324,7 +1332,6 @@ local=/kolido.net/
 local=/kr.gp/
 local=/kulichki.net/
 local=/kulichki.ru/
-local=/kurhaus-steina.com/
 local=/kurzschliessen.de/
 local=/kylieblog.com/
 local=/kyoce.shop/
@@ -1389,6 +1396,7 @@ local=/majesticbank.de/
 local=/maktoobblog.com/
 local=/malltree.shop/
 local=/maminforum.com/
+local=/manfeature.club/
 local=/mapsweight.shop/
 local=/mashstaffing.com/
 local=/master.com/
@@ -1530,6 +1538,7 @@ local=/o7.pl/
 local=/oblogation.com/
 local=/of-love.de/
 local=/offi-ciall.com/
+local=/officebook.xyz/
 local=/officialcity.shop/
 local=/officialsitebuilder.com/
 local=/okdfhb.art/
@@ -1618,6 +1627,7 @@ local=/pimpedhost.com/
 local=/pinkeosemrabo.com/
 local=/pirchio.com/
 local=/pixelt.de/
+local=/pizzakeep.shop/
 local=/pk.gp/
 local=/pktriot.net/
 local=/pl.de/
@@ -1668,6 +1678,7 @@ local=/qowap.com/
 local=/qu.am/
 local=/quiztionnaire.uk/
 local=/r.gp/
+local=/radiola.club/
 local=/raidersfanteamshop.com/
 local=/rdtre.net/
 local=/re2.de/
@@ -1897,6 +1908,7 @@ local=/tld.cc/
 local=/toastmastersclubs.org/
 local=/tokka-blog.com/
 local=/tokusi.shop/
+local=/tokyoca.top/
 local=/tooum.com/
 local=/top.lc/
 local=/top.tc/
@@ -2152,7 +2164,6 @@ local=/xbl0g.com/
 local=/xblog.in/
 local=/xbloggers.com/
 local=/xdiheu.cn/
-local=/xgo791266c.vip/
 local=/xinei.shop/
 local=/xitiz.cfd/
 local=/xl.lc/

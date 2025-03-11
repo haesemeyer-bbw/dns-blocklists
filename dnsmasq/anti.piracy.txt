@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 10 Mar 2025 15:58 UTC
-# Version: 2025.0310.1558.07
+# Last modified: 11 Mar 2025 03:47 UTC
+# Version: 2025.0311.0347.22
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9702
+# Number of entries: 9698
 #
 local=/0123456789nonexistent.com/
 local=/0123movie.net/
@@ -2100,7 +2100,6 @@ local=/cracked-games.org/
 local=/crackedfully.com/
 local=/crackedme.com/
 local=/crackedmine.com/
-local=/crackedpc.org/
 local=/crackedreal.com/
 local=/crackedstream.tv/
 local=/crackedversion.com/
@@ -2380,7 +2379,6 @@ local=/tracker.dev-null.rocks/
 local=/devil-torrents.pl/
 local=/deviloid.net/
 local=/devilwolfs.com/
-local=/bt-tracker.devnak.win/
 local=/4.tracker.devnak.win/
 local=/6.tracker.devnak.win/
 local=/devops.gay/
@@ -3093,7 +3091,6 @@ local=/filelist.ro/
 local=/filelisting.com/
 local=/tracker.filemail.com/
 local=/filemp3.org/
-local=/filepapa.com/
 local=/fileporn.org/
 local=/filerio.com/
 local=/tracker.files.fm/
@@ -8853,7 +8850,6 @@ local=/unit193.net/
 local=/uniteam.co/
 local=/united-ddl.com/
 local=/universalmediaserver.com/
-local=/unknownbooter.co/
 local=/unknownsite.de/
 local=/unlimitedserials.com/
 local=/unlimitz.com/

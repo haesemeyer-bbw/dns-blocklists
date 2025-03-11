@@ -5,8 +5,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 10 Mar 2025 03:53 UTC
-# Version: 2025.0310.0353.33
+# Last modified: 11 Mar 2025 03:52 UTC
+# Version: 2025.0311.0352.48
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 3849
 #
@@ -339,7 +339,6 @@ local=/sg-dns1.bancuh.com/
 local=/base99.com/
 local=/doh.battle.christmas/
 local=/bazooki-infra.dev/
-local=/bdns.io/
 local=/bdns.link/
 local=/bdns.nu/
 local=/bdns.pro/
@@ -2822,6 +2821,7 @@ local=/school-websites.us/
 local=/schoolnewsletter.us/
 local=/schoology.college/
 local=/schoology.help/
+local=/schoology123.org/
 local=/schoolooks.com/
 local=/schoolproxy.co/
 local=/schooxy.com/

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1741578660 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1741665000 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 10 Mar 2025 03:51 UTC
-; Version: 2025.0310.0351.04
+; Last modified: 11 Mar 2025 03:50 UTC
+; Version: 2025.0311.0350.17
 ; Syntax: RPZ
-; Number of entries: 4408
+; Number of entries: 4430
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -255,18 +255,26 @@ datingpm.club CNAME .
 *.datingpm.club CNAME .
 easy-market.club CNAME .
 *.easy-market.club CNAME .
+englishset.club CNAME .
+*.englishset.club CNAME .
 gamingadd.club CNAME .
 *.gamingadd.club CNAME .
 godfrance.club CNAME .
 *.godfrance.club CNAME .
+hklevel.club CNAME .
+*.hklevel.club CNAME .
 liveplan.club CNAME .
 *.liveplan.club CNAME .
+manfeature.club CNAME .
+*.manfeature.club CNAME .
 pcbusiness.club CNAME .
 *.pcbusiness.club CNAME .
 phonecode.club CNAME .
 *.phonecode.club CNAME .
 pressname.club CNAME .
 *.pressname.club CNAME .
+radiola.club CNAME .
+*.radiola.club CNAME .
 salesnote.club CNAME .
 *.salesnote.club CNAME .
 soundtrue.club CNAME .
@@ -1269,6 +1277,8 @@ hautetfort.com CNAME .
 *.hautetfort.com CNAME .
 highclassacademia.com CNAME .
 *.highclassacademia.com CNAME .
+hinerava.com CNAME .
+*.hinerava.com CNAME .
 homemarker.com CNAME .
 *.homemarker.com CNAME .
 homestead.com CNAME .
@@ -1379,8 +1389,6 @@ ka-blogs.com CNAME .
 *.ka-blogs.com CNAME .
 kiluweb.com CNAME .
 *.kiluweb.com CNAME .
-kurhaus-steina.com CNAME .
-*.kurhaus-steina.com CNAME .
 kylieblog.com CNAME .
 *.kylieblog.com CNAME .
 laowaiblog.com CNAME .
@@ -3873,8 +3881,12 @@ annualhuman.shop CNAME .
 *.annualhuman.shop CNAME .
 arabcause.shop CNAME .
 *.arabcause.shop CNAME .
+arizonafun.shop CNAME .
+*.arizonafun.shop CNAME .
 asiaal.shop CNAME .
 *.asiaal.shop CNAME .
+asianhotel.shop CNAME .
+*.asianhotel.shop CNAME .
 bellastheboutique.shop CNAME .
 *.bellastheboutique.shop CNAME .
 bestpeople.shop CNAME .
@@ -3907,6 +3919,8 @@ chicjolieboutiqueonline.shop CNAME .
 *.chicjolieboutiqueonline.shop CNAME .
 cielo-fashion.shop CNAME .
 *.cielo-fashion.shop CNAME .
+clubstrack.shop CNAME .
+*.clubstrack.shop CNAME .
 connysdress.shop CNAME .
 *.connysdress.shop CNAME .
 creamclothinginc.shop CNAME .
@@ -4063,6 +4077,8 @@ orderedlinks.shop CNAME .
 *.orderedlinks.shop CNAME .
 outoverall.shop CNAME .
 *.outoverall.shop CNAME .
+pizzakeep.shop CNAME .
+*.pizzakeep.shop CNAME .
 rentweek.shop CNAME .
 *.rentweek.shop CNAME .
 romesuper.shop CNAME .
@@ -4221,6 +4237,8 @@ ecmx.top CNAME .
 *.ecmx.top CNAME .
 freetheme.top CNAME .
 *.freetheme.top CNAME .
+funcurrent.top CNAME .
+*.funcurrent.top CNAME .
 godxdess.top CNAME .
 *.godxdess.top CNAME .
 holcom.top CNAME .
@@ -4265,6 +4283,8 @@ sv-whatsapp.top CNAME .
 *.sv-whatsapp.top CNAME .
 tgpropower.top CNAME .
 *.tgpropower.top CNAME .
+tokyoca.top CNAME .
+*.tokyoca.top CNAME .
 triadw.top CNAME .
 *.triadw.top CNAME .
 troove.top CNAME .
@@ -4377,8 +4397,6 @@ gtsepress.vip CNAME .
 *.gtsepress.vip CNAME .
 imtokne.vip CNAME .
 *.imtokne.vip CNAME .
-xgo791266c.vip CNAME .
-*.xgo791266c.vip CNAME .
 blogspot.vn CNAME .
 *.blogspot.vn CNAME .
 webnode.vn CNAME .
@@ -4409,6 +4427,10 @@ cominbaxz.xyz CNAME .
 *.cominbaxz.xyz CNAME .
 hkearth.xyz CNAME .
 *.hkearth.xyz CNAME .
+jobsnote.xyz CNAME .
+*.jobsnote.xyz CNAME .
+officebook.xyz CNAME .
+*.officebook.xyz CNAME .
 pwttr.xyz CNAME .
 *.pwttr.xyz CNAME .
 ryuekyo.xyz CNAME .

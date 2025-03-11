@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1741578780 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1741665120 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,8 +9,8 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 10 Mar 2025 03:53 UTC
-; Version: 2025.0310.0353.33
+; Last modified: 11 Mar 2025 03:52 UTC
+; Version: 2025.0311.0352.48
 ; Syntax: RPZ
 ; Number of entries: 7698
 ;
@@ -4160,8 +4160,6 @@ anonvpn.io CNAME .
 *.anonvpn.io CNAME .
 anyip.io CNAME .
 *.anyip.io CNAME .
-bdns.io CNAME .
-*.bdns.io CNAME .
 dns.bitservices.io CNAME .
 *.dns.bitservices.io CNAME .
 borderlessvpn.io CNAME .
@@ -6208,6 +6206,8 @@ dns1.saferbfc.org CNAME .
 *.dns1.saferbfc.org CNAME .
 dns2.saferbfc.org CNAME .
 *.dns2.saferbfc.org CNAME .
+schoology123.org CNAME .
+*.schoology123.org CNAME .
 gravity.sciencevictory.org CNAME .
 *.gravity.sciencevictory.org CNAME .
 dns.scuola.org CNAME .

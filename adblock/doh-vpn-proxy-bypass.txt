@@ -6,8 +6,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 10 Mar 2025 03:53 UTC
-! Version: 2025.0310.0353.33
+! Last modified: 11 Mar 2025 03:52 UTC
+! Version: 2025.0311.0352.48
 ! Syntax: AdBlock
 ! Number of entries: 3849
 !
@@ -340,7 +340,6 @@
 ||base99.com^
 ||doh.battle.christmas^
 ||bazooki-infra.dev^
-||bdns.io^
 ||bdns.link^
 ||bdns.nu^
 ||bdns.pro^
@@ -2823,6 +2822,7 @@
 ||schoolnewsletter.us^
 ||schoology.college^
 ||schoology.help^
+||schoology123.org^
 ||schoolooks.com^
 ||schoolproxy.co^
 ||schooxy.com^

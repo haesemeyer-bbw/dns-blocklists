@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1741622280 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1741664820 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 10 Mar 2025 15:58 UTC
-; Version: 2025.0310.1558.07
+; Last modified: 11 Mar 2025 03:47 UTC
+; Version: 2025.0311.0347.22
 ; Syntax: RPZ
-; Number of entries: 19404
+; Number of entries: 19396
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -1969,8 +1969,6 @@ newalbumreleases.unblocked.co CNAME .
 *.newalbumreleases.unblocked.co CNAME .
 uniteam.co CNAME .
 *.uniteam.co CNAME .
-unknownbooter.co CNAME .
-*.unknownbooter.co CNAME .
 tracker.vanitycore.co CNAME .
 *.tracker.vanitycore.co CNAME .
 vidcloud.co CNAME .
@@ -3771,8 +3769,6 @@ filelisting.com CNAME .
 *.filelisting.com CNAME .
 tracker.filemail.com CNAME .
 *.tracker.filemail.com CNAME .
-filepapa.com CNAME .
-*.filepapa.com CNAME .
 filerio.com CNAME .
 *.filerio.com CNAME .
 filesharingtalk.com CNAME .
@@ -13665,8 +13661,6 @@ crackdb.org CNAME .
 *.crackdb.org CNAME .
 cracked-games.org CNAME .
 *.cracked-games.org CNAME .
-crackedpc.org CNAME .
-*.crackedpc.org CNAME .
 crackhash.org CNAME .
 *.crackhash.org CNAME .
 crackzplanet.org CNAME .
@@ -18693,8 +18687,6 @@ activated.win CNAME .
 *.activated.win CNAME .
 ddgroupclub.win CNAME .
 *.ddgroupclub.win CNAME .
-bt-tracker.devnak.win CNAME .
-*.bt-tracker.devnak.win CNAME .
 4.tracker.devnak.win CNAME .
 *.4.tracker.devnak.win CNAME .
 6.tracker.devnak.win CNAME .
