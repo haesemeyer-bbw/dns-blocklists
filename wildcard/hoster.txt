@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 11 Mar 2025 03:50 UTC
-# Version: 2025.0311.0350.17
+# Last modified: 11 Mar 2025 16:06 UTC
+# Version: 2025.0311.1606.18
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 2215
+# Number of entries: 2214
 #
 *.000a.de
 *.000space.com
@@ -1296,7 +1296,6 @@
 *.jixx.de
 *.jixx.net
 *.job.ec
-*.jobsnote.xyz
 *.joomla.com
 *.joueb.com
 *.jouwweb.nl

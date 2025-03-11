@@ -679,6 +679,13 @@
       }
     },
     {
+      "PK": "*.ceo",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.cfd",
       "action": {
         "do": 0,
@@ -822,6 +829,13 @@
       "PK": "cnyes.cool",
       "action": {
         "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.college",
+      "action": {
+        "do": 0,
         "status": 1
       }
     },
@@ -1043,6 +1057,13 @@
       }
     },
     {
+      "PK": "*.delivery",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.dental",
       "action": {
         "do": 0,
@@ -1113,6 +1134,13 @@
       }
     },
     {
+      "PK": "*.diy",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "doc.new",
       "action": {
         "do": 1,
@@ -1137,6 +1165,13 @@
       "PK": "doesmycode.work",
       "action": {
         "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.dog",
+      "action": {
+        "do": 0,
         "status": 1
       }
     },
@@ -2268,6 +2303,13 @@
       }
     },
     {
+      "PK": "*.lifestyle",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "lifetime.life",
       "action": {
         "do": 1,
@@ -3353,6 +3395,13 @@
       }
     },
     {
+      "PK": "*.qpon",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "qr-code.click",
       "action": {
         "do": 1,
@@ -4004,6 +4053,13 @@
       }
     },
     {
+      "PK": "*.studio",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.style",
       "action": {
         "do": 0,
@@ -4257,6 +4313,13 @@
     },
     {
       "PK": "*.top",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.town",
       "action": {
         "do": 0,
         "status": 1

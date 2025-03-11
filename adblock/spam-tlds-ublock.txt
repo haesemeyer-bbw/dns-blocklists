@@ -11,10 +11,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 07 Mar 2025 23:25 UTC
-! Version: 2025.0307.2325.23
+! Last modified: 11 Mar 2025 08:23 UTC
+! Version: 2025.0311.0823.37
 ! Syntax: uBlock
-! Number of latin TLDs: 219 - non-latin TLDs: 151
+! Number of latin TLDs: 228 - non-latin TLDs: 151
 !
 ||actor^$doc
 ||africa^$doc,domain=~nation.africa
@@ -50,6 +50,7 @@
 ||cash^$doc
 ||casino^$doc
 ||center^$doc,domain=~priv.center
+||ceo^$doc
 ||cfd^$doc,domain=~freedium.cfd
 ||charity^$doc
 ||christmas^$doc
@@ -59,6 +60,7 @@
 ||click^$doc,domain=~buybox.click|~popcat.click|~popdog.click|~qr-code.click|~ravelin.click|~xcine.click
 ||clothing^$doc
 ||club^$doc,domain=~baby-beamup.club|~clovius.club|~digipres.club|~hd-olimpo.club|~mbcherohub.club|~pdfmagazines.club|~skin.club|~thelemmy.club
+||college^$doc
 ||computer^$doc,domain=~libre.computer|~neat.computer|~silly.computer
 ||cool^$doc,domain=~cnyes.cool|~shirtz.cool
 ||coupons^$doc
@@ -71,10 +73,13 @@
 ||day^$doc,domain=~hubcloud.day
 ||deals^$doc,domain=~gg.deals
 ||degree^$doc,domain=~opf.degree|~three60.degree
+||delivery^$doc
 ||dental^$doc
 ||desi^$doc,domain=~xhamster.desi
 ||directory^$doc,domain=~2fa.directory|~fedi.directory|~passkeys.directory|~reactnative.directory
 ||discount^$doc,domain=~real.discount
+||diy^$doc
+||dog^$doc
 ||download^$doc,domain=~caido.download|~mkvtoolnix.download|~up4ever.download
 ||eco^$doc,domain=~play.eco
 ||esq^$doc,domain=~erika.esq
@@ -119,6 +124,7 @@
 ||legal^$doc,domain=~doctolib.legal|~wbs.legal
 ||lgbt^$doc,domain=~tech.lgbt
 ||life^$doc,domain=~2ch.life|~akamaicdn.life|~circles.life|~colorgame.life|~digitalcitizen.life|~iboost.life|~lifetime.life|~loveinfaith.life|~stepone.life|~via.life|~yiff.life
+||lifestyle^$doc
 ||llp^$doc
 ||loan^$doc
 ||loans^$doc
@@ -168,6 +174,7 @@
 ||prof^$doc,domain=~casey.prof
 ||promo^$doc
 ||pub^$doc,domain=~infosec.pub|~static.pub|~wapo.pub
+||qpon^$doc
 ||quest^$doc,domain=~dice.quest|~epochal.quest|~mhn.quest|~mylegendary.quest|~prometheus.quest|~raccoon.quest|~squash.quest
 ||realtor^$doc
 ||recipes^$doc
@@ -197,6 +204,7 @@
 ||space^$doc,domain=~dragonscave.space|~drgns.space|~hf.space|~httpjames.space|~hullseals.space|~hyper.space|~infosec.space|~ippen.space|~keyboard-test.space|~latent.space|~link.space|~mapstodon.space|~melmac.space|~mempool.space|~metahub.space|~monitorburz.space|~ocr.space|~oldbytes.space|~qwik.space|~realcushion.space|~searx.space|~takeb1nzyto.space|~truepeople.space
 ||sport^$doc
 ||store^$doc,domain=~adidashardware.store|~androeed.store|~cleanmasters.store|~g-h.store|~iqunix.store|~shoplazza.store|~stan.store|~tatemcraeeu.store|~tatemcrae.store|~timberjacks.store
+||studio^$doc
 ||style^$doc
 ||su^$doc,domain=~catflix.su|~encode.su|~jpg4.su|~lucida.su|~promportal.su
 ||support^$doc,domain=~ada.support|~jitsi.support
@@ -209,6 +217,7 @@
 ||today^$doc,domain=~archive.today|~futurology.today|~lemmy.today|~oldweb.today
 ||tokyo^$doc
 ||top^$doc,domain=~1stream.top|~ambr.top|~arjun.top|~caitlin.top|~chillx.top|~corriente.top|~doubledouble.top|~edgeless.top|~mastodon.top|~mianbeian.top|~nfmirrorcdn.top|~pegelinux.top|~pressplay.top|~reminder.top|~saltwood.top|~shucks.top|~strims.top|~suiten.top|~techblog.top|~thedesk.top|~vsdb.top
+||town^$doc
 ||trade^$doc,domain=~composer.trade|~kite.trade
 ||trading^$doc
 ||uno^$doc,domain=~platform.uno

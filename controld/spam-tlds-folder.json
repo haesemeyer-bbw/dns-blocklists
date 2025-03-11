@@ -246,6 +246,13 @@
       }
     },
     {
+      "PK": "*.ceo",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.cfd",
       "action": {
         "do": 0,
@@ -303,6 +310,13 @@
     },
     {
       "PK": "*.club",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.college",
       "action": {
         "do": 0,
         "status": 1
@@ -393,6 +407,13 @@
       }
     },
     {
+      "PK": "*.delivery",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.dental",
       "action": {
         "do": 0,
@@ -415,6 +436,20 @@
     },
     {
       "PK": "*.discount",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.diy",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.dog",
       "action": {
         "do": 0,
         "status": 1
@@ -723,6 +758,13 @@
     },
     {
       "PK": "*.life",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.lifestyle",
       "action": {
         "do": 0,
         "status": 1
@@ -1072,6 +1114,13 @@
       }
     },
     {
+      "PK": "*.qpon",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.quest",
       "action": {
         "do": 0,
@@ -1275,6 +1324,13 @@
       }
     },
     {
+      "PK": "*.studio",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.style",
       "action": {
         "do": 0,
@@ -1353,6 +1409,13 @@
     },
     {
       "PK": "*.top",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.town",
       "action": {
         "do": 0,
         "status": 1
