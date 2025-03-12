@@ -4,23 +4,76 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 08 Mar 2025 00:47 UTC
-# Version: 2025.0308.0047.02
+# Last modified: 12 Mar 2025 07:11 UTC
+# Version: 2025.0312.0711.06
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 256
+# Number of entries: 334
 #
 0.0.0.0 samsung-com.112.2o7.net
 0.0.0.0 metric.account-samsung.com
+0.0.0.0 adgear.com
+0.0.0.0 jobs.adgear.com
+0.0.0.0 www.adgear.com
+0.0.0.0 adgrx.com
+0.0.0.0 cdn.adgrx.com
+0.0.0.0 cdn-stv.adgrx.com
+0.0.0.0 cm.adgrx.com
+0.0.0.0 dsp-s.adgrx.com
+0.0.0.0 s.dsp-s.adgrx.com
+0.0.0.0 rtb.adgrx.com
+0.0.0.0 tvx.adgrx.com
+0.0.0.0 www.adgrx.com
 0.0.0.0 samsungcard.data.adobedc.net
 0.0.0.0 samsungads.adsmeasurement.com
+0.0.0.0 aibixby.com
+0.0.0.0 adgrx.com.tech.akadns.net
+0.0.0.0 rtb.adgrx.com.tech.akadns.net
+0.0.0.0 tvx.adgrx.com.tech.akadns.net
+0.0.0.0 euprd-klms-elm-tls12-48142684.eu-west-1.elb.amazonaws.com
+0.0.0.0 k8s-kcseuprd-ingressa-1d152aad2c-811798639.eu-west-1.elb.amazonaws.com
+0.0.0.0 ec2-n66-svoice-rel1-414732760.us-east-1.elb.amazonaws.com
+0.0.0.0 k8s-kcsusprd-ingressa-0361671a75-190147245.us-west-2.elb.amazonaws.com
+0.0.0.0 usprd-klms-elm-tls12-473738987.us-west-2.elb.amazonaws.com
 0.0.0.0 samsung.appnext.com
 0.0.0.0 samsungrum.beusable.net
 0.0.0.0 samsungscript.beusable.net
 0.0.0.0 samsung.bimtrackapp.co
+0.0.0.0 bixbydevelopers.com
+0.0.0.0 www.bixbydevelopers.com
+0.0.0.0 au-odc.samsungapps.com.gslb.cdnetworks.net
+0.0.0.0 hk-odc.samsungapps.com.gslb.cdnetworks.net
+0.0.0.0 id-odc.samsungapps.com.gslb.cdnetworks.net
+0.0.0.0 in-odc.samsungapps.com.gslb.cdnetworks.net
+0.0.0.0 kr-odc.samsungapps.com.gslb.cdnetworks.net
+0.0.0.0 my-odc.samsungapps.com.gslb.cdnetworks.net
+0.0.0.0 th-odc.samsungapps.com.gslb.cdnetworks.net
+0.0.0.0 tw-odc.samsungapps.com.gslb.cdnetworks.net
+0.0.0.0 us-odc.samsungapps.com.gslb.cdnetworks.net
+0.0.0.0 vn-odc.samsungapps.com.gslb.cdnetworks.net
+0.0.0.0 acradminprd.cloudapp.net
+0.0.0.0 br-odc.samsungapps.com.cdn.cloudflare.net
+0.0.0.0 de-odc.samsungapps.com.cdn.cloudflare.net
+0.0.0.0 es-odc.samsungapps.com.cdn.cloudflare.net
+0.0.0.0 fr-odc.samsungapps.com.cdn.cloudflare.net
+0.0.0.0 it-odc.samsungapps.com.cdn.cloudflare.net
+0.0.0.0 pl-odc.samsungapps.com.cdn.cloudflare.net
+0.0.0.0 ru-odc.samsungapps.com.cdn.cloudflare.net
+0.0.0.0 sa-odc.samsungapps.com.cdn.cloudflare.net
+0.0.0.0 tr-odc.samsungapps.com.cdn.cloudflare.net
+0.0.0.0 uk-odc.samsungapps.com.cdn.cloudflare.net
+0.0.0.0 us-odc.samsungapps.com.cdn.cloudflare.net
+0.0.0.0 analytics-api-external-alb-222534322.cn-north-1.elb.amazonaws.com.cn
+0.0.0.0 bjprdaws-elm-alb-862843980.cn-north-1.elb.amazonaws.com.cn
+0.0.0.0 bjprdaws-tds-alb-1740123845.cn-north-1.elb.amazonaws.com.cn
+0.0.0.0 k8s-knox-bbc-eb6a6f029f-1814433862.cn-north-1.elb.amazonaws.com.cn
+0.0.0.0 mcsvc.samsung.com.cn
 0.0.0.0 cn-api.mcsvc.samsung.com.cn
 0.0.0.0 smetrics.samsung.com.cn
 0.0.0.0 push.samsungosp.com.cn
 0.0.0.0 china-gld.push.samsungosp.com.cn
+0.0.0.0 china-b2c-klm.secb2b.com.cn
+0.0.0.0 china-elm.secb2b.com.cn
+0.0.0.0 china-klm.secb2b.com.cn
 0.0.0.0 samsungott.sora.yoyi.com.cn
 0.0.0.0 samsung.demdex.net
 0.0.0.0 fast.samsung.demdex.net
@@ -92,6 +145,7 @@
 0.0.0.0 samsungvn.everestengagement.com
 0.0.0.0 samsung.telemetry.eyeo.com
 0.0.0.0 ehg-samsungusa.hitbox.com
+0.0.0.0 sun-apps.prod.inovatel.net
 0.0.0.0 conn-v2.samsung.japps.cn
 0.0.0.0 report-v2.samsung.japps.cn
 0.0.0.0 sis-v2.samsung.japps.cn
@@ -118,6 +172,7 @@
 0.0.0.0 zneysvtqyfhzf6n4p-samsungeurope.siteintercept.qualtrics.com
 0.0.0.0 config-api.internet.apps.samsung.com
 0.0.0.0 sia.internet.apps.samsung.com
+0.0.0.0 api.mop.apps.samsung.com
 0.0.0.0 dls-account.di.atlas.samsung.com
 0.0.0.0 images.b2bindia.samsung.com
 0.0.0.0 analytics.bigdata.samsung.com
@@ -149,6 +204,7 @@
 0.0.0.0 images.ssbusiness.samsung.com
 0.0.0.0 bigdata.ssp.samsung.com
 0.0.0.0 target-us.samsung.com
+0.0.0.0 samsung-svoice.com
 0.0.0.0 samsungacr.com
 0.0.0.0 log-config.samsungacr.com
 0.0.0.0 log-ingestion.samsungacr.com
@@ -164,7 +220,9 @@
 0.0.0.0 ad.samsungadhub.com
 0.0.0.0 ww25.ad.samsungadhub.com
 0.0.0.0 www.samsungadhub.com
+0.0.0.0 samsungads.ca
 0.0.0.0 samsungads.com
+0.0.0.0 samsungads.events
 0.0.0.0 ad-server.samsungads.com
 0.0.0.0 ads.samsungads.com
 0.0.0.0 api-dooh.samsungads.com
@@ -174,7 +232,9 @@
 0.0.0.0 events.samsungads.com
 0.0.0.0 go.samsungads.com
 0.0.0.0 go2.samsungads.com
+0.0.0.0 www.samsungads.ca
 0.0.0.0 www.samsungads.com
+0.0.0.0 www.samsungads.events
 0.0.0.0 samsungallstore.com
 0.0.0.0 egs.samsungallstore.com
 0.0.0.0 routing.egs.samsungallstore.com
@@ -187,13 +247,17 @@
 0.0.0.0 acr-kr-prd.samsungcloud.tv
 0.0.0.0 acr-mx-prd.samsungcloud.tv
 0.0.0.0 acr-us-prd.samsungcloud.tv
+0.0.0.0 acr.samsungcloudsolution.com
 0.0.0.0 acr0.samsungcloudsolution.com
 0.0.0.0 devicelog.samsungcloudsolution.net
 0.0.0.0 prderrordumphsm.samsungcloudsolution.com
 0.0.0.0 prderrordumpssm.samsungcloudsolution.net
+0.0.0.0 samsungconsent.com
+0.0.0.0 www.samsungconsent.com
 0.0.0.0 diagmon-policy.samsungdm.com
 0.0.0.0 diagmon-serviceapi.samsungdm.com
 0.0.0.0 report.gras.samsungdm.com
+0.0.0.0 samsungdmroute.com
 0.0.0.0 analytics.samsungedo.com
 0.0.0.0 apu.samsungelectronics.com
 0.0.0.0 bpu.samsungelectronics.com
@@ -216,6 +280,7 @@
 0.0.0.0 b2banalytics.samsungknox.com
 0.0.0.0 nmetrics.samsungmobile.com
 0.0.0.0 gld.samsungosp.com
+0.0.0.0 push.samsungosp.com
 0.0.0.0 stats.samsungpass.com
 0.0.0.0 osb.samsungqbe.com
 0.0.0.0 osb-krsvc.samsungqbe.com
@@ -233,8 +298,20 @@
 0.0.0.0 business.samsungusa.com
 0.0.0.0 app.business.samsungusa.com
 0.0.0.0 images.business.samsungusa.com
+0.0.0.0 sbixby.com
+0.0.0.0 eu-elm.secb2b.com
+0.0.0.0 eu-prod-klm.secb2b.com
+0.0.0.0 eu-prod-klm-b2c.secb2b.com
+0.0.0.0 euprod-knoxlog.secb2b.com
+0.0.0.0 prod-knoxlog.secb2b.com
+0.0.0.0 us-elm.secb2b.com
+0.0.0.0 us-prod-klm.secb2b.com
+0.0.0.0 us-prod-klm-b2c.secb2b.com
+0.0.0.0 usprod-knoxlog.secb2b.com
+0.0.0.0 sun-apps.sfr.com
 0.0.0.0 api-samsung.swypeconnect.com
 0.0.0.0 lbs-samsung.swypeconnect.com
+0.0.0.0 acrapiprdnew.trafficmanager.net
 0.0.0.0 samsungau.api.useinsider.com
 0.0.0.0 samsungca.api.useinsider.com
 0.0.0.0 samsunghk.api.useinsider.com
@@ -265,3 +342,4 @@
 0.0.0.0 samsunguk.api.useinsider.com
 0.0.0.0 samsungusa.api.useinsider.com
 0.0.0.0 samsungvn.api.useinsider.com
+0.0.0.0 bixbydevelopers.zendesk.com

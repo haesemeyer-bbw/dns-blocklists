@@ -4,8 +4,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 08 Mar 2025 00:37 UTC
-# Version: 2025.0308.0037.30
+# Last modified: 12 Mar 2025 07:09 UTC
+# Version: 2025.0312.0709.11
 # Syntax: Hosts compressed (9 per line, including possible subdomains)
 # Number of entries: 129
 #
@@ -129,12 +129,12 @@
 0.0.0.0 www.alphonso.tv wyxqbhzw97.alphonso.tv xasztu66.alphonso.tv xbccbblkf4.alphonso.tv xdfaerg8.alphonso.tv xivbr6.alphonso.tv xksxqur0.alphonso.tv xovsoot4.alphonso.tv xpmbuxhl9.alphonso.tv
 0.0.0.0 xqqyx2.alphonso.tv xrxtkwnz4.alphonso.tv xsbyyik52.alphonso.tv ycqniap3.alphonso.tv ycveqoogp09.alphonso.tv ygebzkorfi7.alphonso.tv ygkibjr6.alphonso.tv yrdpnjajw79.alphonso.tv yubyryonu18.alphonso.tv
 0.0.0.0 yumhcpugj62.alphonso.tv yygzydzs13.alphonso.tv zbzcbkflw2.alphonso.tv zcesm62.alphonso.tv zeokb1.alphonso.tv zmepmwhey7.alphonso.tv zpvvb87.alphonso.tv zqsyp37.alphonso.tv zumqanh0.alphonso.tv
-0.0.0.0 zycigxwpgv8.alphonso.tv qt2-ngfts.lge.com ad.lgsmartad.com ae.ad.lgsmartad.com al.ad.lgsmartad.com ar.ad.lgsmartad.com at.ad.lgsmartad.com au.ad.lgsmartad.com be.ad.lgsmartad.com
-0.0.0.0 br.ad.lgsmartad.com by.ad.lgsmartad.com ca.ad.lgsmartad.com cl.ad.lgsmartad.com co.ad.lgsmartad.com cr.ad.lgsmartad.com cz.ad.lgsmartad.com de.ad.lgsmartad.com dk.ad.lgsmartad.com
-0.0.0.0 do.ad.lgsmartad.com ec.ad.lgsmartad.com ee.ad.lgsmartad.com eg.ad.lgsmartad.com es.ad.lgsmartad.com gb.ad.lgsmartad.com gr.ad.lgsmartad.com gt.ad.lgsmartad.com hk.ad.lgsmartad.com
-0.0.0.0 hn.ad.lgsmartad.com hu.ad.lgsmartad.com id.ad.lgsmartad.com ie.ad.lgsmartad.com il.ad.lgsmartad.com in.ad.lgsmartad.com iq.ad.lgsmartad.com kz.ad.lgsmartad.com lt.ad.lgsmartad.com
-0.0.0.0 mx.ad.lgsmartad.com my.ad.lgsmartad.com ng.ad.lgsmartad.com nl.ad.lgsmartad.com pa.ad.lgsmartad.com ph.ad.lgsmartad.com pl.ad.lgsmartad.com pt.ad.lgsmartad.com ro.ad.lgsmartad.com
-0.0.0.0 rs.ad.lgsmartad.com ru.ad.lgsmartad.com se.ad.lgsmartad.com sg.ad.lgsmartad.com sk.ad.lgsmartad.com sv.ad.lgsmartad.com th.ad.lgsmartad.com tr.ad.lgsmartad.com ua.ad.lgsmartad.com
-0.0.0.0 us.ad.lgsmartad.com ve.ad.lgsmartad.com vn.ad.lgsmartad.com za.ad.lgsmartad.com us.lgsmartad.com aic.cdpbeacon.lgtvcommon.com eic.cdpbeacon.lgtvcommon.com aic.homeprv.lgtvcommon.com eic.homeprv.lgtvcommon.com
-0.0.0.0 kic.homeprv.lgtvcommon.com ruc.homeprv.lgtvcommon.com aic.nudge.lgtvcommon.com eic.nudge.lgtvcommon.com kic.nudge.lgtvcommon.com ruc.nudge.lgtvcommon.com rdl.lgtvcommon.com aic.rdl.lgtvcommon.com kic.rdl.lgtvcommon.com
-0.0.0.0 aic.wiseconfig.lgtvcommon.com 
+0.0.0.0 zycigxwpgv8.alphonso.tv us-ad-lgsmartad-com.aws-prd.net us-info-lgsmartad-com.aws-prd.net eic-ngfts.lge.com.edgekey.net qt2-ngfts.lge.com.edgekey.net lgads.tv www.lgads.tv eic-ngfts.lge.com qt2-ngfts.lge.com
+0.0.0.0 ad.lgsmartad.com ae.ad.lgsmartad.com al.ad.lgsmartad.com ar.ad.lgsmartad.com at.ad.lgsmartad.com au.ad.lgsmartad.com be.ad.lgsmartad.com br.ad.lgsmartad.com by.ad.lgsmartad.com
+0.0.0.0 ca.ad.lgsmartad.com cl.ad.lgsmartad.com co.ad.lgsmartad.com cr.ad.lgsmartad.com cz.ad.lgsmartad.com de.ad.lgsmartad.com dk.ad.lgsmartad.com do.ad.lgsmartad.com ec.ad.lgsmartad.com
+0.0.0.0 ee.ad.lgsmartad.com eg.ad.lgsmartad.com es.ad.lgsmartad.com gb.ad.lgsmartad.com gr.ad.lgsmartad.com gt.ad.lgsmartad.com hk.ad.lgsmartad.com hn.ad.lgsmartad.com hu.ad.lgsmartad.com
+0.0.0.0 id.ad.lgsmartad.com ie.ad.lgsmartad.com il.ad.lgsmartad.com in.ad.lgsmartad.com iq.ad.lgsmartad.com kz.ad.lgsmartad.com lt.ad.lgsmartad.com mx.ad.lgsmartad.com my.ad.lgsmartad.com
+0.0.0.0 ng.ad.lgsmartad.com nl.ad.lgsmartad.com pa.ad.lgsmartad.com ph.ad.lgsmartad.com pl.ad.lgsmartad.com pt.ad.lgsmartad.com ro.ad.lgsmartad.com rs.ad.lgsmartad.com ru.ad.lgsmartad.com
+0.0.0.0 se.ad.lgsmartad.com sg.ad.lgsmartad.com sk.ad.lgsmartad.com sv.ad.lgsmartad.com th.ad.lgsmartad.com tr.ad.lgsmartad.com ua.ad.lgsmartad.com us.ad.lgsmartad.com ve.ad.lgsmartad.com
+0.0.0.0 vn.ad.lgsmartad.com za.ad.lgsmartad.com us.lgsmartad.com aic.cdpbeacon.lgtvcommon.com eic.cdpbeacon.lgtvcommon.com aic.homeprv.lgtvcommon.com eic.homeprv.lgtvcommon.com kic.homeprv.lgtvcommon.com ruc.homeprv.lgtvcommon.com
+0.0.0.0 aic.nudge.lgtvcommon.com eic.nudge.lgtvcommon.com kic.nudge.lgtvcommon.com ruc.nudge.lgtvcommon.com rdl.lgtvcommon.com aic.rdl.lgtvcommon.com kic.rdl.lgtvcommon.com aic.wiseconfig.lgtvcommon.com 

@@ -4,13 +4,16 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 08 Mar 2025 00:44 UTC
-# Version: 2025.0308.0044.32
+# Last modified: 12 Mar 2025 07:13 UTC
+# Version: 2025.0312.0713.52
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 474
+# Number of entries: 484
 #
 0.0.0.0 traffic-media.co.uk
+0.0.0.0 mistat.india.xiaomi.com.edgesuite.net
 0.0.0.0 ad.intl.xiaomi.com.edgesuite.net
+0.0.0.0 mistat.intl.xiaomi.com.edgesuite.net
+0.0.0.0 mistat.rus.xiaomi.com.edgesuite.net
 0.0.0.0 auth.api.gitv.tv
 0.0.0.0 pb.bi.gitv.tv
 0.0.0.0 appstore.ptmi.gitv.tv
@@ -39,13 +42,18 @@
 0.0.0.0 us.micardapi.micloud.xiaomi.net.iberostar.com
 0.0.0.0 us.noteapi.micloud.xiaomi.net.iberostar.com
 0.0.0.0 us.pdc.micloud.xiaomi.net.iberostar.com
+0.0.0.0 mistat.xiaomi.com.download.ks-cdn.com
+0.0.0.0 mistat.india.xiaomi.com.ksyna.net
 0.0.0.0 ad.intl.xiaomi.com.ksyna.net
+0.0.0.0 mistat.intl.xiaomi.com.ksyna.net
+0.0.0.0 mistat.rus.xiaomi.com.ksyna.net
 0.0.0.0 kuyun.com
 0.0.0.0 config.kuyun.com
 0.0.0.0 logonext.tv.kuyun.com
 0.0.0.0 www.kuyun.com
 0.0.0.0 ad.mi.com
 0.0.0.0 ads.mi.com
+0.0.0.0 e.mi.com
 0.0.0.0 staging.admin.e.mi.com
 0.0.0.0 api.e.mi.com
 0.0.0.0 site.e.mi.com
@@ -91,6 +99,7 @@
 0.0.0.0 tracking.india.miui.com
 0.0.0.0 mitv.tracking.india.miui.com
 0.0.0.0 inf.miui.com
+0.0.0.0 apm-rum-ind.inf.miui.com
 0.0.0.0 mcc.intl.inf.miui.com
 0.0.0.0 api.accelerator.intl.miui.com
 0.0.0.0 api.aurogon.intl.miui.com
@@ -305,6 +314,7 @@
 0.0.0.0 pi.ias.xiaomi.com
 0.0.0.0 sdkconfig.ad.india.xiaomi.com
 0.0.0.0 controller.india.xiaomi.com
+0.0.0.0 mistat.india.xiaomi.com
 0.0.0.0 data.mistat.india.xiaomi.com
 0.0.0.0 sys.tv.india.xiaomi.com
 0.0.0.0 api.installer.xiaomi.com
