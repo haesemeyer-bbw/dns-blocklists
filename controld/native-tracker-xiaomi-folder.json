@@ -232,13 +232,6 @@
       }
     },
     {
-      "PK": "api.e.mi.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "api.game.intl.miui.com",
       "action": {
         "do": 0,
@@ -680,13 +673,6 @@
       }
     },
     {
-      "PK": "data.mistat.india.xiaomi.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "data.mistat.xiaomi.com",
       "action": {
         "do": 0,
@@ -744,6 +730,13 @@
     },
     {
       "PK": "d.xiaomi.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "e.mi.com",
       "action": {
         "do": 0,
         "status": 1
@@ -1422,6 +1415,27 @@
       }
     },
     {
+      "PK": "mistat.india.xiaomi.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "mistat.india.xiaomi.com.edgesuite.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "mistat.india.xiaomi.com.ksyna.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "mistat.intl.xiaomi.com",
       "action": {
         "do": 0,
@@ -1429,7 +1443,42 @@
       }
     },
     {
+      "PK": "mistat.intl.xiaomi.com.edgesuite.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "mistat.intl.xiaomi.com.ksyna.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "mistat.rus.xiaomi.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "mistat.rus.xiaomi.com.edgesuite.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "mistat.rus.xiaomi.com.ksyna.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "mistat.xiaomi.com.download.ks-cdn.com",
       "action": {
         "do": 0,
         "status": 1
@@ -1989,13 +2038,6 @@
       }
     },
     {
-      "PK": "site.e.mi.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "smarthome.pandora.xiaomi.com",
       "action": {
         "do": 0,
@@ -2025,13 +2067,6 @@
     },
     {
       "PK": "stag.bssmini.pandora.xiaomi.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "staging.admin.e.mi.com",
       "action": {
         "do": 0,
         "status": 1

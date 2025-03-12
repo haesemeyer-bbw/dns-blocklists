@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1741751820 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1741795320 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 12 Mar 2025 03:57 UTC
-; Version: 2025.0312.0357.47
+; Last modified: 12 Mar 2025 16:02 UTC
+; Version: 2025.0312.1602.14
 ; Syntax: RPZ
-; Number of entries: 19398
+; Number of entries: 19400
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -6919,8 +6919,6 @@ vidcloud1.com CNAME .
 *.vidcloud1.com CNAME .
 vidcloud9.com CNAME .
 *.vidcloud9.com CNAME .
-videocop.com CNAME .
-*.videocop.com CNAME .
 tracker.videodrugproject.com CNAME .
 *.tracker.videodrugproject.com CNAME .
 videoelephantbd.com CNAME .
@@ -13663,6 +13661,8 @@ crackdb.org CNAME .
 *.crackdb.org CNAME .
 cracked-games.org CNAME .
 *.cracked-games.org CNAME .
+crackedpc.org CNAME .
+*.crackedpc.org CNAME .
 crackhash.org CNAME .
 *.crackhash.org CNAME .
 crackzplanet.org CNAME .
@@ -17469,6 +17469,8 @@ tracker.gcrenwp.top CNAME .
 *.tracker.gcrenwp.top CNAME .
 sparkle.ghostchu-services.top CNAME .
 *.sparkle.ghostchu-services.top CNAME .
+trunker.ghostchu-services.top CNAME .
+*.trunker.ghostchu-services.top CNAME .
 haikyuu.top CNAME .
 *.haikyuu.top CNAME .
 hdfilme.top CNAME .

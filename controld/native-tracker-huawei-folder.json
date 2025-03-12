@@ -29,6 +29,20 @@
       }
     },
     {
+      "PK": "ads.cloud.huawei.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "ads-drru.cloud.huawei.ru",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "adx-dra.op.dbankcloud.com",
       "action": {
         "do": 0,
@@ -113,6 +127,13 @@
       }
     },
     {
+      "PK": "adx-drru.op.hicloud.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "browsercfg-drcn.cloud.dbankcloud.cn",
       "action": {
         "do": 0,
@@ -127,13 +148,6 @@
       }
     },
     {
-      "PK": "datacollector-dra.dt.hicloud.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "datacollector-drcn.dt.dbankcloud.cn",
       "action": {
         "do": 0,
@@ -141,35 +155,7 @@
       }
     },
     {
-      "PK": "datacollector-drcn.dt.hicloud.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "datacollector-dre.dt.dbankcloud.cn",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "datacollector-dre.dt.hicloud.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "datacollector-drru.dt.dbankcloud.ru",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "datacollector-drru.dt.hicloud.com",
       "action": {
         "do": 0,
         "status": 1
@@ -198,6 +184,20 @@
     },
     {
       "PK": "dnkeeper.platform.dbankcloud.cn",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "dt.dbankcloud.ru",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "dt.hicloud.com",
       "action": {
         "do": 0,
         "status": 1
@@ -477,6 +477,13 @@
       }
     },
     {
+      "PK": "logserver.nzxcloud.cn",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "logservice1.dbankcloud.com",
       "action": {
         "do": 0,
@@ -512,14 +519,14 @@
       }
     },
     {
-      "PK": "logservice-drru.dt.hicloud.com",
+      "PK": "logservice.hicloud.com",
       "action": {
         "do": 0,
         "status": 1
       }
     },
     {
-      "PK": "logservice.hicloud.com",
+      "PK": "logservice.vmall.com",
       "action": {
         "do": 0,
         "status": 1
@@ -575,35 +582,7 @@
       }
     },
     {
-      "PK": "metrics5.dt.dbankcloud.ru",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "metrics6.dt.hicloud.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "metrics-dra.dt.dbankcloud.cn",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "metrics-dra.dt.hicloud.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "metrics-drcn.dt.hicloud.com",
       "action": {
         "do": 0,
         "status": 1
@@ -631,13 +610,6 @@
       }
     },
     {
-      "PK": "metrics.dt.hicloud.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "openlocation-drcn.platform.dbankcloud.com",
       "action": {
         "do": 0,
@@ -652,6 +624,20 @@
       }
     },
     {
+      "PK": "rnd-aresocean-commercial.huawei.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "rnd-cbgpas01.huawei.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "ubacollect-drcn.cloud.dbankcloud.cn",
       "action": {
         "do": 0,
@@ -660,6 +646,13 @@
     },
     {
       "PK": "ubacollect-drcn.cloud.dbankcloud.co",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "uba.huaweicloud.com",
       "action": {
         "do": 0,
         "status": 1

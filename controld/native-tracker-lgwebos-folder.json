@@ -64,6 +64,20 @@
       }
     },
     {
+      "PK": "eic-ngfts.lge.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "eic-ngfts.lge.com.edgekey.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "eic.nudge.lgtvcommon.com",
       "action": {
         "do": 0,
@@ -85,7 +99,21 @@
       }
     },
     {
+      "PK": "lgads.tv",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "qt2-ngfts.lge.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "qt2-ngfts.lge.com.edgekey.net",
       "action": {
         "do": 0,
         "status": 1
@@ -107,6 +135,20 @@
     },
     {
       "PK": "ruc.nudge.lgtvcommon.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "us-ad-lgsmartad-com.aws-prd.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "us-info-lgsmartad-com.aws-prd.net",
       "action": {
         "do": 0,
         "status": 1
