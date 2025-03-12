@@ -4635,13 +4635,6 @@
       }
     },
     {
-      "PK": "checkiteasy.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "chez.com",
       "action": {
         "do": 0,
@@ -5616,13 +5609,6 @@
     },
     {
       "PK": "dmodaboutique1.shop",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "dnaprior.shop",
       "action": {
         "do": 0,
         "status": 1
@@ -13371,6 +13357,13 @@
       }
     },
     {
+      "PK": "tripvlog.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "troove.top",
       "action": {
         "do": 0,
@@ -14912,13 +14905,6 @@
     },
     {
       "PK": "world.mu",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "worldofcryptofinance.com",
       "action": {
         "do": 0,
         "status": 1

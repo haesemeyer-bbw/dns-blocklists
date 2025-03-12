@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1741709160 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1741752000 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 11 Mar 2025 16:06 UTC
-; Version: 2025.0311.1606.18
+; Last modified: 12 Mar 2025 04:00 UTC
+; Version: 2025.0312.0400.47
 ; Syntax: RPZ
-; Number of entries: 4428
+; Number of entries: 4424
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -883,8 +883,6 @@ cfm-id72049123.com CNAME .
 *.cfm-id72049123.com CNAME .
 chamberecommerce.com CNAME .
 *.chamberecommerce.com CNAME .
-checkiteasy.com CNAME .
-*.checkiteasy.com CNAME .
 chez.com CNAME .
 *.chez.com CNAME .
 cixx6.com CNAME .
@@ -1831,6 +1829,8 @@ tribunablog.com CNAME .
 *.tribunablog.com CNAME .
 tripod.com CNAME .
 *.tripod.com CNAME .
+tripvlog.com CNAME .
+*.tripvlog.com CNAME .
 truistcooperative.com CNAME .
 *.truistcooperative.com CNAME .
 ttblogs.com CNAME .
@@ -1939,8 +1939,6 @@ wopop.com CNAME .
 *.wopop.com CNAME .
 worldblogged.com CNAME .
 *.worldblogged.com CNAME .
-worldofcryptofinance.com CNAME .
-*.worldofcryptofinance.com CNAME .
 worldsoffinance.com CNAME .
 *.worldsoffinance.com CNAME .
 wpsuo.com CNAME .
@@ -3949,8 +3947,6 @@ dinaellen.shop CNAME .
 *.dinaellen.shop CNAME .
 dmodaboutique1.shop CNAME .
 *.dmodaboutique1.shop CNAME .
-dnaprior.shop CNAME .
-*.dnaprior.shop CNAME .
 dolebropro.shop CNAME .
 *.dolebropro.shop CNAME .
 domepaosell.shop CNAME .

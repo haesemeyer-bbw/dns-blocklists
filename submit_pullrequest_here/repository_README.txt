@@ -21,7 +21,7 @@ If you like the project and you can benefit from it, leave a :star: (top right) 
 7. [Fake](#fake) - Protects against internet scams, traps & fakes!
 8. [Pop-Up Ads](#popupads) - Protects against annoying and malicious pop-up ads!
 9. [Threat Intelligence Feeds](#tif) - Increases security significantly! (Recommended) : [Full](#tif) - [Medium](#tifmedium) - [Mini](#tifmini) - [IPs](#tifips)
-10. [Newly Registered Domains](#nrd) - Favoured by threat actors to launch malicious campaigns!
+10. [Newly Registered Domains - NRD/DGA](#nrd) - Favoured by threat actors to launch malicious campaigns!
 11. [DoH/VPN/TOR/Proxy Bypass](#bypass) - Prevent methods to bypass your DNS! : [Full](#bypass_all) - [DoH only](#bypass_dns) - [DoH IPs](#bypass_ips)
 12. [Safesearch not supported](#safesearch) - Prevent the use of search engines that do not support Safesearch!
 13. [Dynamic DNS](#dyndns) - Protects against the malicious use of dynamic DNS services!
@@ -365,14 +365,15 @@ IPv4 lists in [plain IP format](https://raw.githubusercontent.com/hagezi/dns-blo
 
 ---
 
-### :new: **Newly Registered Domains (NRDs)** <a name="nrd"></a>
+### :new: **Newly Registered Domains (NRD) - Domain Generation Algorithms (DGA)** <a name="nrd"></a>
 
-A blocklist for blocking domains registered in the last 14 or 30 days. These domains are known to be favoured by threat actors to launch malicious campaigns.
+A blocklist for blocking domains registered in the last 14 or 30 days (NRDs). Furthermore, separate lists of domains generated with DGA (Domain Generation Algorithms) are also offered, these domains are already included in the NRD lists.                    
+NRDs and DGAs are known to be favoured by threat actors to launch malicious campaigns.
 
 > [!IMPORTANT]
 > This is an external list that is created and maintained by [@xRuffKez](https://github.com/xRuffKez).
 
-**For the lists and further details visit the [corresponding repository](https://github.com/xRuffKez/NRD).**
+**For the lists and further details visit the [corresponding repository](https://github.com/xRuffKez/NRD). The lists in various formats can be found [here](https://github.com/xRuffKez/NRD/tree/main/lists).**
 
 ---
 

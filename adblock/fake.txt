@@ -5,10 +5,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 11 Mar 2025 11:58 UTC
-! Version: 2025.0311.1158.11
+! Last modified: 11 Mar 2025 23:57 UTC
+! Version: 2025.0311.2357.06
 ! Syntax: AdBlock
-! Number of entries: 10516
+! Number of entries: 10501
 !
 ||01crypto.com^
 ||1-stud.net^
@@ -38,7 +38,6 @@
 ||24trading.co^
 ||eu.2bagsvalley.cn^
 ||2bgreen.at^
-||2cequipements.com^
 ||2f-kanzlei.com^
 ||2rad-handel.com^
 ||2rader.com^
@@ -56,7 +55,6 @@
 ||746fr228.com^
 ||74invest.com^
 ||77options.com^
-||93mobiles.com^
 ||a-advisors.com^
 ||a-markt.de^
 ||aaaclothing.ru^
@@ -232,7 +230,6 @@
 ||alden-usa.com^
 ||aldobolsasmexico.com^
 ||aldocanada.net^
-||aldofashion.com^
 ||aldomontreal.com^
 ||aldonetherlands.com^
 ||aldorabatt.de^
@@ -456,7 +453,6 @@
 ||apkwell.com^
 ||aplschuhe.com^
 ||apo-rezeptfrei.com^
-||apoamerbach.com^
 ||apotek-no24.com^
 ||apotek-norge24.com^
 ||apoteket.to^
@@ -959,7 +955,6 @@
 ||bestellung-rezeptfrei.de^
 ||bestellungapotheke.de^
 ||bestellungen-rezeptfrei.de^
-||bestellungrezeptfrei.de^
 ||bestemed.com^
 ||bestenhunde.store^
 ||bestenkaufen.com^
@@ -1422,7 +1417,6 @@
 ||btcoinpro.com^
 ||btcswing.com^
 ||btop24.de^
-||btvtransport.com^
 ||buceplantde.shop^
 ||buchholzs.de^
 ||buchverlag-scholz.de^
@@ -1905,6 +1899,7 @@
 ||comfitunderwear-suomi.com^
 ||comicsbyhaemi.com^
 ||comicsde.com^
+||comme-des-garcons.at^
 ||commercewealth.com^
 ||commoditycutter.com^
 ||commoditysurf.com^
@@ -2083,7 +2078,6 @@
 ||cutpriceclothing.com^
 ||cutterfarm.de^
 ||cvc-capital-partners.com^
-||cvght.link^
 ||cyber-finances.de^
 ||cyber-haus.de^
 ||cycle100percent.com^
@@ -3009,7 +3003,6 @@
 ||exotic-kiss.com^
 ||exoticcatravels.com^
 ||expedia.buzz^
-||expedsline.com^
 ||expert-trademiners.com^
 ||expertlogistics.pro^
 ||expogoodet.shop^
@@ -3538,7 +3531,6 @@
 ||gaborschuhesuisse.com^
 ||gaborschweiz.org^
 ||gaborshoesoutletusa.com^
-||gaborskonorge.com^
 ||gaborskorsverige.com^
 ||gaborstovlerdanmark.com^
 ||gaborsuisse.com^
@@ -4415,7 +4407,6 @@
 ||holzhandler.com^
 ||holzharry-b2b.com^
 ||holzhaven.de^
-||holzhive.com^
 ||holzlagermarket.com^
 ||holzonly.de^
 ||holzpellets-seg.com^
@@ -5770,7 +5761,6 @@
 ||marketussports.com^
 ||markisenrabatt.com^
 ||markmale.de^
-||markt.life^
 ||markt-elektro.com^
 ||markt-forschung.com^
 ||marktexpress.com^
@@ -5904,7 +5894,6 @@
 ||mein-holz.store^
 ||meindlosterreich.at^
 ||meindlschuhe.at^
-||meine-pellets.store^
 ||meinfahrradstore.com^
 ||meinholzdepot.de^
 ||meinholzz.de^
@@ -6869,6 +6858,7 @@
 ||orrebol.com^
 ||ortliebpack.com^
 ||ortovoxeu.com^
+||os-serv.com^
 ||osiraemarkt.shop^
 ||osirisfi.com^
 ||osirisshoes.de^
@@ -8000,7 +7990,6 @@
 ||sarreidhome.com^
 ||sashop.xyz^
 ||saskiaschneider.shop^
-||sassier-investis.com^
 ||sastre-kauf.de^
 ||satchmo-elsdorf.de^
 ||satincrystals.shop^
@@ -8120,7 +8109,6 @@
 ||sebastianmicale.com^
 ||secureinvest.org^
 ||securemedsshop.com^
-||sedlaczeckgroup.com^
 ||seedcapital.world^
 ||segler-ohligs24.de^
 ||segovianet.com^
@@ -8982,7 +8970,6 @@
 ||talentnexuspro-de.com^
 ||talents-orbit.online^
 ||talents-peak.com^
-||talvenix.com^
 ||tamaravanhalen.com^
 ||tangent-capital.pro^
 ||tanjanoll.shop^
@@ -9868,7 +9855,6 @@
 ||verifizierungamericanexpress.com^
 ||vering24.de^
 ||veripro.de^
-||verkauf-rezeptfrei.de^
 ||verkaufbike.com^
 ||verkaufen-tonies.com^
 ||verkauffahrradbike.com^
@@ -9994,7 +9980,6 @@
 ||vivobarefootschuheberlin.de^
 ||vivobarefootschuhede.com^
 ||vivobarefootshopberlin.de^
-||vivobarefootslovenia.com^
 ||vivobarefootsuomi.com^
 ||vivobarefootuae.ae^
 ||vivobarefootwien.at^
