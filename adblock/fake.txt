@@ -5,10 +5,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 12 Mar 2025 23:57 UTC
-! Version: 2025.0312.2357.07
+! Last modified: 13 Mar 2025 11:57 UTC
+! Version: 2025.0313.1157.41
 ! Syntax: AdBlock
-! Number of entries: 10501
+! Number of entries: 10520
 !
 ||01crypto.com^
 ||1-stud.net^
@@ -55,6 +55,7 @@
 ||746fr228.com^
 ||74invest.com^
 ||77options.com^
+||93mobiles.com^
 ||a-advisors.com^
 ||a-markt.de^
 ||aaaclothing.ru^
@@ -230,6 +231,7 @@
 ||alden-usa.com^
 ||aldobolsasmexico.com^
 ||aldocanada.net^
+||aldofashion.com^
 ||aldomontreal.com^
 ||aldonetherlands.com^
 ||aldorabatt.de^
@@ -308,6 +310,7 @@
 ||aloyogasdeutschland.com^
 ||aloyogasuomi.net^
 ||alpbeat.com^
+||alpexoplus.com^
 ||alphagamers.de^
 ||alphaletedeutschland.de^
 ||alphaleteosterreich.at^
@@ -955,6 +958,7 @@
 ||bestellung-rezeptfrei.de^
 ||bestellungapotheke.de^
 ||bestellungen-rezeptfrei.de^
+||bestellungrezeptfrei.de^
 ||bestemed.com^
 ||bestenhunde.store^
 ||bestenkaufen.com^
@@ -1417,6 +1421,7 @@
 ||btcoinpro.com^
 ||btcswing.com^
 ||btop24.de^
+||btvtransport.com^
 ||buceplantde.shop^
 ||buchholzs.de^
 ||buchverlag-scholz.de^
@@ -2021,6 +2026,7 @@
 ||crop-bytes.com^
 ||crossfitsuomi.co^
 ||crown-re.com^
+||crownet.com^
 ||croy-ventures.de^
 ||cruitmatch.com^
 ||cruitwave-hub.com^
@@ -2530,6 +2536,7 @@
 ||durableswimsuit.com^
 ||dusanboldiwebstore.shop^
 ||duschenexperte.com^
+||dutchsport.net^
 ||dvaraka24.de^
 ||dvdsblurays.com^
 ||dw-forstbetrieb.com^
@@ -3531,6 +3538,7 @@
 ||gaborschuhesuisse.com^
 ||gaborschweiz.org^
 ||gaborshoesoutletusa.com^
+||gaborskonorge.com^
 ||gaborskorsverige.com^
 ||gaborstovlerdanmark.com^
 ||gaborsuisse.com^
@@ -3803,6 +3811,7 @@
 ||glassesde.com^
 ||glemory.com^
 ||global-grupoinnovation.com^
+||globalcim.com^
 ||globalermarkt.com^
 ||globalfowarders-sa.com^
 ||globalmarketoption.com^
@@ -3990,6 +3999,7 @@
 ||grueneshandelzhaus.de^
 ||gruenland-shop.de^
 ||grund-markt.de^
+||gryphoncapital.co^
 ||gs-company.pro^
 ||gsb24.shop^
 ||gsialfresco.com^
@@ -4647,6 +4657,7 @@
 ||imens-meds.net^
 ||imexkredit.com^
 ||imhaushalt.de^
+||immediatapex.com^
 ||immediate-avage.co^
 ||immediate-connect.app^
 ||immediate-connect.com^
@@ -5761,6 +5772,7 @@
 ||marketussports.com^
 ||markisenrabatt.com^
 ||markmale.de^
+||markt.life^
 ||markt-elektro.com^
 ||markt-forschung.com^
 ||marktexpress.com^
@@ -6382,6 +6394,7 @@
 ||neopass.de^
 ||neoplacement.com^
 ||neosysco.com^
+||neotcapital.com^
 ||neovate5.com^
 ||neoveris.shop^
 ||nerdsaleet.shop^
@@ -7211,6 +7224,7 @@
 ||pleasersuomi.com^
 ||plexiglass.nl^
 ||plikeysm.shop^
+||platform.pltf-tchg.io^
 ||pluralsilk.com^
 ||plusairsoft.com^
 ||plusforski.com^
@@ -7686,6 +7700,7 @@
 ||retter-de.shop^
 ||returnpotentialonline.com^
 ||revemotode.shop^
+||reviewpunt.nl^
 ||revolutionfsl.com^
 ||revolutionraceshop.com^
 ||revomarkt.com^
@@ -8221,6 +8236,7 @@
 ||shoesusretail.com^
 ||shoesvalley.cn^
 ||shoewhitemountain.com^
+||shoex.nl^
 ||shokosale.com^
 ||shop-alarmsystem.com^
 ||shop-brennholz24.com^
@@ -9855,6 +9871,7 @@
 ||verifizierungamericanexpress.com^
 ||vering24.de^
 ||veripro.de^
+||verkauf-rezeptfrei.de^
 ||verkaufbike.com^
 ||verkaufen-tonies.com^
 ||verkauffahrradbike.com^
@@ -9980,6 +9997,7 @@
 ||vivobarefootschuheberlin.de^
 ||vivobarefootschuhede.com^
 ||vivobarefootshopberlin.de^
+||vivobarefootslovenia.com^
 ||vivobarefootsuomi.com^
 ||vivobarefootuae.ae^
 ||vivobarefootwien.at^
@@ -10195,6 +10213,7 @@
 ||widelyshoes.com^
 ||widelytrendyitem.com^
 ||wiehenstahl.co^
+||wiitrader.com^
 ||wilax.de^
 ||wildanimal.shop^
 ||wildcatwork.com^

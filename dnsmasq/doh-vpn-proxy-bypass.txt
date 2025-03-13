@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 13 Mar 2025 04:00 UTC
-# Version: 2025.0313.0400.54
+# Last modified: 13 Mar 2025 16:12 UTC
+# Version: 2025.0313.1612.03
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3830
+# Number of entries: 3835
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -1025,8 +1025,11 @@ local=/duapps.com/
 local=/duba.net/
 local=/home27.duckdns.org/
 local=/jurre-home.duckdns.org/
+local=/krtekvpn.duckdns.org/
 local=/osefcorp.duckdns.org/
+local=/punono.duckdns.org/
 local=/tuandns.duckdns.org/
+local=/tungdnsne.duckdns.org/
 local=/vpschito.duckdns.org/
 local=/dukun.de/
 local=/dutchproxy.nl/
@@ -1718,6 +1721,7 @@ local=/dns.kebree.fr/
 local=/keenow.com/
 local=/keepanonymous.com/
 local=/dns.keke125.com/
+local=/doh.kekew.info/
 local=/doh.kel.pe/
 local=/kepard.com/
 local=/kerbeans.com/
@@ -1896,6 +1900,7 @@ local=/maxvpn.info/
 local=/dns.maybe.icu/
 local=/mazevpn.com/
 local=/dns.mbrjun.cn/
+local=/mc-sft.cn/
 local=/ispcapi.mcafee.com/
 local=/msc.mcafee.com/
 local=/safeconnect.mcafee.com/
