@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 12 Mar 2025 16:06 UTC
-# Version: 2025.0312.1606.22
+# Last modified: 13 Mar 2025 03:59 UTC
+# Version: 2025.0313.0359.38
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1473
+# Number of entries: 1467
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -515,11 +515,8 @@ local=/doh.dscloud.me/
 local=/agh.dshubham.xyz/
 local=/home27.duckdns.org/
 local=/jurre-home.duckdns.org/
-local=/krtekvpn.duckdns.org/
 local=/osefcorp.duckdns.org/
-local=/punono.duckdns.org/
 local=/tuandns.duckdns.org/
-local=/tungdnsne.duckdns.org/
 local=/dukun.de/
 local=/dns.dyn1.de/
 local=/ueni.dyndns.org/
@@ -530,7 +527,6 @@ local=/dns.eddi.net/
 local=/doh.eddi.net/
 local=/dns.edgeburnmedia.com/
 local=/edgy-dns.com/
-local=/dns.edison42.dev/
 local=/dns.editechstudio.com/
 local=/dns.tuna.tsinghua.edu.cn/
 local=/adguard.ef67daisuki.club/
@@ -732,7 +728,6 @@ local=/dns.janl.eu/
 local=/doh.jeroenhd.nl/
 local=/adguard.jfchenier.ca/
 local=/dns.jhangy.us/
-local=/dns.jichi.io/
 local=/dns.jinwoo.dev/
 local=/dns.jiyi.eu/
 local=/jkdns.me/
@@ -761,7 +756,6 @@ local=/kavkaz.monster/
 local=/dns.kawa.tf/
 local=/dns.kebree.fr/
 local=/dns.keke125.com/
-local=/doh.kekew.info/
 local=/doh.kel.pe/
 local=/dns.kerekes.xyz/
 local=/dns.kernel-error.de/

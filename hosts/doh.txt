@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 12 Mar 2025 16:06 UTC
-# Version: 2025.0312.1606.22
+# Last modified: 13 Mar 2025 03:59 UTC
+# Version: 2025.0313.0359.38
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1643
+# Number of entries: 1637
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -631,11 +631,8 @@
 0.0.0.0 agh.dshubham.xyz
 0.0.0.0 home27.duckdns.org
 0.0.0.0 jurre-home.duckdns.org
-0.0.0.0 krtekvpn.duckdns.org
 0.0.0.0 osefcorp.duckdns.org
-0.0.0.0 punono.duckdns.org
 0.0.0.0 tuandns.duckdns.org
-0.0.0.0 tungdnsne.duckdns.org
 0.0.0.0 dukun.de
 0.0.0.0 dns.dyn1.de
 0.0.0.0 ueni.dyndns.org
@@ -646,7 +643,6 @@
 0.0.0.0 doh.eddi.net
 0.0.0.0 dns.edgeburnmedia.com
 0.0.0.0 edgy-dns.com
-0.0.0.0 dns.edison42.dev
 0.0.0.0 dns.editechstudio.com
 0.0.0.0 dns.tuna.tsinghua.edu.cn
 0.0.0.0 adguard.ef67daisuki.club
@@ -851,7 +847,6 @@
 0.0.0.0 doh.jeroenhd.nl
 0.0.0.0 adguard.jfchenier.ca
 0.0.0.0 dns.jhangy.us
-0.0.0.0 dns.jichi.io
 0.0.0.0 dns.jinwoo.dev
 0.0.0.0 dns.jiyi.eu
 0.0.0.0 jkdns.me
@@ -880,7 +875,6 @@
 0.0.0.0 dns.kawa.tf
 0.0.0.0 dns.kebree.fr
 0.0.0.0 dns.keke125.com
-0.0.0.0 doh.kekew.info
 0.0.0.0 doh.kel.pe
 0.0.0.0 dns.kerekes.xyz
 0.0.0.0 dns.kernel-error.de

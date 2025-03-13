@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 12 Mar 2025 04:00 UTC
-# Version: 2025.0312.0400.47
+# Last modified: 13 Mar 2025 03:58 UTC
+# Version: 2025.0313.0358.20
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 2212
+# Number of entries: 2211
 #
 local=/000a.de/
 local=/000space.com/
@@ -1311,7 +1311,6 @@ local=/k1.cx/
 local=/ka-blogs.com/
 local=/kanka.space/
 local=/kann-helfen.de/
-local=/karneval.cz/
 local=/kataweb.it/
 local=/keepfree.de/
 local=/kgcajdibv.best/
