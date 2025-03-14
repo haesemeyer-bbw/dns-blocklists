@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 14 Mar 2025 05:28 UTC
-# Version: 2025.0314.0528.19
+# Last modified: 14 Mar 2025 05:39 UTC
+# Version: 2025.0314.0539.10
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 359
+# Number of entries: 357
 #
 local=/c-bingapis-com.dual-a-0034.a-msedge.net/
 local=/measure.office.com.akamaized.net/
@@ -27,9 +27,11 @@ local=/in.applicationinsights.azure.us/
 local=/inference-app-gateway.eastus2.cloudapp.azure.com/
 local=/inference-app-gateway.koreacentral.cloudapp.azure.com/
 local=/inference-app-gateway.northeurope.cloudapp.azure.com/
+local=/azsc-edge-bingads-westeurope.westeurope.cloudapp.azure.com/
 local=/azsc-bingads-westus.westus.cloudapp.azure.com/
 local=/collector.azure.cn/
 local=/js.monitor.azure.com/
+local=/adsdkpreprod.azureedge.net/
 local=/adsdkprod.azureedge.net/
 local=/adsdkpreprod.afd.azureedge.net/
 local=/adsdkprod.afd.azureedge.net/
@@ -186,8 +188,6 @@ local=/fp.msedge.net/
 local=/win10-trt.msedge.net/
 local=/ac2.msn.com/
 local=/ac3.msn.com/
-local=/accesshollywood.msn.com/
-local=/accountservices.msn.com/
 local=/ad.msn.com/
 local=/adevents.msn.com/
 local=/ads.msn.com/
@@ -205,9 +205,7 @@ local=/arc3.msn.com/
 local=/arc9.msn.com/
 local=/c.at.msn.com/
 local=/c.be.msn.com/
-local=/actualite.fr.be.msn.com/
 local=/c.br.msn.com/
-local=/actualites.ca.msn.com/
 local=/c.ca.msn.com/
 local=/c.cl.msn.com/
 local=/confiant.msn.com/
