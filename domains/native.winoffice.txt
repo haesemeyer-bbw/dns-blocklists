@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 14 Mar 2025 04:50 UTC
-# Version: 2025.0314.0450.47
+# Last modified: 14 Mar 2025 05:28 UTC
+# Version: 2025.0314.0528.19
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 698
+# Number of entries: 704
 #
 c-bingapis-com.dual-a-0034.a-msedge.net
 measure.office.com.akamaized.net
@@ -30,7 +30,6 @@ api.applicationinsights.azure.com
 dc.applicationinsights.azure.cn
 dc.applicationinsights.azure.com
 dc.applicationinsights.azure.us
-www.dc.applicationinsights.azure.com
 in.applicationinsights.azure.cn
 in.applicationinsights.azure.com
 in.applicationinsights.azure.us
@@ -114,12 +113,11 @@ live.applicationinsights.azure.com
 inference-app-gateway.eastus2.cloudapp.azure.com
 inference-app-gateway.koreacentral.cloudapp.azure.com
 inference-app-gateway.northeurope.cloudapp.azure.com
-azsc-edge-bingads-westeurope.westeurope.cloudapp.azure.com
 azsc-bingads-westus.westus.cloudapp.azure.com
 collector.azure.cn
 js.monitor.azure.com
-adsdkpreprod.azureedge.net
 adsdkprod.azureedge.net
+adsdkpreprod.afd.azureedge.net
 adsdkprod.afd.azureedge.net
 cjs-diagnostics-office-com-gvdhgwfwbbfsd9g3.z01.azurefd.net
 location-microsoft-com.b-0005.b-msedge.net
@@ -175,6 +173,7 @@ noc-visio-telemetry.officeapps.live.com
 pgtbr1-excel-telemetry-vip.officeapps.live.com
 pgtbr1-powerpoint-telemetry-vip.officeapps.live.com
 pgtbr1-word-telemetry-vip.officeapps.live.com
+pgtbr2-excel-telemetry-vip.officeapps.live.com
 pgtca1-excel-telemetry-vip.officeapps.live.com
 pgtca1-powerpoint-telemetry-vip.officeapps.live.com
 pgtca1-word-telemetry-vip.officeapps.live.com
@@ -246,6 +245,7 @@ api.beta.ads.microsoft.com
 developers.ads.microsoft.com
 dmc.ads.microsoft.com
 help.ads.microsoft.com
+learninglab.ads.microsoft.com
 mmcapi.ads.microsoft.com
 smetric.ads.microsoft.com
 status.ads.microsoft.com
@@ -301,6 +301,7 @@ beta.bingads.microsoft.com
 ch1b.bingads.microsoft.com
 community.bingads.microsoft.com
 developers.bingads.microsoft.com
+express.bingads.microsoft.com
 fd.bingads.microsoft.com
 feedback.bingads.microsoft.com
 help.bingads.microsoft.com
@@ -448,6 +449,8 @@ fp.msedge.net
 win10-trt.msedge.net
 ac2.msn.com
 ac3.msn.com
+accesshollywood.msn.com
+accountservices.msn.com
 ad.msn.com
 adevents.msn.com
 ads.msn.com
@@ -467,7 +470,9 @@ arc3.msn.com
 arc9.msn.com
 c.at.msn.com
 c.be.msn.com
+actualite.fr.be.msn.com
 c.br.msn.com
+actualites.ca.msn.com
 c.ca.msn.com
 c.cl.msn.com
 confiant.msn.com
@@ -572,6 +577,7 @@ m365cdn.nelsdf.measure.office.net
 powerpointonline.nelsdf.measure.office.net
 sdwan.measure.office.com
 wan.measure.office.com
+ads-msn-com-profile.trafficmanager.net
 adsdk.trafficmanager.net
 agps-location-livenet.trafficmanager.net
 analytics.trafficmanager.net

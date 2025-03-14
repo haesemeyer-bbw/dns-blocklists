@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 14 Mar 2025 04:50 UTC
-# Version: 2025.0314.0450.47
+# Last modified: 14 Mar 2025 05:28 UTC
+# Version: 2025.0314.0528.19
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 354
+# Number of entries: 359
 #
 local=/c-bingapis-com.dual-a-0034.a-msedge.net/
 local=/measure.office.com.akamaized.net/
@@ -27,12 +27,11 @@ local=/in.applicationinsights.azure.us/
 local=/inference-app-gateway.eastus2.cloudapp.azure.com/
 local=/inference-app-gateway.koreacentral.cloudapp.azure.com/
 local=/inference-app-gateway.northeurope.cloudapp.azure.com/
-local=/azsc-edge-bingads-westeurope.westeurope.cloudapp.azure.com/
 local=/azsc-bingads-westus.westus.cloudapp.azure.com/
 local=/collector.azure.cn/
 local=/js.monitor.azure.com/
-local=/adsdkpreprod.azureedge.net/
 local=/adsdkprod.azureedge.net/
+local=/adsdkpreprod.afd.azureedge.net/
 local=/adsdkprod.afd.azureedge.net/
 local=/cjs-diagnostics-office-com-gvdhgwfwbbfsd9g3.z01.azurefd.net/
 local=/location-microsoft-com.b-0005.b-msedge.net/
@@ -76,6 +75,7 @@ local=/noc-visio-telemetry.officeapps.live.com/
 local=/pgtbr1-excel-telemetry-vip.officeapps.live.com/
 local=/pgtbr1-powerpoint-telemetry-vip.officeapps.live.com/
 local=/pgtbr1-word-telemetry-vip.officeapps.live.com/
+local=/pgtbr2-excel-telemetry-vip.officeapps.live.com/
 local=/pgtca1-excel-telemetry-vip.officeapps.live.com/
 local=/pgtca1-powerpoint-telemetry-vip.officeapps.live.com/
 local=/pgtca1-word-telemetry-vip.officeapps.live.com/
@@ -186,6 +186,8 @@ local=/fp.msedge.net/
 local=/win10-trt.msedge.net/
 local=/ac2.msn.com/
 local=/ac3.msn.com/
+local=/accesshollywood.msn.com/
+local=/accountservices.msn.com/
 local=/ad.msn.com/
 local=/adevents.msn.com/
 local=/ads.msn.com/
@@ -203,7 +205,9 @@ local=/arc3.msn.com/
 local=/arc9.msn.com/
 local=/c.at.msn.com/
 local=/c.be.msn.com/
+local=/actualite.fr.be.msn.com/
 local=/c.br.msn.com/
+local=/actualites.ca.msn.com/
 local=/c.ca.msn.com/
 local=/c.cl.msn.com/
 local=/confiant.msn.com/
@@ -267,6 +271,7 @@ local=/zmetrics.msn.com/
 local=/diagnostics.office.com/
 local=/measure.office.com/
 local=/measure.office.net/
+local=/ads-msn-com-profile.trafficmanager.net/
 local=/adsdk.trafficmanager.net/
 local=/agps-location-livenet.trafficmanager.net/
 local=/analytics.trafficmanager.net/
