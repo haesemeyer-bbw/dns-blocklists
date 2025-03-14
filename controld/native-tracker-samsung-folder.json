@@ -15,20 +15,6 @@
       }
     },
     {
-      "PK": "acradminprd.cloudapp.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "acrapiprdnew.trafficmanager.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "acr-au-prd.samsungcloud.tv",
       "action": {
         "do": 0,
@@ -78,13 +64,6 @@
       }
     },
     {
-      "PK": "acr.samsungcloudsolution.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "acr-us-prd.samsungcloud.tv",
       "action": {
         "do": 0,
@@ -92,42 +71,7 @@
       }
     },
     {
-      "PK": "adgear.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "adgrx.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "adgrx.com.tech.akadns.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "aibixby.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "akcjasamsung.e-kei.pl",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "analytics-api-external-alb-222534322.cn-north-1.elb.amazonaws.com.cn",
       "action": {
         "do": 0,
         "status": 1
@@ -197,13 +141,6 @@
       }
     },
     {
-      "PK": "api.mop.apps.samsung.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "api-samsung.swypeconnect.com",
       "action": {
         "do": 0,
@@ -212,13 +149,6 @@
     },
     {
       "PK": "apu.samsungelectronics.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "au-odc.samsungapps.com.gslb.cdnetworks.net",
       "action": {
         "do": 0,
         "status": 1
@@ -239,34 +169,6 @@
       }
     },
     {
-      "PK": "bixbydevelopers.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "bixbydevelopers.zendesk.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "bjprdaws-elm-alb-862843980.cn-north-1.elb.amazonaws.com.cn",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "bjprdaws-tds-alb-1740123845.cn-north-1.elb.amazonaws.com.cn",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "bldr.mkt.samsung.com",
       "action": {
         "do": 0,
@@ -275,13 +177,6 @@
     },
     {
       "PK": "bpu.samsungelectronics.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "br-odc.samsungapps.com.cdn.cloudflare.net",
       "action": {
         "do": 0,
         "status": 1
@@ -302,28 +197,14 @@
       }
     },
     {
-      "PK": "china-b2c-klm.secb2b.com.cn",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "china-elm.secb2b.com.cn",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "china-klm.secb2b.com.cn",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "clientapi-samsung.dtignite.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "cn-api.mcsvc.samsung.com.cn",
       "action": {
         "do": 0,
         "status": 1
@@ -352,13 +233,6 @@
     },
     {
       "PK": "dc.dqa.samsung.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "de-odc.samsungapps.com.cdn.cloudflare.net",
       "action": {
         "do": 0,
         "status": 1
@@ -407,56 +281,7 @@
       }
     },
     {
-      "PK": "ec2-n66-svoice-rel1-414732760.us-east-1.elb.amazonaws.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "ehg-samsungusa.hitbox.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "es-odc.samsungapps.com.cdn.cloudflare.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "eu-elm.secb2b.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "euprd-klms-elm-tls12-48142684.eu-west-1.elb.amazonaws.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "eu-prod-klm-b2c.secb2b.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "eu-prod-klm.secb2b.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "euprod-knoxlog.secb2b.com",
       "action": {
         "do": 0,
         "status": 1
@@ -477,28 +302,7 @@
       }
     },
     {
-      "PK": "fr-odc.samsungapps.com.cdn.cloudflare.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "gld.samsungosp.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "hk-odc.samsungapps.com.gslb.cdnetworks.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "id-odc.samsungapps.com.gslb.cdnetworks.net",
       "action": {
         "do": 0,
         "status": 1
@@ -547,13 +351,6 @@
       }
     },
     {
-      "PK": "in-odc.samsungapps.com.gslb.cdnetworks.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "invitation.samsungiotcloud.com",
       "action": {
         "do": 0,
@@ -561,42 +358,7 @@
       }
     },
     {
-      "PK": "it-odc.samsungapps.com.cdn.cloudflare.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "k8s-kcseuprd-ingressa-1d152aad2c-811798639.eu-west-1.elb.amazonaws.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "k8s-kcsusprd-ingressa-0361671a75-190147245.us-west-2.elb.amazonaws.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "k8s-knox-bbc-eb6a6f029f-1814433862.cn-north-1.elb.amazonaws.com.cn",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "kpu.samsungelectronics.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "kr-odc.samsungapps.com.gslb.cdnetworks.net",
       "action": {
         "do": 0,
         "status": 1
@@ -645,21 +407,7 @@
       }
     },
     {
-      "PK": "mcsvc.samsung.com.cn",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "metric.account-samsung.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "my-odc.samsungapps.com.gslb.cdnetworks.net",
       "action": {
         "do": 0,
         "status": 1
@@ -701,13 +449,6 @@
       }
     },
     {
-      "PK": "pl-odc.samsungapps.com.cdn.cloudflare.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "prderrordumphsm.samsungcloudsolution.com",
       "action": {
         "do": 0,
@@ -716,20 +457,6 @@
     },
     {
       "PK": "prderrordumpssm.samsungcloudsolution.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "prod-knoxlog.secb2b.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "push.samsungosp.com",
       "action": {
         "do": 0,
         "status": 1
@@ -757,13 +484,6 @@
       }
     },
     {
-      "PK": "ru-odc.samsungapps.com.cdn.cloudflare.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "samsungacr.com",
       "action": {
         "do": 0,
@@ -785,21 +505,7 @@
       }
     },
     {
-      "PK": "samsungads.ca",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "samsungads.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "samsungads.events",
       "action": {
         "do": 0,
         "status": 1
@@ -960,21 +666,7 @@
       }
     },
     {
-      "PK": "samsungconsent.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "samsung.demdex.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "samsungdmroute.com",
       "action": {
         "do": 0,
         "status": 1
@@ -1387,13 +1079,6 @@
       }
     },
     {
-      "PK": "samsung-svoice.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "samsung.telemetry.eyeo.com",
       "action": {
         "do": 0,
@@ -1506,20 +1191,6 @@
       }
     },
     {
-      "PK": "sa-odc.samsungapps.com.cdn.cloudflare.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "sbixby.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "sca.samsung.com",
       "action": {
         "do": 0,
@@ -1590,20 +1261,6 @@
       }
     },
     {
-      "PK": "sun-apps.prod.inovatel.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "sun-apps.sfr.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "target-us.samsung.com",
       "action": {
         "do": 0,
@@ -1612,13 +1269,6 @@
     },
     {
       "PK": "test.samsungrm.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "th-odc.samsungapps.com.gslb.cdnetworks.net",
       "action": {
         "do": 0,
         "status": 1
@@ -1660,84 +1310,7 @@
       }
     },
     {
-      "PK": "tr-odc.samsungapps.com.cdn.cloudflare.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "tw-odc.samsungapps.com.gslb.cdnetworks.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "uk-odc.samsungapps.com.cdn.cloudflare.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "upu.samsungelectronics.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "us-elm.secb2b.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "us-odc.samsungapps.com.cdn.cloudflare.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "us-odc.samsungapps.com.gslb.cdnetworks.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "usprd-klms-elm-tls12-473738987.us-west-2.elb.amazonaws.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "us-prod-klm-b2c.secb2b.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "us-prod-klm.secb2b.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "usprod-knoxlog.secb2b.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "vn-odc.samsungapps.com.gslb.cdnetworks.net",
       "action": {
         "do": 0,
         "status": 1
