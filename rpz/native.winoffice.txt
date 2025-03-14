@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1741393740 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1741927800 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Windows/Office Tracker DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 08 Mar 2025 00:29 UTC
-; Version: 2025.0308.0029.43
+; Last modified: 14 Mar 2025 04:50 UTC
+; Version: 2025.0314.0450.47
 ; Syntax: RPZ
-; Number of entries: 706
+; Number of entries: 708
 ;
 dc.applicationinsights.azure.cn CNAME .
 *.dc.applicationinsights.azure.cn CNAME .
@@ -29,6 +29,8 @@ inference-app-gateway.koreacentral.cloudapp.azure.com CNAME .
 *.inference-app-gateway.koreacentral.cloudapp.azure.com CNAME .
 inference-app-gateway.northeurope.cloudapp.azure.com CNAME .
 *.inference-app-gateway.northeurope.cloudapp.azure.com CNAME .
+azsc-edge-bingads-westeurope.westeurope.cloudapp.azure.com CNAME .
+*.azsc-edge-bingads-westeurope.westeurope.cloudapp.azure.com CNAME .
 azsc-bingads-westus.westus.cloudapp.azure.com CNAME .
 *.azsc-bingads-westus.westus.cloudapp.azure.com CNAME .
 js.monitor.azure.com CNAME .
@@ -105,8 +107,6 @@ pgtbr1-powerpoint-telemetry-vip.officeapps.live.com CNAME .
 *.pgtbr1-powerpoint-telemetry-vip.officeapps.live.com CNAME .
 pgtbr1-word-telemetry-vip.officeapps.live.com CNAME .
 *.pgtbr1-word-telemetry-vip.officeapps.live.com CNAME .
-pgtbr2-excel-telemetry-vip.officeapps.live.com CNAME .
-*.pgtbr2-excel-telemetry-vip.officeapps.live.com CNAME .
 pgtca1-excel-telemetry-vip.officeapps.live.com CNAME .
 *.pgtca1-excel-telemetry-vip.officeapps.live.com CNAME .
 pgtca1-powerpoint-telemetry-vip.officeapps.live.com CNAME .
@@ -515,8 +515,6 @@ adsdkpreprod.azureedge.net CNAME .
 *.adsdkpreprod.azureedge.net CNAME .
 adsdkprod.azureedge.net CNAME .
 *.adsdkprod.azureedge.net CNAME .
-adsdkpreprod.afd.azureedge.net CNAME .
-*.adsdkpreprod.afd.azureedge.net CNAME .
 adsdkprod.afd.azureedge.net CNAME .
 *.adsdkprod.afd.azureedge.net CNAME .
 cjs-diagnostics-office-com-gvdhgwfwbbfsd9g3.z01.azurefd.net CNAME .
@@ -531,6 +529,8 @@ gateway.bingviz.microsoftapp.net CNAME .
 *.gateway.bingviz.microsoftapp.net CNAME .
 msads.net CNAME .
 *.msads.net CNAME .
+az667904.vo.msecnd.net CNAME .
+*.az667904.vo.msecnd.net CNAME .
 fp.msedge.net CNAME .
 *.fp.msedge.net CNAME .
 win10-trt.msedge.net CNAME .
@@ -623,6 +623,8 @@ tm-analytics-pr.trafficmanager.net CNAME .
 *.tm-analytics-pr.trafficmanager.net CNAME .
 tm-enrollment-telemetry-datacore.trafficmanager.net CNAME .
 *.tm-enrollment-telemetry-datacore.trafficmanager.net CNAME .
+vstelemetry.trafficmanager.net CNAME .
+*.vstelemetry.trafficmanager.net CNAME .
 euc-excel-telemetry.wac.trafficmanager.net CNAME .
 *.euc-excel-telemetry.wac.trafficmanager.net CNAME .
 euc-powerpoint-telemetry.wac.trafficmanager.net CNAME .
