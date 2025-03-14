@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1741881960 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1741969680 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 13 Mar 2025 16:06 UTC
-; Version: 2025.0313.1606.37
+; Last modified: 14 Mar 2025 16:28 UTC
+; Version: 2025.0314.1628.26
 ; Syntax: RPZ
-; Number of entries: 19402
+; Number of entries: 19404
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -3773,6 +3773,8 @@ filelisting.com CNAME .
 *.filelisting.com CNAME .
 tracker.filemail.com CNAME .
 *.tracker.filemail.com CNAME .
+filepapa.com CNAME .
+*.filepapa.com CNAME .
 filerio.com CNAME .
 *.filerio.com CNAME .
 filesharingtalk.com CNAME .
@@ -7091,8 +7093,6 @@ kkant.weebly.com CNAME .
 *.kkant.weebly.com CNAME .
 osvault.weebly.com CNAME .
 *.osvault.weebly.com CNAME .
-supersonu222.weebly.com CNAME .
-*.supersonu222.weebly.com CNAME .
 welcometothescene.com CNAME .
 *.welcometothescene.com CNAME .
 wfhost2.com CNAME .
@@ -11761,8 +11761,6 @@ gamesdrive.net CNAME .
 *.gamesdrive.net CNAME .
 gameslay.net CNAME .
 *.gameslay.net CNAME .
-gamezlinks.net CNAME .
-*.gamezlinks.net CNAME .
 gay-torrents.net CNAME .
 *.gay-torrents.net CNAME .
 gazellegames.net CNAME .
@@ -13025,6 +13023,8 @@ seriezloaded.com.ng CNAME .
 *.seriezloaded.com.ng CNAME .
 vidnaija.com.ng CNAME .
 *.vidnaija.com.ng CNAME .
+torrent.i.ng CNAME .
+*.torrent.i.ng CNAME .
 vegamovies.ngo CNAME .
 *.vegamovies.ngo CNAME .
 altadefinizione.ninja CNAME .
@@ -13663,6 +13663,8 @@ crackdb.org CNAME .
 *.crackdb.org CNAME .
 cracked-games.org CNAME .
 *.cracked-games.org CNAME .
+crackedpc.org CNAME .
+*.crackedpc.org CNAME .
 crackhash.org CNAME .
 *.crackhash.org CNAME .
 crackzplanet.org CNAME .

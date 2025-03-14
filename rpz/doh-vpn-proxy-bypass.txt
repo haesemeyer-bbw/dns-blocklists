@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1741882320 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1741969980 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 13 Mar 2025 16:12 UTC
-; Version: 2025.0313.1612.03
+; Last modified: 14 Mar 2025 16:33 UTC
+; Version: 2025.0314.1633.59
 ; Syntax: RPZ
-; Number of entries: 7670
+; Number of entries: 7674
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -2514,10 +2514,16 @@ eu-browse.startpage.com CNAME .
 *.eu-browse.startpage.com CNAME .
 eu2-browse.startpage.com CNAME .
 *.eu2-browse.startpage.com CNAME .
+error.proxy.startpage.com CNAME .
+*.error.proxy.startpage.com CNAME .
+proxy2.startpage.com CNAME .
+*.proxy2.startpage.com CNAME .
 proxy3.startpage.com CNAME .
 *.proxy3.startpage.com CNAME .
 s4-us2.startpage.com CNAME .
 *.s4-us2.startpage.com CNAME .
+us-browse.startpage.com CNAME .
+*.us-browse.startpage.com CNAME .
 us1-browse.startpage.com CNAME .
 *.us1-browse.startpage.com CNAME .
 us2-browse.startpage.com CNAME .
@@ -3210,8 +3216,6 @@ dns.kukal.cz CNAME .
 *.dns.kukal.cz CNAME .
 odvr.nic.cz CNAME .
 *.odvr.nic.cz CNAME .
-dns.vojtat.cz CNAME .
-*.dns.vojtat.cz CNAME .
 aqua.is.my.waifu.cz CNAME .
 *.aqua.is.my.waifu.cz CNAME .
 darkness.is.my.waifu.cz CNAME .
@@ -4160,6 +4164,8 @@ anonvpn.io CNAME .
 *.anonvpn.io CNAME .
 anyip.io CNAME .
 *.anyip.io CNAME .
+bdns.io CNAME .
+*.bdns.io CNAME .
 dns.bitservices.io CNAME .
 *.dns.bitservices.io CNAME .
 borderlessvpn.io CNAME .
@@ -6330,8 +6336,6 @@ dns.henek.ovh CNAME .
 *.dns.henek.ovh CNAME .
 jackyes.ovh CNAME .
 *.jackyes.ovh CNAME .
-adguard.kss.ovh CNAME .
-*.adguard.kss.ovh CNAME .
 dns.mateo.ovh CNAME .
 *.dns.mateo.ovh CNAME .
 dns.neowutran.ovh CNAME .

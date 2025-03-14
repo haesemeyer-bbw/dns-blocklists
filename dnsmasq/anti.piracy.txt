@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 13 Mar 2025 16:06 UTC
-# Version: 2025.0313.1606.37
+# Last modified: 14 Mar 2025 16:28 UTC
+# Version: 2025.0314.1628.26
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9701
+# Number of entries: 9702
 #
 local=/0123456789nonexistent.com/
 local=/0123movie.net/
@@ -2101,6 +2101,7 @@ local=/cracked-games.org/
 local=/crackedfully.com/
 local=/crackedme.com/
 local=/crackedmine.com/
+local=/crackedpc.org/
 local=/crackedreal.com/
 local=/crackedstream.tv/
 local=/crackedversion.com/
@@ -3092,6 +3093,7 @@ local=/filelist.ro/
 local=/filelisting.com/
 local=/tracker.filemail.com/
 local=/filemp3.org/
+local=/filepapa.com/
 local=/fileporn.org/
 local=/filerio.com/
 local=/tracker.files.fm/
@@ -3669,7 +3671,6 @@ local=/gamestorrents.io/
 local=/gamestorrents.nu/
 local=/gametechwiki.com/
 local=/bt-tracker.gamexp.ru/
-local=/gamezlinks.net/
 local=/gamingbeasts.com/
 local=/gaoqing.fm/
 local=/garageforum.org/
@@ -4243,6 +4244,7 @@ local=/hyperproxy.net/
 local=/hypertor.com/
 local=/hypertorrent.com/
 local=/hz.is/
+local=/torrent.i.ng/
 local=/i123movies.club/
 local=/i1apk.com/
 local=/ianimes.org/
@@ -9298,7 +9300,6 @@ local=/dragonballsuperenvf.weebly.com/
 local=/gamingwithplaban.weebly.com/
 local=/kkant.weebly.com/
 local=/osvault.weebly.com/
-local=/supersonu222.weebly.com/
 local=/welcometothescene.com/
 local=/wepzone.net/
 local=/wfhost2.com/

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1741838280 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1741969860 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 13 Mar 2025 03:58 UTC
-; Version: 2025.0313.0358.20
+; Last modified: 14 Mar 2025 16:31 UTC
+; Version: 2025.0314.1631.23
 ; Syntax: RPZ
-; Number of entries: 4422
+; Number of entries: 4368
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -331,8 +331,6 @@ shop.co CNAME .
 *.shop.co CNAME .
 synergize.co CNAME .
 *.synergize.co CNAME .
-wapka.co CNAME .
-*.wapka.co CNAME .
 webnode.co CNAME .
 *.webnode.co CNAME .
 000space.com CNAME .
@@ -341,8 +339,6 @@ webnode.co CNAME .
 *.000webhost.com CNAME .
 000webhostapp.com CNAME .
 *.000webhostapp.com CNAME .
-00author.com CNAME .
-*.00author.com CNAME .
 00band.com CNAME .
 *.00band.com CNAME .
 00books.com CNAME .
@@ -361,12 +357,8 @@ webnode.co CNAME .
 *.00freeweb.com CNAME .
 00game.com CNAME .
 *.00game.com CNAME .
-00go.com CNAME .
-*.00go.com CNAME .
 00home.com CNAME .
 *.00home.com CNAME .
-00it.com CNAME .
-*.00it.com CNAME .
 00me.com CNAME .
 *.00me.com CNAME .
 00movies.com CNAME .
@@ -393,8 +385,6 @@ webnode.co CNAME .
 *.00video.com CNAME .
 012webpages.com CNAME .
 *.012webpages.com CNAME .
-028426.com CNAME .
-*.028426.com CNAME .
 0catch.com CNAME .
 *.0catch.com CNAME .
 0hna.com CNAME .
@@ -991,8 +981,6 @@ dslextreme.com CNAME .
 *.dslextreme.com CNAME .
 dtiblog.com CNAME .
 *.dtiblog.com CNAME .
-e-docssig.com CNAME .
-*.e-docssig.com CNAME .
 e-monsite.com CNAME .
 *.e-monsite.com CNAME .
 easy4blog.com CNAME .
@@ -1005,16 +993,12 @@ eb2a.com CNAME .
 *.eb2a.com CNAME .
 eblogmall.com CNAME .
 *.eblogmall.com CNAME .
-ecardalert.com CNAME .
-*.ecardalert.com CNAME .
 ecomplanet.com CNAME .
 *.ecomplanet.com CNAME .
 ecrater.com CNAME .
 *.ecrater.com CNAME .
 editboard.com CNAME .
 *.editboard.com CNAME .
-edoctransfer.com CNAME .
-*.edoctransfer.com CNAME .
 edublogs.com CNAME .
 *.edublogs.com CNAME .
 educationalimpactblog.com CNAME .
@@ -1037,8 +1021,6 @@ emyspot.com CNAME .
 *.emyspot.com CNAME .
 entekpartners.com CNAME .
 *.entekpartners.com CNAME .
-enterprisedeliveries.com CNAME .
-*.enterprisedeliveries.com CNAME .
 epizy.com CNAME .
 *.epizy.com CNAME .
 es-bbvacliente-movil.com CNAME .
@@ -1205,8 +1187,6 @@ freewebtools.com CNAME .
 *.freewebtools.com CNAME .
 freewha.com CNAME .
 *.freewha.com CNAME .
-freightinternationalservices.com CNAME .
-*.freightinternationalservices.com CNAME .
 frenchboard.com CNAME .
 *.frenchboard.com CNAME .
 freshmember.com CNAME .
@@ -1293,10 +1273,6 @@ hoxty.com CNAME .
 *.hoxty.com CNAME .
 hpage.com CNAME .
 *.hpage.com CNAME .
-hr-organization.com CNAME .
-*.hr-organization.com CNAME .
-hr-rewards.com CNAME .
-*.hr-rewards.com CNAME .
 hst5.com CNAME .
 *.hst5.com CNAME .
 htmlpasta.com CNAME .
@@ -1335,24 +1311,12 @@ instantfreesite.com CNAME .
 *.instantfreesite.com CNAME .
 inube.com CNAME .
 *.inube.com CNAME .
-invoicenotices.com CNAME .
-*.invoicenotices.com CNAME .
 is-blog.com CNAME .
 *.is-blog.com CNAME .
-it-security-group.com CNAME .
-*.it-security-group.com CNAME .
-it-support-group.com CNAME .
-*.it-support-group.com CNAME .
 itgo.com CNAME .
 *.itgo.com CNAME .
 itheidiot.com CNAME .
 *.itheidiot.com CNAME .
-itpatches.com CNAME .
-*.itpatches.com CNAME .
-itsafetyteam.com CNAME .
-*.itsafetyteam.com CNAME .
-itsecuritymessage.com CNAME .
-*.itsecuritymessage.com CNAME .
 ivasdesign.com CNAME .
 *.ivasdesign.com CNAME .
 iwarp.com CNAME .
@@ -1405,8 +1369,6 @@ like-blogs.com CNAME .
 *.like-blogs.com CNAME .
 link4blogs.com CNAME .
 *.link4blogs.com CNAME .
-list-mgmt.com CNAME .
-*.list-mgmt.com CNAME .
 spaces.live.com CNAME .
 *.spaces.live.com CNAME .
 liveblog365.com CNAME .
@@ -1663,8 +1625,6 @@ schoolrack.com CNAME .
 *.schoolrack.com CNAME .
 sebipay.com CNAME .
 *.sebipay.com CNAME .
-securebankinggroup.com CNAME .
-*.securebankinggroup.com CNAME .
 seite.com CNAME .
 *.seite.com CNAME .
 sendspace.com CNAME .
@@ -1707,8 +1667,6 @@ smffy.com CNAME .
 *.smffy.com CNAME .
 snack-blog.com CNAME .
 *.snack-blog.com CNAME .
-socialsmp.com CNAME .
-*.socialsmp.com CNAME .
 solidwebhost.com CNAME .
 *.solidwebhost.com CNAME .
 some-trade.com CNAME .
@@ -1797,8 +1755,6 @@ thisistap.com CNAME .
 *.thisistap.com CNAME .
 tianyablog.com CNAME .
 *.tianyablog.com CNAME .
-ticketxking.com CNAME .
-*.ticketxking.com CNAME .
 tildacdn.com CNAME .
 *.tildacdn.com CNAME .
 timeforchangecounselling.com CNAME .
@@ -1885,10 +1841,6 @@ warp0.com CNAME .
 *.warp0.com CNAME .
 web1000.com CNAME .
 *.web1000.com CNAME .
-webaccess-alert.com CNAME .
-*.webaccess-alert.com CNAME .
-webaccess-email.com CNAME .
-*.webaccess-email.com CNAME .
 webadorsite.com CNAME .
 *.webadorsite.com CNAME .
 webatu.com CNAME .
@@ -3131,8 +3083,6 @@ cfw.me CNAME .
 *.cfw.me CNAME .
 freeweb.me CNAME .
 *.freeweb.me CNAME .
-healthyemployee.me CNAME .
-*.healthyemployee.me CNAME .
 hostami.me CNAME .
 *.hostami.me CNAME .
 html-5.me CNAME .
@@ -3635,8 +3585,6 @@ prohosts.org CNAME .
 *.prohosts.org CNAME .
 rumahweb.org CNAME .
 *.rumahweb.org CNAME .
-securebankinggroup.org CNAME .
-*.securebankinggroup.org CNAME .
 slashcity.org CNAME .
 *.slashcity.org CNAME .
 srv1.org CNAME .
@@ -3755,8 +3703,6 @@ hostfree.pw CNAME .
 *.hostfree.pw CNAME .
 mybb.pw CNAME .
 *.mybb.pw CNAME .
-verifypass.pw CNAME .
-*.verifypass.pw CNAME .
 webnode.com.py CNAME .
 *.webnode.com.py CNAME .
 blogspot.qa CNAME .
