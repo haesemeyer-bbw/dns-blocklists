@@ -71,6 +71,13 @@
       }
     },
     {
+      "PK": "ads-service.tiktok.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "ads-sg.tiktok.com",
       "action": {
         "do": 0,
@@ -184,13 +191,6 @@
     },
     {
       "PK": "analytics-ie.tiktokw.eu",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "analytics-ipv6.tiktokw.us",
       "action": {
         "do": 0,
         "status": 1
@@ -359,6 +359,13 @@
     },
     {
       "PK": "haohuo.snssdk.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "live-video-log16-normal-alisg.tiktokv.com",
       "action": {
         "do": 0,
         "status": 1
@@ -1444,13 +1451,6 @@
     },
     {
       "PK": "mon-ru.tiktokv.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "mon-sg.byteoversea.com",
       "action": {
         "do": 0,
         "status": 1

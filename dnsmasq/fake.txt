@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 14 Mar 2025 12:13 UTC
-# Version: 2025.0314.1213.08
+# Last modified: 15 Mar 2025 01:30 UTC
+# Version: 2025.0315.0130.10
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10537
+# Number of entries: 10524
 #
 local=/01crypto.com/
 local=/1-stud.net/
@@ -230,7 +230,6 @@ local=/albert-verkauf.de/
 local=/alden-usa.com/
 local=/aldobolsasmexico.com/
 local=/aldocanada.net/
-local=/aldofashion.com/
 local=/aldomontreal.com/
 local=/aldonetherlands.com/
 local=/aldorabatt.de/
@@ -959,7 +958,6 @@ local=/bestellrezeptfrei.de/
 local=/bestellung-rezeptfrei.de/
 local=/bestellungapotheke.de/
 local=/bestellungen-rezeptfrei.de/
-local=/bestellungrezeptfrei.de/
 local=/bestemed.com/
 local=/bestenhunde.store/
 local=/bestenkaufen.com/
@@ -1409,7 +1407,6 @@ local=/brueggen-handel.de/
 local=/bruland.store/
 local=/brunateschuhewerksverkauf.de/
 local=/brunetsludmila.com/
-local=/bs2best.at/
 local=/bs2site.at/
 local=/bsc-network.de/
 local=/bse-capital.com/
@@ -1424,7 +1421,6 @@ local=/btcminer.website/
 local=/btcoinpro.com/
 local=/btcswing.com/
 local=/btop24.de/
-local=/btvtransport.com/
 local=/buceplantde.shop/
 local=/buchholzs.de/
 local=/buchverlag-scholz.de/
@@ -2287,7 +2283,6 @@ local=/depanten-gel.site/
 local=/depeople-work.xyz/
 local=/depeople-works.work/
 local=/depickedwell.site/
-local=/deplacer.com/
 local=/depotsnow.com/
 local=/derabattfahrrad.com/
 local=/derekoutlet.de/
@@ -2541,7 +2536,6 @@ local=/durablemicrotech.com/
 local=/durableswimsuit.com/
 local=/dusanboldiwebstore.shop/
 local=/duschenexperte.com/
-local=/dutchsport.net/
 local=/dvaraka24.de/
 local=/dvdsblurays.com/
 local=/dw-forstbetrieb.com/
@@ -3543,7 +3537,6 @@ local=/gaborschuheschweiz.net/
 local=/gaborschuhesuisse.com/
 local=/gaborschweiz.org/
 local=/gaborshoesoutletusa.com/
-local=/gaborskonorge.com/
 local=/gaborskorsverige.com/
 local=/gaborstovlerdanmark.com/
 local=/gaborsuisse.com/
@@ -3916,7 +3909,6 @@ local=/gorobo.de/
 local=/gotrax.store/
 local=/gotrixa.de/
 local=/gourmandebusy.com/
-local=/govern1.com/
 local=/goviva-kaffee.de/
 local=/gpt-chatt.com/
 local=/gpt-definity.com/
@@ -5782,7 +5774,6 @@ local=/marketusgear.com/
 local=/marketussports.com/
 local=/markisenrabatt.com/
 local=/markmale.de/
-local=/markt.life/
 local=/markt-elektro.com/
 local=/markt-forschung.com/
 local=/marktexpress.com/
@@ -7711,7 +7702,6 @@ local=/retrogamingshop.de/
 local=/retter-de.shop/
 local=/returnpotentialonline.com/
 local=/revemotode.shop/
-local=/reviewpunt.nl/
 local=/revolutionfsl.com/
 local=/revolutionraceshop.com/
 local=/revomarkt.com/
@@ -8247,7 +8237,6 @@ local=/shoesusoutlet.com/
 local=/shoesusretail.com/
 local=/shoesvalley.cn/
 local=/shoewhitemountain.com/
-local=/shoex.nl/
 local=/shokosale.com/
 local=/shop-alarmsystem.com/
 local=/shop-brennholz24.com/
@@ -9885,7 +9874,6 @@ local=/veraustria.com/
 local=/verifizierungamericanexpress.com/
 local=/vering24.de/
 local=/veripro.de/
-local=/verkauf-rezeptfrei.de/
 local=/verkaufbike.com/
 local=/verkaufen-tonies.com/
 local=/verkauffahrradbike.com/
@@ -10011,7 +9999,6 @@ local=/vivobarefootsandalen.de/
 local=/vivobarefootschuheberlin.de/
 local=/vivobarefootschuhede.com/
 local=/vivobarefootshopberlin.de/
-local=/vivobarefootslovenia.com/
 local=/vivobarefootsuomi.com/
 local=/vivobarefootuae.ae/
 local=/vivobarefootwien.at/

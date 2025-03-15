@@ -1386,6 +1386,13 @@
       }
     },
     {
+      "PK": "fbsmarthome.site",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "fedi.directory",
       "action": {
         "do": 1,
@@ -1716,13 +1723,6 @@
     },
     {
       "PK": "grapheneos.foundation",
-      "action": {
-        "do": 1,
-        "status": 1
-      }
-    },
-    {
-      "PK": "graph.tk",
       "action": {
         "do": 1,
         "status": 1

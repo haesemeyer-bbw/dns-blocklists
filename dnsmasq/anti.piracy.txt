@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 14 Mar 2025 16:28 UTC
-# Version: 2025.0314.1628.26
+# Last modified: 15 Mar 2025 00:30 UTC
+# Version: 2025.0315.0030.38
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9702
+# Number of entries: 9703
 #
 local=/0123456789nonexistent.com/
 local=/0123movie.net/
@@ -2101,7 +2101,6 @@ local=/cracked-games.org/
 local=/crackedfully.com/
 local=/crackedme.com/
 local=/crackedmine.com/
-local=/crackedpc.org/
 local=/crackedreal.com/
 local=/crackedstream.tv/
 local=/crackedversion.com/
@@ -3093,7 +3092,6 @@ local=/filelist.ro/
 local=/filelisting.com/
 local=/tracker.filemail.com/
 local=/filemp3.org/
-local=/filepapa.com/
 local=/fileporn.org/
 local=/filerio.com/
 local=/tracker.files.fm/
@@ -3671,6 +3669,7 @@ local=/gamestorrents.io/
 local=/gamestorrents.nu/
 local=/gametechwiki.com/
 local=/bt-tracker.gamexp.ru/
+local=/gamezlinks.net/
 local=/gamingbeasts.com/
 local=/gaoqing.fm/
 local=/garageforum.org/
@@ -3724,7 +3723,9 @@ local=/gfxtra31.com/
 local=/ggbases.com/
 local=/ghatailonline.net/
 local=/sparkle.ghostchu-services.top/
+local=/tracker.ghostchu-services.top/
 local=/trunker.ghostchu-services.top/
+local=/utracker.ghostchu-services.top/
 local=/media.ghurionline.com/
 local=/giardiniblog.it/
 local=/gid-online.ru/

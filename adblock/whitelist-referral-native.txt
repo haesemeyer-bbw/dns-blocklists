@@ -4,8 +4,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 14 Mar 2025 11:49 UTC
-! Version: 2025.0314.1149.38
+! Last modified: 14 Mar 2025 23:57 UTC
+! Version: 2025.0314.2357.44
 ! Syntax: AdBlock
 ! Number of entries: 789
 !
@@ -138,6 +138,7 @@
 @@||tracking.cashkaro.com^
 @@||cc-dt.com^
 @@||cse3.chausport.com^
+@@||mkto-trk.cisco.com^
 @@||cj.com^
 @@||clck.ru^
 @@||api.cleverpush.com^
@@ -246,7 +247,6 @@
 @@||list-unsubscribe.eservice.emarsys.net^
 @@||redirector.eservice.emarsys.net^
 @@||suite-dashboard.gservice.emarsys.net^
-@@||suite.emarsys.net^
 @@||suite10.emarsys.net^
 @@||suite11.emarsys.net^
 @@||suite16.emarsys.net^
@@ -255,7 +255,6 @@
 @@||suite24.emarsys.net^
 @@||suite27.emarsys.net^
 @@||suite29.emarsys.net^
-@@||suite30.emarsys.net^
 @@||suite32.emarsys.net^
 @@||suite33.emarsys.net^
 @@||suite34.emarsys.net^
@@ -286,8 +285,8 @@
 @@||m.exactag.com^
 @@||tp-emea.exactag.com^
 @@||s10.login.exacttarget.com^
+@@||s11.login.exacttarget.com^
 @@||s12.login.exacttarget.com^
-@@||s13.login.exacttarget.com^
 @@||s1.exacttarget.com^
 @@||s10.exacttarget.com^
 @@||s11.exacttarget.com^
@@ -298,7 +297,6 @@
 @@||s51.exacttarget.com^
 @@||s6.exacttarget.com^
 @@||s7.exacttarget.com^
-@@||s8.exacttarget.com^
 @@||cl.exct.net^
 @@||click.e.usa.experian.com^
 @@||cdn.exponea.com^
@@ -443,10 +441,12 @@
 @@||mkto-ab040115.com^
 @@||mkto-ab040147.com^
 @@||mkto-ab060085.com^
+@@||mkto-ab060134.com^
 @@||mkto-ab070017.com^
 @@||mkto-ab080206.com^
 @@||mkto-ab090057.com^
 @@||mkto-ab110171.com^
+@@||mkto-ab150224.com^
 @@||mkto-ab200065.com^
 @@||mkto-ab210094.com^
 @@||mkto-ab210104.com^
@@ -457,12 +457,9 @@
 @@||mkto-ab300154.com^
 @@||mkto-ab310115.com^
 @@||mkto-ab330197.com^
-@@||mkto-ab340022.com^
 @@||mkto-ab340093.com^
 @@||mkto-ab340124.com^
-@@||mkto-ab350042.com^
 @@||mkto-ab420081.com^
-@@||mkto-ab440098.com^
 @@||mkto-ab460170.com^
 @@||mkto-ab470148.com^
 @@||mkto-ab530057.com^
@@ -471,6 +468,7 @@
 @@||mkto-ab540186.com^
 @@||mkto-ab550168.com^
 @@||mkto-ab560068.com^
+@@||mkto-ab560171.com^
 @@||mkto-ab570013.com^
 @@||mkto-ab570110.com^
 @@||mkto-ab570148.com^
@@ -481,6 +479,7 @@
 @@||mkto-ab690180.com^
 @@||mkto-abj0022.com^
 @@||mkto-abm0229.com^
+@@||mkto-cs0007.com^
 @@||mkto-d0097.com^
 @@||mkto-d0170.com^
 @@||mkto-f0054.com^
@@ -504,7 +503,6 @@
 @@||mkto-sj070214.com^
 @@||mkto-sj070259.com^
 @@||mkto-sj090132.com^
-@@||mkto-sj100138.com^
 @@||mkto-sj140146.com^
 @@||mkto-sj160210.com^
 @@||mkto-sj180011.com^
@@ -515,10 +513,12 @@
 @@||mkto-sj240021.com^
 @@||mkto-sj270080.com^
 @@||mkto-sj310061.com^
+@@||mkto-sj310186.com^
 @@||mkto-sj320047.com^
 @@||mkto-sj330006.com^
 @@||mkto-sj360142.com^
 @@||mkto-sj370181.com^
+@@||mkto-test.com^
 @@||mktoweb.com^
 @@||mkto-lp.mlinc.com^
 @@||click.mlsend.com^
@@ -618,9 +618,9 @@
 @@||r5waxhbbb.cc.rs6.net^
 @@||r6lccqnab.cc.rs6.net^
 @@||r7avxrcab.cc.rs6.net^
-@@||rdr9bzpab.cc.rs6.net^
+@@||r88lcbcab.cc.rs6.net^
+@@||rapki9kab.cc.rs6.net^
 @@||rgkkzvdab.cc.rs6.net^
-@@||rismehabb.cc.rs6.net^
 @@||rjpz4ucab.cc.rs6.net^
 @@||rpxfhbhbb.cc.rs6.net^
 @@||rq6agxabb.cc.rs6.net^

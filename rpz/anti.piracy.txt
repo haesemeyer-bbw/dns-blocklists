@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1741969680 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1741998600 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 14 Mar 2025 16:28 UTC
-; Version: 2025.0314.1628.26
+; Last modified: 15 Mar 2025 00:30 UTC
+; Version: 2025.0315.0030.38
 ; Syntax: RPZ
-; Number of entries: 19404
+; Number of entries: 19406
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -3773,8 +3773,6 @@ filelisting.com CNAME .
 *.filelisting.com CNAME .
 tracker.filemail.com CNAME .
 *.tracker.filemail.com CNAME .
-filepapa.com CNAME .
-*.filepapa.com CNAME .
 filerio.com CNAME .
 *.filerio.com CNAME .
 filesharingtalk.com CNAME .
@@ -11761,6 +11759,8 @@ gamesdrive.net CNAME .
 *.gamesdrive.net CNAME .
 gameslay.net CNAME .
 *.gameslay.net CNAME .
+gamezlinks.net CNAME .
+*.gamezlinks.net CNAME .
 gay-torrents.net CNAME .
 *.gay-torrents.net CNAME .
 gazellegames.net CNAME .
@@ -13663,8 +13663,6 @@ crackdb.org CNAME .
 *.crackdb.org CNAME .
 cracked-games.org CNAME .
 *.cracked-games.org CNAME .
-crackedpc.org CNAME .
-*.crackedpc.org CNAME .
 crackhash.org CNAME .
 *.crackhash.org CNAME .
 crackzplanet.org CNAME .
@@ -17473,8 +17471,12 @@ tracker.gcrenwp.top CNAME .
 *.tracker.gcrenwp.top CNAME .
 sparkle.ghostchu-services.top CNAME .
 *.sparkle.ghostchu-services.top CNAME .
+tracker.ghostchu-services.top CNAME .
+*.tracker.ghostchu-services.top CNAME .
 trunker.ghostchu-services.top CNAME .
 *.trunker.ghostchu-services.top CNAME .
+utracker.ghostchu-services.top CNAME .
+*.utracker.ghostchu-services.top CNAME .
 haikyuu.top CNAME .
 *.haikyuu.top CNAME .
 hdfilme.top CNAME .

@@ -207,6 +207,8 @@ ap-east-1.prod.telemetry.console.api.aws
 cell-0.ap-east-1.prod.telemetry.console.api.aws
 ap-northeast-1.prod.telemetry.console.api.aws
 cell-0.ap-northeast-1.prod.telemetry.console.api.aws
+ap-northeast-2.prod.telemetry.console.api.aws
+cell-0.ap-northeast-2.prod.telemetry.console.api.aws
 ap-south-1.prod.telemetry.console.api.aws
 cell-0.ap-south-1.prod.telemetry.console.api.aws
 ap-southeast-1.prod.telemetry.console.api.aws
@@ -433,7 +435,6 @@ filebroker-cdn.lazada.com.my.9d2b5122.cdnhwcchh18.com
 filebroker-cdn.lazada.com.ph.9d2b5122.cdnhwcchh18.com
 filebroker-cdn.lazada.sg.9d2b5122.cdnhwcchh18.com
 filebroker-cdn.lazada.co.th.9d2b5122.cdnhwcchh18.com
-filebroker-cdn.lazada.vn.9d2b5122.cdnhwcchh18.com
 cdnhwcick110.com
 platform.cdninstagram.com
 cdntips.net
@@ -513,11 +514,13 @@ data.cnn.com
 vod.cnnindonesia.com
 cnstrc.com
 accesstrade.co.id
+ad.accesstrade.co.id
 click.accesstrade.co.id
-script.accesstrade.co.id
+db.accesstrade.co.id
 appx.transient.amazon.co.uk
 ati-a1.946d001b783803c1.xhst.bbci.co.uk
 bobcard.co.in
+prodigy.clarity.co.uk
 dmgmediaprivacy.co.uk
 cmp.dmgmediaprivacy.co.uk
 backstory.ebay.co.uk
@@ -591,6 +594,8 @@ connect.telstrawholesale.com.au
 data.crm-edm.thsrc.com.tw
 ipcheck.tmgrup.com.tr
 uedas.com.tr
+uedaspwire.uedas.com.tr
+www.uedas.com.tr
 widget.yenimedya.com.tr
 comagic.ru
 vue.comm100.com
@@ -1110,7 +1115,6 @@ mdp-appconf-jo.heytapdl.com
 mdp-appconf-jp.heytapdl.com
 mdp-appconf-ke.heytapdl.com
 mdp-appconf-kh.heytapdl.com
-mdp-appconf-kw.heytapdl.com
 mdp-appconf-kz.heytapdl.com
 mdp-appconf-la.heytapdl.com
 mdp-appconf-latam.heytapdl.com
@@ -1127,7 +1131,6 @@ mdp-appconf-nl.heytapdl.com
 mdp-appconf-np.heytapdl.com
 mdp-appconf-nz.heytapdl.com
 mdp-appconf-oca.heytapdl.com
-mdp-appconf-om.heytapdl.com
 mdp-appconf-other.heytapdl.com
 mdp-appconf-per.heytapdl.com
 mdp-appconf-ph.heytapdl.com
@@ -1192,7 +1195,6 @@ www.hxtrack.com
 hyperdx.io
 iadvize.com
 lc.iadvize.com
-icanhazip.com
 ka.images.icas.io
 tracking.icims.com
 analytics.icis.com
@@ -1907,8 +1909,10 @@ telemetry.uk-london-1.oraclecloud.com
 telemetry.us-ashburn-1.oraclecloud.com
 telemetry.us-chicago-1.oraclecloud.com
 telemetry.us-phoenix-1.oraclecloud.com
+static.ordergroove.com
 orderonline.id
 invitation.cantonfair.org.cn
+forbes.org.za
 heartbeat.dm.origin.com
 cmp.osano.com
 locale.cmp.osano.com
@@ -2486,6 +2490,7 @@ widget-v4.tidiochat.com
 tifbs.net
 uim.tifbs.net
 tiiny.site
+login.tiktok.com
 login-no1a.www.tiktok.com
 api-boot.tiktokv.com
 api-core-boot.tiktokv.com

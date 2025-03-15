@@ -4,8 +4,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 08 Mar 2025 00:35 UTC
-# Version: 2025.0308.0035.26
+# Last modified: 15 Mar 2025 01:15 UTC
+# Version: 2025.0315.0115.00
 # Syntax: Domains Wildcard (without subdomains)
 # Number of entries: 363
 #
@@ -26,7 +26,6 @@
 *.mcs-tiktok.byteoversea.net
 *.mon.byteoversea.com
 *.mon-csj-maliva-ios.byteoversea.com
-*.mon-sg.byteoversea.com
 *.mon-va.byteoversea.com
 *.mon-va-useast2a.byteoversea.com
 *.mssdk-sg.byteoversea.com
@@ -86,6 +85,7 @@
 *.ads.tiktok.tv
 *.ads-api.tiktok.com
 *.ads-frontier.tiktok.com
+*.ads-service.tiktok.com
 *.ads-sg.tiktok.com
 *.analytics.tiktok.com
 *.analytics-attribution.tiktok.com
@@ -126,6 +126,7 @@
 *.ad-instantpage-va.tiktokv.com
 *.frontier.tiktokv.com
 *.frontier.tiktokv.us
+*.live-video-log16-normal-alisg.tiktokv.com
 *.location.tiktokv.com
 *.location-i18n.tiktokv.com
 *.location-sg.tiktokv.com
@@ -362,7 +363,6 @@
 *.ads-ie.tiktokw.eu
 *.ads-ttp2.tiktokw.eu
 *.analytics-ie.tiktokw.eu
-*.analytics-ipv6.tiktokw.us
 *.analytics-ttp2.tiktokw.eu
 *.location.tiktokw.us
 *.mcs.tiktokw.us
