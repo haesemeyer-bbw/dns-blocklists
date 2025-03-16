@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1742083680 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1742126940 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -8,8 +8,8 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 16 Mar 2025 00:08 UTC
-; Version: 2025.0316.0008.57
+; Last modified: 16 Mar 2025 12:09 UTC
+; Version: 2025.0316.1209.23
 ; Syntax: RPZ
 ; Number of entries: 4372
 ;
@@ -229,8 +229,6 @@ freehoster.ch CNAME .
 *.freehoster.ch CNAME .
 populus.ch CNAME .
 *.populus.ch CNAME .
-square7.ch CNAME .
-*.square7.ch CNAME .
 arien.cl CNAME .
 *.arien.cl CNAME .
 blogspot.cl CNAME .
@@ -3129,6 +3127,8 @@ world.mu CNAME .
 *.world.mu CNAME .
 blogspot.mx CNAME .
 *.blogspot.mx CNAME .
+cableonline.com.mx CNAME .
+*.cableonline.com.mx CNAME .
 tripod.com.mx CNAME .
 *.tripod.com.mx CNAME .
 webnode.mx CNAME .

@@ -4446,6 +4446,13 @@
       }
     },
     {
+      "PK": "cableonline.com.mx",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "cafeblog.hu",
       "action": {
         "do": 0,
@@ -12399,13 +12406,6 @@
     },
     {
       "PK": "spruz.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "square7.ch",
       "action": {
         "do": 0,
         "status": 1
