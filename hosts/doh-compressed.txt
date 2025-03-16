@@ -5,8 +5,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 14 Mar 2025 16:32 UTC
-# Version: 2025.0314.1632.41
+# Last modified: 16 Mar 2025 04:25 UTC
+# Version: 2025.0316.0425.41
 # Syntax: Hosts compressed (9 per line, including possible subdomains)
 # Number of entries: 183
 #
@@ -28,24 +28,24 @@
 0.0.0.0 mask-api.fe2.apple-dns.net mask.apple-dns.net apple-relay.mask.apple-dns.net canary.mask.apple-dns.net africa-mask.wrr.mask.apple-dns.net apac-mask.wrr.mask.apple-dns.net emea-mask.wrr.mask.apple-dns.net north-america-mask.wrr.mask.apple-dns.net south-america-mask.wrr.mask.apple-dns.net
 0.0.0.0 dns.applewebkit.dev doh.applied-privacy.net dot1.applied-privacy.net doh.appliedprivacy.net dot1.appliedprivacy.net dns.aquilenet.fr doh.archuser.org dns.ares-taiwan.com dns.arkbotech.com
 0.0.0.0 nsec.arnor.org dns.artikel10.org doh.asagiri.moe dns.ashleyjackson.net dns.asterimoon.com dandelionsprout.asuscomm.com dns.asysec.com adguardhome.atakorah.com atris.cyou
-0.0.0.0 dohtrial.att.net africa.avastdns.com secure.avastdns.com adguard.avdkishore.dev doh.azoris.ovh dns.azsopro.net doh1.b-cdn.net doh2.b-cdn.net dns.b33.space
-0.0.0.0 dns.b612.me dns.b72.com dns.baishiyuan.cn fr-dns1.bancuh.com jp-dns1.bancuh.com sg-dns1.bancuh.com doh.battle.christmas bazooki-infra.dev dns.beardic.cn
-0.0.0.0 antivirus.bebasid.com dns.bebasid.com internetsehat.bebasid.com justhost.bedro.cloud dns.belnet.be dns.bermeitinger.eu bestwon203.com ns3.bit-trail.nl dns.bitdefender.net
-0.0.0.0 fra-dns.bitdefender.net iow-dns.bitdefender.net nvi-dns.bitdefender.net ore-dns.bitdefender.net tky-dns.bitdefender.net dns.bitservices.io dns-tls.bitwiseshift.net 2.dnscrypt-cert.blahdns.com doh.blahdns.com
-0.0.0.0 doh-ch.blahdns.com doh-de.blahdns.com doh-fi.blahdns.com doh-jp.blahdns.com doh-sg.blahdns.com doh1.blahdns.com doh2.blahdns.com dot-ch.blahdns.com dot-de.blahdns.com
-0.0.0.0 dot-fi.blahdns.com dot-jp.blahdns.com dot-sg.blahdns.com dns.blaumer.dev us1.blissdns.net doh.blockerdns.com example.doh.blockerdns.com adguard.blogssl.com dns.blokada.org
-0.0.0.0 rfree1.blue-shield.at rfree2.blue-shield.at bluemood.me dns.bmwhocking.com dns.bobstrecansky.com d.bod.lol dns.bofh.in doh.boje8.me adguard.bonis.de
-0.0.0.0 adguard.bonsirven.eu doh.bortzmeyer.fr cloudns.bosco.ovh dns.braene.com dns.brahma.world bravedns.com basic.bravedns.com free.bravedns.com dns.brembeck.cloud
-0.0.0.0 dns.brono.cloud doh.bt.com goose.buckyfan.net stratus.bugz.fr dns.burgas.pro dns.busold.ws dns.butterfly87.sbs c-dns.com www.c-dns.com
-0.0.0.0 dns.cabbage.zone dns.cahlen.com callies-online.site 2.dnscrypt-cert.captnemo.in doh.captnemo.in dns.carson-family.com dns.caspervk.net catchen121299.top catdns.org
-0.0.0.0 alidns.cb1999.top alidns2.cb1999.top dns2.cbio.top doh.ccb-net.it dns.cctld.kg anycast.censurfridns.dk deic-lgb.anycast.censurfridns.dk deic-ore.anycast.censurfridns.dk rgnet-iad.anycast.censurfridns.dk
-0.0.0.0 unicast.censurfridns.dk dns.cert.ee cfdjb.org ibuki.cgnat.net dns.chadeyron.fr chaos-system.de dns.charraud.eu dns.chenu.ch dns.chilimac.net
-0.0.0.0 dns.christerwaren.fi dns.christian.moe dns.chriswservers.com dns.chromeina.top dns.chunghwamc.com oraclejp2.chungyu.com c.cicitt.ch doh.cippapp.com canadianshield.cira.ca
-0.0.0.0 family.canadianshield.cira.ca private.canadianshield.cira.ca protected.canadianshield.cira.ca dns.circl.lu dns.clanless.ovh dns.clanto.cloud cleanbrowsing.org adult-filter-dns.cleanbrowsing.org doh.cleanbrowsing.org
-0.0.0.0 family-filter-dns.cleanbrowsing.org security-filter-dns.cleanbrowsing.org cloudbenders.fun apple-relay.cloudfare.com dns.cloudfiction.eu apple-relay.cloudflare.com dns.233py.com.cdn.cloudflare.net dns.cloudflare.com cloudflare-dns.com
-0.0.0.0 1dot1dot1dot1.cloudflare-dns.com chrome.cloudflare-dns.com dns64.cloudflare-dns.com dooh.cloudflare-dns.com family.cloudflare-dns.com mozilla.cloudflare-dns.com odoh.cloudflare-dns.com opera.cloudflare-dns.com security.cloudflare-dns.com
-0.0.0.0 tor.cloudflare-dns.com cloudflare-gateway.com api.cloudflareclient.com cloudflareresolve.com voyage-s01.cloudku.technology adguard.cloudmini.net dns-fr-psv1.cloudsides.com dns.cloudtrust.solutions ca.doh.cloudveil.org
-0.0.0.0 us.doh.cloudveil.org dns.cmrg.net doh.cnetwork.cloud pihole.datamatter.co.za dns.gayanalysing.co.uk dns.gi.co.id ag.hostme.co.il dns.neilzone.co.uk ns.nerdytechgeeks.co.za
+0.0.0.0 dohtrial.att.net dns.auapi.fun africa.avastdns.com secure.avastdns.com adguard.avdkishore.dev doh.azoris.ovh dns.azsopro.net doh1.b-cdn.net doh2.b-cdn.net
+0.0.0.0 dns.b33.space dns.b612.me dns.b72.com dns.baishiyuan.cn fr-dns1.bancuh.com jp-dns1.bancuh.com sg-dns1.bancuh.com doh.battle.christmas bazooki-infra.dev
+0.0.0.0 dns.beardic.cn antivirus.bebasid.com dns.bebasid.com internetsehat.bebasid.com justhost.bedro.cloud dns.belnet.be dns.bermeitinger.eu bestwon203.com ns3.bit-trail.nl
+0.0.0.0 dns.bitdefender.net fra-dns.bitdefender.net iow-dns.bitdefender.net nvi-dns.bitdefender.net ore-dns.bitdefender.net tky-dns.bitdefender.net dns.bitservices.io dns-tls.bitwiseshift.net 2.dnscrypt-cert.blahdns.com
+0.0.0.0 doh.blahdns.com doh-ch.blahdns.com doh-de.blahdns.com doh-fi.blahdns.com doh-jp.blahdns.com doh-sg.blahdns.com doh1.blahdns.com doh2.blahdns.com dot-ch.blahdns.com
+0.0.0.0 dot-de.blahdns.com dot-fi.blahdns.com dot-jp.blahdns.com dot-sg.blahdns.com dns.blaumer.dev us1.blissdns.net doh.blockerdns.com example.doh.blockerdns.com adguard.blogssl.com
+0.0.0.0 dns.blokada.org rfree1.blue-shield.at rfree2.blue-shield.at bluemood.me dns.bmwhocking.com dns.bobstrecansky.com d.bod.lol dns.bofh.in doh.boje8.me
+0.0.0.0 adguard.bonis.de adguard.bonsirven.eu doh.bortzmeyer.fr cloudns.bosco.ovh dns.braene.com dns.brahma.world bravedns.com basic.bravedns.com free.bravedns.com
+0.0.0.0 dns.brembeck.cloud dns.brono.cloud doh.bt.com goose.buckyfan.net stratus.bugz.fr dns.burgas.pro dns.busold.ws dns.butterfly87.sbs c-dns.com
+0.0.0.0 www.c-dns.com dns.cabbage.zone dns.cahlen.com callies-online.site 2.dnscrypt-cert.captnemo.in doh.captnemo.in dns.carson-family.com dns.caspervk.net catchen121299.top
+0.0.0.0 catdns.org alidns.cb1999.top alidns2.cb1999.top dns2.cbio.top doh.ccb-net.it dns.cctld.kg anycast.censurfridns.dk deic-lgb.anycast.censurfridns.dk deic-ore.anycast.censurfridns.dk
+0.0.0.0 rgnet-iad.anycast.censurfridns.dk unicast.censurfridns.dk dns.cert.ee cfdjb.org ibuki.cgnat.net dns.chadeyron.fr chaos-system.de dns.charraud.eu dns.chenu.ch
+0.0.0.0 dns.chilimac.net dns.christerwaren.fi dns.christian.moe dns.chriswservers.com dns.chromeina.top dns.chunghwamc.com oraclejp2.chungyu.com c.cicitt.ch doh.cippapp.com
+0.0.0.0 canadianshield.cira.ca family.canadianshield.cira.ca private.canadianshield.cira.ca protected.canadianshield.cira.ca dns.circl.lu dns.clanless.ovh dns.clanto.cloud cleanbrowsing.org adult-filter-dns.cleanbrowsing.org
+0.0.0.0 doh.cleanbrowsing.org family-filter-dns.cleanbrowsing.org security-filter-dns.cleanbrowsing.org cloudbenders.fun apple-relay.cloudfare.com dns.cloudfiction.eu apple-relay.cloudflare.com dns.233py.com.cdn.cloudflare.net dns.cloudflare.com
+0.0.0.0 cloudflare-dns.com 1dot1dot1dot1.cloudflare-dns.com chrome.cloudflare-dns.com dns64.cloudflare-dns.com dooh.cloudflare-dns.com family.cloudflare-dns.com mozilla.cloudflare-dns.com odoh.cloudflare-dns.com opera.cloudflare-dns.com
+0.0.0.0 security.cloudflare-dns.com tor.cloudflare-dns.com cloudflare-gateway.com api.cloudflareclient.com cloudflareresolve.com voyage-s01.cloudku.technology adguard.cloudmini.net dns-fr-psv1.cloudsides.com dns.cloudtrust.solutions
+0.0.0.0 ca.doh.cloudveil.org us.doh.cloudveil.org dns.cmrg.net pihole.datamatter.co.za dns.gayanalysing.co.uk dns.gi.co.id ag.hostme.co.il dns.neilzone.co.uk ns.nerdytechgeeks.co.za
 0.0.0.0 dns.oliviertv.co.za pooblet.co.za sbdns.co.in dns.spil.co.id agh.workfordemo.co.in dns.coderoria.com jpdns.cola16.app dns.colorfreedom.org dns.7sec.com.br
 0.0.0.0 dns.ceai.com.tw dns.cloud88.com.au adguard.frutuozo.com.br adguard.gbrossi.com.br dns.joaofidelix.com.br dns.netraptor.com.au dns.weixin.qq.com.cn dns.redhosting.com.ar doh.viatech.com.tw
 0.0.0.0 dns.comff.net commons.host comss.one comss.ru dns.comss.one dns.east.comss.one dns1.conne.net dns.connect.fail dns.controld.com

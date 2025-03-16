@@ -5,8 +5,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 14 Mar 2025 16:32 UTC
-# Version: 2025.0314.1632.41
+# Last modified: 16 Mar 2025 04:25 UTC
+# Version: 2025.0316.0425.41
 # Syntax: Hosts (including possible subdomains)
 # Number of entries: 1640
 #
@@ -173,6 +173,7 @@
 0.0.0.0 adguardhome.atakorah.com
 0.0.0.0 atris.cyou
 0.0.0.0 dohtrial.att.net
+0.0.0.0 dns.auapi.fun
 0.0.0.0 africa.avastdns.com
 0.0.0.0 secure.avastdns.com
 0.0.0.0 adguard.avdkishore.dev
@@ -327,7 +328,6 @@
 0.0.0.0 ca.doh.cloudveil.org
 0.0.0.0 us.doh.cloudveil.org
 0.0.0.0 dns.cmrg.net
-0.0.0.0 doh.cnetwork.cloud
 0.0.0.0 pihole.datamatter.co.za
 0.0.0.0 dns.gayanalysing.co.uk
 0.0.0.0 dns.gi.co.id

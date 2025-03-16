@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1741998600 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1742098920 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 15 Mar 2025 00:30 UTC
-; Version: 2025.0315.0030.38
+; Last modified: 16 Mar 2025 04:22 UTC
+; Version: 2025.0316.0422.45
 ; Syntax: RPZ
-; Number of entries: 19406
+; Number of entries: 19442
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -539,6 +539,8 @@ streamingcommunity.bike CNAME .
 *.streamingcommunity.bike CNAME .
 123movies.bio CNAME .
 *.123movies.bio CNAME .
+altadefinizione.bio CNAME .
+*.altadefinizione.bio CNAME .
 eurostreaming.bio CNAME .
 *.eurostreaming.bio CNAME .
 filmoflix.bio CNAME .
@@ -719,6 +721,8 @@ guardaserie.bond CNAME .
 *.guardaserie.bond CNAME .
 mrunblock.bond CNAME .
 *.mrunblock.bond CNAME .
+altadefinizione01.boo CNAME .
+*.altadefinizione01.boo CNAME .
 cineblog01.boo CNAME .
 *.cineblog01.boo CNAME .
 eurostreaming.boo CNAME .
@@ -1495,6 +1499,8 @@ cb01.clothing CNAME .
 *.5movies.cloud CNAME .
 altadefinizione01.cloud CNAME .
 *.altadefinizione01.cloud CNAME .
+audiobooks.cloud CNAME .
+*.audiobooks.cloud CNAME .
 bedro.cloud CNAME .
 *.bedro.cloud CNAME .
 cineblog01.cloud CNAME .
@@ -1531,6 +1537,10 @@ thouvenin.cloud CNAME .
 *.thouvenin.cloud CNAME .
 upvid.cloud CNAME .
 *.upvid.cloud CNAME .
+123files.club CNAME .
+*.123files.club CNAME .
+123netflix.club CNAME .
+*.123netflix.club CNAME .
 agentfilm.club CNAME .
 *.agentfilm.club CNAME .
 altadefinizione.club CNAME .
@@ -2693,6 +2703,8 @@ bilibt.com CNAME .
 *.bilibt.com CNAME .
 binarylord.com CNAME .
 *.binarylord.com CNAME .
+bindassdesi.com CNAME .
+*.bindassdesi.com CNAME .
 bingemachine.com CNAME .
 *.bingemachine.com CNAME .
 binimoynet.com CNAME .
@@ -2759,6 +2771,8 @@ blablastream.com CNAME .
 *.blablastream.com CNAME .
 blackbookofim.com CNAME .
 *.blackbookofim.com CNAME .
+blackboxrepack.com CNAME .
+*.blackboxrepack.com CNAME .
 blackboxrepacke.com CNAME .
 *.blackboxrepacke.com CNAME .
 blackcats-games.com CNAME .
@@ -2993,6 +3007,8 @@ btnext.com CNAME .
 *.btnext.com CNAME .
 btscene.com CNAME .
 *.btscene.com CNAME .
+csite.bugs3.com CNAME .
+*.csite.bugs3.com CNAME .
 bulkpeers.com CNAME .
 *.bulkpeers.com CNAME .
 tr.burnabyhighstar.com CNAME .
@@ -3773,6 +3789,8 @@ filelisting.com CNAME .
 *.filelisting.com CNAME .
 tracker.filemail.com CNAME .
 *.tracker.filemail.com CNAME .
+filepapa.com CNAME .
+*.filepapa.com CNAME .
 filerio.com CNAME .
 *.filerio.com CNAME .
 filesharingtalk.com CNAME .
@@ -7437,6 +7455,8 @@ v6-tracker.0g.cx CNAME .
 *.v6-tracker.0g.cx CNAME .
 creative.7o7.cx CNAME .
 *.creative.7o7.cx CNAME .
+allin1.cx CNAME .
+*.allin1.cx CNAME .
 altadefinizione.cx CNAME .
 *.altadefinizione.cx CNAME .
 tracker.animeworld.cx CNAME .
@@ -11167,6 +11187,8 @@ adult-cinema-network.net CNAME .
 *.adult-cinema-network.net CNAME .
 adultsins.net CNAME .
 *.adultsins.net CNAME .
+agcommunication.net CNAME .
+*.agcommunication.net CNAME .
 ahhamovie.net CNAME .
 *.ahhamovie.net CNAME .
 alfafile.net CNAME .
@@ -11331,6 +11353,8 @@ bj-share.net CNAME .
 *.bj-share.net CNAME .
 blackcats-games.net CNAME .
 *.blackcats-games.net CNAME .
+blackhatprotools.net CNAME .
+*.blackhatprotools.net CNAME .
 blacktiesports.net CNAME .
 *.blacktiesports.net CNAME .
 blitzwarez.net CNAME .
@@ -11759,8 +11783,6 @@ gamesdrive.net CNAME .
 *.gamesdrive.net CNAME .
 gameslay.net CNAME .
 *.gameslay.net CNAME .
-gamezlinks.net CNAME .
-*.gamezlinks.net CNAME .
 gay-torrents.net CNAME .
 *.gay-torrents.net CNAME .
 gazellegames.net CNAME .
@@ -13549,6 +13571,8 @@ bitmovie.org CNAME .
 *.bitmovie.org CNAME .
 bitru.org CNAME .
 *.bitru.org CNAME .
+tracker.bittalk.org CNAME .
+*.tracker.bittalk.org CNAME .
 bittorrentfiles.org CNAME .
 *.bittorrentfiles.org CNAME .
 bittown.org CNAME .
@@ -13591,6 +13615,8 @@ bulextorrent.org CNAME .
 *.bulextorrent.org CNAME .
 torrent.burgas.org CNAME .
 *.torrent.burgas.org CNAME .
+butterproject.org CNAME .
+*.butterproject.org CNAME .
 bytelist.org CNAME .
 *.bytelist.org CNAME .
 byxatab.org CNAME .
@@ -13663,6 +13689,8 @@ crackdb.org CNAME .
 *.crackdb.org CNAME .
 cracked-games.org CNAME .
 *.cracked-games.org CNAME .
+crackedpc.org CNAME .
+*.crackedpc.org CNAME .
 crackhash.org CNAME .
 *.crackhash.org CNAME .
 crackzplanet.org CNAME .
@@ -16991,6 +17019,8 @@ bitreactor.to CNAME .
 *.bitreactor.to CNAME .
 bitsearch.to CNAME .
 *.bitsearch.to CNAME .
+blockbuster.to CNAME .
+*.blockbuster.to CNAME .
 boerse.to CNAME .
 *.boerse.to CNAME .
 boxpirates.to CNAME .
@@ -17705,6 +17735,8 @@ bocian.tv CNAME .
 *.bocian.tv CNAME .
 buffstreams.tv CNAME .
 *.buffstreams.tv CNAME .
+bunkr.tv CNAME .
+*.bunkr.tv CNAME .
 tracker.bwtorrents.tv CNAME .
 *.tracker.bwtorrents.tv CNAME .
 cambro.tv CNAME .
@@ -18315,6 +18347,8 @@ vexmovies.uno CNAME .
 *.vexmovies.uno CNAME .
 yomovies.uno CNAME .
 *.yomovies.uno CNAME .
+altadefinizione.us CNAME .
+*.altadefinizione.us CNAME .
 animeland.us CNAME .
 *.animeland.us CNAME .
 appmods.us CNAME .
@@ -18517,6 +18551,8 @@ streamingcommunity.vin CNAME .
 *.streamingcommunity.vin CNAME .
 thepiratebay.vin CNAME .
 *.thepiratebay.vin CNAME .
+altadefinizione.vip CNAME .
+*.altadefinizione.vip CNAME .
 apkmody.vip CNAME .
 *.apkmody.vip CNAME .
 app-valley.vip CNAME .

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1741998360 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1742099220 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 15 Mar 2025 00:26 UTC
-; Version: 2025.0315.0026.40
+; Last modified: 16 Mar 2025 04:27 UTC
+; Version: 2025.0316.0427.05
 ; Syntax: RPZ
-; Number of entries: 7672
+; Number of entries: 7682
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -426,8 +426,6 @@ dns.brono.cloud CNAME .
 *.dns.brono.cloud CNAME .
 dns.clanto.cloud CNAME .
 *.dns.clanto.cloud CNAME .
-doh.cnetwork.cloud CNAME .
-*.doh.cnetwork.cloud CNAME .
 gateway.fomichev.cloud CNAME .
 *.gateway.fomichev.cloud CNAME .
 freevpn.cloud CNAME .
@@ -618,6 +616,8 @@ dns.13evl.com CNAME .
 *.24tunnel.com CNAME .
 28383829.com CNAME .
 *.28383829.com CNAME .
+2a87.com CNAME .
+*.2a87.com CNAME .
 2fastsurfer.com CNAME .
 *.2fastsurfer.com CNAME .
 2proxyweb.com CNAME .
@@ -654,6 +654,8 @@ doh.dns.apple.com.v.aaplimg.com CNAME .
 *.doh.dns.apple.com.v.aaplimg.com CNAME .
 abcproxy.com CNAME .
 *.abcproxy.com CNAME .
+accessmeproxy.com CNAME .
+*.accessmeproxy.com CNAME .
 acdtop.com CNAME .
 *.acdtop.com CNAME .
 aceproxy.com CNAME .
@@ -928,6 +930,8 @@ brightvpn.com CNAME .
 *.brightvpn.com CNAME .
 britishproxy.com CNAME .
 *.britishproxy.com CNAME .
+brothebro.com CNAME .
+*.brothebro.com CNAME .
 browsebridge.com CNAME .
 *.browsebridge.com CNAME .
 browsec.com CNAME .
@@ -3716,6 +3720,8 @@ wez.fr CNAME .
 *.wez.fr CNAME .
 adb-home.xaoimoon.fr CNAME .
 *.adb-home.xaoimoon.fr CNAME .
+dns.auapi.fun CNAME .
+*.dns.auapi.fun CNAME .
 cloudbenders.fun CNAME .
 *.cloudbenders.fun CNAME .
 cynntex.fun CNAME .
@@ -4164,6 +4170,8 @@ anonvpn.io CNAME .
 *.anonvpn.io CNAME .
 anyip.io CNAME .
 *.anyip.io CNAME .
+bdns.io CNAME .
+*.bdns.io CNAME .
 dns.bitservices.io CNAME .
 *.dns.bitservices.io CNAME .
 borderlessvpn.io CNAME .
@@ -7020,6 +7028,8 @@ webproxy.to CNAME .
 *.webproxy.to CNAME .
 readandmath.today CNAME .
 *.readandmath.today CNAME .
+2ub.top CNAME .
+*.2ub.top CNAME .
 adfreedns.top CNAME .
 *.adfreedns.top CNAME .
 catchen121299.top CNAME .
