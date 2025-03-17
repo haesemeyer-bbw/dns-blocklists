@@ -12412,6 +12412,13 @@
       }
     },
     {
+      "PK": "square7.ch",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "srv1.org",
       "action": {
         "do": 0,
