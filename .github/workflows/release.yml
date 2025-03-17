@@ -65,7 +65,7 @@ jobs:
           removeLabel: true
           applyToAll: true
           message: "This issue has been fixed in release [${releaseTag}](${releaseUrl})"
-    needs: [release, purge]
+    needs: release
          
   release-cleanup:
     runs-on: ubuntu-latest
@@ -78,7 +78,7 @@ jobs:
           release-drop-tag: true
         env:
           GITHUB_TOKEN: ${{ github.token }}
-    needs: [release, purge]
+    needs: release
     
   workflow-cleanup:
     runs-on: ubuntu-latest
@@ -90,4 +90,4 @@ jobs:
           repository: ${{ github.repository }}
           retain_days: 1
           keep_minimum_runs: 0
-    needs: [release, purge, close-issues, release-cleanup]
+    needs: [release, close-issues, release-cleanup]
