@@ -1,14 +1,3 @@
-# Title: HaGeZi's TikTok Extended Fingerprinting DNS Blocklist
-# Description: Aggressive verion, may interfere with functionality. Blocks TikTok fingerprinting/tracker that track your activity.
-# Homepage: https://github.com/hagezi/dns-blocklists
-# License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
-# Issues: https://github.com/hagezi/dns-blocklists/issues
-# Expires: 1 day
-# Last modified: 15 Mar 2025 01:15 UTC
-# Version: 2025.0315.0115.00
-# Syntax: Domains (without subdomains)
-# Number of entries: 363
-#
 frontier.byteoversea.com
 gplog-sg.byteoversea.com
 gplog-va.byteoversea.com

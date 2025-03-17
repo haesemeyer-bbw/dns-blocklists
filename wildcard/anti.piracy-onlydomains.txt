@@ -1,14 +1,3 @@
-# Title: HaGeZi's Anti-Piracy DNS Blocklist
-# Description: Blocks websites and services that are mainly used for illegal distribution of copyrighted content.
-# Homepage: https://github.com/hagezi/dns-blocklists
-# License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
-# Issues: https://github.com/hagezi/dns-blocklists/issues
-# Expires: 1 day
-# Last modified: 17 Mar 2025 04:23 UTC
-# Version: 2025.0317.0423.08
-# Syntax: Domains (without subdomains)
-# Number of entries: 9782
-#
 0123456789nonexistent.com
 0123movie.net
 0123movie.onl

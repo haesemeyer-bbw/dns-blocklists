@@ -1,14 +1,3 @@
-# Title: HaGeZi's DynDNS Blocklist
-# Description: Blocks dynamic DNS services to protect against malicious use in phishing campaigns and others.
-# Homepage: https://github.com/hagezi/dns-blocklists
-# License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
-# Issues: https://github.com/hagezi/dns-blocklists/issues
-# Expires: 1 day
-# Last modified: 17 Mar 2025 04:24 UTC
-# Version: 2025.0317.0424.53
-# Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1400
-#
 *.0000000000000000000000.com
 *.0rg.us
 *.0x.no
